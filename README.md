@@ -425,21 +425,21 @@ Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYO
 
 ## 📚 CURSO DE C:
 
-Curso de  C 1: https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
-Curso de  C 2: https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2 <br>
-Curso de  C 3: https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR <br>
-Curso de  C 4: https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A <br>
-Curso de  C 5: https://www.youtube.com/playlist?list=PL78280D6BE6F05D34 <br>
-Curso de  C 6: https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW <br>
-Curso de  C 7: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
-Curso de  C 8: https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8 <br>
-Curso de  C 9: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp <br>
-Curso de  C 10: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R <br>
-Curso de  C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE <br>
-Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
-Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
-Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
-Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
+🔖 Curso de  C 1: https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
+🔖 Curso de  C 2: https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2 <br>
+🔖 Curso de  C 3: https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR <br>
+🔖 Curso de  C 4: https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A <br>
+🔖 Curso de  C 5: https://www.youtube.com/playlist?list=PL78280D6BE6F05D34 <br>
+🔖 Curso de  C 6: https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW <br>
+🔖 Curso de  C 7: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
+🔖 Curso de  C 8: https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8 <br>
+🔖 Curso de  C 9: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp <br>
+🔖 Curso de  C 10: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R <br>
+🔖 Curso de  C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE <br>
+🔖 Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
+🔖 Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
+🔖 Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
+🔖 Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
 
 ## 📚 CURSO C++
 
@@ -530,8 +530,8 @@ Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTO
 
 ## 📚 GIT E GITHUB:
 
-https://github.com/DanielHe4rt/git4noobs <br>
-https://github.com/theandersonn/comandos-git <br>
+🔖 https://github.com/DanielHe4rt/git4noobs <br>
+🔖 https://github.com/theandersonn/comandos-git <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
