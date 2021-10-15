@@ -685,77 +685,77 @@ https://goo.gl/xFDOxT
 ## 📚 GIT E GITHUB:
 
 https://github.com/DanielHe4rt/git4noobs <br>
-https://github.com/theandersonn/comandos-git
+https://github.com/theandersonn/comandos-git <br>
 
-ls (Listar as pastas)
-cd .. (voltar um diretório)
-CD: 
-dir / tree /f (ver o que tem dentro da pasta)
-mkdir (nome da pasta) - criar novoso diretorios/pastas
-git status (Verifica o status do repositório)
-git add -A  (Trackear o que não foi trackeado, inserir tudo)
-git commit -m (Para commitar) / git commit -am 
-https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m
-git log (lista de commit)
-git reset (--soft / --mixed / --hard)
-git checkout (Trocar entre branchs)
-git diff (Checar o que houve nas alterações) / git diff --name-only / git diff //nome do arquivo// (vê apenas a alteração feita naquele arquivo)
-git checkout HEAD -- "diff" //nome do arquivo// (retroceder até a posição)
-git push origin <link>
-git pull origin <link>
-git clone <link>
+ls (Listar as pastas) <br>
+cd .. (voltar um diretório) <br>
+CD:  <br>
+dir / tree /f (ver o que tem dentro da pasta) <br>
+mkdir (nome da pasta) - criar novoso diretorios/pastas <br>
+git status (Verifica o status do repositório) <br>
+git add -A  (Trackear o que não foi trackeado, inserir tudo) <br>
+git commit -m (Para commitar) / git commit -am  <br>
+https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m <br>
+git log (lista de commit) <br>
+git reset (--soft / --mixed / --hard) <br>
+git checkout (Trocar entre branchs) <br>
+git diff (Checar o que houve nas alterações) / git diff --name-only / git diff //nome do arquivo// (vê apenas a alteração feita naquele arquivo) <br>
+git checkout HEAD -- "diff" //nome do arquivo// (retroceder até a posição) <br>
+git push origin <link> <br>
+git pull origin <link> <br>
+git clone <link> <br>
 
-Configurações iniciais do Git
+Configurações iniciais do Git <br>
 
-Baixando e instalando o Git
-https://git-scm.com/downloads
+Baixando e instalando o Git <br>
+https://git-scm.com/downloads <br>
 
-Configura nome de usuário:
-git config --global user.email email@email.com.br
+Configura nome de usuário: <br>
+git config --global user.email email@email.com.br <br>
 
-Configura email de usuário
-git config --global user.email email@email.com.br
+Configura email de usuário <br>
+git config --global user.email email@email.com.br <br>
 
-Inicializando um repositório
+Inicializando um repositório <br>
 
-Inicializa o versionamento no respectivo diretório
-git init
+Inicializa o versionamento no respectivo diretório <br>
+git init <br>
 
-Comandos básicos para sobreviver
+Comandos básicos para sobreviver <br>
 
-Verifica o status do repositório
-git status
+Verifica o status do repositório <br>
+git status <br>
 
-Adiciona todos os arquivos para serem commitados
-git add . / git add -A 
+Adiciona todos os arquivos para serem commitados <br>
+git add . / git add -A  <br>
 
 Commitando arquivos
-git commit -m "inserir um comentário significativo"
+git commit -m "inserir um comentário significativo" <br>
 
-Visualizando relatório de commits
-git log // todos os commits
-git log --oneline // exibe log com hash e título do commit
+Visualizando relatório de commits <br>
+git log // todos os commits <br>
+git log --oneline // exibe log com hash e título do commit <br>
 
-Adicionando um repositório remoto
-git remote add origin https://github.com/User/Repository.git
+Adicionando um repositório remoto <br>
+git remote add origin https://github.com/User/Repository.git <br>
 
-Enviando as modificações para o repositório remoto
-git push origin <branch>
+Enviando as modificações para o repositório remoto <br>
+git push origin <branch> <br>
 
-Puxando alterações do repositório remoto
-git pull origin <branch>
+Puxando alterações do repositório remoto <br>
+git pull origin <branch> <br>
 
-Trabalhando com branchs
-git checkout -b nome-branch 
+Trabalhando com branchs <br>
+git checkout -b nome-branch  <br>
 
-Aplicando merge em branchs
-git merge nome-branch // precisa estar na branch de destino
+Aplicando merge em branchs <br>
+git merge nome-branch // precisa estar na branch de destino <br>
 
-Visualizando todas as branches existentes no repositório
-git branch
+Visualizando todas as branches existentes no repositório <br>
+git branch <br>
 
-Deletando uma branch local
-git branch -D nome-branch
+Deletando uma branch local <br>
+git branch -D nome-branch <br>
 
-Deletando uma branch remoto
-git push origin :nome-branch
+Deletando uma branch remoto <br>
+git push origin :nome-branch <br>
