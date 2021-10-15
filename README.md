@@ -445,7 +445,7 @@ Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTO
 
 🔖 Curso de  C++ 1: https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40 <br>
 🔖 Curso de C++ 2: https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5 <br>
-🔖 Guia de C++:https://www.inf.ufpr.br/ci208/NotasAula.pdf <br>
+🔖 Guia de C++ 3:https://www.inf.ufpr.br/ci208/NotasAula.pdf <br>
 
 
 ## 📚 CURSO DE KOTLIN:
@@ -472,54 +472,40 @@ Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTO
 
 ## 📚 CURSO DE SWIFT:
 
-🔖 Curso de Swift 1: https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-
-
-🔖 Curso de Swift 2: https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC
-
-🔖 Curso de Swift 2: https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm
+🔖 Curso de Swift 1: https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP- <br>
+🔖 Curso de Swift 2: https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC <br>
+🔖 Curso de Swift 2: https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm <br>
 
 ## 📚 CURSO DE GO (GOLANG):
 
 🔖 Curso de GO: https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
-https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 ## 📚 CURSO DE RUBY:
 
-Curso de Ruby (15 aulas)
-https://goo.gl/LcHcn4
-Curso de Ruby On Rails (49 aulas)
-https://goo.gl/4oXEAP
-
-Introdução ao Ruby
-https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ
-
-Curso de Ruby
-https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV
-
-Curso de Ruby On-Rails
-https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP
-
-Curso de Ruby On-Rails
-https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0
+🔖 Introdução ao Ruby On-Rails: https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ  <br>
+🔖 Curso de Ruby On-Rails 1: https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV <br>
+🔖 Curso de Ruby On-Rails 2: https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP <br>
+🔖 Curso de Ruby On-Rails 3: https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0 <br>
+🔖 Curso de Ruby On-Rails (15 aulas): https://goo.gl/LcHcn4 <br>
+🔖 Curso de Ruby On Rails (49 aulas): https://goo.gl/4oXEAP <br>
 
 ## 📚 CURSO DE REACT:
 
-Curso de react js:
-https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1
-
-https://www.alura.com.br/imersao-react/aula01-react-alurakut
-
-https://www.youtube.com/watch?v=sZ0bZGfg_m4
-
-https://www.youtube.com/watch?v=JZQ8m08cbF0
+Curso de React.js 1: https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1 <br>
+Curso de React.js 2: https://www.alura.com.br/imersao-react/aula01-react-alurakut <br>
+Curso de React.js 3: https://www.youtube.com/watch?v=sZ0bZGfg_m4 <br>
+Curso de React.js 4: https://www.youtube.com/watch?v=JZQ8m08cbF0 <br>
 
 ## 📚 CURSO DE ANGULAR:
 
-Curso de Angular (17 aulas)
-https://goo.gl/6rT9ZC
-
-Curso de Angular 2 (56 aulas)
-https://goo.gl/mxPqRt
+Curso de Angular 1: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+Curso de Angular 2: https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3
+Curso de Angular 3: https://www.youtube.com/playlist?list=PLHlHvK2lnJneQPfbOvUait1MtAoXeYhtL
+Curso de Angular 4: https://www.youtube.com/playlist?list=PL4iwH9RF8xHnMnKewOLjDvTHzTmyxJNHF
+Curso de Angular 5: https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q
+Curso de Angular 6: https://www.youtube.com/playlist?list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI
+Curso de Angular (17 aulas): https://goo.gl/6rT9ZC
+Curso de Angular 2 (56 aulas): https://goo.gl/mxPqRt
 
 Playlist:
 
