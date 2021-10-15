@@ -372,33 +372,17 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s <br>
 🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5:https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ <br>
 🔖 Rocketseat HTML: https://app.rocketseat.com.br/node/o-guia-estelar-de-html <br>
+🔖 HTML 5 Curso 1: https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c <br>
+🔖 HTML 5 Curso 2: https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o <br>
+🔖 Curso Completo de HTML5 (42 aulas): https://goo.gl/SD4p4g: 
+🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ
 
-
-
-Parte1
-https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
-
-Parte2
-https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s <br>
-
-HTML 5
-Curso HTML 5
-
-https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c <br>
-
-Curso HTML 5
-https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o <br>
 
 CSS3
 
-Curso de CSS3
-https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG
+Curso de CSS3 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG <br>
 
-Curso de CSS3
-https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV
-
-Curso Completo de HTML5 (42 aulas)
-https://goo.gl/SD4p4g
+Curso de CSS3 2: https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV
 
 Curso Aprenda HTML em 1 hora (22 aulas)
 https://goo.gl/1kfBCZ
