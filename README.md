@@ -491,50 +491,42 @@ Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTO
 
 ## 📚 CURSO DE REACT:
 
-Curso de React.js 1: https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1 <br>
-Curso de React.js 2: https://www.alura.com.br/imersao-react/aula01-react-alurakut <br>
-Curso de React.js 3: https://www.youtube.com/watch?v=sZ0bZGfg_m4 <br>
-Curso de React.js 4: https://www.youtube.com/watch?v=JZQ8m08cbF0 <br>
+🔖 Curso de React.js 1: https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1 <br>
+🔖 Curso de React.js 2: https://www.alura.com.br/imersao-react/aula01-react-alurakut <br>
+🔖 Curso de React.js 3: https://www.youtube.com/watch?v=sZ0bZGfg_m4 <br>
+🔖 Curso de React.js 4: https://www.youtube.com/watch?v=JZQ8m08cbF0 <br>
 
 ## 📚 CURSO DE ANGULAR:
 
-Curso de Angular 1: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
-Curso de Angular 2: https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3
-Curso de Angular 3: https://www.youtube.com/playlist?list=PLHlHvK2lnJneQPfbOvUait1MtAoXeYhtL
-Curso de Angular 4: https://www.youtube.com/playlist?list=PL4iwH9RF8xHnMnKewOLjDvTHzTmyxJNHF
-Curso de Angular 5: https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q
-Curso de Angular 6: https://www.youtube.com/playlist?list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI
-Curso de Angular (17 aulas): https://goo.gl/6rT9ZC
-Curso de Angular 2 (56 aulas): https://goo.gl/mxPqRt
-
-Playlist:
-
-https://youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+🔖 Curso de Angular 1: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G <br>
+🔖 Curso de Angular 2: https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3 <br>
+🔖 Curso de Angular 3: https://www.youtube.com/playlist?list=PLHlHvK2lnJneQPfbOvUait1MtAoXeYhtL <br>
+🔖 Curso de Angular 4: https://www.youtube.com/playlist?list=PL4iwH9RF8xHnMnKewOLjDvTHzTmyxJNHF <br>
+🔖 Curso de Angular 5: https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q <br>
+🔖 Curso de Angular 6: https://www.youtube.com/playlist?list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI <br>
+🔖 Curso de Angular (17 aulas): https://goo.gl/6rT9ZC <br>
+🔖 Curso de Angular 2 (56 aulas): https://goo.gl/mxPqRt <br>
 
 ## 📚 CURSO DE VUE:
 
-https://revue-draggable.vercel.app/ uma library que me ajuda muito
-https://github.com/kyvg/vue3-notification
+🔖 Uma library que me ajuda muito: https://revue-draggable.vercel.app/ <br>
+🔖 https://github.com/kyvg/vue3-notification <br>
 
 ## 📚 CURSO DE JQUERY:
 
-Curso Completo de jQuery (56 aulas)
-https://goo.gl/tHdIZ7
+🔖 Curso Completo de jQuery (56 aulas): https://goo.gl/tHdIZ7 <br>
 
 ## 📚 CURSO DE LESS:
 
-Curso de Less (6 aulas)
-https://goo.gl/Y5UkLQ
+🔖 Curso de Less (6 aulas): https://goo.gl/Y5UkLQ <br>
 
 ## 📚 CURSO DE SASS:
 
-Curso de Sass (18 aulas) "PS O CURSO ESTÁ EM INGLÊS"
-https://goo.gl/DzRv1e
+🔖 Curso de Sass (18 aulas) /Inglês/: https://goo.gl/DzRv1e <br>
 
 ## 📚 CURSO DE BOOTSTRAP:
 
-Curso de Bootstrap (16 aulas)
-https://goo.gl/xFDOxT
+🔖 Curso de Bootstrap (16 aulas): https://goo.gl/xFDOxT <br>
 
 ## 📚 GIT E GITHUB:
 
