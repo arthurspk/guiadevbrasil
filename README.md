@@ -9,26 +9,26 @@ CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/arthurspk/ <br>
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
 🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
-DIO: https://www.digitalinnovation.one <br>
-Curso em video: www.youtube.com/c/CursoemVídeo <br>
-Udemy: https://www.udemy.com/ <br>
-HackerRank: https://www.hackerrank.com/ <br>
-Hackereath: https://www.hackerearth.com/ <br>
-Coderbyte: https://coderbyte.com/ <br>
-Coderchef: https://www.codechef.com/ <br>
-W3resource: https://www.w3resource.com/ <br>
-Cousera: https://pt.coursera.org/ <br>
-Codepen: https://codepen.io/ <br>
-Codementor: https://www.codementor.io/ <br>
-FreeCodeCamp: https://www.freecodecamp.org/ <br>
-GeeksForGeeks: https://www.geeksforgeeks.org/ <br>
-W3Schools: https://www.w3schools.com/ <br>
-Khan Academy: https://pt.khanacademy.org/ <br>
-Udacity: https://www.udacity.com/ <br>
-Sololearn: https://www.sololearn.com/ <br>
-EdX: https://www.edx.org/ <br>
-Treehouse: https://teamtreehouse.com/ <br>
-Tutorialspoint: https://www.tutorialspoint.com/ <br>
+🔖 DIO: https://www.digitalinnovation.one <br>
+🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
+🔖 Udemy: https://www.udemy.com/ <br>
+🔖 HackerRank: https://www.hackerrank.com/ <br>
+🔖 Hackereath: https://www.hackerearth.com/ <br>
+🔖 Coderbyte: https://coderbyte.com/ <br>
+🔖 Coderchef: https://www.codechef.com/ <br>
+🔖 W3resource: https://www.w3resource.com/ <br>
+🔖 Cousera: https://pt.coursera.org/ <br>
+🔖 Codepen: https://codepen.io/ <br>
+🔖 Codementor: https://www.codementor.io/ <br>
+🔖 FreeCodeCamp: https://www.freecodecamp.org/ <br>
+🔖 GeeksForGeeks: https://www.geeksforgeeks.org/ <br>
+🔖 W3Schools: https://www.w3schools.com/ <br>
+🔖 Khan Academy: https://pt.khanacademy.org/ <br>
+🔖 Udacity: https://www.udacity.com/ <br>
+🔖 Sololearn: https://www.sololearn.com/ <br>
+🔖 EdX: https://www.edx.org/ <br>
+🔖 Treehouse: https://teamtreehouse.com/ <br>
+🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
