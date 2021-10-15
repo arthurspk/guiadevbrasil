@@ -335,7 +335,7 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 
 ## 📚 IDEIAS PARA PROJETO:
 
-https://github.com/florinpop17/app-ideas <br>
+🔖 https://github.com/florinpop17/app-ideas <br>
 
 ## 📚 CURSOS DE JAVA:
 
@@ -367,7 +367,7 @@ https://github.com/florinpop17/app-ideas <br>
 
 ## 📚 CURSO DE HTML & CSS:
 
-https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo <br>
+Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
 
 https://app.rocketseat.com.br/node/o-guia-estelar-de-html <br>
 
