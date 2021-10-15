@@ -38,3 +38,37 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 https://bseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+
+## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
+
+Code Combat: https://br.codecombat.com/ <br>
+CheckiO: checkio.org <br>
+Codewars: codewars.com <br>
+Schemaverse: schemaverse.com <br>
+Code Monkey: codemonkey.com <br>
+CodinGame: codingame.com <br>
+
+## 📚 TEMPLATES HTML GRATUITOS: 
+
+https://bootsstrapmade.com <br>
+https://w3layouts.com <br>
+https://onepagelove.com <br>
+
+## 📚 SITES PARA APRENDER OU TREINAR CSS:
+
+https://cssgridgarden.com <br>
+https://flukeout.github.io <br>
+https://flexboxfroggy.com <br>
+https://flexboxdefense.com <br>
+https://100dayscss.com <br>
+https://cssbatle.dev <br>
+https://css-tricks.com/guides/ <br>
+https://csshell.dev/ (Coleção de erros comuns de CSS e como corrigi-los) <br>
+
+## 📚 GERADORES DE CSS:
+
+https://neumorphism.io <br>
+https://9elements.github.io/fancy-border-radius <br>
+https://waitanimate.wstone.io <br>
+https://www.bestcssbuttongenerator.com <br>
+https://html-css-js.com/css/generator/ <br>
