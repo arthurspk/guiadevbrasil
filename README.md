@@ -377,70 +377,39 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 Curso Completo de HTML5 (42 aulas): https://goo.gl/SD4p4g: <br>
 🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ
 
-
 CSS3
 
 Curso de CSS3 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG <br>
-
-Curso de CSS3 2: https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV
-
-Curso Aprenda HTML em 1 hora (22 aulas)
-https://goo.gl/1kfBCZ
-
-Curso completo de CSS3 (22 aulas)
-https://goo.gl/ebjzVG
-
-Curso Básico de CSS (12 aulas)
-
-Curso de CSS3 com Sass e Compass (9 aulas)
-https://goo.gl/bAO0hE
-
-https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
-
-https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos
-
-Inglês:
-
-https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s
-
-Playlist de prática de HTML & CSS:
-https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z
-
-https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G
-
-https://www.youtube.com/watch?v=ZFQkb26UD1Y
+Curso de CSS3 2: https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV <br>
+Curso de CSS3 3: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
+Curso de CSS3 4: https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos <br>
+Curso de CSS3 5: https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s <br>
+Playlist de prática de HTML & CSS: <br>
+Curso de CSS3 6: https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z <br>
+Curso de CSS3 7: https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G <br>
+Curso de CSS3 8: https://www.youtube.com/watch?v=ZFQkb26UD1Y <br>
+Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ <br>
+Curso completo de CSS3 (22 aulas): https://goo.gl/ebjzVG <br>
+Curso de CSS3 com Sass e Compass (9 aulas): https://goo.gl/bAO0hE <br>
 
 ## 📚 CURSO DE PYTHON: 
 
-Curso Python
-https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
+Curso de Python 1: https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 <br>
+Curso de Python 2: https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe <br>
+Curso de Python 3: https://www.youtube.com/watch?v=XKHEtdqhLK8 <br>
+Curso de Python 4: https://www.youtube.com/watch?v=_uQrJ0TkZlc <br>
+Curso de Python 5: https://www.youtube.com/watch?v=rfscVS0vtbw <br>
+Curso de Python 6: https://www.youtube.com/watch?v=8DvywoWv6fI <br>
+Curso de Python 7: https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 <br>
+Curso de Python 8: https://www.youtube.com/watch?v=t8pPdKYpowI <br>
+Curso de Python 9: https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j <br>
+Curso de Python 10: https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k <br>
 
-Curso Python
-
-https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe
-
-PYTHON 3 COMPLETO
-https://drive.google.com/drive/u/0/folders/1BUvlgtXlmtem80HkPIStXjC5c9Taqm5t
-https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
-
-https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&ab_channel=CursoemV%C3%ADdeo
-
-https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k
-
-https://www.youtube.com/watch?v=XKHEtdqhLK8
-
-Playlist e videos de python:
-https://www.youtube.com/watch?v=_uQrJ0TkZlc
-
-https://www.youtube.com/watch?v=rfscVS0vtbw
-
-https://www.youtube.com/watch?v=8DvywoWv6fI
-
-https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
-
-https://www.youtube.com/watch?v=t8pPdKYpowI
-
-https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+PYTHON 3 COMPLETO CURSO EM VIDEO: <br>
+Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist? list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
+Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
+Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH 
+Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- <br>
 
 ## 📚 CURSO DE PHP: 
 
