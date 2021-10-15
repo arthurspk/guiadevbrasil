@@ -8,7 +8,7 @@ CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/arthurspk/ <br>
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
-ROCKETSEAT: https://www.rocketseat.com.br <br>
+🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
 DIO: https://www.digitalinnovation.one <br>
 Curso em video: www.youtube.com/c/CursoemVídeo <br>
 Udemy: https://www.udemy.com/ <br>
