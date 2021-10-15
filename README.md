@@ -90,7 +90,7 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 https://hiddentools.dev <br>
 🔖 https://devhints.io <br>
 🔖 https://caiuse.com <br>
-🔖 https://bundlephobia.com <br>🔖 
+🔖 https://bundlephobia.com <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
@@ -234,104 +234,104 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 https://youtube.com/c/RocketSeat <br>
 🔖 https://youtube.com/c/RodrigoBranas <br>
 🔖 https://youtube.com/c/Academind <br>
-https://youtube.com/user/saimon1924 <br>
-https://youtube.com/c/AngularFirebase <br>
-https://youtube.com/c/Freecodecamp <br>
-https://youtube.com/c/MTechViral <br>
-https://youtube.com/c/IgorRemas <br>
-https://youtube.com/c/SantosEnoque <br>
-https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ <br>
-https://youtube.com/c/DesignCourse <br>
-https://youtube.com/c/Londonappbrewery <br>
-https://youtube.com/c/eddydn71 <br>
-https://www.youtube.com/user/cursosemvideo <br>
-https://youtube.com/c/ThizerAplicativos <br>
-https://youtube.com/c/loianegroner <br>
-https://youtube.com/c/CanalDotNET <br>
-https://youtube.com/c/ProtocoloAlterado <br>
-https://youtube.com/c/DevSoutinho <br>
-https://youtube.com/c/FabioAkita1990 <br>
-https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg <br>
-https://www.youtube.com/c/ProgramadorREAL <br>
-https://www.youtube.com/c/professorramos/ <br>
-https://www.youtube.com/c/RoboticapraticaBr/ <br>
-https://www.youtube.com/c/zero1ti/ <br>
-https://www.youtube.com/user/RafaellaBallerini/ <br>
-https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br>
-https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g <br>
-https://www.youtube.com/c/Descompila/ <br>
-https://www.youtube.com/c/UnicornCoder/ <br>
-https://www.youtube.com/c/KaSolutionOficial/ <br>
-https://www.youtube.com/c/CanalTekZoom/ <br>
-https://www.youtube.com/c/BoniekyLacerdaLeal <br>
-https://www.youtube.com/c/Programadorbr <br>
-https://www.youtube.com/c/ZUPIT/ <br>
-https://www.youtube.com/c/BeerandCode/ <br>
-https://www.youtube.com/c/AttekitaDev/ <br>
-https://www.youtube.com/c/WebDevSimplified/ <br>
-https://www.youtube.com/c/Alura/ <br>
-https://www.youtube.com/c/EscolaFrontend/ <br>
-https://www.youtube.com/c/Academind/ <br>
-https://www.youtube.com/c/RodrigoBranas/ <br>
+🔖 https://youtube.com/user/saimon1924 <br>
+🔖 https://youtube.com/c/AngularFirebase <br>
+🔖 https://youtube.com/c/Freecodecamp <br>
+🔖 https://youtube.com/c/MTechViral <br>
+🔖 https://youtube.com/c/IgorRemas <br>
+🔖 https://youtube.com/c/SantosEnoque <br>
+🔖 https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ <br>
+🔖 https://youtube.com/c/DesignCourse <br>
+🔖 https://youtube.com/c/Londonappbrewery <br>
+🔖 https://youtube.com/c/eddydn71 <br>
+🔖 https://www.youtube.com/user/cursosemvideo <br>
+🔖 https://youtube.com/c/ThizerAplicativos <br>
+🔖 https://youtube.com/c/loianegroner <br>
+🔖 https://youtube.com/c/CanalDotNET <br>
+🔖 https://youtube.com/c/ProtocoloAlterado <br>
+🔖 https://youtube.com/c/DevSoutinho <br>
+🔖 https://youtube.com/c/FabioAkita1990 <br>
+🔖 https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg <br>
+🔖 https://www.youtube.com/c/ProgramadorREAL <br>
+🔖 https://www.youtube.com/c/professorramos/ <br>
+🔖 https://www.youtube.com/c/RoboticapraticaBr/ <br>
+🔖 https://www.youtube.com/c/zero1ti/ <br>
+🔖 https://www.youtube.com/user/RafaellaBallerini/ <br>
+🔖 https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br>
+🔖 https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g <br>
+🔖 https://www.youtube.com/c/Descompila/ <br>
+🔖 https://www.youtube.com/c/UnicornCoder/ <br>
+🔖 https://www.youtube.com/c/KaSolutionOficial/ <br>
+🔖 https://www.youtube.com/c/CanalTekZoom/ <br>
+🔖 https://www.youtube.com/c/BoniekyLacerdaLeal <br>
+🔖 https://www.youtube.com/c/Programadorbr <br>
+🔖 https://www.youtube.com/c/ZUPIT/ <br>
+🔖 https://www.youtube.com/c/BeerandCode/ <br>
+🔖 https://www.youtube.com/c/AttekitaDev/ <br>
+🔖 https://www.youtube.com/c/WebDevSimplified/ <br>
+🔖 https://www.youtube.com/c/Alura/ <br>
+🔖 https://www.youtube.com/c/EscolaFrontend/ <br>
+🔖 https://www.youtube.com/c/Academind/ <br>
+🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 
 ## 📚 BLOGS E PODCASTS:
 
-https://devnaestrada.com.br/ <br>
-https://dicasdeprogramacao.com.br/ <br>
-https://podprogramar.com.br/ <br>
-https://hipsters.tech/
-https://www.linuxtips.io/ <br>
-https://www.etudonuve.com.br/i/ <br>
-https://dev.to/ <br>
-https://deploy.codenation.com.br/podcasts/home <br>
-https://playcode.com.br/ <br>
-https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG <br>
-https://blog.corujadeti.com.br/ <br>
-https://cooperati.com.br/ <br>
-https://www.zup.com.br/blog <br>
+🔖 https://devnaestrada.com.br/ <br>
+🔖 https://dicasdeprogramacao.com.br/ <br>
+🔖 https://podprogramar.com.br/ <br>
+🔖 https://hipsters.tech/
+🔖 https://www.linuxtips.io/ <br>
+🔖 https://www.etudonuve.com.br/i/ <br>
+🔖 https://dev.to/ <br>
+🔖 https://deploy.codenation.com.br/podcasts/home <br>
+🔖 https://playcode.com.br/ <br>
+🔖 https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG <br>
+🔖 https://blog.corujadeti.com.br/ <br>
+🔖 https://cooperati.com.br/ <br>
+🔖 https://www.zup.com.br/blog <br>
 
 ## 📚 WEB DEVELOPER ROADMAP:
 
-https://github.com/kamranahmedse/developer-roadmap <br>
+🔖 https://github.com/kamranahmedse/developer-roadmap <br>
 
 ## 📚 EXTENSÕES PARA O SEU NAVEGADOR:
 
-File Icons for GitHub and GitLab <br>
-GoFullPage <br>
-Web Developer <br>
-React Developer Tools <br>
-Window Resizer <br>
+🔖 File Icons for GitHub and GitLab <br>
+🔖 GoFullPage <br>
+🔖 Web Developer <br>
+🔖 React Developer Tools <br>
+🔖 Window Resizer <br>
 
 ## 📚 RECOMENDAÇÃO DE LIVROS:
 
-Clean Code - Código Limpo <br>
-Refactoring - Refatoração <br>
-Clean Archtecture - Arquitertura Limpa  <br>
-O programador pragmático  <br>
+🔖 Clean Code - Código Limpo <br>
+🔖 Refactoring - Refatoração <br>
+🔖 Clean Archtecture - Arquitertura Limpa  <br>
+🔖 O programador pragmático  <br>
 
 ## 📚 APPS PARA PRATICAR PROGRAMAÇÃO:
 
-SoloLearn <br>
-Pydriod3 <br>
-Mimo <br>
-Dcoder <br>
-Codecademy <br>
+🔖 SoloLearn <br>
+🔖 Pydriod3 <br>
+🔖 Mimo <br>
+🔖 Dcoder <br>
+🔖 Codecademy <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS FRONT-END (MONTAR PORTFOLIO):
 
-https://www.frontendmentor.io/ <br>
-https://codier.io/ <br>
-https://codewell.cc/ <br>
-https://devchallenge.com.br/ <br>
-https://codepen.io/challenges <br>
+🔖 https://www.frontendmentor.io/ <br>
+🔖 https://codier.io/ <br>
+🔖 https://codewell.cc/ <br>
+🔖 https://devchallenge.com.br/ <br>
+🔖 https://codepen.io/challenges <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS BACK-END:
 
-https://devchallenge.vercel.app/challenges?type=backend <br>
+🔖 https://devchallenge.vercel.app/challenges?type=backend <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS MOBILE:
 
-https://devchallenge.vercel.app/challenges?type=mobile <br>
+🔖 https://devchallenge.vercel.app/challenges?type=mobile <br>
 
 ## 📚 IDEIAS PARA PROJETO:
 
