@@ -313,124 +313,118 @@ O programador pragmático  <br>
 
 SoloLearn <br>
 Pydriod3 <br>
-Mimo
-Dcoder
-Codecademy
+Mimo <br>
+Dcoder <br>
+Codecademy <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS FRONT-END (MONTAR PORTFOLIO):
 
-https://www.frontendmentor.io/
-https://codier.io/
-https://codewell.cc/
-https://devchallenge.com.br/
-https://codepen.io/challenges
+https://www.frontendmentor.io/ <br>
+https://codier.io/ <br>
+https://codewell.cc/ <br>
+https://devchallenge.com.br/ <br>
+https://codepen.io/challenges <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS BACK-END:
 
-https://devchallenge.vercel.app/challenges?type=backend
+https://devchallenge.vercel.app/challenges?type=backend <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS MOBILE:
 
-https://devchallenge.vercel.app/challenges?type=mobile
+https://devchallenge.vercel.app/challenges?type=mobile <br>
 
 ## 📚 IDEIAS PARA PROJETO:
 
-https://github.com/florinpop17/app-ideas
+https://github.com/florinpop17/app-ideas <br>
 
 ## 📚 CURSOS DE JAVA:
 
 Java Tutorial for Beginners:
-https://www.youtube.com/watch?v=eIrMbAQSU34
+https://www.youtube.com/watch?v=eIrMbAQSU34 <br>
 
 Maratona Java:
-https://youtu.be/VKjFuX91G5Q 
+https://youtu.be/VKjFuX91G5Q  <br>
 
 Learn Java 8 Full Course in 9 Hours:
-https://www.youtube.com/watch?v=grEKMHGYyns
+https://www.youtube.com/watch?v=grEKMHGYyns <br>
 
 Java Programming:
-https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5 <br>
 
 Frameworks de Java:
-https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado
+https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado <br>
 
 Java Full Course:
-https://www.youtube.com/watch?v=xk4_1vDrzzo
+https://www.youtube.com/watch?v=xk4_1vDrzzo <br>
 
 Curso de Java
-https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
+https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR <br>
 
 Curso de Java
-https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r
+https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r <br>
 
 Curso de Java
 
-https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc
-
-/////
+https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc <br>
 
 ## 📚 CURSO DE JAVA SCRIPT:
 
 Curso completo de Javascript (46 aulas)
-https://goo.gl/zfjfkQ
-
-Cursos de Java Script
+https://goo.gl/zfjfkQ <br>
 
 Curso de introdução ao Java script 
-https://youtu.be/i6Oi-YtXnAU
+https://youtu.be/i6Oi-YtXnAU <br>
 
 Curso Java script básico
-https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm
+https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm  <br>
 
 Curso Java Script
-https://youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC
+https://youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC <br>
 
 Att Java Script
-https://www.rodrigobrito.dev.br/blog/js-0701-javascript-completo-es6-classes
+https://www.rodrigobrito.dev.br/blog/js-0701-javascript-completo-es6-classes <br>
 
-https://www.youtube.com/watch?v=8GPPJpiLqHk
+https://www.youtube.com/watch?v=8GPPJpiLqHk <br>
 
-https://www.youtube.com/watch?v=dtKciwk_si4
+https://www.youtube.com/watch?v=dtKciwk_si4 <br>
 
 Cursos de JavaScript em inglês:
-https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD
+https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD <br>
 
-https://www.youtube.com/watch?v=PkZNo7MFNFg
+https://www.youtube.com/watch?v=PkZNo7MFNFg <br>
 
-https://www.youtube.com/watch?v=jS4aFq5-91M
+https://www.youtube.com/watch?v=jS4aFq5-91M <br>
 
-https://www.youtube.com/watch?v=EfAl9bwzVZk
+https://www.youtube.com/watch?v=EfAl9bwzVZk <br>
 
 Faça 15 Projetos em JavaScript (Inglês):
 
-https://www.youtube.com/watch?v=3PHXvlpOkf4
+https://www.youtube.com/watch?v=3PHXvlpOkf4 <br>
 
 Playlist de projetos de JS:
-https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j
-
-/////
+https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j <br>
 
 ## 📚 CURSO DE HTML & CSS:
 
-https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo
+https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&ab_channel=CursoemV%C3%ADdeo <br>
 
-https://app.rocketseat.com.br/node/o-guia-estelar-de-html
+https://app.rocketseat.com.br/node/o-guia-estelar-de-html <br>
 
-https://github.com/gustavoguanabara/html-css
+https://github.com/gustavoguanabara/html-css <br>
 
 Parte1
-https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
 
 Parte2
-https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
+https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s <br>
 
 HTML 5
 Curso HTML 5
 
-https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c
+https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c <br>
 
 Curso HTML 5
-https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
+https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o <br>
 
 CSS3
 
