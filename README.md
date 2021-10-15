@@ -421,7 +421,7 @@ Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYO
 
 ## 📚 CURSO DE C#:
 
-Curso de  C#: https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
+🔖 Curso de  C#: https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
 
 ## 📚 CURSO DE C:
 
@@ -439,72 +439,48 @@ Curso de  C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkm
 Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
 Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
 Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
-Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_ <br>
+Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
 
 ## 📚 CURSO C++
 
-Curso de  c++
+🔖 Curso de  C++ 1: https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40 <br>
+🔖 Curso de C++ 2: https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5 <br>
+🔖 Guia de C++:https://www.inf.ufpr.br/ci208/NotasAula.pdf <br>
 
-https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
 
-Outro curso de C++:
-https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5
+## 📚 CURSO DE KOTLIN:
 
-https://www.inf.ufpr.br/ci208/NotasAula.pdf
-guia de c++
-
-CURSO DE KOTLIN:
-
-Curso de Kotlin:
-https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn
-
-https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg
-
-https://www.youtube.com/playlist?list=PLM8_o_MDe-LEpabjij2vyHZnxI7Knrxkj
-
-https://www.youtube.com/playlist?list=PLAzlSdU-KYwVlDl-939Vv0_r5XhU7zgX1
-
-https://www.youtube.com/playlist?list=PLM8_o_MDe-LEas_XSKIyaFAp_MS__5j4p
-
-https://www.youtube.com/playlist?list=PLCTD_CpMeEKSjzbsW_zmVNz23GyOVsdbS
-
-https://www.youtube.com/playlist?list=PL8ie04dqq7_M8nfPA9DPiAy7NsoZQpVAf
-
-https://www.youtube.com/playlist?list=PLHZwU4kNI8DXL2ennM5kR8kHm5zwS6hOz
-
-https://www.youtube.com/playlist?list=PLM8_o_MDe-LElQqV-SZtlyGt8l7iz770r
-
-https://www.youtube.com/playlist?list=PLufC_h3b0C2BbBfAB3rZXXkhtRDEuQFcq
-
-https://www.youtube.com/playlist?list=PLDqAb8tE7SQYE7NJqwuku7e1S46MOav6X
-
-https://www.youtube.com/playlist?list=PLkws8CjXqzRkpooBmF4CdSkDIrcTlSFQS
-
-https://www.youtube.com/playlist?list=PLRxQg_wrhrC5K3-7eNuP_1KdN2AqIe3Ie
-
-https://www.youtube.com/playlist?list=PLxcGiBXcK0kblgnLEEC0ZphoG-PRB4x1d
-
-https://www.youtube.com/playlist?list=PLM8_o_MDe-LEu4XrXKjA48dt1d07FPYP1
-
-https://www.youtube.com/playlist?list=PLATOxdAcWIvPbiiK0_mn_LTQyS1FBYdaW
-
-https://www.youtube.com/watch?v=r_6Ku38sA-c&t=11746s
-
-https://cursos.alura.com.br/course/fundamentos-android-kotlin
-
-https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt
+🔖 Curso de Kotlin 1: https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn <br>
+🔖 Curso de Kotlin 2: https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg <br>
+🔖 Curso de Kotlin 3: https://www.youtube.com/playlist?list=PLM8_o_MDe-LEpabjij2vyHZnxI7Knrxkj <br>
+🔖 Curso de Kotlin 4: https://www.youtube.com/playlist?list=PLAzlSdU-KYwVlDl-939Vv0_r5XhU7zgX1 <br>
+🔖 Curso de Kotlin 5: https://www.youtube.com/playlist?list=PLM8_o_MDe-LEas_XSKIyaFAp_MS__5j4p <br>
+🔖 Curso de Kotlin 6: https://www.youtube.com/playlist?list=PLCTD_CpMeEKSjzbsW_zmVNz23GyOVsdbS <br>
+🔖 Curso de Kotlin 7: https://www.youtube.com/playlist?list=PL8ie04dqq7_M8nfPA9DPiAy7NsoZQpVAf <br>
+🔖 Curso de Kotlin 8: https://www.youtube.com/playlist?list=PLHZwU4kNI8DXL2ennM5kR8kHm5zwS6hOz <br>
+🔖 Curso de Kotlin 9: https://www.youtube.com/playlist?list=PLM8_o_MDe-LElQqV-SZtlyGt8l7iz770r <br>
+🔖 Curso de Kotlin 10: https://www.youtube.com/playlist?list=PLufC_h3b0C2BbBfAB3rZXXkhtRDEuQFcq <br>
+🔖 Curso de Kotlin 11: https://www.youtube.com/playlist?list=PLDqAb8tE7SQYE7NJqwuku7e1S46MOav6X <br>
+🔖 Curso de Kotlin 12: https://www.youtube.com/playlist?list=PLkws8CjXqzRkpooBmF4CdSkDIrcTlSFQS <br>
+🔖 Curso de Kotlin 13: https://www.youtube.com/playlist?list=PLRxQg_wrhrC5K3-7eNuP_1KdN2AqIe3Ie <br>
+🔖 Curso de Kotlin 14: https://www.youtube.com/playlist?list=PLxcGiBXcK0kblgnLEEC0ZphoG-PRB4x1d <br>
+🔖 Curso de Kotlin 15: https://www.youtube.com/playlist?list=PLM8_o_MDe-LEu4XrXKjA48dt1d07FPYP1 <br>
+🔖 Curso de Kotlin 16: https://www.youtube.com/playlist?list=PLATOxdAcWIvPbiiK0_mn_LTQyS1FBYdaW <br>
+🔖 Curso de Kotlin 17: https://www.youtube.com/watch?v=r_6Ku38sA-c&t=11746s <br>
+🔖 Curso de Kotlin 18: https://cursos.alura.com.br/course/fundamentos-android-kotlin <br>
+🔖 Curso de Kotlin 19: https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt <br>
 
 ## 📚 CURSO DE SWIFT:
 
-https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-
+🔖 Curso de Swift 1: https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-
 
-https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC
+🔖 Curso de Swift 2: https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC
 
-https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm
+🔖 Curso de Swift 2: https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm
 
-CURSO DE GO (GOLANG):
+## 📚 CURSO DE GO (GOLANG):
 
-Curso de GO:
+🔖 Curso de GO: https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 ## 📚 CURSO DE RUBY:
