@@ -367,11 +367,13 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 
 ## 📚 CURSO DE HTML & CSS:
 
-Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
+🔖 Curso em video: https://github.com/gustavoguanabara/html-css <br>
+🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
+🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s <br>
+🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5:https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ <br>
+🔖 Rocketseat HTML: https://app.rocketseat.com.br/node/o-guia-estelar-de-html <br>
 
-https://app.rocketseat.com.br/node/o-guia-estelar-de-html <br>
 
-https://github.com/gustavoguanabara/html-css <br>
 
 Parte1
 https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
