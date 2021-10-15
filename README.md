@@ -233,7 +233,7 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 hhttps://youtube.com/c/MangoDeveloper <br>
 🔖 hhttps://youtube.com/c/RocketSeat <br>
 🔖 hhttps://youtube.com/c/RodrigoBranas <br>
-🔖 https://youtube.com/c/Academind <br>
+🔖 hhttps://youtube.com/c/Academind <br>
 https://youtube.com/user/saimon1924 <br>
 https://youtube.com/c/AngularFirebase <br>
 https://youtube.com/c/Freecodecamp <br>
