@@ -684,7 +684,7 @@ https://goo.gl/xFDOxT
 
 ## 📚 GIT E GITHUB:
 
-https://github.com/DanielHe4rt/git4noobs
+https://github.com/DanielHe4rt/git4noobs <br>
 https://github.com/theandersonn/comandos-git
 
 ls (Listar as pastas)
