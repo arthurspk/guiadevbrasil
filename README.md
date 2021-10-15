@@ -8,9 +8,9 @@ CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/arthurspk/ <br>
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
-🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
-🔖 DIO: https://www.digitalinnovation.one <br>
-🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
+💫 ROCKETSEAT: https://www.rocketseat.com.br <br>
+💫 DIO: https://www.digitalinnovation.one <br>
+💫 Curso em video: www.youtube.com/c/CursoemVídeo <br>
 🔖 Udemy: https://www.udemy.com/ <br>
 🔖 HackerRank: https://www.hackerrank.com/ <br>
 🔖 Hackereath: https://www.hackerearth.com/ <br>
