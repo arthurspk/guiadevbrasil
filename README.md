@@ -279,7 +279,7 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 https://devnaestrada.com.br/ <br>
 🔖 https://dicasdeprogramacao.com.br/ <br>
 🔖 https://podprogramar.com.br/ <br>
-🔖 https://hipsters.tech/
+🔖 https://hipsters.tech/ <br>
 🔖 https://www.linuxtips.io/ <br>
 🔖 https://www.etudonuve.com.br/i/ <br>
 🔖 https://dev.to/ <br>
