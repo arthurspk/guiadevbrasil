@@ -75,239 +75,244 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 
 ## 📚 SITE PARA BUSCAR VAGAS REMOTAS:
 
-🔖 https://remoteok.io
-🔖 https://hired.com
-🔖 https://bergamot.io
-🔖 https://justremote.co
-🔖 https://workingnomads.co
+🔖 https://remoteok.io  <br>
+🔖 https://hired.com  <br>
+🔖 https://bergamot.io <br>
+🔖 https://justremote.co <br>
+🔖 https://workingnomads.co <br>
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
-https://internxt.com/
-https://motion.dev/ 
-https://hokusai.app/
-https://url-shortene-r.herokuapp.com/
-https://hiddentools.dev
-https://devhints.io
-https://caiuse.com
-https://bundlephobia.com
+https://internxt.com/ <br>
+https://motion.dev/  <br>
+https://hokusai.app/ <br>
+https://url-shortene-r.herokuapp.com/ <br>
+https://hiddentools.dev <br>
+https://devhints.io <br>
+https://caiuse.com <br>
+https://bundlephobia.com <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
-https://www.minimamente.com/project/magic/
-https://jonsuh.com/hamburgers/
-https://ianlunn.github.io/Hover/
+https://www.minimamente.com/project/magic/ <br>
+https://jonsuh.com/hamburgers/ <br>
+https://ianlunn.github.io/Hover/ <br>
 
 ## 📚 MELHORES DISTROS LINUX PARA PROGRAMADORES:
 
-Pop!_Os
-Arch Linux
-Debian
-Ubuntu
-Fedora
-Linux Mint
+Pop!_Os - https://pop.system76.com/ <br> 
+Arch Linux - https://archlinux.org/ <br>
+Debian - https://www.debian.org/ <br>
+Ubuntu - https://ubuntu.com/ <br>
+Fedora - https://getfedora.org/pt_BR/ <br>
+Linux Mint - https://linuxmint.com/ <br>
+OpenSUSE - https://www.opensuse.org <br>
+Kali Linux - https://www.kali.org  <br>
+KDE Neon - https://www.neon.kde.org  <br>
+Solus - ttps://www.getsol.us <br>
+Tails - https://www.tails.boum.org <br>
 
 ## 📚 BIBLIOTECAS JAVASCRIPT:
 
-ApexCharts: https://apexcharts.com/
-Particles.js: https://vincentgarreau.com/particles.js/
-ScrollMagic: https://scrollmagic.io/
+ApexCharts: https://apexcharts.com/ <br>
+Particles.js: https://vincentgarreau.com/particles.js/ <br>
+ScrollMagic: https://scrollmagic.io/ <br>
 
 ## 📚 7 FERRAMENTAS PARA QUE TODO DEV PRECISA CONHECER:
 
-Figma: ferramenta para design de interfaces.
-Insomnia: é um API Client, uma ferramenta para fazer testes de API's.
-Rive: ferramenta colaborativa de animação para apps, jogos e sites.
-CloudCraft: plataforma com foco em criar desenhos de arquiteturas AWS.
-BundlePhobia: site para descobrir o custo de adicionar um npm package no seu pacote.
-Font Flipper: Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts.
-VisBug: é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos.
+Figma: ferramenta para design de interfaces. <br>
+Insomnia: é um API Client, uma ferramenta para fazer testes de API's. <br>
+Rive: ferramenta colaborativa de animação para apps, jogos e sites. <br>
+CloudCraft: plataforma com foco em criar desenhos de arquiteturas AWS. <br>
+BundlePhobia: site para descobrir o custo de adicionar um npm package no seu pacote. <br>
+Font Flipper: Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
+VisBug: é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
 
 ## 📚 SITES PARA PRATICAR UI/UX:
 
-https://sharpen.design/
-https://www.dailyui.co/
-https://uxtools.co/challenges
-https://drawerrr.com/challenge
-https://www.uplabs.com/challenges
+https://sharpen.design/ <br>
+https://www.dailyui.co/ <br>
+https://uxtools.co/challenges <br>
+https://drawerrr.com/challenge <br>
+https://www.uplabs.com/challenges <br>
 
 ## 📚 FERRAMENTAS PARA HOSPEDAS SEU SITE DE GRAÇA: 
 
-https://www.netlify.com/
-https://pages.github.com/
-https://www.heroku.com/
-https://www.awardspace.com/
-https://byet.host/
-https://vercel.com/
-https://infinityfree.net/
+https://www.netlify.com/ <br>
+https://pages.github.com/ <br>
+https://www.heroku.com/ <br>
+https://www.awardspace.com/ <br>
+https://byet.host/ <br>
+https://vercel.com/ <br>
+https://infinityfree.net/ <br>
 
 ## 📚 SITES PARA INSPIRAR O SEU DESENVOLVIMENTO: 
 
-https://www.producthunt.com/
-https://namify.tech/?ref=producthunt
-https://dribbble.com/
-https://br.pinterest.com/
-https://www.deviantart.com/
-https://www.lapa.ninja/
-https://hyperpixel.io/
-https://onepagelove.com/
-https://onepagelove.com/boring-avatars
-https://land-book.com/
-https://www.awwwards.com/
-https://www.bestfolios.com/home
-https://sitesee.co/
-https://httpster.net/2021/jun/
-https://builders-club.com/
-https://cssnectar.com/
-https://collectui.com
-https://bestwebsite.gallery
+https://www.producthunt.com/ <br>
+https://namify.tech/?ref=producthunt <br>
+https://dribbble.com/  <br>
+https://br.pinterest.com/ <br>
+https://www.deviantart.com/ <br>
+https://www.lapa.ninja/ <br>
+https://hyperpixel.io/ <br>
+https://onepagelove.com/ <br>
+https://onepagelove.com/boring-avatars <br>
+https://land-book.com/ <br>
+https://www.awwwards.com/ <br>
+https://www.bestfolios.com/home <br>
+https://sitesee.co/ <br>
+https://httpster.net/2021/jun/ <br>
+https://builders-club.com/ <br>
+https://cssnectar.com/ <br>
+https://collectui.com <br>
+https://bestwebsite.gallery <br>
 
 ## 📚 SITES PARA BAIXAR E ENCONTRAR FONTES:
 
-Adobe Fonts: https://fonts.adobe.com/
-Google fonts: https://fonts.google.com/
-Dafont: https://www.dafont.com/pt/
-NetFontes: https://www.netfontes.com.br/
-Urbanfonts: https://www.urbanfonts.com/pt/
-Befonts: https://befonts.com/
-Fonts space: https://www.fontspace.com/
-1001 fonts: https://www.1001fonts.com/
-Abstract fonts: https://www.abstractfonts.com/
-Fontget: https://www.fontget.com/
+Adobe Fonts: https://fonts.adobe.com/  <br>
+Google fonts: https://fonts.google.com/ <br>
+Dafont: https://www.dafont.com/pt/ <br>
+NetFontes: https://www.netfontes.com.br/ <br>
+Urbanfonts: https://www.urbanfonts.com/pt/ <br>
+Befonts: https://befonts.com/ <br>
+Fonts space: https://www.fontspace.com/ <br>
+1001 fonts: https://www.1001fonts.com/ <br>
+Abstract fonts: https://www.abstractfonts.com/ <br>
+Fontget: https://www.fontget.com/ <br>
 
 ## 📚 SITE DE DE PALETAS DE CORES:
 
-Paletton: https://paletton.com/
-Adobe Color: https://color.adobe.com/pt/create/color-wheel/
-Color Hunt: https://colorhunt.co/
-Happy Hues: https://www.happyhues.co/
-Coolors: https://coolors.co/
-Gradient Hunt: https://gradienthunt.com/
-Flat UI Colors: https://flatuicolors.com/
-Grabient: https://www.grabient.com/
-Pigment: https://pigment.shapefactory.co/
-WebGradient: https://webgradients.com/
+Paletton: https://paletton.com/ <br>
+Adobe Color: https://color.adobe.com/pt/create/color-wheel/ <br>
+Color Hunt: https://colorhunt.co/ <br>
+Happy Hues: https://www.happyhues.co/ <br>
+Coolors: https://coolors.co/ <br>
+Gradient Hunt: https://gradienthunt.com/ <br>
+Flat UI Colors: https://flatuicolors.com/ <br>
+Grabient: https://www.grabient.com/ <br>
+Pigment: https://pigment.shapefactory.co/ <br>
+WebGradient: https://webgradients.com/ <br>
 
 ## 📚 LISTA DE ILUSTRAÇÕES:
 
-DrawKit: https://www.drawkit.io/
-Humaaans: https://www.humaaans.com/
-Open Doodle: https://www.opendoodles.com/
-Storyset: https://storyset.com/
-unDraw: https://undraw.co/
-404 Illustrations (by kapwing): https://www.kapwing.com/404-illustrations/
-404 Illustrations: https://error404.fun/
-Ouch: https://icons8.com.br/illustrations/
-Delesing: https://delesign.com/free-designs/graphics/
-Pixeltru: https://www.pixeltrue.com/free-illustrations/
+DrawKit: https://www.drawkit.io/ <br>
+Humaaans: https://www.humaaans.com/ <br>
+Open Doodle: https://www.opendoodles.com/ <br>
+Storyset: https://storyset.com/ <br>
+unDraw: https://undraw.co/ <br>
+404 Illustrations (by kapwing): https://www.kapwing.com/404-illustrations/ <br>
+404 Illustrations: https://error404.fun/ <br>
+Ouch: https://icons8.com.br/illustrations/ <br>
+Delesing: https://delesign.com/free-designs/graphics/ <br>
+Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
 
 ## 📚 SITE DE ICONES: 
 
-DrawKit: https://www.drawkit.io/free-icons/
-Eva Icons: https://akveo.github.io/eva-icons/#/
-Feather: https://feathericons.com/
-Font Awesome: https://fontawesome.com/
-Heroicons: https://heroicons.dev/
-Iconsvg: https://iconsvg.xyz/
-Icons8: https://icons8.com/line-awesome/
-Shape: https://shape.so/
-Flaticon: https://www.flaticon.com/br/
-Bootstrap icons: https://icons.getbootstrap.com/
+DrawKit: https://www.drawkit.io/free-icons/ <br>
+Eva Icons: https://akveo.github.io/eva-icons/#/ <br>
+Feather: https://feathericons.com/ <br>
+Font Awesome: https://fontawesome.com/ <br>
+Heroicons: https://heroicons.dev/ <br>
+Iconsvg: https://iconsvg.xyz/ <br>
+Icons8: https://icons8.com/line-awesome/ <br>
+Shape: https://shape.so/ <br>
+Flaticon: https://www.flaticon.com/br/ <br>
+Bootstrap icons: https://icons.getbootstrap.com/ <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
-https://youtube.com/c/baltaio
-https://youtube.com/c/CodAffection
-https://youtube.com/c/codedamn
-https://youtube.com/c/EspecializatiBr
-https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw
-https://youtube.com/c/MichelliBrito
-https://youtube.com/c/TheNetNinja
-https://youtube.com/c/ThiengoCalopsita
-https://youtube.com/c/TraversyMedia
-https://youtube.com/c/MangoDeveloper
-https://youtube.com/c/RocketSeat
-https://youtube.com/c/RodrigoBranas
-https://youtube.com/c/Academind
-https://youtube.com/user/saimon1924
-https://youtube.com/c/AngularFirebase
-https://youtube.com/c/Freecodecamp
-https://youtube.com/c/MTechViral
-https://youtube.com/c/IgorRemas
-https://youtube.com/c/SantosEnoque
-https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ
-https://youtube.com/c/DesignCourse
-https://youtube.com/c/Londonappbrewery
-https://youtube.com/c/eddydn71
-https://www.youtube.com/user/cursosemvideo
-https://youtube.com/c/ThizerAplicativos
-https://youtube.com/c/loianegroner
-https://youtube.com/c/CanalDotNET
-https://youtube.com/c/ProtocoloAlterado
-https://youtube.com/c/DevSoutinho
-https://youtube.com/c/FabioAkita1990
-https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg
-https://www.youtube.com/c/ProgramadorREAL
-https://www.youtube.com/c/professorramos/
-https://www.youtube.com/c/RoboticapraticaBr/
-https://www.youtube.com/c/zero1ti/
-https://www.youtube.com/user/RafaellaBallerini/
-https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw
-https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g
-https://www.youtube.com/c/Descompila/
-https://www.youtube.com/c/UnicornCoder/
-https://www.youtube.com/c/KaSolutionOficial/
-https://www.youtube.com/c/CanalTekZoom/
-https://www.youtube.com/c/BoniekyLacerdaLeal
-https://www.youtube.com/c/Programadorbr
-https://www.youtube.com/c/ZUPIT/
-https://www.youtube.com/c/BeerandCode/
-https://www.youtube.com/c/AttekitaDev/
-https://www.youtube.com/c/WebDevSimplified/
-https://www.youtube.com/c/Alura/
-https://www.youtube.com/c/EscolaFrontend/
-https://www.youtube.com/c/Academind/
-https://www.youtube.com/c/RodrigoBranas/
+https://youtube.com/c/baltaio <br>
+https://youtube.com/c/CodAffection <br>
+https://youtube.com/c/codedamn <br>
+https://youtube.com/c/EspecializatiBr <br>
+https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw <br>
+https://youtube.com/c/MichelliBrito <br>
+https://youtube.com/c/TheNetNinja <br>
+https://youtube.com/c/ThiengoCalopsita <br>
+https://youtube.com/c/TraversyMedia <br>
+https://youtube.com/c/MangoDeveloper <br>
+https://youtube.com/c/RocketSeat <br>
+https://youtube.com/c/RodrigoBranas <br>
+https://youtube.com/c/Academind <br>
+https://youtube.com/user/saimon1924 <br>
+https://youtube.com/c/AngularFirebase <br>
+https://youtube.com/c/Freecodecamp <br>
+https://youtube.com/c/MTechViral <br>
+https://youtube.com/c/IgorRemas <br>
+https://youtube.com/c/SantosEnoque <br>
+https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ <br>
+https://youtube.com/c/DesignCourse <br>
+https://youtube.com/c/Londonappbrewery <br>
+https://youtube.com/c/eddydn71 <br>
+https://www.youtube.com/user/cursosemvideo <br>
+https://youtube.com/c/ThizerAplicativos <br>
+https://youtube.com/c/loianegroner <br>
+https://youtube.com/c/CanalDotNET <br>
+https://youtube.com/c/ProtocoloAlterado <br>
+https://youtube.com/c/DevSoutinho <br>
+https://youtube.com/c/FabioAkita1990 <br>
+https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg <br>
+https://www.youtube.com/c/ProgramadorREAL <br>
+https://www.youtube.com/c/professorramos/ <br>
+https://www.youtube.com/c/RoboticapraticaBr/ <br>
+https://www.youtube.com/c/zero1ti/ <br>
+https://www.youtube.com/user/RafaellaBallerini/ <br>
+https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br>
+https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g <br>
+https://www.youtube.com/c/Descompila/ <br>
+https://www.youtube.com/c/UnicornCoder/ <br>
+https://www.youtube.com/c/KaSolutionOficial/ <br>
+https://www.youtube.com/c/CanalTekZoom/ <br>
+https://www.youtube.com/c/BoniekyLacerdaLeal <br>
+https://www.youtube.com/c/Programadorbr <br>
+https://www.youtube.com/c/ZUPIT/ <br>
+https://www.youtube.com/c/BeerandCode/ <br>
+https://www.youtube.com/c/AttekitaDev/ <br>
+https://www.youtube.com/c/WebDevSimplified/ <br>
+https://www.youtube.com/c/Alura/ <br>
+https://www.youtube.com/c/EscolaFrontend/ <br>
+https://www.youtube.com/c/Academind/ <br>
+https://www.youtube.com/c/RodrigoBranas/ <br>
 
 ## 📚 BLOGS E PODCASTS:
 
-https://devnaestrada.com.br/
-https://dicasdeprogramacao.com.br/
-https://podprogramar.com.br/
+https://devnaestrada.com.br/ <br>
+https://dicasdeprogramacao.com.br/ <br>
+https://podprogramar.com.br/ <br>
 https://hipsters.tech/
-https://www.linuxtips.io/
-https://www.etudonuve.com.br/i/
-https://dev.to/
-https://deploy.codenation.com.br/podcasts/home
-https://playcode.com.br/
-https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG
-https://blog.corujadeti.com.br/
-https://cooperati.com.br/
-https://www.zup.com.br/blog
+https://www.linuxtips.io/ <br>
+https://www.etudonuve.com.br/i/ <br>
+https://dev.to/ <br>
+https://deploy.codenation.com.br/podcasts/home <br>
+https://playcode.com.br/ <br>
+https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG <br>
+https://blog.corujadeti.com.br/ <br>
+https://cooperati.com.br/ <br>
+https://www.zup.com.br/blog <br>
 
 ## 📚 WEB DEVELOPER ROADMAP:
 
-https://github.com/kamranahmedse/developer-roadmap
+https://github.com/kamranahmedse/developer-roadmap <br>
 
 ## 📚 EXTENSÕES PARA O SEU NAVEGADOR:
 
-File Icons for GitHub and GitLab
-GoFullPage
-Web Developer
-React Developer Tools
-Window Resizer
+File Icons for GitHub and GitLab <br>
+GoFullPage <br>
+Web Developer <br>
+React Developer Tools <br>
+Window Resizer <br>
 
 ## 📚 RECOMENDAÇÃO DE LIVROS:
 
-Clean Code - Código Limpo
-Refactoring - Refatoração
-Clean Archtecture - Arquitertura Limpa 
-O programador pragmático 
+Clean Code - Código Limpo <br>
+Refactoring - Refatoração <br>
+Clean Archtecture - Arquitertura Limpa  <br>
+O programador pragmático  <br>
 
 ## 📚 APPS PARA PRATICAR PROGRAMAÇÃO:
 
-SoloLearn
-Pydriod3
+SoloLearn <br>
+Pydriod3 <br>
 Mimo
 Dcoder
 Codecademy
