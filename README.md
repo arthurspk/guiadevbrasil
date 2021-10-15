@@ -463,9 +463,6 @@ https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G
 
 https://www.youtube.com/watch?v=ZFQkb26UD1Y
 
-
-/////
-
 ## 📚 CURSO DE PYTHON: 
 
 Curso Python
@@ -498,8 +495,6 @@ https://www.youtube.com/watch?v=t8pPdKYpowI
 
 https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
 
-/////
-
 ## 📚 CURSO DE PHP: 
 
 Curso de PHP
@@ -514,16 +509,11 @@ https://goo.gl/wLra9o
 Curso Completo de PHP (108 aulas)
 https://goo.gl/1th6ok
 
-/////
-
 CURSO DE C#:
 
 Curso de  c#
 
 https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
-
-
-////
 
 ## 📚 CURSO DE C:
 
@@ -559,8 +549,6 @@ https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa
 
 https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
 
-/////
-
 ## 📚 CURSO C++
 
 Curso de  c++
@@ -572,8 +560,6 @@ https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5
 
 https://www.inf.ufpr.br/ci208/NotasAula.pdf
 guia de c++
-
-//// 
 
 CURSO DE KOTLIN:
 
@@ -616,8 +602,6 @@ https://cursos.alura.com.br/course/fundamentos-android-kotlin
 
 https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt
 
-/////
-
 ## 📚 CURSO DE SWIFT:
 
 https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-
@@ -626,15 +610,10 @@ https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC
 
 https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm
 
-
-/////
-
 CURSO DE GO (GOLANG):
 
 Curso de GO:
 https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
-
-/////
 
 ## 📚 CURSO DE RUBY:
 
@@ -655,8 +634,6 @@ https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP
 Curso de Ruby On-Rails
 https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0
 
-//// 
-
 ## 📚 CURSO DE REACT:
 
 Curso de react js:
@@ -667,8 +644,6 @@ https://www.alura.com.br/imersao-react/aula01-react-alurakut
 https://www.youtube.com/watch?v=sZ0bZGfg_m4
 
 https://www.youtube.com/watch?v=JZQ8m08cbF0
-
-////
 
 ## 📚 CURSO DE ANGULAR:
 
@@ -682,41 +657,30 @@ Playlist:
 
 https://youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
 
-////
-
 ## 📚 CURSO DE VUE:
 
 https://revue-draggable.vercel.app/ uma library que me ajuda muito
 https://github.com/kyvg/vue3-notification
-
-////
 
 ## 📚 CURSO DE JQUERY:
 
 Curso Completo de jQuery (56 aulas)
 https://goo.gl/tHdIZ7
 
-////
-
 ## 📚 CURSO DE LESS:
 
 Curso de Less (6 aulas)
 https://goo.gl/Y5UkLQ
-
-////
 
 ## 📚 CURSO DE SASS:
 
 Curso de Sass (18 aulas) "PS O CURSO ESTÁ EM INGLÊS"
 https://goo.gl/DzRv1e
 
-////
-
 ## 📚 CURSO DE BOOTSTRAP:
 
 Curso de Bootstrap (16 aulas)
 https://goo.gl/xFDOxT
-
 
 ## 📚 GIT E GITHUB:
 
