@@ -406,7 +406,7 @@ Curso de Python 9: https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXK
 Curso de Python 10: https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k <br>
 
 PYTHON 3 COMPLETO CURSO EM VIDEO: <br>
-Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist? list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
+Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
 Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
 Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH 
 Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- <br>
