@@ -221,19 +221,19 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
-🔖 hhttps://youtube.com/c/baltaio <br>
-🔖 hhttps://youtube.com/c/CodAffection <br>
-🔖 hhttps://youtube.com/c/codedamn <br>
-🔖 hhttps://youtube.com/c/EspecializatiBr <br>
-🔖 hhttps://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw <br>
-🔖 hhttps://youtube.com/c/MichelliBrito <br>
-🔖 hhttps://youtube.com/c/TheNetNinja <br>
-🔖 hhttps://youtube.com/c/ThiengoCalopsita <br>
-🔖 hhttps://youtube.com/c/TraversyMedia <br>
-🔖 hhttps://youtube.com/c/MangoDeveloper <br>
-🔖 hhttps://youtube.com/c/RocketSeat <br>
-🔖 hhttps://youtube.com/c/RodrigoBranas <br>
-🔖 hhttps://youtube.com/c/Academind <br>
+🔖 https://youtube.com/c/baltaio <br>
+🔖 https://youtube.com/c/CodAffection <br>
+🔖 https://youtube.com/c/codedamn <br>
+🔖 https://youtube.com/c/EspecializatiBr <br>
+🔖 https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw <br>
+🔖 https://youtube.com/c/MichelliBrito <br>
+🔖 https://youtube.com/c/TheNetNinja <br>
+🔖 https://youtube.com/c/ThiengoCalopsita <br>
+🔖 https://youtube.com/c/TraversyMedia <br>
+🔖 https://youtube.com/c/MangoDeveloper <br>
+🔖 https://youtube.com/c/RocketSeat <br>
+🔖 https://youtube.com/c/RodrigoBranas <br>
+🔖 https://youtube.com/c/Academind <br>
 https://youtube.com/user/saimon1924 <br>
 https://youtube.com/c/AngularFirebase <br>
 https://youtube.com/c/Freecodecamp <br>
