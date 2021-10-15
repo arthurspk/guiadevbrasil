@@ -377,93 +377,69 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 Curso Completo de HTML5 (42 aulas): https://goo.gl/SD4p4g: <br>
 🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ
 
-CSS3
+🔖 CSS3
 
-Curso de CSS3 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG <br>
-Curso de CSS3 2: https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV <br>
-Curso de CSS3 3: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
-Curso de CSS3 4: https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos <br>
-Curso de CSS3 5: https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s <br>
+🔖 Curso de CSS3 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG <br>
+🔖 Curso de CSS3 2: https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV <br>
+🔖 Curso de CSS3 3: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
+🔖 Curso de CSS3 4: https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos <br>
+🔖 Curso de CSS3 5: https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s <br>
 Playlist de prática de HTML & CSS: <br>
-Curso de CSS3 6: https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z <br>
-Curso de CSS3 7: https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G <br>
-Curso de CSS3 8: https://www.youtube.com/watch?v=ZFQkb26UD1Y <br>
-Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ <br>
-Curso completo de CSS3 (22 aulas): https://goo.gl/ebjzVG <br>
-Curso de CSS3 com Sass e Compass (9 aulas): https://goo.gl/bAO0hE <br>
+🔖 Curso de CSS3 6: https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z <br>
+🔖 Curso de CSS3 7: https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G <br>
+🔖 Curso de CSS3 8: https://www.youtube.com/watch?v=ZFQkb26UD1Y <br>
+🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ <br>
+🔖 Curso completo de CSS3 (22 aulas): https://goo.gl/ebjzVG <br>
+🔖 Curso de CSS3 com Sass e Compass (9 aulas): https://goo.gl/bAO0hE <br>
 
 ## 📚 CURSO DE PYTHON: 
 
-Curso de Python 1: https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 <br>
-Curso de Python 2: https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe <br>
-Curso de Python 3: https://www.youtube.com/watch?v=XKHEtdqhLK8 <br>
-Curso de Python 4: https://www.youtube.com/watch?v=_uQrJ0TkZlc <br>
-Curso de Python 5: https://www.youtube.com/watch?v=rfscVS0vtbw <br>
-Curso de Python 6: https://www.youtube.com/watch?v=8DvywoWv6fI <br>
-Curso de Python 7: https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 <br>
-Curso de Python 8: https://www.youtube.com/watch?v=t8pPdKYpowI <br>
-Curso de Python 9: https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j <br>
-Curso de Python 10: https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k <br>
+🔖 Curso de Python 1: https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 <br>
+🔖 Curso de Python 2: https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe <br>
+🔖 Curso de Python 3: https://www.youtube.com/watch?v=XKHEtdqhLK8 <br>
+🔖 Curso de Python 4: https://www.youtube.com/watch?v=_uQrJ0TkZlc <br>
+🔖 Curso de Python 5: https://www.youtube.com/watch?v=rfscVS0vtbw <br>
+🔖 Curso de Python 6: https://www.youtube.com/watch?v=8DvywoWv6fI <br>
+🔖 Curso de Python 7: https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 <br>
+🔖 Curso de Python 8: https://www.youtube.com/watch?v=t8pPdKYpowI <br>
+🔖 Curso de Python 9: https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j <br>
+🔖 Curso de Python 10: https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k <br>
 
-PYTHON 3 COMPLETO CURSO EM VIDEO: <br>
-Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
-Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
-Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH 
+🔖 PYTHON 3 COMPLETO CURSO EM VIDEO: <br>
+🔖 Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
+🔖 Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
+🔖 Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH 
 Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- <br>
 
 ## 📚 CURSO DE PHP: 
 
-Curso de PHP
-https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq
+🔖 Curso de PHP 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq <br>
+🔖 Curso de PHP 2: https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k <br>
+🔖 Curso Básico de PHP (20 aulas): https://goo.gl/wLra9o <br>
+🔖 Curso Completo de PHP (108 aulas): https://goo.gl/1th6ok <br>
 
-Curso de PHP
-https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k
 
-Curso Básico de PHP (20 aulas)
-https://goo.gl/wLra9o
+## 📚 CURSO DE C#:
 
-Curso Completo de PHP (108 aulas)
-https://goo.gl/1th6ok
-
-CURSO DE C#:
-
-Curso de  c#
-
-https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
+Curso de  C#: https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
 
 ## 📚 CURSO DE C:
 
-Curso de  c
-
-https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4
-
-https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2
-
-https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
-
-https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A
-
-https://www.youtube.com/playlist?list=PL78280D6BE6F05D34
-
-https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW
-
-https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4
-
-https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8
-
-https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp
-
-https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R
-
-https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
-
-https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o
-
-https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob
-
-https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa
-
-https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
+Curso de  C 1: https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
+Curso de  C 2: https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2 <br>
+Curso de  C 3: https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR <br>
+Curso de  C 4: https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A <br>
+Curso de  C 5: https://www.youtube.com/playlist?list=PL78280D6BE6F05D34 <br>
+Curso de  C 6: https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW <br>
+Curso de  C 7: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
+Curso de  C 8: https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8 <br>
+Curso de  C 9: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp <br>
+Curso de  C 10: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R <br>
+Curso de  C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE <br>
+Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
+Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
+Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
+Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_ <br>
 
 ## 📚 CURSO C++
 
