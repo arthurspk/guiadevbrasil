@@ -182,42 +182,42 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 
 ## 📚 SITE DE DE PALETAS DE CORES:
 
-🔖 hPaletton: https://paletton.com/ <br>
-🔖 hAdobe Color: https://color.adobe.com/pt/create/color-wheel/ <br>
-🔖 hColor Hunt: https://colorhunt.co/ <br>
-🔖 hHappy Hues: https://www.happyhues.co/ <br>
-🔖 hCoolors: https://coolors.co/ <br>
-🔖 hGradient Hunt: https://gradienthunt.com/ <br>
-🔖 hFlat UI Colors: https://flatuicolors.com/ <br>
-🔖 hGrabient: https://www.grabient.com/ <br>
-🔖 hPigment: https://pigment.shapefactory.co/ <br>
-🔖 hWebGradient: https://webgradients.com/ <br>
+🔖 Paletton: https://paletton.com/ <br>
+🔖 Adobe Color: https://color.adobe.com/pt/create/color-wheel/ <br>
+🔖 Color Hunt: https://colorhunt.co/ <br>
+🔖 Happy Hues: https://www.happyhues.co/ <br>
+🔖 Coolors: https://coolors.co/ <br>
+🔖 Gradient Hunt: https://gradienthunt.com/ <br>
+🔖 Flat UI Colors: https://flatuicolors.com/ <br>
+🔖 Grabient: https://www.grabient.com/ <br>
+🔖 Pigment: https://pigment.shapefactory.co/ <br>
+🔖 WebGradient: https://webgradients.com/ <br>
 
 ## 📚 LISTA DE ILUSTRAÇÕES:
 
-🔖 hDrawKit: https://www.drawkit.io/ <br>
-🔖 hHumaaans: https://www.humaaans.com/ <br>
-🔖 hOpen Doodle: https://www.opendoodles.com/ <br>
-🔖 hStoryset: https://storyset.com/ <br>
-🔖 hunDraw: https://undraw.co/ <br>
-🔖 h404 Illustrations (by kapwing): https://www.kapwing.com/404-illustrations/ <br>
-🔖 h404 Illustrations: https://error404.fun/ <br>
-🔖 hOuch: https://icons8.com.br/illustrations/ <br>
-🔖 hDelesing: https://delesign.com/free-designs/graphics/ <br>
-🔖 hPixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
+🔖 DrawKit: https://www.drawkit.io/ <br>
+🔖 Humaaans: https://www.humaaans.com/ <br>
+🔖 Open Doodle: https://www.opendoodles.com/ <br>
+🔖 Storyset: https://storyset.com/ <br>
+🔖 unDraw: https://undraw.co/ <br>
+🔖 404 Illustrations (by kapwing): https://www.kapwing.com/404-illustrations/ <br>
+🔖 404 Illustrations: https://error404.fun/ <br>
+🔖 Ouch: https://icons8.com.br/illustrations/ <br>
+🔖 Delesing: https://delesign.com/free-designs/graphics/ <br>
+🔖 Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
 
 ## 📚 SITE DE ICONES: 
 
-🔖 hDrawKit: https://www.drawkit.io/free-icons/ <br>
-🔖 hEva Icons: https://akveo.github.io/eva-icons/#/ <br>
-🔖 hFeather: https://feathericons.com/ <br>
-🔖 hFont Awesome: https://fontawesome.com/ <br>
-🔖 hHeroicons: https://heroicons.dev/ <br>
-🔖 hIconsvg: https://iconsvg.xyz/ <br>
-🔖 hIcons8: https://icons8.com/line-awesome/ <br>
-🔖 hShape: https://shape.so/ <br>
-🔖 hFlaticon: https://www.flaticon.com/br/ <br>
-🔖 hBootstrap icons: https://icons.getbootstrap.com/ <br>
+🔖 DrawKit: https://www.drawkit.io/free-icons/ <br>
+🔖 Eva Icons: https://akveo.github.io/eva-icons/#/ <br>
+🔖 Feather: https://feathericons.com/ <br>
+🔖 Font Awesome: https://fontawesome.com/ <br>
+🔖 Heroicons: https://heroicons.dev/ <br>
+🔖 Iconsvg: https://iconsvg.xyz/ <br>
+🔖 Icons8: https://icons8.com/line-awesome/ <br>
+🔖 Shape: https://shape.so/ <br>
+🔖 Flaticon: https://www.flaticon.com/br/ <br>
+🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
