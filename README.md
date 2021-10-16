@@ -109,7 +109,7 @@ https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar um
 🔖 OpenSUSE - https://www.opensuse.org <br>
 🔖 Kali Linux - https://www.kali.org  <br>
 🔖 KDE Neon - https://www.neon.kde.org  <br>
-🔖 Solus - ttps://www.getsol.us <br>
+🔖 Solus - https://www.getsol.us <br>
 🔖 Tails - https://www.tails.boum.org <br>
 
 ## 📚 BIBLIOTECAS JAVASCRIPT:
