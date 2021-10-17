@@ -61,7 +61,7 @@
 🔖 https://flexboxfroggy.com <br>
 🔖 https://flexboxdefense.com <br>
 🔖 https://100dayscss.com <br>
-🔖 https://cssbatle.dev <br>
+🔖 https://cssbattle.dev <br>
 🔖 https://css-tricks.com/guides/ <br>
 🔖 https://csshell.dev/ (Coleção de erros comuns de CSS e como corrigi-los) <br>
 
