@@ -557,7 +557,7 @@ Baixando e instalando o Git <br>
 https://git-scm.com/downloads <br>
 
 Configura nome de usuário: <br>
-git config --global user.email email@email.com.br <br>
+git config --global user.name <br>
 
 Configura email de usuário <br>
 git config --global user.email email@email.com.br <br>
