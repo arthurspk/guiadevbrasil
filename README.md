@@ -127,7 +127,7 @@
 🔖 BundlePhobia: site para descobrir o custo de adicionar um npm package no seu pacote. <br>
 🔖 Font Flipper: Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
 🔖 VisBug: é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
-🔖 ThunderClient: é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP>. <br>
+🔖 ThunderClient: é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
 ## 📚 SITES PARA PRATICAR UI/UX:
 
