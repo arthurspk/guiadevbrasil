@@ -29,6 +29,7 @@
 🔖 EdX: https://www.edx.org/ <br>
 🔖 Treehouse: https://teamtreehouse.com/ <br>
 🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
+🔖 Cod3r: https://cod3r.com.br/ <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
@@ -364,6 +365,7 @@
 🔖 Cursos de JavaScript em inglês: https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD <br>
 🔖 Faça 15 Projetos em JavaScript (Inglês): https://www.youtube.com/watch?v=3PHXvlpOkf4 <br>
 🔖 Playlist de projetos de JS: https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j <br>
+🔖 Fundamentos de JavaScript Funcional: https://www.cod3r.com.br/courses/javascript-funcional-fundamentos <br>
 
 ## 📚 CURSO DE HTML & CSS:
 
@@ -410,6 +412,7 @@ Playlist de prática de HTML & CSS: <br>
 🔖 Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
 🔖 Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH  <br>
 🔖 Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- <br>
+🔖 Python 3 - Curso Rápido: https://www.cod3r.com.br/courses/python-3-curso-rapido <br>
 
 ## 📚 CURSO DE PHP: 
 
@@ -495,6 +498,8 @@ Playlist de prática de HTML & CSS: <br>
 🔖 Curso de React.js 2: https://www.alura.com.br/imersao-react/aula01-react-alurakut <br>
 🔖 Curso de React.js 3: https://www.youtube.com/watch?v=sZ0bZGfg_m4 <br>
 🔖 Curso de React.js 4: https://www.youtube.com/watch?v=JZQ8m08cbF0 <br>
+🔖 Curso Intensivo de Next JS e React: https://www.cod3r.com.br/courses/curso-intensivo-next-react <br>
+🔖 Curso de React Native com Hooks e Context API - Cadastro Completo: https://www.cod3r.com.br/courses/react-native-crud <br>
 
 ## 📚 CURSO DE ANGULAR:
 
@@ -506,11 +511,21 @@ Playlist de prática de HTML & CSS: <br>
 🔖 Curso de Angular 6: https://www.youtube.com/playlist?list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI <br>
 🔖 Curso de Angular (17 aulas): https://goo.gl/6rT9ZC <br>
 🔖 Curso de Angular 2 (56 aulas): https://goo.gl/mxPqRt <br>
+🔖 Curso de Angular 9 - Essencial: https://www.cod3r.com.br/courses/angular-9-essencial <br>
 
 ## 📚 CURSO DE VUE:
 
 🔖 Uma library que me ajuda muito: https://revue-draggable.vercel.app/ <br>
 🔖 https://github.com/kyvg/vue3-notification <br>
+🔖 Aplicação Desktop com JavaScript, Electron JS e Vue JS: https://www.cod3r.com.br/courses/electron-vue <br>
+
+## 📚 CURSO DE SVELTE:
+
+🔖 Curso Intensivo de Svelte: https://www.cod3r.com.br/courses/svelte-intensivo <br>
+
+## 📚 CURSO DE FLUTTER:
+
+🔖 Curso de Flutter - Desenvolva um Cadastro Completo 2020: https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo <br>
 
 ## 📚 CURSO DE JQUERY:
 
