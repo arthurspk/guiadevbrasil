@@ -335,6 +335,10 @@
 
 🔖 https://devchallenge.vercel.app/challenges?type=mobile <br>
 
+## 📚 SITES PARA APRENDER PADRÕES DE PROJETOS:
+
+🔖 https://refactoring.guru/pt-br/design-patterns <br>
+
 ## 📚 IDEIAS PARA PROJETO:
 
 🔖 https://github.com/florinpop17/app-ideas <br>
