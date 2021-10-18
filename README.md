@@ -30,6 +30,7 @@
 🔖 Treehouse: https://teamtreehouse.com/ <br>
 🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
 🔖 Cod3r: https://cod3r.com.br/ <br>
+🔖 Wazana.dev: https://www.wazana.dev/ <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
@@ -81,6 +82,7 @@
 🔖 https://bergamot.io <br>
 🔖 https://justremote.co <br>
 🔖 https://workingnomads.co <br>
+🔖 https://portal.gupy.io/ <br>
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
@@ -140,6 +142,7 @@
 
 ## 📚 FERRAMENTAS PARA HOSPEDAS SEU SITE DE GRAÇA: 
 
+🔖 https://pages.github.com/ <br>
 🔖 https://www.netlify.com/ <br>
 🔖 https://pages.github.com/ <br>
 🔖 https://www.heroku.com/ <br>
@@ -275,6 +278,8 @@
 🔖 https://www.youtube.com/c/EscolaFrontend/ <br>
 🔖 https://www.youtube.com/c/Academind/ <br>
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
+🔖 https://www.youtube.com/c/BrainnCo <br>
+🔖 https://www.youtube.com/c/queroserninja <br>
 
 ## 📚 BLOGS E PODCASTS:
 
@@ -367,6 +372,8 @@
 🔖 Faça 15 Projetos em JavaScript (Inglês): https://www.youtube.com/watch?v=3PHXvlpOkf4 <br>
 🔖 Playlist de projetos de JS: https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j <br>
 🔖 Fundamentos de JavaScript Funcional: https://www.cod3r.com.br/courses/javascript-funcional-fundamentos <br>
+🔖 Minu curso de JavaScript (twitch.tv/marcobrunodev): https://www.twitch.tv/collections/ytNmp6EnJBbSoQ
+🔖 Curso de JavaScript para ReactJS: https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va
 
 ## 📚 CURSO DE HTML & CSS:
 
@@ -379,6 +386,7 @@
 🔖 HTML 5 Curso 2: https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o <br>
 🔖 Curso Completo de HTML5 (42 aulas): https://goo.gl/SD4p4g: <br>
 🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ
+🔖 Curso de Front-end (twitch.tv/marcobrunodev): https://www.twitch.tv/collections/kAw_NbXVBxa0yg
 
 🔖 CSS3
 
@@ -495,6 +503,10 @@ Playlist de prática de HTML & CSS: <br>
 
 ## 📚 CURSO DE REACT:
 
+🔖 Curso ReactJS Ninja - React + Webpack - https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf
+🔖 Bootcamp de React: https://fdaciuk.notion.site/Bootcamp-React-js-B-Academy-04beed6c0dda4b79a28709b0f4cf6042<br>
+🔖 Playlist completa de cursos e videos sobre JavaScript para React, ReactJS, Next.js e React Native: https://www.youtube.com/playlist?list=PL45i6mPs-neh9PGc1gHkJUj3GQt4mI5fx
+🔖 Playlist resumida de ReactJS fullstack: https://www.youtube.com/playlist?list=PL45i6mPs-nej4abVwpGPqwfDILRz-hLr0
 🔖 Curso de React.js 1: https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1 <br>
 🔖 Curso de React.js 2: https://www.alura.com.br/imersao-react/aula01-react-alurakut <br>
 🔖 Curso de React.js 3: https://www.youtube.com/watch?v=sZ0bZGfg_m4 <br>
@@ -516,6 +528,12 @@ Playlist de prática de HTML & CSS: <br>
 
 ## 📚 CURSO DE VUE:
 
+🔖 Introdução ao Vue.js (2): https://digitalinnovation.one/cursos/desenvolvendo-sua-primeira-aplicacao-com-vuejs
+🔖 Curso completo e gratuito de Vue.js 3 do iniciante ao avançado: https://treinamento.vuejsbrasil.org/
+🔖 Curso de Vue3: https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
+🔖 Vuejs e Nodejs: https://www.youtube.com/playlist?list=PLKvsMn7xWutbFX1NpzjEdn44OOyDN5ax6
+🔖 Vue Nux Week (Curso de Vue, Nuxt, Typescript e TailwindCSS): https://www.youtube.com/playlist?list=PL6GSB1I1APjqS1ligyQwHeVT0sAOWNkWH
+🔖 Aprendendo Front-End com 9 Projetos - Projeto Vue: https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsjhon8AQt9Kfzx_GK26y-n
 🔖 Uma library que me ajuda muito: https://revue-draggable.vercel.app/ <br>
 🔖 https://github.com/kyvg/vue3-notification <br>
 🔖 Aplicação Desktop com JavaScript, Electron JS e Vue JS: https://www.cod3r.com.br/courses/electron-vue <br>
@@ -526,6 +544,8 @@ Playlist de prática de HTML & CSS: <br>
 
 ## 📚 CURSO DE FLUTTER:
 
+🔖 Curso de Flutter - https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS
+🔖 Curso de Flutter - https://www.youtube.com/playlist?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg
 🔖 Curso de Flutter - Desenvolva um Cadastro Completo 2020: https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo <br>
 
 ## 📚 CURSO DE JQUERY:
@@ -539,15 +559,32 @@ Playlist de prática de HTML & CSS: <br>
 ## 📚 CURSO DE SASS:
 
 🔖 Curso de Sass (18 aulas) /Inglês/: https://goo.gl/DzRv1e <br>
+🔖 Curso de Sass: https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7 <br>
 
 ## 📚 CURSO DE BOOTSTRAP:
 
+🔖 Criando um site com Bootstrap 4 - https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR <br>
+🔖 Bootstrap 4: https://www.youtube.com/playlist?list=PLR8OzKI52ppXTZNlOJWDA814gMRkLJCJG <br>
+🔖 Loja Virtual com Bootstrap 5 - https://www.youtube.com/playlist?list=PL0YuSuacUEWudSOhCTsJlqWKxQHdeFxUr <br>
 🔖 Curso de Bootstrap (16 aulas): https://goo.gl/xFDOxT <br>
+🔖 Curso de Bootstrap: https://www.youtube.com/playlist?list=PLMy95_4XE08Pr2_9gRnZ4niSgp00FgIHP <br>
 
 ## 📚 GIT E GITHUB:
 
+🔖 Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal: https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 🔖 https://github.com/DanielHe4rt/git4noobs <br>
 🔖 https://github.com/theandersonn/comandos-git <br>
+
+## 📚 FERRAMENTAS FRONT-END (GIT, Github, Node, NPM, Sass/SCSS, etc.):
+🔖 Mini-curso grátis de Chrome dev tools - https://www.youtube.com/playlist?list=PL1dUY2RYa2RhuA2eT3BbBM7ujHo-WK0Jm <br>
+🔖 cap. 01 | Curso ferramentas front-end para iniciantes - https://www.youtube.com/playlist?list=PL1dUY2RYa2RiML41Zq2WhYPPr15oC6Gy6 <br>
+🔖 cap. 02 | Curso ferramentas front-end para iniciantes - https://www.youtube.com/playlist?list=PL1dUY2RYa2RgI_BCKxQhlwu2PGWVLdGbq <br>
+🔖 cap. 03 | Curso ferramentas front-end para iniciantes - Markdown - https://www.youtube.com/playlist?list=PL1dUY2RYa2RiAgnw_g6QBy9BbZXF6WFZm <br>
+🔖 cap. 04 | Curso ferramentas front-end - SASS: preparando o ambiente - https://www.youtube.com/playlist?list=PL1dUY2RYa2Ri9c3PtL8bjsL1zQKCouXEY <br>
+🔖 cap. 05 | SASS: primeiros comandos - Curso Ferramentas Front-end - https://www.youtube.com/playlist?list=PL1dUY2RYa2Rj77l6Wv3Xc8viGKWXwtyed <br>
+🔖 Cap. 06 | Curso SASS: projeto animação - Ferramentas Front-end - https://www.youtube.com/playlist?list=PL1dUY2RYa2Ri-gbPvUdctSBAvnQbZ8lA7 <br>
+🔖 Gulp - https://www.youtube.com/playlist?list=PLARhMvcrqcLwc-0Wp8B6jo5SxJ2kYU4gR <br>
+🔖 Curso ReactJS Ninja - React + Webpack - https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
