@@ -275,6 +275,7 @@
 🔖 https://www.youtube.com/c/EscolaFrontend/ <br>
 🔖 https://www.youtube.com/c/Academind/ <br>
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
+🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
 
 ## 📚 BLOGS E PODCASTS:
 
@@ -443,7 +444,8 @@ Playlist de prática de HTML & CSS: <br>
 🔖 Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
 🔖 Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
 🔖 Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
-🔖 Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
+🔖 Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_ <br>
+🔖 Curso de  C 16: https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA
 
 ## 📚 CURSO C++
 
