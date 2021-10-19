@@ -95,6 +95,7 @@
 🔖 https://devhints.io <br>
 🔖 https://caiuse.com <br>
 🔖 https://bundlephobia.com <br>
+🔖 https://refactoring.guru/pt-br/design-patterns <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
