@@ -138,7 +138,7 @@
 🔖 https://drawerrr.com/challenge <br>
 🔖 https://www.uplabs.com/challenges <br>
 
-## 📚 FERRAMENTAS PARA HOSPEDAS SEU SITE DE GRAÇA: 
+## 📚 FERRAMENTAS PARA HOSPEDAR SEU SITE DE GRAÇA: 
 
 🔖 https://www.netlify.com/ <br>
 🔖 https://pages.github.com/ <br>
