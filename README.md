@@ -51,7 +51,7 @@
 
 ## 📚 TEMPLATES HTML GRATUITOS: 
 
-🔖 https://bootsstrapmade.com <br>
+🔖 https://bootstrapmade.com/ <br>
 🔖 https://w3layouts.com <br>
 🔖 https://onepagelove.com <br>
 
