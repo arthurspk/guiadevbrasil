@@ -11,6 +11,7 @@
 🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
 🔖 DIO: https://www.digitalinnovation.one <br>
 🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
+🔖 Origamid: https://www.origamid.com/ <br>
 🔖 Udemy: https://www.udemy.com/ <br>
 🔖 HackerRank: https://www.hackerrank.com/ <br>
 🔖 Hackereath: https://www.hackerearth.com/ <br>
@@ -48,6 +49,7 @@
 🔖 Schemaverse: https://schemaverse.com <br>
 🔖 Code Monkey: https://codemonkey.com <br>
 🔖 CodinGame: https://codingame.com <br>
+🔖 Edabit: https://edabit.com/challenges <br>
 
 ## 📚 TEMPLATES HTML GRATUITOS:
 
@@ -230,6 +232,7 @@
 🔖 Shape: https://shape.so/ <br>
 🔖 Flaticon: https://www.flaticon.com/br/ <br>
 🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
+🔖 devicon: https://devicon.dev/ <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
@@ -349,6 +352,7 @@
 ## 📚 IDEIAS PARA PROJETO:
 
 🔖 https://github.com/florinpop17/app-ideas <br>
+🔖 https://what-to-code.com/ <br>
 
 ## 📚 CURSOS DE JAVA:
 
@@ -398,7 +402,7 @@
 🔖 Curso de CSS3 3: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
 🔖 Curso de CSS3 4: https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos <br>
 🔖 Curso de CSS3 5: https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s <br>
-Playlist de prática de HTML & CSS: <br>
+🔖 Playlist de prática de HTML & CSS: <br>
 🔖 Curso de CSS3 6: https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z <br>
 🔖 Curso de CSS3 7: https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G <br>
 🔖 Curso de CSS3 8: https://www.youtube.com/watch?v=ZFQkb26UD1Y <br>
