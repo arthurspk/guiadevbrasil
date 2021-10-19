@@ -560,31 +560,30 @@ Playlist de prática de HTML & CSS: <br>
 
 🔖 Curso de Sass (18 aulas) /Inglês/: https://goo.gl/DzRv1e <br>
 🔖 Curso de Sass: https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7 <br>
+🔖 cap. 04 | Curso ferramentas front-end - SASS: preparando o ambiente: https://www.youtube.com/playlist?list=PL1dUY2RYa2Ri9c3PtL8bjsL1zQKCouXEY <br>
+🔖 cap. 05 | SASS: primeiros comandos - Curso Ferramentas Front-end: https://www.youtube.com/playlist?list=PL1dUY2RYa2Rj77l6Wv3Xc8viGKWXwtyed <br>
+🔖 Cap. 06 | Curso SASS: projeto animação - Ferramentas Front-end: https://www.youtube.com/playlist?list=PL1dUY2RYa2Ri-gbPvUdctSBAvnQbZ8lA7 <br>
 
 ## 📚 CURSO DE BOOTSTRAP:
 
-🔖 Criando um site com Bootstrap 4 - https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR <br>
+🔖 Criando um site com Bootstrap 4: https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR <br>
 🔖 Bootstrap 4: https://www.youtube.com/playlist?list=PLR8OzKI52ppXTZNlOJWDA814gMRkLJCJG <br>
-🔖 Loja Virtual com Bootstrap 5 - https://www.youtube.com/playlist?list=PL0YuSuacUEWudSOhCTsJlqWKxQHdeFxUr <br>
+🔖 Loja Virtual com Bootstrap 5: https://www.youtube.com/playlist?list=PL0YuSuacUEWudSOhCTsJlqWKxQHdeFxUr <br>
 🔖 Curso de Bootstrap (16 aulas): https://goo.gl/xFDOxT <br>
 🔖 Curso de Bootstrap: https://www.youtube.com/playlist?list=PLMy95_4XE08Pr2_9gRnZ4niSgp00FgIHP <br>
 
 ## 📚 GIT E GITHUB:
+🔖 cap. 01 | Curso ferramentas front-end para iniciantes: https://www.youtube.com/playlist?list=PL1dUY2RYa2RiML41Zq2WhYPPr15oC6Gy6 <br>
+🔖 cap. 02 | Curso ferramentas front-end para iniciantes: https://www.youtube.com/playlist?list=PL1dUY2RYa2RgI_BCKxQhlwu2PGWVLdGbq <br>
 
 🔖 Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal: https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 🔖 https://github.com/DanielHe4rt/git4noobs <br>
 🔖 https://github.com/theandersonn/comandos-git <br>
 
-## 📚 FERRAMENTAS FRONT-END (GIT, Github, Node, NPM, Sass/SCSS, etc.):
-🔖 Mini-curso grátis de Chrome dev tools - https://www.youtube.com/playlist?list=PL1dUY2RYa2RhuA2eT3BbBM7ujHo-WK0Jm <br>
-🔖 cap. 01 | Curso ferramentas front-end para iniciantes - https://www.youtube.com/playlist?list=PL1dUY2RYa2RiML41Zq2WhYPPr15oC6Gy6 <br>
-🔖 cap. 02 | Curso ferramentas front-end para iniciantes - https://www.youtube.com/playlist?list=PL1dUY2RYa2RgI_BCKxQhlwu2PGWVLdGbq <br>
-🔖 cap. 03 | Curso ferramentas front-end para iniciantes - Markdown - https://www.youtube.com/playlist?list=PL1dUY2RYa2RiAgnw_g6QBy9BbZXF6WFZm <br>
-🔖 cap. 04 | Curso ferramentas front-end - SASS: preparando o ambiente - https://www.youtube.com/playlist?list=PL1dUY2RYa2Ri9c3PtL8bjsL1zQKCouXEY <br>
-🔖 cap. 05 | SASS: primeiros comandos - Curso Ferramentas Front-end - https://www.youtube.com/playlist?list=PL1dUY2RYa2Rj77l6Wv3Xc8viGKWXwtyed <br>
-🔖 Cap. 06 | Curso SASS: projeto animação - Ferramentas Front-end - https://www.youtube.com/playlist?list=PL1dUY2RYa2Ri-gbPvUdctSBAvnQbZ8lA7 <br>
-🔖 Gulp - https://www.youtube.com/playlist?list=PLARhMvcrqcLwc-0Wp8B6jo5SxJ2kYU4gR <br>
-🔖 Curso ReactJS Ninja - React + Webpack - https://www.youtube.com/playlist?list=PLr4c053wuXU-mP3W_Z8EX_MLaHktns4jf <br>
+## 📚 FERRAMENTAS FRONT-END:
+🔖 Mini-curso grátis de Chrome dev tools: https://www.youtube.com/playlist?list=PL1dUY2RYa2RhuA2eT3BbBM7ujHo-WK0Jm <br>
+🔖 cap. 03 | Curso ferramentas front-end para iniciantes - Markdown: https://www.youtube.com/playlist?list=PL1dUY2RYa2RiAgnw_g6QBy9BbZXF6WFZm <br>
+🔖 Gulp: https://www.youtube.com/playlist?list=PLARhMvcrqcLwc-0Wp8B6jo5SxJ2kYU4gR <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
