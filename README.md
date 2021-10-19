@@ -289,6 +289,7 @@
 🔖 https://www.youtube.com/c/Academind/ <br>
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
+🔖 https://www.youtube.com/c/cfbcursos <br>
 
 ## 📚 BLOGS E PODCASTS:
 
