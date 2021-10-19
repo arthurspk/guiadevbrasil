@@ -10,6 +10,7 @@
 
 🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
 🔖 DIO: https://www.digitalinnovation.one <br>
+🔖 Origamid: https://www.origamid.com/ <br>
 🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
 🔖 Udemy: https://www.udemy.com/ <br>
 🔖 HackerRank: https://www.hackerrank.com/ <br>
@@ -48,6 +49,7 @@
 🔖 Schemaverse: https://schemaverse.com <br>
 🔖 Code Monkey: https://codemonkey.com <br>
 🔖 CodinGame: https://codingame.com <br>
+🔖 Edabit: https://edabit.com/challenges <br>
 
 ## 📚 TEMPLATES HTML GRATUITOS: 
 
@@ -213,6 +215,7 @@
 
 🔖 DrawKit: https://www.drawkit.io/free-icons/ <br>
 🔖 Eva Icons: https://akveo.github.io/eva-icons/#/ <br>
+🔖 devicon: https://devicon.dev/ <br>
 🔖 Feather: https://feathericons.com/ <br>
 🔖 Font Awesome: https://fontawesome.com/ <br>
 🔖 Heroicons: https://heroicons.dev/ <br>
@@ -340,6 +343,7 @@
 ## 📚 IDEIAS PARA PROJETO:
 
 🔖 https://github.com/florinpop17/app-ideas <br>
+🔖 https://what-to-code.com/ <br>
 
 ## 📚 CURSOS DE JAVA:
 
