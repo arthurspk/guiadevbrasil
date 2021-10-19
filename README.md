@@ -1,4 +1,4 @@
-## 📚 GUIA EXTENSO DE PROGRAMAÇÃO 
+## 📚 GUIA EXTENSO DE PROGRAMAÇÃO
 
 🌟 ANTES DE TUDO, ME AJUDA AI DEU UM TRABALHÃO ORGANIZAR TODOS ESSES LINKS, ENTÃO AJUDA AI 🌟<br>
 
@@ -11,6 +11,7 @@
 🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
 🔖 DIO: https://www.digitalinnovation.one <br>
 🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
+🔖 Origamid: https://www.origamid.com/ <br>
 🔖 Udemy: https://www.udemy.com/ <br>
 🔖 HackerRank: https://www.hackerrank.com/ <br>
 🔖 Hackereath: https://www.hackerearth.com/ <br>
@@ -34,7 +35,7 @@
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
-🔖 https://textpod3d.web.app (Cria efeitos de texto 3D)  <br>
+🔖 https://textpod3d.web.app (Cria efeitos de texto 3D) <br>
 🔖 https://shapedividers.com (Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG) <br>
 🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
 🔖 https://bseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
@@ -49,12 +50,14 @@
 🔖 Schemaverse: https://schemaverse.com <br>
 🔖 Code Monkey: https://codemonkey.com <br>
 🔖 CodinGame: https://codingame.com <br>
+🔖 Edabit: https://edabit.com/challenges <br>
 
-## 📚 TEMPLATES HTML GRATUITOS: 
+## 📚 TEMPLATES HTML GRATUITOS:
 
-🔖 https://bootsstrapmade.com <br>
+🔖 https://bootstrapmade.com/ <br>
 🔖 https://w3layouts.com <br>
 🔖 https://onepagelove.com <br>
+🔖 https://themewagon.com <br>
 
 ## 📚 SITES PARA APRENDER OU TREINAR CSS:
 
@@ -77,8 +80,8 @@
 
 ## 📚 SITE PARA BUSCAR VAGAS REMOTAS:
 
-🔖 https://remoteok.io  <br>
-🔖 https://hired.com  <br>
+🔖 https://remoteok.io <br>
+🔖 https://hired.com <br>
 🔖 https://bergamot.io <br>
 🔖 https://justremote.co <br>
 🔖 https://workingnomads.co <br>
@@ -87,7 +90,7 @@
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
 🔖 https://internxt.com/ <br>
-🔖 https://motion.dev/  <br>
+🔖 https://motion.dev/ <br>
 🔖 https://hokusai.app/ <br>
 🔖 https://url-shortene-r.herokuapp.com/ <br>
 🔖 https://hiddentools.dev <br>
@@ -101,17 +104,26 @@
 🔖 https://jonsuh.com/hamburgers/ <br>
 🔖 https://ianlunn.github.io/Hover/ <br>
 
+## 📚 FERRAMENTAS PARA BUSCAR PROJETOS OPEN SOURCE:
+
+🔖 http://up-for-grabs.net/ <br>
+🔖 http://issuehub.io/ <br>
+🔖 https://www.codetriage.com/ <br>
+🔖 http://www.firsttimersonly.com/ <br>
+🔖 https://twitter.com/yourfirstpr <br>
+🔖 https://github.com/explore/ <br>
+
 ## 📚 MELHORES DISTROS LINUX PARA PROGRAMADORES:
 
-🔖 Pop!_Os - https://pop.system76.com/ <br> 
+🔖 Pop!\_Os - https://pop.system76.com/ <br>
 🔖 Arch Linux - https://archlinux.org/ <br>
 🔖 Debian - https://www.debian.org/ <br>
 🔖 Ubuntu - https://ubuntu.com/ <br>
 🔖 Fedora - https://getfedora.org/pt_BR/ <br>
 🔖 Linux Mint - https://linuxmint.com/ <br>
 🔖 OpenSUSE - https://www.opensuse.org <br>
-🔖 Kali Linux - https://www.kali.org  <br>
-🔖 KDE Neon - https://www.neon.kde.org  <br>
+🔖 Kali Linux - https://www.kali.org <br>
+🔖 KDE Neon - https://www.neon.kde.org <br>
 🔖 Solus - https://www.getsol.us <br>
 🔖 Tails - https://www.tails.boum.org <br>
 
@@ -140,7 +152,7 @@
 🔖 https://drawerrr.com/challenge <br>
 🔖 https://www.uplabs.com/challenges <br>
 
-## 📚 FERRAMENTAS PARA HOSPEDAS SEU SITE DE GRAÇA: 
+## 📚 FERRAMENTAS PARA HOSPEDAR SEU SITE DE GRAÇA:
 
 🔖 https://pages.github.com/ <br>
 🔖 https://www.netlify.com/ <br>
@@ -151,11 +163,11 @@
 🔖 https://vercel.com/ <br>
 🔖 https://infinityfree.net/ <br>
 
-## 📚 SITES PARA INSPIRAR O SEU DESENVOLVIMENTO: 
+## 📚 SITES PARA INSPIRAR O SEU DESENVOLVIMENTO:
 
 🔖 https://www.producthunt.com/ <br>
 🔖 https://namify.tech/?ref=producthunt <br>
-🔖 https://dribbble.com/  <br>
+🔖 https://dribbble.com/ <br>
 🔖 https://br.pinterest.com/ <br>
 🔖 https://www.deviantart.com/ <br>
 🔖 https://www.lapa.ninja/ <br>
@@ -174,7 +186,7 @@
 
 ## 📚 SITES PARA BAIXAR E ENCONTRAR FONTES:
 
-🔖 Adobe Fonts: https://fonts.adobe.com/  <br>
+🔖 Adobe Fonts: https://fonts.adobe.com/ <br>
 🔖 Google fonts: https://fonts.google.com/ <br>
 🔖 Dafont: https://www.dafont.com/pt/ <br>
 🔖 NetFontes: https://www.netfontes.com.br/ <br>
@@ -211,7 +223,7 @@
 🔖 Delesing: https://delesign.com/free-designs/graphics/ <br>
 🔖 Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
 
-## 📚 SITE DE ICONES: 
+## 📚 SITE DE ICONES:
 
 🔖 DrawKit: https://www.drawkit.io/free-icons/ <br>
 🔖 Eva Icons: https://akveo.github.io/eva-icons/#/ <br>
@@ -223,6 +235,7 @@
 🔖 Shape: https://shape.so/ <br>
 🔖 Flaticon: https://www.flaticon.com/br/ <br>
 🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
+🔖 devicon: https://devicon.dev/ <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
@@ -280,6 +293,7 @@
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 🔖 https://www.youtube.com/c/BrainnCo <br>
 🔖 https://www.youtube.com/c/queroserninja <br>
+🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
 
 ## 📚 BLOGS E PODCASTS:
 
@@ -313,8 +327,8 @@
 
 🔖 Clean Code - Código Limpo <br>
 🔖 Refactoring - Refatoração <br>
-🔖 Clean Archtecture - Arquitertura Limpa  <br>
-🔖 O programador pragmático  <br>
+🔖 Clean Archtecture - Arquitertura Limpa <br>
+🔖 O programador pragmático <br>
 
 ## 📚 APPS PARA PRATICAR PROGRAMAÇÃO:
 
@@ -343,10 +357,11 @@
 ## 📚 IDEIAS PARA PROJETO:
 
 🔖 https://github.com/florinpop17/app-ideas <br>
+🔖 https://what-to-code.com/ <br>
 
 ## 📚 CURSOS DE JAVA:
 
-🔖 Java Tutorial for Beginners: https://www.youtube.com/watch?v=eIrMbAQSU34  <br>
+🔖 Java Tutorial for Beginners: https://www.youtube.com/watch?v=eIrMbAQSU34 <br>
 🔖 Maratona Java: https://youtu.be/VKjFuX91G5Q <br>
 🔖 Learn Java 8 Full Course in 9 Hours: https://www.youtube.com/watch?v=grEKMHGYyns <br>
 🔖 Java Programming: https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5 <br>
@@ -360,7 +375,7 @@
 
 🔖 Curso completo de Javascript (46 aulas): https://goo.gl/zfjfkQ <br>
 🔖 Curso de introdução ao Java script: https://youtu.be/i6Oi-YtXnAU <br>
-🔖 Curso Java script básico: https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm  <br>
+🔖 Curso Java script básico: https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm <br>
 🔖 Curso Java Script: https://youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC <br>
 🔖 Att Java Script: https://www.rodrigobrito.dev.br/blog/js-0701-javascript-completo-es6-classes <br>
 🔖 JavaScript: https://www.youtube.com/watch?v=8GPPJpiLqHk <br>
@@ -395,7 +410,7 @@
 🔖 Curso de CSS3 3: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
 🔖 Curso de CSS3 4: https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos <br>
 🔖 Curso de CSS3 5: https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s <br>
-Playlist de prática de HTML & CSS: <br>
+🔖 Playlist de prática de HTML & CSS: <br>
 🔖 Curso de CSS3 6: https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z <br>
 🔖 Curso de CSS3 7: https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G <br>
 🔖 Curso de CSS3 8: https://www.youtube.com/watch?v=ZFQkb26UD1Y <br>
@@ -403,7 +418,7 @@ Playlist de prática de HTML & CSS: <br>
 🔖 Curso completo de CSS3 (22 aulas): https://goo.gl/ebjzVG <br>
 🔖 Curso de CSS3 com Sass e Compass (9 aulas): https://goo.gl/bAO0hE <br>
 
-## 📚 CURSO DE PYTHON: 
+## 📚 CURSO DE PYTHON:
 
 🔖 Curso de Python 1: https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 <br>
 🔖 Curso de Python 2: https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe <br>
@@ -419,46 +434,45 @@ Playlist de prática de HTML & CSS: <br>
 🔖 PYTHON 3 COMPLETO CURSO EM VIDEO: <br>
 🔖 Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
 🔖 Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
-🔖 Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH  <br>
+🔖 Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH <br>
 🔖 Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- <br>
 🔖 Python 3 - Curso Rápido: https://www.cod3r.com.br/courses/python-3-curso-rapido <br>
 
-## 📚 CURSO DE PHP: 
+## 📚 CURSO DE PHP:
 
 🔖 Curso de PHP 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq <br>
 🔖 Curso de PHP 2: https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k <br>
 🔖 Curso Básico de PHP (20 aulas): https://goo.gl/wLra9o <br>
 🔖 Curso Completo de PHP (108 aulas): https://goo.gl/1th6ok <br>
 
-
 ## 📚 CURSO DE C#:
 
-🔖 Curso de  C#: https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
+🔖 Curso de C#: https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
 
 ## 📚 CURSO DE C:
 
-🔖 Curso de  C 1: https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
-🔖 Curso de  C 2: https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2 <br>
-🔖 Curso de  C 3: https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR <br>
-🔖 Curso de  C 4: https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A <br>
-🔖 Curso de  C 5: https://www.youtube.com/playlist?list=PL78280D6BE6F05D34 <br>
-🔖 Curso de  C 6: https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW <br>
-🔖 Curso de  C 7: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
-🔖 Curso de  C 8: https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8 <br>
-🔖 Curso de  C 9: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp <br>
-🔖 Curso de  C 10: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R <br>
-🔖 Curso de  C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE <br>
-🔖 Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
-🔖 Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
-🔖 Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
-🔖 Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
+🔖 Curso de C 1: https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
+🔖 Curso de C 2: https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2 <br>
+🔖 Curso de C 3: https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR <br>
+🔖 Curso de C 4: https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A <br>
+🔖 Curso de C 5: https://www.youtube.com/playlist?list=PL78280D6BE6F05D34 <br>
+🔖 Curso de C 6: https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW <br>
+🔖 Curso de C 7: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
+🔖 Curso de C 8: https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8 <br>
+🔖 Curso de C 9: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp <br>
+🔖 Curso de C 10: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R <br>
+🔖 Curso de C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE <br>
+🔖 Curso de C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
+🔖 Curso de C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
+🔖 Curso de C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
+🔖 Curso de C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_ <br>
+🔖 Curso de C 16: https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA
 
 ## 📚 CURSO C++
 
-🔖 Curso de  C++ 1: https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40 <br>
+🔖 Curso de C++ 1: https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40 <br>
 🔖 Curso de C++ 2: https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5 <br>
 🔖 Guia de C++ 3:https://www.inf.ufpr.br/ci208/NotasAula.pdf <br>
-
 
 ## 📚 CURSO DE KOTLIN:
 
@@ -494,7 +508,7 @@ Playlist de prática de HTML & CSS: <br>
 
 ## 📚 CURSO DE RUBY:
 
-🔖 Introdução ao Ruby On-Rails: https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ  <br>
+🔖 Introdução ao Ruby On-Rails: https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ <br>
 🔖 Curso de Ruby On-Rails 1: https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV <br>
 🔖 Curso de Ruby On-Rails 2: https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP <br>
 🔖 Curso de Ruby On-Rails 3: https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0 <br>
@@ -587,12 +601,12 @@ Playlist de prática de HTML & CSS: <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
-CD:  <br>
+CD: <br>
 dir / tree /f (ver o que tem dentro da pasta) <br>
 mkdir (nome da pasta) - criar novoso diretorios/pastas <br>
 git status (Verifica o status do repositório) <br>
-git add -A  (Trackear o que não foi trackeado, inserir tudo) <br>
-git commit -m (Para commitar) / git commit -am  <br>
+git add -A (Trackear o que não foi trackeado, inserir tudo) <br>
+git commit -m (Para commitar) / git commit -am <br>
 https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m <br>
 git log (lista de commit) <br>
 git reset (--soft / --mixed / --hard) <br>
@@ -625,7 +639,7 @@ Verifica o status do repositório <br>
 git status <br>
 
 Adiciona todos os arquivos para serem commitados <br>
-git add . / git add -A  <br>
+git add . / git add -A <br>
 
 Commitando arquivos
 git commit -m "inserir um comentário significativo" <br>
@@ -644,7 +658,7 @@ Puxando alterações do repositório remoto <br>
 git pull origin <branch> <br>
 
 Trabalhando com branchs <br>
-git checkout -b nome-branch  <br>
+git checkout -b nome-branch <br>
 
 Aplicando merge em branchs <br>
 git merge nome-branch // precisa estar na branch de destino <br>
@@ -654,6 +668,14 @@ git branch <br>
 
 Deletando uma branch local <br>
 git branch -D nome-branch <br>
+git branch -d nome-branch <br>
 
 Deletando uma branch remoto <br>
 git push origin :nome-branch <br>
+
+Deletando todas branch que nao se encontam no repositorio remoto <br>
+git branch --merged ## <br>
+git branch -r | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin | grep -v "master") | xargs git branch -d <br>
+
+Deletando todos branches no repositorio local (excepto o master) <br>
+git branch | grep -v "master" | xargs git branch -D <br>
