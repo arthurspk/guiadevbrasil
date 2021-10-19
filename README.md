@@ -63,7 +63,7 @@
 🔖 https://cssgridgarden.com <br>
 🔖 https://flukeout.github.io <br>
 🔖 https://flexboxfroggy.com <br>
-🔖 https://flexboxdefense.com <br>
+🔖 http://flexboxdefense.com <br>
 🔖 https://100dayscss.com <br>
 🔖 https://cssbattle.dev <br>
 🔖 https://css-tricks.com/guides/ <br>
