@@ -621,6 +621,14 @@ git branch <br>
 
 Deletando uma branch local <br>
 git branch -D nome-branch <br>
+git branch -d nome-branch <br>
 
 Deletando uma branch remoto <br>
 git push origin :nome-branch <br>
+
+Deletando todas branch que nao se encontam no repositorio remoto <br>
+git branch --merged ##
+git branch -r | egrep -v -f /dev/fd/0  <(git branch -vv | grep origin | grep -v "master") | xargs git branch -d <br>
+
+Deletando todos branches no repositorio local (excepto o master) <br>
+git branch | grep -v "master" | xargs git branch -D  <br>
