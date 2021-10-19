@@ -107,7 +107,7 @@
 🔖 Ubuntu - https://ubuntu.com/ <br>
 🔖 Fedora - https://getfedora.org/pt_BR/ <br>
 🔖 Linux Mint - https://linuxmint.com/ <br>
-🔖 OpenSUSE - https://www.opensuse.org <br>
+🔖 OpenSUSE(Leap) - https://www.opensuse.org <br>
 🔖 Kali Linux - https://www.kali.org  <br>
 🔖 KDE Neon - https://www.neon.kde.org  <br>
 🔖 Solus - https://www.getsol.us <br>
