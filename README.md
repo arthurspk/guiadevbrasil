@@ -34,7 +34,7 @@
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
-🔖 https://textpod3d.web.app (Cria efeitos de texto 3D) <br>
+🔖 https://textpop3d.web.app/ (Cria efeitos de texto 3D) <br>
 🔖 https://shapedividers.com (Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG) <br>
 🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
 🔖 https://baseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
