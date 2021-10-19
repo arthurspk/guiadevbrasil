@@ -194,6 +194,7 @@
 🔖 1001 fonts: https://www.1001fonts.com/ <br>
 🔖 Abstract fonts: https://www.abstractfonts.com/ <br>
 🔖 Fontget: https://www.fontget.com/ <br>
+🔖 Material Design Icons: https://materialdesignicons.com/ <br>
 
 ## 📚 SITE DE DE PALETAS DE CORES:
 
