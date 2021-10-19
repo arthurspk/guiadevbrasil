@@ -92,6 +92,7 @@
 🔖 https://devhints.io <br>
 🔖 https://caiuse.com <br>
 🔖 https://bundlephobia.com <br>
+🔖 https://refactoring.guru/pt-br/design-patterns <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
@@ -334,10 +335,6 @@
 ## 📚 SITES PARA TREINAR PROJETOS MOBILE:
 
 🔖 https://devchallenge.vercel.app/challenges?type=mobile <br>
-
-## 📚 SITES PARA APRENDER PADRÕES DE PROJETO:
-
-🔖 https://refactoring.guru/pt-br/design-patterns <br>
 
 ## 📚 IDEIAS PARA PROJETO:
 
