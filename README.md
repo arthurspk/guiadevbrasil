@@ -105,7 +105,7 @@
 🔖 http://up-for-grabs.net/ <br>
 🔖 http://issuehub.io/ <br>
 🔖 https://www.codetriage.com/ <br>
-🔖 hhttp://www.firsttimersonly.com/ <br>
+🔖 http://www.firsttimersonly.com/ <br>
 🔖 https://twitter.com/yourfirstpr <br>
 🔖 https://github.com/explore/ <br>
 
