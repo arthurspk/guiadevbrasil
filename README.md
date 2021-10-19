@@ -11,6 +11,7 @@
 🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
 🔖 DIO: https://www.digitalinnovation.one <br>
 🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
+🔖 Origamid: https://www.origamid.com/ <br>
 🔖 Udemy: https://www.udemy.com/ <br>
 🔖 HackerRank: https://www.hackerrank.com/ <br>
 🔖 Hackereath: https://www.hackerearth.com/ <br>
@@ -48,6 +49,8 @@
 🔖 Schemaverse: https://schemaverse.com <br>
 🔖 Code Monkey: https://codemonkey.com <br>
 🔖 CodinGame: https://codingame.com <br>
+🔖 Edabit: https://edabit.com/challenges <br>
+
 
 ## 📚 TEMPLATES HTML GRATUITOS: 
 
@@ -209,6 +212,7 @@
 🔖 Delesing: https://delesign.com/free-designs/graphics/ <br>
 🔖 Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
 
+
 ## 📚 SITE DE ICONES: 
 
 🔖 DrawKit: https://www.drawkit.io/free-icons/ <br>
@@ -221,6 +225,7 @@
 🔖 Shape: https://shape.so/ <br>
 🔖 Flaticon: https://www.flaticon.com/br/ <br>
 🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
+🔖 devicon: https://devicon.dev/ <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
@@ -340,6 +345,8 @@
 ## 📚 IDEIAS PARA PROJETO:
 
 🔖 https://github.com/florinpop17/app-ideas <br>
+🔖 https://what-to-code.com/ <br>
+
 
 ## 📚 CURSOS DE JAVA:
 
