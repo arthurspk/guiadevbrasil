@@ -37,7 +37,7 @@
 🔖 https://textpod3d.web.app (Cria efeitos de texto 3D) <br>
 🔖 https://shapedividers.com (Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG) <br>
 🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
-🔖 https://bseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
+🔖 https://baseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
 🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
 
@@ -289,6 +289,7 @@
 🔖 https://www.youtube.com/c/Academind/ <br>
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
+🔖 https://www.youtube.com/c/cfbcursos <br>
 
 ## 📚 BLOGS E PODCASTS:
 
