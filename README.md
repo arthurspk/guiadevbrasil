@@ -296,6 +296,7 @@
 
 ## 📚 BLOGS E PODCASTS:
 
+🔖 https://www.lambda3.com.br/lambda3-podcast/<br>
 🔖 https://devnaestrada.com.br/ <br>
 🔖 https://dicasdeprogramacao.com.br/ <br>
 🔖 https://podprogramar.com.br/ <br>
