@@ -94,7 +94,7 @@
 🔖 https://url-shortene-r.herokuapp.com/ <br>
 🔖 https://hiddentools.dev <br>
 🔖 https://devhints.io <br>
-🔖 https://caiuse.com <br>
+🔖 https://caniuse.com <br>
 🔖 https://bundlephobia.com <br>
 🔖 https://refactoring.guru/pt-br/design-patterns <br>
 
