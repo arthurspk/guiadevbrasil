@@ -77,6 +77,7 @@
 🔖 https://waitanimate.wstone.io <br>
 🔖 https://www.bestcssbuttongenerator.com <br>
 🔖 https://html-css-js.com/css/generator/ <br>
+🔖 https://bennettfeely.com/clippy/ (Criador de clip-path) <br>
 
 ## 📚 SITE PARA BUSCAR VAGAS REMOTAS:
 
