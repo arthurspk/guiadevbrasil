@@ -85,6 +85,7 @@
 🔖 https://bergamot.io <br>
 🔖 https://justremote.co <br>
 🔖 https://workingnomads.co <br>
+🔖 https://coodesh.com/ <br>
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
