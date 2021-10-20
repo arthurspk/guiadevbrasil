@@ -520,6 +520,10 @@
 🔖 Curso Intensivo de Next JS e React: https://www.cod3r.com.br/courses/curso-intensivo-next-react <br>
 🔖 Curso de React Native com Hooks e Context API - Cadastro Completo: https://www.cod3r.com.br/courses/react-native-crud <br>
 
+## 📚 CURSO DE REACT NATIVE:
+
+🔖 Curso de React Native 1: https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD <br>
+
 ## 📚 CURSO DE ANGULAR:
 
 🔖 Curso de Angular 1: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G <br>
