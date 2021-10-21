@@ -327,6 +327,8 @@
 🔖 Web Developer <br>
 🔖 React Developer Tools <br>
 🔖 Window Resizer <br>
+🔖 Vue Devtools <br>
+🔖 Dark Reader <br>
 
 ## 📚 RECOMENDAÇÃO DE LIVROS:
 
