@@ -314,6 +314,7 @@
 🔖 https://blog.corujadeti.com.br/ <br>
 🔖 https://cooperati.com.br/ <br>
 🔖 https://www.zup.com.br/blog <br>
+🔖 https://www.lambda3.com.br/lambda3-podcast/ <br>
 
 ## 📚 WEB DEVELOPER ROADMAP:
 
