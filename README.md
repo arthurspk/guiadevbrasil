@@ -32,7 +32,9 @@
 🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
 🔖 Cod3r: https://cod3r.com.br/ <br>
 🔖 TheOdinProject: https://www.theodinproject.com/ <br>
+🔖 FrontEndMaster: https://frontendmasters.com/ <br>
 🔖 Balta.io: balta.io <br>
+🔖 FrontEndMaster: https://frontendmasters.com/ <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
