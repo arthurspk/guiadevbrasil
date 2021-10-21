@@ -33,6 +33,8 @@
 🔖 Cod3r: https://cod3r.com.br/ <br>
 🔖 TheOdinProject: https://www.theodinproject.com/ <br>
 🔖 FrontEndMaster: https://frontendmasters.com/ <br>
+🔖 Balta.io: balta.io <br>
+🔖 FrontEndMaster: https://frontendmasters.com/ <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
@@ -136,14 +138,14 @@
 
 ## 📚 7 FERRAMENTAS PARA QUE TODO DEV PRECISA CONHECER:
 
-🔖 Figma: ferramenta para design de interfaces. <br>
-🔖 Insomnia: é um API Client, uma ferramenta para fazer testes de API's. <br>
-🔖 Rive: ferramenta colaborativa de animação para apps, jogos e sites. <br>
-🔖 CloudCraft: plataforma com foco em criar desenhos de arquiteturas AWS. <br>
-🔖 BundlePhobia: site para descobrir o custo de adicionar um npm package no seu pacote. <br>
-🔖 Font Flipper: Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
-🔖 VisBug: é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
-🔖 ThunderClient: é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
+🔖 [Figma](https://www.figma.com): ferramenta para design de interfaces. <br>
+🔖 [Insomnia](https://insomnia.rest): é um API Client, uma ferramenta para fazer testes de API's. <br>
+🔖 [Rive](https://rive.app): ferramenta colaborativa de animação para apps, jogos e sites. <br>
+🔖 [CloudCraft](https://www.cloudcraft.co): plataforma com foco em criar desenhos de arquiteturas AWS. <br>
+🔖 [BundlePhobia](https://bundlephobia.com): site para descobrir o custo de adicionar um npm package no seu pacote. <br>
+🔖 [Font Flipper](https://fontflipper.com): Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
+🔖 [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug): é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
+🔖 [ThunderClient](https://www.thunderclient.io): é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
 ## 📚 SITES PARA PRATICAR UI/UX:
 
@@ -520,6 +522,10 @@
 🔖 Curso de React.js 4: https://www.youtube.com/watch?v=JZQ8m08cbF0 <br>
 🔖 Curso Intensivo de Next JS e React: https://www.cod3r.com.br/courses/curso-intensivo-next-react <br>
 🔖 Curso de React Native com Hooks e Context API - Cadastro Completo: https://www.cod3r.com.br/courses/react-native-crud <br>
+
+## 📚 CURSO DE REACT NATIVE:
+
+🔖 Curso de React Native 1: https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD <br>
 
 ## 📚 CURSO DE ANGULAR:
 
