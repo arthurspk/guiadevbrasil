@@ -578,6 +578,9 @@
 
 🔖 https://github.com/DanielHe4rt/git4noobs <br>
 🔖 https://github.com/theandersonn/comandos-git <br>
+🔖 https://learngitbranching.js.org/ <br>
+🔖 https://git-school.github.io/visualizing-git/ <br>
+🔖 https://danielkummer.github.io/git-flow-cheatsheet/ <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
