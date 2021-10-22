@@ -35,6 +35,9 @@
 🔖 FrontEndMaster: https://frontendmasters.com/ <br>
 🔖 Balta.io: balta.io <br>
 🔖 FrontEndMaster: https://frontendmasters.com/ <br>
+🔖 Fundação Bradesco - Escola Virtual: https://www.ev.org.br/ <br>
+🔖 Hack The Box: https://www.hackthebox.eu/ <br>
+
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
@@ -54,6 +57,7 @@
 🔖 Code Monkey: https://codemonkey.com <br>
 🔖 CodinGame: https://codingame.com <br>
 🔖 Edabit: https://edabit.com/challenges <br>
+
 
 ## 📚 TEMPLATES HTML GRATUITOS:
 
@@ -81,6 +85,7 @@
 🔖 https://www.bestcssbuttongenerator.com <br>
 🔖 https://html-css-js.com/css/generator/ <br>
 🔖 https://bennettfeely.com/clippy/ (Criador de clip-path) <br>
+🔖 https://www.magicpattern.design/ (Uma plataforma com ferramentas para gerar gradientes e patterns com CSS, formas e gráficos com SVG) <br>
 
 ## 📚 SITE PARA BUSCAR VAGAS REMOTAS:
 
