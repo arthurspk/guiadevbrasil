@@ -102,6 +102,7 @@
 🔖 https://caniuse.com <br>
 🔖 https://bundlephobia.com <br>
 🔖 https://refactoring.guru/pt-br/design-patterns <br>
+🔖 https://developer.mozilla.org/pt-BR/ <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
@@ -298,6 +299,7 @@
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
 🔖 https://www.youtube.com/c/cfbcursos <br>
+🔖 https://www.youtube.com/lucascaton <br>
 
 ## 📚 BLOGS E PODCASTS:
 
@@ -315,6 +317,7 @@
 🔖 https://cooperati.com.br/ <br>
 🔖 https://www.zup.com.br/blog <br>
 🔖 https://www.lambda3.com.br/lambda3-podcast/ <br>
+🔖 Lucas Caton: https://www.lucascaton.com.br/ <br>
 
 ## 📚 WEB DEVELOPER ROADMAP:
 
@@ -405,7 +408,8 @@
 🔖 HTML 5 Curso 1: https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c <br>
 🔖 HTML 5 Curso 2: https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o <br>
 🔖 Curso Completo de HTML5 (42 aulas): https://goo.gl/SD4p4g: <br>
-🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ
+🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ <br>
+🔖 Desenvolvimento Web: Direto ao Ponto (Lucas Caton): https://dwdp.lucascaton.com.br/ <br>
 
 🔖 CSS3
 
@@ -518,6 +522,7 @@
 🔖 Curso de Ruby On-Rails 3: https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0 <br>
 🔖 Curso de Ruby On-Rails (15 aulas): https://goo.gl/LcHcn4 <br>
 🔖 Curso de Ruby On Rails (49 aulas): https://goo.gl/4oXEAP <br>
+🔖 Curso de Programação Ruby on Rails (Lucas Caton): https://www.lucascaton.com.br/cursos/cplc <br>
 
 ## 📚 CURSO DE REACT:
 
@@ -527,6 +532,7 @@
 🔖 Curso de React.js 4: https://www.youtube.com/watch?v=JZQ8m08cbF0 <br>
 🔖 Curso Intensivo de Next JS e React: https://www.cod3r.com.br/courses/curso-intensivo-next-react <br>
 🔖 Curso de React Native com Hooks e Context API - Cadastro Completo: https://www.cod3r.com.br/courses/react-native-crud <br>
+🔖 Curso React: Direto ao Ponto (Lucas Caton): https://www.reactdiretoaoponto.com.br/ <br>
 
 ## 📚 CURSO DE REACT NATIVE:
 
@@ -578,6 +584,7 @@
 
 🔖 https://github.com/DanielHe4rt/git4noobs <br>
 🔖 https://github.com/theandersonn/comandos-git <br>
+🔖 Mini-curso sobre Git & GitHub: https://www.lucascaton.com.br/2018/06/10/mini-curso-sobre-git-github <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
