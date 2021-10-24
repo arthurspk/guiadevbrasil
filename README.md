@@ -90,6 +90,7 @@
 🔖 https://justremote.co <br>
 🔖 https://workingnomads.co <br>
 🔖 https://coodesh.com/ <br>
+🔖 https://havagas.pt/ <br>
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
