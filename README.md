@@ -135,6 +135,10 @@
 
 ## 📚 BIBLIOTECAS JAVASCRIPT:
 
+🔖 Lax.js: https://github.com/alexfoxy/lax.js <br>
+🔖 Swiper: https://swiperjs.com/ <br>
+🔖 WOW: https://wowjs.uk/ <br>
+🔖 Animate: https://animate.style/ <br>
 🔖 ApexCharts: https://apexcharts.com/ <br>
 🔖 Particles.js: https://vincentgarreau.com/particles.js/ <br>
 🔖 ScrollMagic: https://scrollmagic.io/ <br>
