@@ -44,6 +44,7 @@
 🔖 https://baseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
 🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+🔖 https://responsively.app/ (Testa a responsividade em todos os tipos de tamanhos de tela 5X mais rápido) <br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
@@ -91,6 +92,8 @@
 🔖 https://workingnomads.co <br>
 🔖 https://coodesh.com/ <br>
 🔖 https://havagas.pt/ <br>
+🔖 https://remotar.com.br/ <br>
+
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
