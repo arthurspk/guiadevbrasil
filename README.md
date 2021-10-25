@@ -2,9 +2,9 @@
 
 🌟 ANTES DE TUDO, ME AJUDA AI DEU UM TRABALHÃO ORGANIZAR TODOS ESSES LINKS, ENTÃO AJUDA AI 🌟<br>
 
-🔖 ME SEGUE NO GITHUB: https://github.com/arthurspk/ 👨🏻‍💻<br>
+🔖 ME SEGUE NO GITHUB: https://github.com/Eudesmagnomiguel 👨🏻‍💻<br>
 🔖 ENTRA NO SERVIDOR DO DISCORD PARA MAIS CONTEÚDO: https://discord.gg/NbMQUPjHz7 💻<br>
-🔖 CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/arthurspk/ 🌈<br>
+🔖 CONECTA LÁ NO LINKEDIN: https://www.linkedin.com/in/eudesmagno-miguel-a73638217/🌈<br>
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
