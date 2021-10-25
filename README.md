@@ -215,6 +215,7 @@
 🔖 Grabient: https://www.grabient.com/ <br>
 🔖 Pigment: https://pigment.shapefactory.co/ <br>
 🔖 WebGradient: https://webgradients.com/ <br>
+🔖 Color.lol: https://colors.lol/ <br>
 
 ## 📚 LISTA DE ILUSTRAÇÕES:
 
@@ -228,6 +229,7 @@
 🔖 Ouch: https://icons8.com.br/illustrations/ <br>
 🔖 Delesing: https://delesign.com/free-designs/graphics/ <br>
 🔖 Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
+🔖 Iconscout: https://iconscout.com/ <br>
 
 ## 📚 SITE DE ICONES:
 
