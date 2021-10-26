@@ -104,6 +104,9 @@
 🔖 https://bundlephobia.com <br>
 🔖 https://refactoring.guru/pt-br/design-patterns <br>
 🔖 https://devdocs.io/ <br>
+🔖 https://www.freeformatter.com/html-validator.html <br>
+🔖 https://html5test.com/index.html <br>
+🔖 https://imageslidermaker.com/v2 <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
@@ -306,6 +309,12 @@
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
 🔖 https://www.youtube.com/c/cfbcursos <br>
+🔖 https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw <br>
+🔖 https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA <br>
+🔖 https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw <br>
+🔖 https://www.youtube.com/c/pessonizando <br>
+🔖 https://www.youtube.com/c/codigofontetv <br>
+🔖 https://www.youtube.com/c/LamaDev <br>
 
 ## 📚 BLOGS E PODCASTS:
 
