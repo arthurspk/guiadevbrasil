@@ -103,6 +103,7 @@
 🔖 https://caniuse.com <br>
 🔖 https://bundlephobia.com <br>
 🔖 https://refactoring.guru/pt-br/design-patterns <br>
+🔖 https://devdocs.io/ <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
