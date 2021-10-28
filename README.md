@@ -8,55 +8,54 @@
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
-🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
-🔖 DIO: https://www.digitalinnovation.one <br>
-🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
-🔖 Origamid: https://www.origamid.com/ <br>
-🔖 Udemy: https://www.udemy.com/ <br>
-🔖 HackerRank: https://www.hackerrank.com/ <br>
-🔖 Hackereath: https://www.hackerearth.com/ <br>
-🔖 Coderbyte: https://coderbyte.com/ <br>
-🔖 Coderchef: https://www.codechef.com/ <br>
-🔖 W3resource: https://www.w3resource.com/ <br>
-🔖 Cousera: https://pt.coursera.org/ <br>
-🔖 Codepen: https://codepen.io/ <br>
-🔖 Codementor: https://www.codementor.io/ <br>
-🔖 FreeCodeCamp: https://www.freecodecamp.org/ <br>
-🔖 GeeksForGeeks: https://www.geeksforgeeks.org/ <br>
-🔖 W3Schools: https://www.w3schools.com/ <br>
-🔖 Khan Academy: https://pt.khanacademy.org/ <br>
-🔖 Udacity: https://www.udacity.com/ <br>
-🔖 Sololearn: https://www.sololearn.com/ <br>
-🔖 EdX: https://www.edx.org/ <br>
-🔖 Treehouse: https://teamtreehouse.com/ <br>
-🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
-🔖 Cod3r: https://cod3r.com.br/ <br>
-🔖 TheOdinProject: https://www.theodinproject.com/ <br>
-🔖 FrontEndMaster: https://frontendmasters.com/ <br>
-🔖 Balta.io: balta.io <br>
-🔖 FrontEndMaster: https://frontendmasters.com/ <br>
-🔖 Fundação Bradesco - Escola Virtual: https://www.ev.org.br/ <br>
-🔖 Hack The Box: https://www.hackthebox.eu/ <br>
-
+🔖 [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
+🔖 [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos <br>
+🔖 [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes <br>
+🔖 [Origamid](https://www.origamid.com/) - Cursos gratuitos e pagos paras desenvolver suas habilidades na área de UX & UI Design e desenvolvimento front-end <br>
+🔖 [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos <br>
+🔖 [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares <br>
+🔖 [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [Hackereath](https://www.hackerearth.com/) - Site para desenvolver suas hábilidades de código. <br>
+🔖 [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [Coderchef](https://www.codechef.com/) - Site para Estuda sobre programação, código e afins. <br>
+🔖 [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens <br>
+🔖 [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados <br>
+🔖 [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end <br>
+🔖 [Codementor](https://www.codementor.io/) - Site para praticar e aprender a desenvolver suas skills como desenvolvedor <br>
+🔖 [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos <br>
+🔖 [GeeksForGeeks](https://www.geeksforgeeks.org/) - Plataforma para desenvolver suas habilidade em diversas áreas da programação<br>
+🔖 [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva <br>
+🔖 [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado <br>
+🔖 [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc) <br>
+🔖 [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web <br>
+🔖 [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo <br>
+🔖 [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio <br>
+🔖 [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online <br>
+🔖 [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) - Plataforma com cursos gratuitos, desde pacote office, lógica, até gestão de sistemas, redes e orientação a objeto <br>
+🔖 [Hack The Box](https://www.hackthebox.eu/) <br> - Plataforma para aprender segurança da informação e hack ético
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
-🔖 https://textpop3d.web.app/ (Cria efeitos de texto 3D) <br>
-🔖 https://shapedividers.com (Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG) <br>
-🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
-🔖 https://baseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
-🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
-🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+🔖 [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
+🔖 [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
+🔖 [Couleur](https://couleur.io) -Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
+🔖 [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
+🔖 [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
+🔖 [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
-🔖 Code Combat: https://br.codecombat.com/ <br>
-🔖 CheckiO: https://checkio.org <br>
-🔖 Codewars: https://codewars.com <br>
-🔖 Schemaverse: https://schemaverse.com <br>
-🔖 Code Monkey: https://codemonkey.com <br>
-🔖 CodinGame: https://codingame.com <br>
-🔖 Edabit: https://edabit.com/challenges <br>
+🔖 [Code Combat](https://br.codecombat.com) - Site  para aprender conceitos e linguagens de programação enquanto joga <br>
+🔖 [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python. <br>
+🔖 [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [Schemaverse](https://schemaverse.com) - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL. <br>
+🔖 [Code Monkey](https://codemonkey.com) - CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador. <br>
+🔖 [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
+🔖 [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
 
 
 ## 📚 TEMPLATES HTML GRATUITOS:
@@ -95,6 +94,7 @@
 🔖 https://justremote.co <br>
 🔖 https://workingnomads.co <br>
 🔖 https://coodesh.com/ <br>
+🔖 https://havagas.pt/ <br>
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
@@ -107,6 +107,10 @@
 🔖 https://caniuse.com <br>
 🔖 https://bundlephobia.com <br>
 🔖 https://refactoring.guru/pt-br/design-patterns <br>
+🔖 https://devdocs.io/ <br>
+🔖 https://www.freeformatter.com/html-validator.html <br>
+🔖 https://html5test.com/index.html <br>
+🔖 https://imageslidermaker.com/v2 <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
@@ -139,6 +143,10 @@
 
 ## 📚 BIBLIOTECAS JAVASCRIPT:
 
+🔖 Lax.js: https://github.com/alexfoxy/lax.js <br>
+🔖 Swiper: https://swiperjs.com/ <br>
+🔖 WOW: https://wowjs.uk/ <br>
+🔖 Animate: https://animate.style/ <br>
 🔖 ApexCharts: https://apexcharts.com/ <br>
 🔖 Particles.js: https://vincentgarreau.com/particles.js/ <br>
 🔖 ScrollMagic: https://scrollmagic.io/ <br>
@@ -219,6 +227,7 @@
 🔖 Grabient: https://www.grabient.com/ <br>
 🔖 Pigment: https://pigment.shapefactory.co/ <br>
 🔖 WebGradient: https://webgradients.com/ <br>
+🔖 Color.lol: https://colors.lol/ <br>
 
 ## 📚 LISTA DE ILUSTRAÇÕES:
 
@@ -232,6 +241,7 @@
 🔖 Ouch: https://icons8.com.br/illustrations/ <br>
 🔖 Delesing: https://delesign.com/free-designs/graphics/ <br>
 🔖 Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
+🔖 Iconscout: https://iconscout.com/ <br>
 
 ## 📚 SITE DE ICONES:
 
@@ -303,6 +313,12 @@
 🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
 🔖 https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar <br>
 🔖 https://www.youtube.com/c/cfbcursos <br>
+🔖 https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw <br>
+🔖 https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA <br>
+🔖 https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw <br>
+🔖 https://www.youtube.com/c/pessonizando <br>
+🔖 https://www.youtube.com/c/codigofontetv <br>
+🔖 https://www.youtube.com/c/LamaDev <br>
 
 ## 📚 BLOGS E PODCASTS:
 
@@ -583,6 +599,9 @@
 
 🔖 https://github.com/DanielHe4rt/git4noobs <br>
 🔖 https://github.com/theandersonn/comandos-git <br>
+🔖 https://learngitbranching.js.org/ <br>
+🔖 https://git-school.github.io/visualizing-git/ <br>
+🔖 https://danielkummer.github.io/git-flow-cheatsheet/ <br>
 
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
