@@ -33,7 +33,7 @@
 🔖 [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online <br>
 🔖 [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
-🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>[]
+🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
