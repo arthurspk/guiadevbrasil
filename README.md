@@ -8,52 +8,52 @@
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
-🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
-🔖 DIO: https://www.digitalinnovation.one <br>
-🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
-🔖 Origamid: https://www.origamid.com/ <br>
-🔖 Udemy: https://www.udemy.com/ <br>
-🔖 HackerRank: https://www.hackerrank.com/ <br>
-🔖 Hackereath: https://www.hackerearth.com/ <br>
-🔖 Coderbyte: https://coderbyte.com/ <br>
-🔖 Coderchef: https://www.codechef.com/ <br>
-🔖 W3resource: https://www.w3resource.com/ <br>
-🔖 Cousera: https://pt.coursera.org/ <br>
-🔖 Codepen: https://codepen.io/ <br>
-🔖 Codementor: https://www.codementor.io/ <br>
-🔖 FreeCodeCamp: https://www.freecodecamp.org/ <br>
-🔖 GeeksForGeeks: https://www.geeksforgeeks.org/ <br>
-🔖 W3Schools: https://www.w3schools.com/ <br>
-🔖 Khan Academy: https://pt.khanacademy.org/ <br>
-🔖 Udacity: https://www.udacity.com/ <br>
-🔖 Sololearn: https://www.sololearn.com/ <br>
-🔖 EdX: https://www.edx.org/ <br>
-🔖 Treehouse: https://teamtreehouse.com/ <br>
-🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
-🔖 Cod3r: https://cod3r.com.br/ <br>
-🔖 TheOdinProject: https://www.theodinproject.com/ <br>
-🔖 FrontEndMaster: https://frontendmasters.com/ <br>
-🔖 Balta.io: https://balta.io <br>
-🔖 FrontEndMaster: https://frontendmasters.com/ <br>
+🔖 [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
+🔖 [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos <br>
+🔖 [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes <br>
+🔖 [Origamid](https://www.origamid.com/) - Cursos gratuitos e pagos paras desenvolver suas habilidades na área de UX & UI Design e desenvolvimento front-end <br>
+🔖 [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos <br>
+🔖 [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares <br>
+🔖 [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [Hackereath](https://www.hackerearth.com/) - Site para desenvolver suas hábilidades de código. <br>
+🔖 [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [Coderchef](https://www.codechef.com/) - Site para Estuda sobre programação, código e afins. <br>
+🔖 [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens <br>
+🔖 [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados <br>
+🔖 [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end <br>
+🔖 [Codementor](https://www.codementor.io/) - Site para praticar e aprender a desenvolver suas skills como desenvolvedor <br>
+🔖 [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos <br>
+🔖 [GeeksForGeeks](https://www.geeksforgeeks.org/) - Plataforma para desenvolver suas habilidade em diversas áreas da programação<br>
+🔖 [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva <br>
+🔖 [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado <br>
+🔖 [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc) <br>
+🔖 [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web <br>
+🔖 [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo <br>
+🔖 [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio <br>
+🔖 [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online <br>
+🔖 [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>[]
+🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
-🔖 https://textpop3d.web.app/ (Cria efeitos de texto 3D) <br>
-🔖 https://shapedividers.com (Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG) <br>
-🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
-🔖 https://baseline.is/tools/css-photo-filters/ (36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
-🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
-🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+🔖 [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
+🔖 [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
+🔖 [Couleur](https://couleur.io) -Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
+🔖 [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
+🔖 [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
+🔖 [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
-🔖 Code Combat: https://br.codecombat.com/ <br>
-🔖 CheckiO: https://checkio.org <br>
-🔖 Codewars: https://codewars.com <br>
-🔖 Schemaverse: https://schemaverse.com <br>
-🔖 Code Monkey: https://codemonkey.com <br>
-🔖 CodinGame: https://codingame.com <br>
-🔖 Edabit: https://edabit.com/challenges <br>
+🔖 [Code Combat](https://br.codecombat.com) - Site  para aprender conceitos e linguagens de programação enquanto joga <br>
+🔖 [CheckiO](https://checkio.org) <br> CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python. <br>
+🔖 [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [Schemaverse](https://schemaverse.com) <br> - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL. <br>
+🔖 [Code Monkey](https://codemonkey.com) <br> CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador.
+🔖 [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
+🔖 [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
 
 ## 📚 TEMPLATES HTML GRATUITOS:
 
