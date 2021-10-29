@@ -601,28 +601,28 @@
 
 ## 📚 Lista de ilustrações
 
-🔖 [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar <br>
-🔖 [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides <br>
+🔖 [DrawKIT](https://www.drawkit.io/) <br>
+🔖 [Humaaans](https://www.humaaans.com/)  <br>
 🔖 [Open Doodle](https://www.opendoodles.com/) <br>
 🔖 [Storyset](https://storyset.com/) <br>
-🔖 [unDraw](https://undraw.co/) - Ilustrações livres para usar <br>
+🔖 [unDraw](https://undraw.co/) <br>
 🔖 [404 Illustrations (by kapwing)](https://www.kapwing.com/404-illustrations/) <br>
 🔖 [404 Illustrations](https://error404.fun/ ) <br>
 🔖 [Ouch](https://icons8.com.br/illustrations/)  <br>
-🔖 [Delesing]:(https://delesign.com/free-designs/graphics/)  <br>
-🔖 [Pixeltru]:(https://www.pixeltrue.com/free-illustrations/)  <br>
-🔖 [Iconscout](https://iconscout.com/) - Site reúne grande acervo de ícones gratuitos <br>
+🔖 [Delesing](https://delesign.com/free-designs/graphics/) <br>
+🔖 [Pixeltru](https://www.pixeltrue.com/free-illustrations/) <br>
+🔖 [Iconscout](https://iconscout.com/) <br>
 
 ## 📚 Sites de icones
 
-🔖 [DrawKIT](https://www.drawkit/free-icons/): Icones para qualquer um usar <br>
+🔖 [DrawKIT](https://www.drawkit/free-icons/) <br>
 🔖 [Eva Icons](https://akveo.github.io/eva-icons/#/) <br>
-🔖 [Feather Icons](https://feathericons.com/) - Ícones gratuitos e customizáveis <br>
-🔖 [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome <br>
+🔖 [Feather Icons](https://feathericons.com/) <br>
+🔖 [Font Awesome](https://fontawesome.com) <br>
 🔖 [Heroicons](https://heroicons.dev/) <br>
 🔖 [Iconsvg](https://iconsvg.xyz/)  <br>
-🔖 [Icons8 Line Awesome](https://icons8.com/line-awesome/): Ícones em diversos estilos <br>
-🔖 [Icons8](https://icons8.com.br/): Ícones em diversos estilos <br>
+🔖 [Icons8 Line Awesome](https://icons8.com/line-awesome/) <br>
+🔖 [Icons8](https://icons8.com.br/) <br>
 🔖 [Shape](https://shape.so/) <br>
 🔖 [Flaticon](https://www.flaticon.com/br/) <br>
 🔖 [Bootstrap icons](https://icons.getbootstrap.com/) <br>
