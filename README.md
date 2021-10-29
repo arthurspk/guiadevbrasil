@@ -204,7 +204,7 @@
 🔖 [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist <br>
 🔖 [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site <br>
 🔖 [Grader](https://website.grader.com/) - Avaliação de site <br>
-🔖 [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização <br>
+🔖 [How to Center in CSS](http://howtocenterincss   - om/) - Gerador de código para divs ou textos que necessitam de centralização <br>
 🔖 [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito <br>
 🔖 [Joomla](https://www.joomla.org/) - CMS gratuita <br>
 🔖 [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS <br>
@@ -428,17 +428,17 @@
 
 ## 📚 Melhores distros linux para programadores
 
-🔖 [Pop!\_Os](https://pop.system76.com/): Distribuição Linux Pop!\_Os <br>
-🔖 [Arch Linux](https://archlinux.org/): Distribuição Linux Arch Linux <br>
-🔖 [Debian](https://www.debian.org/): Distribuição Linux Debian <br>
-🔖 [Ubuntu](https://ubuntu.com/): Distribuição Linux Ubuntu <br>
-🔖 [Fedora](https://getfedora.org/pt_BR/): Distribuição Linux Fedora <br>
-🔖 [Linux Mint](https://linuxmint.com/): Distribuição Linux Mint <br>
-🔖 [OpenSUSE](https://www.opensuse.org): Distribuição Linux OpenSUSE<br>
-🔖 [Kali Linux](https://www.kali.org): Distribuição Linux Kali Linux<br>
-🔖 [KDE Neon](https://www.neon.kde.org): Distribuição Linux KDE Neon <br>
-🔖 [Solus](https://www.getsol.us): Distribuição Linux Solus <br>
-🔖 [Tails](https://www.tails.boum.org): Distribuição Linux Tails <br>
+🔖 [Pop!\_Os](https://pop.system76.com/)   - Distribuição Linux Pop!\_Os <br>
+🔖 [Arch Linux](https://archlinux.org/)   - Distribuição Linux Arch Linux <br>
+🔖 [Debian](https://www.debian.org/)   - Distribuição Linux Debian <br>
+🔖 [Ubuntu](https://ubuntu.com/)   - Distribuição Linux Ubuntu <br>
+🔖 [Fedora](https://getfedora.org/pt_BR/)   - Distribuição Linux Fedora <br>
+🔖 [Linux Mint](https://linuxmint.com/)   - Distribuição Linux Mint <br>
+🔖 [OpenSUSE](https://www.opensuse.org)   - Distribuição Linux OpenSUSE<br>
+🔖 [Kali Linux](https://www.kali.org)   - Distribuição Linux Kali Linux<br>
+🔖 [KDE Neon](https://www.neon.kde.org)   - Distribuição Linux KDE Neon <br>
+🔖 [Solus](https://www.getsol.us)   - Distribuição Linux Solus <br>
+🔖 [Tails](https://www.tails.boum.org)   - Distribuição Linux Tails <br>
 
 ## 📚 Bibliotecas JavaScript
 
@@ -452,14 +452,14 @@
 
 ## 📚 7 Ferramentas que todo DEV precisa conhecer
 
-🔖 [Figma](https://www.figma.com): ferramenta para design de interfaces. <br>
-🔖 [Insomnia](https://insomnia.rest): é um API Client, uma ferramenta para fazer testes de API's. <br>
-🔖 [Rive](https://rive.app): ferramenta colaborativa de animação para apps, jogos e sites. <br>
-🔖 [CloudCraft](https://www.cloudcraft.co): plataforma com foco em criar desenhos de arquiteturas AWS. <br>
-🔖 [BundlePhobia](https://bundlephobia.com): site para descobrir o custo de adicionar um npm package no seu pacote. <br>
-🔖 [Font Flipper](https://fontflipper.com): Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
-🔖 [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug): é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
-🔖 [ThunderClient](https://www.thunderclient.io): é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
+🔖 [Figma](https://www.figma.com)  - ferramenta para design de interfaces. <br>
+🔖 [Insomnia](https://insomnia.rest)  - é um API Client, uma ferramenta para fazer testes de API's. <br>
+🔖 [Rive](https://rive.app)  - ferramenta colaborativa de animação para apps, jogos e sites. <br>
+🔖 [CloudCraft](https://www.cloudcraft.co)  - plataforma com foco em criar desenhos de arquiteturas AWS. <br>
+🔖 [BundlePhobia](https://bundlephobia.com)  - site para descobrir o custo de adicionar um npm package no seu pacote. <br>
+🔖 [Font Flipper](https://fontflipper.com)  - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
+🔖 [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)  - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
+🔖 [ThunderClient](https://www.thunderclient.io)  - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
 ## 📚 Sites para praticar UI/UX
 
@@ -471,10 +471,10 @@
 
 ## 📚 Ferramentas para hospedar seu site
 
-🔖 [Github Pages](https://pages.github.com/): Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
-🔖 [Award Space](https://www.awardspace.com/): Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
-🔖 [Byet](https://byet.host/): Hospedagem Gratuita e Serviços de Hospedagem Premium. <br>
-🔖 [Infinity Free](https://infinityfree.net/): Free Unlimited Web Hosting <br>
+🔖 [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
+🔖 [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
+🔖 [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium. <br>
+🔖 [Infinity Free](https://infinityfree.net/) - Free Unlimited Web Hosting <br>
 🔖 [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda <br>
 🔖 [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços <br>
 🔖 [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites <br>
@@ -666,7 +666,7 @@
 🔖 [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais <br>
 🔖 [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo <br>
 🔖 [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript <br>
-🔖 [Balta.io](https://youtube.com/c/baltaio): Canal explicando uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito. Com mais de 80 cursos direcionados <br>
+🔖 [Balta.io](https://youtube.com/c/baltaio) - Canal explicando uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito, - om mais de 80 cursos direcionados <br>
 🔖 [CodAffection](https://youtube.com/c/CodAffection) <br>
 🔖 [Codedamn](https://youtube.com/c/codedamn) <br>
 🔖 [EspecializaTi](https://youtube.com/c/EspecializatiBr) <br>
@@ -720,15 +720,15 @@
 
 ## 📚 Pentest
 
-🔖 [Beef-Project](https://beefproject.com/): Framework de exploração de browser <br>
-🔖 [Capture The Flag - CTF](https://capturetheflag.com.br/): Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
-🔖 [HackTheBox](https://www.hackthebox.eu/): Site com laboratórios para praticar pentest de forma gratuita e legal <br>
-🔖 [HStrike](https://hstrike.com/): Ferramentas de pentest em nuvem <br>
-🔖 [HTTRack](http://www.httrack.com/): Browser utility <br>
-🔖 [Maltego](https://www.paterva.com/): Ambiente open source para análise de redes completa <br>
-🔖 [NMap](https://nmap.org/): Scanner de portas de rede <br>
-🔖 [picoCTF](https://picoctf.com/): Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
-🔖 [SQLMap](http://sqlmap.org/): Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
+🔖 [Beef-Project](https://beefproject.com/) - Framework de exploração de browser <br>
+🔖 [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
+🔖 [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
+🔖 [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem <br>
+🔖 [HTTRack](http://www.httrack.com/) - Browser utility <br>
+🔖 [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa <br>
+🔖 [NMap](https://nmap.org/) - Scanner de portas de rede <br>
+🔖 [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
+🔖 [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
 
 ## 📚 Blogs e Podcasts
 
@@ -737,14 +737,14 @@
 🔖 [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
 🔖 [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral <br>
 🔖 [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I <br>
-🔖 [É tudo nuve](https://www.etudonuve.com.br/i/): Pesquisa  <br>
+🔖 [É tudo nuve](https://www.etudonuve.com.br/i/) - Pesquisa  <br>
 🔖 [Dev.to](https://dev.to/) - Rede social para desenvolvedores <br>
-🔖 [Playcode](https://playcode.com.br/): Site com algumas dicas para programação <br>
+🔖 [Playcode](https://playcode.com.br/) - Site com algumas dicas para programação <br>
 🔖 [Codenation](https://deploy.codenation.com.br/podcasts/home) <br>
 🔖 [Ambev Tech Talk](https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG): Podcast da Ambev sobre tecnologia e cerveja <br>
-🔖 [Coruja de TI](https://blog.corujadeti.com.br/): Blog com várias dicas de TI no geral <br>
-🔖 [Cooperati](https://cooperati.com.br/): Site com algumas informações sobre tecnologia <br>
-🔖 [Zup](https://www.zup.com.br/blog): Blog com informação sobre tecnologia <br>
+🔖 [Coruja de TI](https://blog.corujadeti.com.br/) - Blog com várias dicas de TI no geral <br>
+🔖 [Cooperati](https://cooperati.com.br/) - Site com algumas informações sobre tecnologia <br>
+🔖 [Zup](https://www.zup.com.br/blog) - Blog com informação sobre tecnologia <br>
 🔖 [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps <br>
 🔖 [Cabeça de Labs](https://www.cabecadelab.com.br/) - O Cabeça de Lab é o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu <br>
 🔖 [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/) - Podcast com brasileiros que vivem e trabalham no exterior <br>
@@ -801,22 +801,22 @@
 
 🔖 [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada <br>
 🔖 [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada <br>
-🔖 [Code Well](https://codewell.cc/): Treine suas habilidade de HTML e CSS com alguns templates <br>
+🔖 [Code Well](https://codewell.cc/) - Treine suas habilidade de HTML e CSS com alguns templates <br>
 🔖 [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
 🔖 [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
 
 ## 📚 Sites para treinar projetos back-end
 
-🔖 [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend): Treine suas habilidades com desafios Back-end <br>
+🔖 [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end <br>
 
 ## 📚 Sites para treinar projetos mobile
 
-🔖 [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile): Treine suas habilidades com desafios Mobile <br>
+🔖 [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile <br>
 
 ## 📚 Ideias para projeto
 
-🔖 [App Ideas](https://github.com/florinpop17/app-ideas): Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
-🔖 [What to Code](https://what-to-code.com/): Compilado de desafio e ideias para você praticar seus códigos e aumentar seu portfólio <br>
+🔖 [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
+🔖 [What to Code](https://what-to-code.com/) - Compilado de desafio e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 
 ## 📚 Cursos de Java
 
