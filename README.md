@@ -204,7 +204,7 @@
 🔖 [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist <br>
 🔖 [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site <br>
 🔖 [Grader](https://website.grader.com/) - Avaliação de site <br>
-🔖 [How to Center in CSS](http://howtocenterincss   - om/) - Gerador de código para divs ou textos que necessitam de centralização <br>
+🔖 [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização <br>
 🔖 [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito <br>
 🔖 [Joomla](https://www.joomla.org/) - CMS gratuita <br>
 🔖 [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS <br>
