@@ -9,7 +9,7 @@
 🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/arthurspk/ 🌈 <br>
 🔖 Fazendo uma doação via PIX a chave é: arthurcoutinho2@hotmail.com ✔️ <br>
 
-♻️ Segue meu Github novos repositórios quase toda semana, deixa seu star no repositório, compartilhar com seus amigos, e por fim, bons estudos ou bom trabalho, faça bom uso!! ♻️ <br>
+♻️ Segue meu Github novos repositórios quase toda semana, deixa seu star no repositório, compartilha com seus amigos, e por fim, bons estudos ou bom trabalho, faça bom uso!! ♻️ <br>
 
 ## 📚 ÍNDICE
 
