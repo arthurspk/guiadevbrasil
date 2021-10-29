@@ -266,7 +266,7 @@
 
 ## 📚 IDEs e editores de código
 
-🔖 [Atom](https://atom.io/) - Editor de código do GitHub
+🔖 [Atom](https://atom.io/) - Editor de código do GitHub <br>
 🔖 [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS <br>
 🔖 [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados <br>
 🔖 [Brackets](http://brackets.io/) - Editor de código da Adobe <br>
@@ -279,8 +279,7 @@
 🔖 [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz <br>
 🔖 [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP <br>
 🔖 [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python <br>
-🔖 [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica <br>
-para a Linguagem R e suas variantes
+🔖 [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica para a Linguagem R e suas variantes <br>
 🔖 [StackEdit](https://stackedit.io/) - Editor de markdown online <br>
 🔖 [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou <br>
 🔖 [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
