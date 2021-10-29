@@ -75,7 +75,7 @@
 [📚 Cursos de Less](#-cursos-de-less) <br>
 [📚 Cursos de Sass](#-cursos-de-sass) <br>
 [📚 Cursos de Bootstrap](#-cursos-de-bootstrap) <br>
-[📚 Git E Github](#-cursos-de-git-e-github) <br>
+[📚 Cursos de Git e Github](#-cursos-de-git-e-github) <br>
 
 ## 📚 Sites para estudar programação
 
@@ -1157,7 +1157,7 @@
 🔖 [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) <br>
 🔖 [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) <br>
 
-## 📚 Cursos de Git E Github
+## 📚 Cursos de Git e Github
 
 🔖 [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
 🔖 [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
