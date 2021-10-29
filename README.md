@@ -667,56 +667,54 @@
 🔖 [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo <br>
 🔖 [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript <br>
 🔖 [Balta.io](https://youtube.com/c/baltaio) - Canal explicando uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito, - om mais de 80 cursos direcionados <br>
-🔖 [CodAffection](https://youtube.com/c/CodAffection) <br>
-🔖 [Codedamn](https://youtube.com/c/codedamn) <br>
-🔖 [EspecializaTi](https://youtube.com/c/EspecializatiBr) <br>
-🔖 [Jose Carlos Macoratti](https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) <br>
-🔖 [Michelli Brito](https://youtube.com/c/MichelliBrito) <br>
-🔖 [The Net Ninja](https://youtube.com/c/TheNetNinja) <br>
-🔖 [Vinícius Thiengo](https://youtube.com/c/ThiengoCalopsita) <br>
-🔖 [Traversy Media](https://youtube.com/c/TraversyMedia) <br>
-🔖 [Mango](https://youtube.com/c/MangoDeveloper) <br>
-🔖 [Academind](https://youtube.com/c/Academind) <br>
-🔖 [Simon Grimm](https://youtube.com/user/saimon1924) <br>
-🔖 [freeCodeCamp.org](https://youtube.com/c/Freecodecamp) <br>
-🔖 [Igor Remas](https://youtube.com/c/IgorRemas) <br>
-🔖 [Santos Enoque](https://youtube.com/c/SantosEnoque) <br>
-🔖 [Raja Yogan](https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ) <br>
-🔖 [DesignCourse](https://youtube.com/c/DesignCourse) <br>
-🔖 [London App Brewery](https://youtube.com/c/Londonappbrewery) <br>
-🔖 [EDMT Dev](https://youtube.com/c/eddydn71) <br>
-🔖 [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo) <br>
-🔖 [Thizer Aplicativos](https://youtube.com/c/ThizerAplicativos) <br>
-🔖 [Loiane Groner](https://youtube.com/c/loianegroner) <br>
-🔖 [Canal dotNET](https://youtube.com/c/CanalDotNET) <br>
-🔖 [Protocolo Alterado](https://youtube.com/c/ProtocoloAlterado) <br>
-🔖 [Dev Soutinho](https://youtube.com/c/DevSoutinho) <br>
-🔖 [Simplificando TI](https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg) <br>
-🔖 [Vida de Programador](https://www.youtube.com/c/ProgramadorREAL) <br>
-🔖 [ProfessorRamos](https://www.youtube.com/c/professorramos/) <br>
-🔖 [Professor José de Assis](https://www.youtube.com/c/RoboticapraticaBr/) <br>
-🔖 [zer01ti](https://www.youtube.com/c/zero1ti/) <br>
-🔖 [Rafaella Ballerini](https://www.youtube.com/user/RafaellaBallerini/) <br>
-🔖 [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw) <br>
-🔖 [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g) <br>
-🔖 [Descompila](https://www.youtube.com/c/Descompila/) <br>
-🔖 [Ka Solution Oficial](https://www.youtube.com/c/UnicornCoder/) <br>
-🔖 [UnicornCoder](https://www.youtube.com/c/KaSolutionOficial/) <br>
-🔖 [TekZoom - Reinaldo Silotto](https://www.youtube.com/c/CanalTekZoom/) <br>
-🔖 [Bonieky Lacerda](https://www.youtube.com/c/BoniekyLacerdaLeal) <br>
-🔖 [Programador BR](https://www.youtube.com/c/Programadorbr) <br>
-🔖 [ZUP](https://www.youtube.com/c/ZUPIT/) <br>
-🔖 [Beer and Code](https://www.youtube.com/c/BeerandCode/) <br>
-🔖 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/) <br>
-🔖 [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) <br>
-🔖 [Escola Front-end](https://www.youtube.com/c/EscolaFrontend/) <br>
-🔖 [Academind](https://www.youtube.com/c/Academind/) <br>
-🔖 [Programe seu futuro](https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar) <br>
-🔖 [CFBCursos](https://www.youtube.com/c/cfbcursos) <br>
-🔖 [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) <br>
-🔖 [Coding Snow](https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA) <br>
-🔖 [Pessonizando](https://www.youtube.com/c/pessonizando) <br>
-🔖 [Lama Dev](https://www.youtube.com/c/LamaDev) <br>
+🔖 [CodAffection](https://youtube.com/c/CodAffection) - Este canal tem como objetivo ensinar e inspirar desenvolvedores a criar aplicativos <br>
+🔖 [Codedamn](https://youtube.com/c/codedamn) - Canal sobre programação e tecnologia no geral <br>
+🔖 [EspecializaTi](https://youtube.com/c/EspecializatiBr) - Canal de cursos Online de Desenvolvimento Web <br>
+🔖 [Jose Carlos Macoratti](https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) - Vídeo Aulas sobre a plataforma .NET e tecnologias web: C# , VB .NET , ASP .NET , ASP .NET MVC, ASP .NET Core, Entity Framework,  Xamarin Forms, Xamarin Android, Angular, ADO .NET , SQL,  Node,  etc <br>
+🔖 [Michelli Brito](https://youtube.com/c/MichelliBrito) - Canal sobre conteúdos de programação, arquitetura de software e carreira em TI <br>
+🔖 [The Net Ninja](https://youtube.com/c/TheNetNinja) - Habilidades de desenvolvimento web. Mais de 1000 tutoriais de programação gratuitos sobre <br>
+🔖 [Vinícius Thiengo](https://youtube.com/c/ThiengoCalopsita) - Vídeos tutoriais sobre desenvolvimento Android e técnicas de código limpo <br>
+🔖 [Traversy Media](https://youtube.com/c/TraversyMedia) - Traversy Media apresenta os melhores tutoriais de desenvolvimento e programação da web on-line para todas as tecnologias da web mais recentes <br>
+🔖 [Mango](https://youtube.com/c/MangoDeveloper) - Cursos avançados completos utilizando Clean Architecture, TDD, SOLID principles e design patterns <br>
+🔖 [Academind](https://youtube.com/c/Academind) - Cursos e tutoriais que ensinam tudo relacionado ao desenvolvimento web <br>
+🔖 [Simon Grimm](https://youtube.com/user/saimon1924) - Tutoriais Ionic semanalmente com dicas e truques para melhorar seus aplicativos híbridos! <br>
+🔖 [freeCodeCamp.org](https://youtube.com/c/Freecodecamp) - Aprenda a codificar gratuitamente. <br>
+🔖 [Igor Remas](https://youtube.com/c/IgorRemas) - Desenvolvimento Web <br>
+🔖 [Santos Enoque](https://youtube.com/c/SantosEnoque) - Ensinar as pessoas a construir softwares do mundo real e garantir que elas tenham habilidades que são realmente necessárias no mercado <br>
+🔖 [Raja Yogan](https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ) - Fornecendo tutoriais de tecnologia de qualidade para todos. <br>
+🔖 [DesignCourse](https://youtube.com/c/DesignCourse) - Tutoriais sobre UI / UX, Frontend Dev, Backend Dev, Design gráfico e muito mais! <br>
+🔖 [London App Brewery](https://youtube.com/c/Londonappbrewery) - Ensinam desenvolvimento Web para iniciantes, como fazer aplicativos iOS, Flutter e Android, bem como ciência de dados <br>
+🔖 [EDMT Dev](https://youtube.com/c/eddydn71) - Tutoriais para code e hacking <br>
+🔖 [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo) - Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara <br>
+🔖 [Thizer Aplicativos](https://youtube.com/c/ThizerAplicativos) - Tecnologia no Geral <br>
+🔖 [Loiane Groner](https://youtube.com/c/loianegroner) - Canal com aulas gratuitas sobre Java, Sencha (Ext JS), JavaScript, Angular e desenvolvimento mobile com Cordova e Ionic. <br>
+🔖 [Canal dotNET](https://youtube.com/c/CanalDotNET) - Canal sobre .NET C# <br>
+🔖 [Protocolo Alterado](https://youtube.com/c/ProtocoloAlterado) - Conteúdos sobre Programação e Desenvolvimento Web por Beto Muniz. <br>
+🔖 [Dev Soutinho](https://youtube.com/c/DevSoutinho) - Conteúdos sobre Programação por Mario Souto <br>
+🔖 [Simplificando TI](https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg) - Conteúdo de TI no geral <br>
+🔖 [Vida de Programador](https://www.youtube.com/c/ProgramadorREAL) - Conteúdo sobre  tecnologia e programação <br>
+🔖 [ProfessorRamos](https://www.youtube.com/c/professorramos/) - Conteúdo de informática e afins <br>
+🔖 [Professor José de Assis](https://www.youtube.com/c/RoboticapraticaBr/) - Arduino com foco em robótica educacional, Programação Linguagem C, Java e desenvolvimento WEB, Linux com foco em servidores de rede <br>
+🔖 [zer01ti](https://www.youtube.com/c/zero1ti/) - Novidades da tecnológica <br>
+🔖 [Rafaella Ballerini](https://www.youtube.com/user/RafaellaBallerini/) - Experiência no mundo tech e dicas sobre como se encaixar na área. <br>
+🔖 [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw) - TechPrimers é um canal educacional para fornecer insights sobre implementações de tecnologia <br>
+🔖 [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g) - Tutoriais sobre programação, playlist, e conteúdo sobre a área de informática <br>
+🔖 [Descompila](https://www.youtube.com/c/Descompila/) - Vídeo-aulas de programação objetivas <br>
+🔖 [Ka Solution Oficial](https://www.youtube.com/c/UnicornCoder/) - Nesse canal, vamos abordar temas referente ao mercado de tecnologia e dar excelentes dicas de carreira. <br>
+🔖 [UnicornCoder](https://www.youtube.com/c/KaSolutionOficial/) - Videos de programação e cursos <br>
+🔖 [TekZoom - Reinaldo Silotto](https://www.youtube.com/c/CanalTekZoom/) - Compartilhar conteúdos sobre tecnologia, programação, gadgets e dispositivos móveis, como smartphones e tablets.<br>
+🔖 [Bonieky Lacerda](https://www.youtube.com/c/BoniekyLacerdaLeal) - Cursos de programação <br>
+🔖 [Programador BR](https://www.youtube.com/c/Programadorbr) - Programação, carreira e empreendedorismo <br>
+🔖 [ZUP](https://www.youtube.com/c/ZUPIT/) - Canal sobre tecnologia <br>
+🔖 [Beer and Code](https://www.youtube.com/c/BeerandCode/) - Faça seu futuro com as tecnologias mais utilizadas nas Startups de sucesso. <br>
+🔖 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/) - Engenheira de software entusiasta em UX, com mais de mais de 20 aplicativos publicados na App Store <br>
+🔖 [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) - Web Dev Simplified tem tudo a ver com o ensino de habilidades e técnicas de desenvolvimento web de maneira eficiente e prática <br>
+🔖 [Escola Front-end](https://www.youtube.com/c/EscolaFrontend/) - Conteúdo sobre Front-end <br>
+🔖 [Programe seu futuro](https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar) - Programação, Algoritmos e Lógica de Programação <br>
+🔖 [CFBCursos](https://www.youtube.com/c/cfbcursos) - Canal de cursos/aulas de informática que disponibiliza conteúdo de qualidade e gratuito <br>
+🔖 [Coding Snow](https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA) - Coding Snow é um canal para design e desenvolvimento criativo da Web, designs de front-end, designs de interface do usuário, Web design responsivo e designs de back-end usando HTML, CSS, Javascript / JQuery, PHP, MYSQL <br>
+🔖 [Pessonizando](https://www.youtube.com/c/pessonizando) - Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. <br>
+🔖 [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
 
 ## 📚 Pentest
 
