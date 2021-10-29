@@ -860,7 +860,7 @@
 🔖 [Curso Aprenda HTML em 1 hora (22 aulas)](https://goo.gl/1kfBCZ) <br>
 🔖 [Curso de CSS3 1](https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG) <br>
 🔖 [Curso de CSS3 2](https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV) <br>
-🔖 [Curso de CSS3 3](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78)
+🔖 [Curso de CSS3 3](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78) <br>
 🔖 [Curso de CSS3 4](https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos) <br>
 🔖 [Curso de CSS3 5](https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s) <br>
 🔖 [Curso de CSS3 6](https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z) <br>
