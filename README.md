@@ -142,7 +142,7 @@
 🔖 [100 Dias de CSS](https://100dayscss.com) - 100 Desafios de CSS <br>
 🔖 [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada <br>
 🔖 [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar <br>
-🔖 [CSS Hell](https://csshell.dev/) - (Coleção de erros comuns de CSS e como corrigi-los) <br>
+🔖 [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los <br>
 
 ## 📚 Geradores de CSS
 
