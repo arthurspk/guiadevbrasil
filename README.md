@@ -366,6 +366,8 @@
 🔖 [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone <br>
 🔖 [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura <br>
 🔖 [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <br>
+🔖 [Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/introduction.html) - Linguagem de programação dinâmica para experimentos de alta performance <br>
+
 
 ## 📚 Guia de Estilo
 
