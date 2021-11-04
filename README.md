@@ -106,6 +106,7 @@
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [Desenvolvedor.io](https://desenvolvedor.io/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 
 ## 📚 Sites para desenvolvedor front-end
 
