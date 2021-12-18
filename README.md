@@ -19,20 +19,20 @@
 [📚 Templates HTML gratuitos](#-templates-html-gratuitos) <br>
 [📚 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css) <br>
 [📚 Geradores de CSS](#-geradores-de-css) <br>
-[📚 Sites para buscar vagas remotas](#-site-para-buscar-vagas-remotas) <br>
+[📚 Sites para buscar vagas remotas](#-sites-para-buscar-vagas-remotas) <br>
 [📚 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento) <br>
 [📚 Gerenciamento de projetos](#-gerenciamento-de-projetos) <br>
 [📚 IDEs e editores de código](#-ides-e-editores-de-código) <br>
 [📚 Design Front-end](#-design-front-end) <br>
 [📚 Linguagens de programação](#-linguagens-de-programação) <br>
-[📚 Guia de Estilo](#-guia-de-Estilo) <br>
+[📚 Guia de Estilo](#-guia-de-estilo) <br>
 [📚 Desafios](#-desafios) <br>
 [📚 Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
 [📚 Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [📚 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
-[📚 Bibliotecas JavaScript](#-bibliotecas-javaScript) <br>
+[📚 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
 [📚 7 Ferramentas que todo DEV precisa conhecer](#-7-ferramentas-que-todo-dev-precisa-conhecer) <br>
-[📚 Sites para praticar UI/UX](#-sites-para-praticar-UI/UX) <br>
+[📚 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
 [📚 Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
 [📚 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
 [📚 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas) <br>
@@ -58,9 +58,9 @@
 [📚 Cursos de HTML e CSS](#-cursos-de-html-e-css) <br>
 [📚 Cursos de Python](#-cursos-de-python) <br>
 [📚 Cursos de PHP](#-cursos-de-php) <br>
-[📚 Cursos de C#](#-cursos-de-c#) <br>
-[📚 Cursos de C](#-cursos-de-c) <br>
-[📚 Cursos de C++](#-cursos-de-c++) <br>
+[📚 Cursos de C#](#-cursos-de-c) <br>
+[📚 Cursos de C](#-cursos-de-c-1) <br>
+[📚 Cursos de C++](#-cursos-de-c-2) <br>
 [📚 Cursos de Kotlin](#-cursos-de-kotlin) <br>
 [📚 Cursos de Swift](#-cursos-de-swift) <br>
 [📚 Cursos de Go](#-cursos-de-go) <br>
