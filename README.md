@@ -162,6 +162,7 @@
 🔖 [Working Nomads](https://workingnomads.co) <br>
 🔖 [Coodesh](https://coodesh.com/) <br>
 🔖 [Há Vagas](https://havagas.pt/) <br>
+🔖 [Geekhunter](https://www.geekhunter.com.br/) <br>
 
 ## 📚 Ferramentas de desenvolvimento:
 
