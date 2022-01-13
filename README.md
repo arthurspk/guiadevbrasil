@@ -106,6 +106,11 @@
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos <br>
 🔖 [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos <br>
+🔖 [DataScienceAcademy](https://www.datascienceacademy.com.br/) - Site com diversos cursos gratuitos para inciar no mundo de Python & DataScience <br>
+🔖 [FIAPx](https://www.fiap.com.br/fiapx) - Site com diversos cursos gratuitos na área da tecnologia <br>
+🔖 [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades=251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site com diversos cursos gratuitos na área da tecnologia <br>
+🔖 [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
+🔖 [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
 
 ## 📚 Sites para desenvolvedor front-end
 
@@ -212,6 +217,7 @@
 🔖 [JSON Editor Online](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON <br>
 🔖 [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online <br>
 🔖 [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON <br>
+🔖 [JSON Generator](https://app.json-generator.com/) - Ferramenta para gerar JSON com base em template <br>
 🔖 [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web <br>
 🔖 [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS <br>
 🔖 [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício <br>
@@ -234,6 +240,10 @@
 🔖 [Telegram](https://telegram.org/) - Mensageiro criptografado <br>
 🔖 [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG <br>
 🔖 [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG <br>
+🔖 [Creately](https://creately.com/) - Crie e altere lindos diagramas em tempo real com a sua equipe <br>
+🔖 [Carbon](https://carbon.now.sh/) - Crie Snippets de codigo clean e bonitos <br>
+🔖 [DbDiagram](https://dbdiagram.io/home) - Crie elegrantes diagramas de banco de dados e gere script ddl <br>
+🔖 [SqlDesigner](https://ondras.zarovi.cz/sql/demo/) - Crie Diagramas de banco de dados de maneira rapida e gere script ddl <br>
 🔖 [W3.org](https://validator.w3.org/) - Validar HTML <br>
 🔖 [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento <br>
 🔖 [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções <br>
@@ -794,6 +804,7 @@
 🔖 [Dcoder Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&hl=pt_BR&gl=US) <br>
 🔖 [Codecademy Android](https://play.google.com/store/apps/details?id=com.ryzac.codecademygo&hl=pt_BR&gl=US) <br>
 🔖 [Codecademy iOS](https://apps.apple.com/us/app/codecademy-go/id1376029326) <br>
+🔖 [GrassHopper Android](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=pt_BR&gl=US6) <br>
 
 ## 📚 Sites para treinar projetos front-end
 
