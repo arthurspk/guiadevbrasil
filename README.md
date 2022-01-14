@@ -532,7 +532,7 @@
 🔖 [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas <br>
 🔖 [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify <br>
 🔖 [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial <br>
-🔖 [BancoDeImagensComDiversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas <br>
+🔖 [Banco De Imagens Com Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas <br>
 🔖 [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar <br>
 🔖 [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais <br>
 🔖 [Flickr](https://flickr.com/) - Rede social de fotógrafos <br>
