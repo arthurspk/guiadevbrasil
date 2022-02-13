@@ -638,7 +638,7 @@
 🔖 [Bootstrap icons](https://icons.getbootstrap.com/) <br>
 🔖 [devicon](https://devicon.dev/) <br>
 
-## 📚 Canais do youtube com conteúdo grautito
+## 📚 Canais do youtube com conteúdo gratuito
 
 🔖 [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia <br>
 🔖 [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação <br>
@@ -1174,83 +1174,221 @@
 🔖 [Git School](https://git-school.github.io/visualizing-git/) <br>
 🔖 [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
 
-ls (Listar as pastas) <br>
-cd .. (voltar um diretório) <br>
-CD: <br>
-dir / tree /f (ver o que tem dentro da pasta) <br>
-mkdir (nome da pasta) - criar novos diretórios/pastas <br>
-git status (Verifica o status do repositório) <br>
-git add -A (Trackear o que não foi trackeado, inserir tudo) <br>
-git commit -m (Para commitar) / git commit -am <br>
-[Diferença do commit -m para o git commit -am](https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m) <br>
-git log (lista de commits) <br>
-git reset (--soft / --mixed / --hard) <br>
-git checkout (Mudar a branch atual) <br>
-git diff (Checar o que houve nas alterações) / git diff --name-only / git diff //nome do arquivo// (vê apenas a alteração feita naquele arquivo) <br>
-git checkout HEAD -- "diff" //nome do arquivo// (retroceder até a posição) <br>
-git push origin <link> <br>
-git pull origin <link> <br>
-git clone <link> <br>
+Listar conteúdo do diretório <br>
 
-Configurações iniciais do Git <br>
+```bash
+  $ ls
+```
+
+Voltar um diretório <br>
+CD: <br>
+
+```bash
+$ cd ..
+```
+
+Ver o que tem dentro da pasta folder
+
+```bash
+$ dir ~/folder
+$ tree ~/folder
+```
+
+Criar novos diretórios/pastas 
+
+```bash
+$ mkdir nome_da_pasta
+```
+
+Verifica o status do repositório<br>
+
+```bash
+$ git status 
+```
+
+Trackear o que não foi trackeado, inserir tudo <br>
+
+```bash
+$ git add -A 
+```
+
+Para commitar<br>
+
+```bash
+$ git commit -m "menssagem" 
+# -- Ou
+$ git commit -am "mensagem"
+```
+
+[Diferença do commit -m para o git commit -am](https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m) <br>
+Lista de commits
+
+```bash
+$ git log 
+```
+
+Removendo commits soft(mantendo) ou hard(removendo)
+
+```bash
+$ git reset --soft 
+# -- Ou
+$ git reset --mixed 
+# -- Ou
+$ git reset--hard
+```
+
+Alterar estado dos arquivos no commit
+
+```bash
+$ git checkout (Mudar a branch atual) 
+
+#-- retroceder até a posição --
+$ git checkout HEAD -- "diff" nome_do_arquivo
+```
+
+Checar o que houve nas alterações
+
+```bash
+$ git diff  
+$ git diff --name-only 
+#-- vê apenas a alteração feita naquele arquivo --
+$ git diff nome_do_arquivo
+```
+
+Atualiza repositorio remoto
+
+```bash
+$ git push origin <link> 
+```
+
+Atualiza repositório local
+
+```bash
+$ git pull origin <link> 
+```
+
+Clone do repositório remoto na máquina local
+
+```bash
+$ git clone <link> 
+```
+
+### Configurações iniciais do Git 
 
 Baixando e instalando o Git <br>
 [Site para instalar o Git](https://git-scm.com/downloads) <br>
 
-Configura nome de usuário: <br>
-git config --global user.name <br>
+Configura nome de usuário: 
 
-Configura email de usuário: <br>
-git config --global user.email email@email.com.br <br>
+```bash
+$ git config --global user.name 
+```
 
-Inicializando um repositório <br>
+Configura email de usuário: 
 
-Inicializa o versionamento no respectivo diretório: <br>
-git init <br>
+```bash
+$ git config --global user.email email@email.com.br 
+```
 
-Comandos básicos para sobreviver: <br>
+### Inicializando um repositório 
 
-Verificando o status do repositório: <br>
-git status <br>
+Inicializa o versionamento no respectivo diretório:
 
-Adicionando todos os arquivos para serem commitados: <br>
-git add . / git add -A <br>
+```bash
+$ git init 
+```
 
-Commitando arquivos: <br>
-git commit -m "inserir um comentário significativo" <br>
+### Comandos básicos para sobreviver: 
 
-Visualizando relatório de commits: <br>
-git log // todos os commits <br>
-git log --oneline // exibe log com hash e título do commit <br>
+Verificando o status do repositório: 
 
-Adicionando um repositório remoto: <br>
-git remote add origin https://github.com/User/Repository.git <br>
+```bash
+$ git status 
+```
 
-Enviando as modificações para o repositório remoto: <br>
-git push origin <branch> <br>
+Adicionando todos os arquivos para serem commitados: 
 
-Puxando alterações do repositório remoto: <br>
-git pull origin <branch> <br>
+```bash
+$ git add . 
+#-- ou então --
+$ git add -A 
+```
 
-Trabalhando com branches: <br>
-git checkout -b nome-branch <br>
+Commitando arquivos: 
 
+```bash
+$ git commit -m "inserir um comentário significativo" 
+```
+
+Visualizando relatório de commits: 
+
+```bash
+#-- todos os commits  --
+$ git log 
+
+#-- exibe log com hash e título do commit --
+$ git log --oneline
+```
+
+Adicionando um repositório remoto: 
+
+```bash
+$ git remote add origin https://github.com/GIT_USER/Repository.git 
+```
+
+Enviando as modificações para o repositório remoto:
+
+```bash
+$ git push origin <branch> 
+```
+
+Puxando alterações do repositório remoto: 
+
+```bash
+$ git pull origin <branch> 
+```
+
+Trabalhando com branches: 
+  
+```bash
+$ git checkout -b nome-branch
+ ```
+ 
 Aplicando merge em branches: <br>
-git merge nome-branch // precisa estar na branch de destino <br>
+  
+```bash
+# -- precisa estar na branch de destino --
+$ git merge nome-branch 
+```
 
 Visualizando todas as branches existentes no repositório: <br>
-git branch <br>
+  
+```bash
+$ git branch
+```
 
 Deletando uma branch local: <br>
-git branch -D nome-branch <br>
-git branch -d nome-branch <br>
+  
+```bash
+$ git branch -D nome-branch 
+$ git branch -d nome-branch 
+```
 
 Deletando uma branch remota: <br>
-git push origin :nome-branch <br>
+  
+```bash
+$ git push origin nome_da_branch
+```
 
 Deletando todas branch que não se encontram no repositório remoto: <br>
-git branch --merged ## <br>
-git branch -r | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin | grep -v "master") | xargs git branch -d <br>
+  
+```bash
+$ git branch --merged
+$ git branch -r | egrep -v -f /dev/fd/0 < (git branch -vv | grep origin | grep -v "master") | xargs git branch -d 
+```  
 
 Deletando todos branches no repositório local (exceto a master): <br>
-git branch | grep -v "master" | xargs git branch -D <br>
+  
+```bash
+$ git branch | grep -v "master" | xargs git branch -D 
+```
