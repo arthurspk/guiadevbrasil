@@ -42,7 +42,7 @@
 [📚 Lista de ilustrações](#-lista-de-ilustrações) <br>
 [📚 Sites de icones](#-sites-de-icones) <br>
 [📚 Canais do youtube com conteúdo grautito](#-canais-do-youtube-com-conteúdo-grautito) <br>
-[📚 Pentest](#-pentest) <br>
+[🔓 Pentest](#-pentest) <br>
 [📚 Blogs e Podcasts](#-blogs-e-podcasts) <br>
 [📚 Business](#-business) <br>
 [📚 Web Developer Roadmap](#-web-developer-roadmap) <br>
@@ -726,17 +726,21 @@
 🔖 [Pessonizando](https://www.youtube.com/c/pessonizando) - Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. <br>
 🔖 [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
 
-## 📚 Pentest
+## 🔓 Pentest
 
-🔖 [Beef-Project](https://beefproject.com/) - Framework de exploração de browser <br>
-🔖 [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
-🔖 [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
-🔖 [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem <br>
-🔖 [HTTRack](http://www.httrack.com/) - Browser utility <br>
-🔖 [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa <br>
-🔖 [NMap](https://nmap.org/) - Scanner de portas de rede <br>
-🔖 [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
-🔖 [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
+* [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
+* [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
+* [Hacker101](https://www.hacker101.com/) - Aprenda hacking e bug bounty
+* [Hackerone](https://www.hackerone.com/) - Plataforma de pesquisa de vulnerabilidades e recompensa por bugs
+* [Hackaflag](https://hackaflag.com.br/) - Plataforma combinada de campeonatos estilo CTF, programas de Bug Bounty e cursos online
+* [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
+* [HackTheBox Academy](https://academy.hackthebox.com/) - Aprenda hacking
+* [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
+* [HTTRack](http://www.httrack.com/) - Browser utility
+* [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
+* [NMap](https://nmap.org/) - Scanner de portas de rede
+* [PicoCTF](https://picoctf.com/) -  Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+* [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 ## 📚 Blogs e Podcasts
 
