@@ -1,5 +1,7 @@
 ## 📚 GUIA EXTENSO DE PROGRAMAÇÃO
 
+bruno123
+
 ⚠️ AVISO IMPORTANTE ⚠️
 
 🌟 Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras: 🌟 <br>
@@ -125,7 +127,7 @@
 
 🔖 [Code Combat](https://br.codecombat.com) - Site  para aprender conceitos e linguagens de programação enquanto joga <br>
 🔖 [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python. <br>
-🔖 [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada <br>
+🔖 [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end IDE integrada. <br>
 🔖 [Schemaverse](https://schemaverse.com) - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL. <br>
 🔖 [Code Monkey](https://codemonkey.com) - CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador. <br>
 🔖 [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
