@@ -79,6 +79,7 @@
 
 ## 📚 Sites para estudar programação
 
+🔖 [Treinaweb](https://www.treinaweb.com.br/) - Plataforma de ensino de tecnologia <br>
 🔖 [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
 🔖 [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos <br>
 🔖 [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes <br>
