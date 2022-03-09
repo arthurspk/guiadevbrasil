@@ -797,6 +797,7 @@
 🔖 [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
 🔖 [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
 🔖 [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
+🔖 [14 Hábitos de Desenvolvedores Altamente Produtivos](https://www.google.com/search?q=14+habitos+de+desenvolvedores+altamente+produtivos) <br>
 
 ## 📚 Apps para praticar programação
 
