@@ -640,7 +640,7 @@
 🔖 [Bootstrap icons](https://icons.getbootstrap.com/) <br>
 🔖 [devicon](https://devicon.dev/) <br>
 
-## 📚 Canais do youtube com conteúdo grautito
+## 📚 Canais do youtube com conteúdo gratuito
 
 🔖 [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia <br>
 🔖 [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação <br>
