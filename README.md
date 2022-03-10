@@ -769,6 +769,7 @@
 🔖 [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
 🔖 [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
 🔖 [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
+🔖 [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech. <br>
 
 ## 📚 Business
 
