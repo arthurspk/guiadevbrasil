@@ -421,7 +421,9 @@
 🔖 [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada <br>
 🔖 [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
 🔖 [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
-🔖 [URI](https://www.urionlinejudge.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
+🔖 [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
+
+
 
 ## 📚 Ferramentas para desenvolvedores WEB
 
