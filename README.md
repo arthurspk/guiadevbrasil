@@ -424,7 +424,6 @@
 🔖 [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
 
 
-
 ## 📚 Ferramentas para desenvolvedores WEB
 
 🔖 [Minimamente](https://www.minimamente.com/project/magic/) <br>
