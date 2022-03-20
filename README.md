@@ -111,6 +111,7 @@
 🔖 [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades=251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site com diversos cursos gratuitos na área da tecnologia <br>
 🔖 [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
 🔖 [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
+🔖 [MDN Web Docs](https://developer.mozilla.org/pt-BR/) - Site com documentação oficial de tecnologias Web, como HTML, CSS e Javascript. <br>
 
 ## 📚 Sites para desenvolvedor front-end
 
