@@ -1273,7 +1273,7 @@
     # Todas as branches no repositório local (exceto a master)
       git branch | grep -v "master" | xargs git branch -D 
     ```
-  </details> <br>
+  </details>
 
 ## 📚 Linha de comando
 🔖 [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
@@ -1322,4 +1322,4 @@
     ```bash
     clear # => (clc no Powershell)
     ```
-  </details> <br>
+  </details>
