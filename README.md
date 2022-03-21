@@ -815,6 +815,7 @@
 🔖 [Code Well](https://codewell.cc/) - Treine suas habilidade de HTML e CSS com alguns templates <br>
 🔖 [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
 🔖 [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
+🔖 [DevChallenges](https://devchallenges.io/) - Site com desafios de Front-end e Fullstack  <br>
 
 ## 📚 Sites para treinar projetos back-end
 
