@@ -595,7 +595,7 @@
 🔖 [1001 fonts](https://www.1001fonts.com/) <br>
 🔖 [Abstract fonts](https://www.abstractfonts.com/) <br>
 🔖 [Fontget](https://www.fontget.com/) <br>
-🔖 [Material Design Icons](https://materialdesignicons.com/) <br>
+🔖 [Material Design Icons](https://fonts.google.com/?selected=Material+Icons) <br>
 
 ## 📚 Sites de paletas de cores
 
@@ -639,6 +639,9 @@
 🔖 [Flaticon](https://www.flaticon.com/br/) <br>
 🔖 [Bootstrap icons](https://icons.getbootstrap.com/) <br>
 🔖 [devicon](https://devicon.dev/) <br>
+🔖 [Material Design Icons](https://fonts.google.com/icons?selected=Material+Icons) <br>
+🔖 [Unicons](https://iconscout.com/unicons) <br>
+🔖 [ionicons](https://ionic.io/ionicons) <br>
 
 ## 📚 Canais do youtube com conteúdo grautito
 
