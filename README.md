@@ -7,7 +7,7 @@
 
 ## :dart: O guia para alavancar a sua carreira
 
-Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor ou qualquer área de TI, caso você já atue como desenvoldor ou em outra área confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, back-end, fullstack, entre outras, faça bom uso do guia e bons estudos!
+Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor ou qualquer área de TI, caso você já atue como desenvoldor ou em outra área confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, back-end, entre outras, faça bom uso do guia e bons estudos!
 
 <sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -106,7 +106,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [🐰 Cursos de Bootstrap](#-cursos-de-bootstrap) <br>
 [🐮 Cursos de Git e Github](#-cursos-de-git-e-github) <br>
 
-## 📚 Sites para estudar programação
+## 👨‍🏫 Sites para estudar programação
 
 - [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
 - [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos <br>
@@ -141,7 +141,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
 
-## 📚 Sites para desenvolvedor front-end
+## 🎨 Sites para desenvolvedor front-end
 
 - [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
@@ -150,7 +150,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 - [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
 
-## 📚 Sites para aprender a programar jogando
+## 🎮 Sites para aprender a programar jogando
 
 - [Code Combat](https://br.codecombat.com) - Site para aprender conceitos e linguagens de programação enquanto joga <br>
 - [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python. <br>
@@ -160,14 +160,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
 - [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
 
-## 📚 Templates HTML gratuitos
+## ✨ Templates HTML gratuitos
 
 - [Bootstrap Made](https://bootstrapmade.com/) - Temas HTML5 + CSS3 gratuitos <br>
 - [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos <br>
 - [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos <br>
 - [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos <br>
 
-## 📚 Sites para aprender ou treinar CSS
+## 🪅 Sites para aprender ou treinar CSS
 
 - [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS) <br>
 - [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática <br>
@@ -178,7 +178,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar <br>
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los <br>
 
-## 📚 Geradores de CSS
+## 🪡 Geradores de CSS
 
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius <br>
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS <br>
@@ -187,7 +187,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS <br>
 - [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path <br>
 
-## 📚 Sites para buscar vagas remotas
+## 🔎 Sites para buscar vagas remotas
 
 - [Remote OK](https://remoteok.io) <br>
 - [Hired](https://hired.com) <br>
@@ -197,7 +197,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Coodesh](https://coodesh.com/) <br>
 - [Há Vagas](https://havagas.pt/) <br>
 
-## 📚 Ferramentas de desenvolvimento:
+## 🔧 Ferramentas de desenvolvimento:
 
 - [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe <br>
 - [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido. <br>
@@ -282,7 +282,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [WordPress](https://wordpress.org/) - Criação de blogs <br>
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml <br>
 
-## 📚 Gerenciamento de projetos
+## 🗂 Gerenciamento de projetos
 
 - [Asana](https://asana.com/pt) - Gerenciamento de trabalho <br>
 - [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas <br>
@@ -303,7 +303,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros <br>
 - [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online <br>
 
-## 📚 IDEs e editores de código
+## 📝 IDEs e editores de código
 
 - [Atom](https://atom.io/) - Editor de código do GitHub <br>
 - [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS <br>
@@ -324,7 +324,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft <br>
 
-## 📚 Design Front-end
+## 🖌 Design Front-end
 
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos <br>
 - [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces <br>
@@ -379,7 +379,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map <br>
 - [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens <br>
 
-## 📚 Linguagens de programação
+## 🔤 Linguagens de programação
 
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <br>
 - [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <br>
@@ -407,7 +407,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <br>
 - [Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/introduction.html) - Linguagem de programação dinâmica para experimentos de alta performance <br>
 
-## 📚 Guia de Estilo
+## 📕 Guia de Estilo
 
 - [Airbnb - Javascript](https://github.com/airbnb/javascript) - Guia de estilo de código em JavaScript do Airbnb <br>
 - [Airbnb - Ruby](https://github.com/airbnb/ruby) - Guia de estilo de código em Ruby do Airbnb <br>
@@ -416,7 +416,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Google - Python](https://google.github.io/styleguide/pyguide.html) - Guia de estilo de código em Python do Google <br>
 - [Google - Java](https://google.github.io/styleguide/javaguide.html) - Guia de estilo de código em Java do Google <br>
 
-## 📚 Desafios
+## 📁 Desafios
 
 - [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada <br>
 - [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário <br>
@@ -451,13 +451,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
 - [URI](https://www.urionlinejudge.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
 
-## 📚 Ferramentas para desenvolvedores WEB
+## 🛠️ Ferramentas para desenvolvedores WEB
 
 - [Minimamente](https://www.minimamente.com/project/magic/) <br>
 - [Hamburgers](https://jonsuh.com/hamburgers/) <br>
 - [Hover Effects](https://ianlunn.github.io/Hover/) <br>
 
-## 📚 Ferramentas para buscar projetos open source
+## ⚒ Ferramentas para buscar projetos open source
 
 - [Up for Grabs](http://up-for-grabs.net/) <br>
 - [Isse Hub](http://issuehub.pro/) <br>
@@ -466,7 +466,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Your First Pr](https://twitter.com/yourfirstpr) <br>
 - [Github Explore](https://github.com/explore/) <br>
 
-## 📚 Melhores distros linux para programadores
+## 🔗 Melhores distros linux para programadores
 
 - [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os <br>
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
@@ -480,7 +480,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Solus](https://www.getsol.us) - Distribuição Linux Solus <br>
 - [Tails](https://www.tails.boum.org) - Distribuição Linux Tails <br>
 
-## 📚 Bibliotecas JavaScript
+## 🪛 Bibliotecas JavaScript
 
 - [Lax.js](https://github.com/alexfoxy/lax.js) <br>
 - [Swiper](https://swiperjs.com/) <br>
@@ -490,7 +490,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Particles.js](https://vincentgarreau.com/particles.js/) <br>
 - [ScrollMagic](https://scrollmagic.io/) <br>
 
-## 📚 7 Ferramentas que todo DEV precisa conhecer
+## 🎭 7 Ferramentas que todo DEV precisa conhecer
 
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
 - [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
@@ -501,7 +501,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
 - [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
-## 📚 Sites para praticar UI/UX
+## ☁ Sites para praticar UI/UX
 
 - [Sharpen](https://sharpen.design/) <br>
 - [Daily UI](https://www.dailyui.co/) <br>
@@ -509,7 +509,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Drawerrr](https://drawerrr.com/challenge) <br>
 - [Uplabs](https://www.uplabs.com/challenges) <br>
 
-## 📚 Ferramentas para hospedar seu site
+## 🌌 Ferramentas para hospedar seu site
 
 - [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
 - [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
@@ -536,7 +536,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
 
-## 📚 Sites para inspirar o seu desenvolvimento
+## 📮 Sites para inspirar o seu desenvolvimento
 
 - [Product Hunt](https://www.producthunt.com/) <br>
 - [Namify](https://namify.tech/?ref=producthunt) <br>
@@ -557,7 +557,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Collect UI](https://collectui.com) <br>
 - [Best Web Site](https://bestwebsite.gallery) <br>
 
-## 📚 Banco de imagens gratuitas
+## 📮 Banco de imagens gratuitas
 
 - [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas <br>
 - [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify <br>
@@ -597,7 +597,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas <br>
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial <br>
 
-## 📚 Aumentando o network
+## 👔 Aumentando o network
 
 - [Guia Dev Brasil](https://linktr.ee/guiadevbrasil) - Guia Dev Brasil <br>
 - [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos <br>
@@ -611,7 +611,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram <br>
 - [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog <br>
 
-## 📚 Sites para baixar e encontrar fontes
+## 🎠 Sites para baixar e encontrar fontes
 
 - [Adobe Fonts](https://fonts.adobe.com/) <br>
 - [Google fonts](https://fonts.google.com/) <br>
@@ -625,7 +625,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Fontget](https://www.fontget.com/) <br>
 - [Material Design Icons](https://materialdesignicons.com/) <br>
 
-## 📚 Sites de paletas de cores
+## 🧵 Sites de paletas de cores
 
 - [Paletton](https://paletton.com/) <br>
 - [Adobe Color](https://color.adobe.com/pt/create/color-wheel/) <br>
@@ -639,7 +639,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [WebGradient](https://webgradients.com/) <br>
 - [Color.lol](https://colors.lol/) <br>
 
-## 📚 Lista de ilustrações
+## 🎇 Lista de ilustrações
 
 - [DrawKIT](https://www.drawkit.io/) <br>
 - [Humaaans](https://www.humaaans.com/) <br>
@@ -653,7 +653,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Pixeltru](https://www.pixeltrue.com/free-illustrations/) <br>
 - [Iconscout](https://iconscout.com/) <br>
 
-## 📚 Sites de icones
+## 🎆 Sites de icones
 
 - [DrawKIT](https://www.drawkit/free-icons/) <br>
 - [Eva Icons](https://akveo.github.io/eva-icons/#/) <br>
@@ -668,7 +668,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Bootstrap icons](https://icons.getbootstrap.com/) <br>
 - [devicon](https://devicon.dev/) <br>
 
-## 📚 Canais do youtube com conteúdo grautito
+## 🎥 Canais do youtube com conteúdo grautito
 
 - [Alura](https://www.youtube.com/user/aluracursosonline) - Uns camaradas legais que abordam os mais variados temas do mundo da tecnologia <br>
 - [CódigoFonteTV](https://www.youtube.com/user/codigofontetv) - Leon e Nilce da programação <br>
@@ -756,7 +756,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Pessonizando](https://www.youtube.com/c/pessonizando) - Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. <br>
 - [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
 
-## 📚 Pentest
+## 🔓 Pentest
 
 - [Beef-Project](https://beefproject.com/) - Framework de exploração de browser <br>
 - [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
@@ -768,7 +768,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes <br>
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL <br>
 
-## 📚 Blogs e Podcasts
+## 🎙 Blogs e Podcasts
 
 - [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral <br>
 - [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para <br>
@@ -798,18 +798,18 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
 - [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
 
-## 📚 Business
+## 💼 Business
 
 - [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes <br>
 - [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo <br>
 - [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional <br>
 - [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes <br>
 
-## 📚 Web Developer Roadmap
+## 🧭 Web Developer Roadmap
 
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Trilha de caminhos para seguir para se tornar um desenvolvedor WEB <br>
 
-## 📚 Extensões para o seu navegador
+## 🔩 Extensões para o seu navegador
 
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) <br>
 - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) <br>
@@ -826,7 +826,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
 - [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
 
-## 📚 Apps para praticar programação
+## 📱 Apps para praticar programação
 
 - [SoloLearn](https://www.sololearn.com/home) <br>
 - [Pydriod3 Android](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US) <br>
@@ -836,7 +836,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Codecademy iOS](https://apps.apple.com/us/app/codecademy-go/id1376029326) <br>
 - [GrassHopper Android](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=pt_BR&gl=US6) <br>
 
-## 📚 Sites para treinar projetos front-end
+## 📘 Sites para treinar projetos front-end
 
 - [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada <br>
 - [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada <br>
@@ -844,20 +844,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
 - [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
 
-## 📚 Sites para treinar projetos back-end
+## 📗 Sites para treinar projetos back-end
 
 - [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end <br>
 
-## 📚 Sites para treinar projetos mobile
+## 📙 Sites para treinar projetos mobile
 
 - [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile <br>
 
-## 📚 Ideias para projeto
+## 🛖 Ideias para projeto
 
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
 - [What to Code](https://what-to-code.com/) - Compilado de desafio e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 
-## 📚 Cursos de Java
+## 🦓 Cursos de Java
 
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) <br>
 - [Maratona Java](https://youtu.be/VKjFuX91G5Q) <br>
@@ -869,7 +869,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
 - [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
 
-## 📚 Cursos de JavaScript
+## 🐴 Cursos de JavaScript
 
 - [Curso completo de Javascript (46 aulas):](https://goo.gl/zfjfkQ) <br>
 - [Curso de introdução ao Java script](https://youtu.be/i6Oi-YtXnAU) <br>
@@ -886,7 +886,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
 - [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
 
-## 📚 Cursos de HTML e CSS
+## 🦄 Cursos de HTML e CSS
 
 - [Curso em video](https://github.com/gustavoguanabara/html-css): <br>
 - [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
@@ -909,7 +909,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso completo de CSS3 (22 aulas)](https://goo.gl/ebjzVG) <br>
 - [Curso de CSS3 com Sass e Compass (9 aulas)](https://goo.gl/bAO0hE) <br>
 
-## 📚 Cursos de Python
+## 🐍 Cursos de Python
 
 - [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 - [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
@@ -929,14 +929,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) <br>
 - [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
 
-## 📚 Cursos de PHP
+## 🐘 Cursos de PHP
 
 - [Curso de PHP 1](https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) <br>
 - [Curso de PHP 2](https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) <br>
 - [Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o) <br>
 - [Curso Completo de PHP (108 aulas)](https://goo.gl/1th6ok) <br>
 
-## 📚 Cursos de C#
+## 🦚 Cursos de C#
 
 - [Curso de C# 1](https://www.youtube.com/playlist?list=PLxd1RHU8YgYkHCbZqtqWuaYHASNERx-Tn) <br>
 - [Curso de C# 2](https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi) <br>
@@ -948,7 +948,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de C# 8](https://www.youtube.com/playlist?list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1) <br>
 - [Curso de C# 9](https://www.youtube.com/playlist?list=PLO_xIfla8f1wDmI0Vd4YJLKBJhOeQ3xbz) <br>
 
-## 📚 Cursos de C
+## 🦉 Cursos de C
 
 - [Curso de C 1](https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
 - [Curso de C 2](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
@@ -967,13 +967,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de C 15](https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_) <br>
 - [Curso de C 16](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) <br>
 
-## 📚 Cursos de C++
+## 🐸 Cursos de C++
 
 - [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
 
-## 📚 Cursos de Kotlin
+## 🐶 Cursos de Kotlin
 
 - [Curso de Kotlin 1](https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) <br>
 - [Curso de Kotlin 2](https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg) <br>
@@ -995,13 +995,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Kotlin 18](https://cursos.alura.com.br/course/fundamentos-android-kotlin) <br>
 - [Curso de Kotlin 19](https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt) <br>
 
-## 📚 Cursos de Swift
+## 🐋 Cursos de Swift
 
 - [Curso de Swift 1](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) <br>
 - [Curso de Swift 2](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) <br>
 - [Curso de Swift 2](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm) <br>
 
-## 📚 Cursos de Go
+## 🐺 Cursos de Go
 
 - [Curso de GO 1](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) <br>
 - [Curso de GO 2](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) <br>
@@ -1009,7 +1009,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
 
-## 📚 Cursos de Ruby
+## 🐦 Cursos de Ruby
 
 - [Introdução ao Ruby On-Rails](https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) <br>
 - [Curso de Ruby On-Rails 1](https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) <br>
@@ -1018,7 +1018,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Ruby On-Rails (15 aulas)](https://goo.gl/LcHcn4) <br>
 - [Curso de Ruby On Rails (49 aulas)](https://goo.gl/4oXEAP) <br>
 
-## 📚 Cursos de React
+## 🐷 Cursos de React
 
 - [Curso de React.js 1](https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1) <br>
 - [Curso de React.js 2](https://www.alura.com.br/imersao-react/aula01-react-alurakut) <br>
@@ -1027,7 +1027,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso Intensivo de Next JS e React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) <br>
 - [Curso de React Native com Hooks e Context API - Cadastro Completo](https://www.cod3r.com.br/courses/react-native-crud) <br>
 
-## 📚 Cursos de React Native
+## 🐼 Cursos de React Native
 
 - [Curso de React Native 1](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
 - [Curso de React Native 2](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) <br>
@@ -1073,7 +1073,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de React Native 42](https://www.youtube.com/playlist?list=PLLEQmYfSF6FQCrSxRuq-4OCYx8wE67yfV) <br>
 - [Curso de React Native 43](https://www.youtube.com/playlist?list=PLC8ntN5__iMLKFGge64ZXIwFtlMYKh50k) <br>
 
-## 📚 Cursos de Angular
+## 🐯 Cursos de Angular
 
 - [Curso de Angular 1](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) <br>
 - [Curso de Angular 2](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) <br>
@@ -1085,7 +1085,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt) <br>
 - [Curso de Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) <br>
 
-## 📚 Cursos de Vue
+## 🐞 Cursos de Vue
 
 - [Library de Vue](https://revue-draggable.vercel.app/) <br>
 - [Vue 3 Notification](https://github.com/kyvg/vue3-notification) <br>
@@ -1111,7 +1111,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Vue 20](https://www.youtube.com/playlist?list=PLSk-H3V-Rn5E5DrKFFeROu5j1FaYGA7gl) <br>
 - [Curso de Vue 21](https://www.youtube.com/playlist?list=PLUW39uIualVtC9sciopJGnuOsjZuytE4z) <br>
 
-## 📚 Cursos de Svelte
+## 🦂 Cursos de Svelte
 
 - [Curso Intensivo de Svelte](https://www.cod3r.com.br/courses/svelte-intensivo) <br>
 - [Curso de Svelte 1](https://www.youtube.com/playlist?list=PLV8x_i1fqBw2QScggh0pw2ATSJg_WHqUN) <br>
@@ -1123,7 +1123,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Svelte 7](https://www.youtube.com/playlist?list=PLNBi2FtnN_UY_bLPWm2_0O8dReEsCNYhv) <br>
 - [Curso de Svelte 8](https://www.youtube.com/playlist?list=PL0dTfY76y54PSpCel0rBb5VR2A-mMnDLJ) <br>
 
-## 📚 Cursos de Flutter
+## 🦞 Cursos de Flutter
 
 - [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) <br>
 - [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) <br>
@@ -1137,7 +1137,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Flutter 9](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) <br>
 - [Curso de Flutter 10](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) <br>
 
-## 📚 Cursos de jQuery
+## 🐹 Cursos de jQuery
 
 - [Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7) <br>
 - [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg) <br>
@@ -1153,14 +1153,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de jQuery 11](https://www.youtube.com/playlist?list=PLdrT3osfZM8wqtx9pEDyXmbn5NpSRSJOL) <br>
 - [Curso de jQuery 12](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) <br>
 
-## 📚 Cursos de Less
+## 🐢 Cursos de Less
 
 - [Curso de Less (6 aulas)](https://goo.gl/Y5UkLQ) <br>
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBSfhS9nzc5BkopBY-22K-D) <br>
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLwzKFCxxOMjPUOJitRL31rD1Zsd030sYX) <br>
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKT70itw70uVs0vlFbvbCPQN) <br>
 
-## 📚 Cursos de Sass
+## 🐱 Cursos de Sass
 
 - [Curso de Sass (18 aulas) /Inglês/](https://goo.gl/DzRv1e) <br>
 - [Curso de Sass ](https://www.youtube.com/watch?v=Wo5t3uUV8n4) <br>
@@ -1175,7 +1175,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) <br>
 
-## 📚 Cursos de Bootstrap
+## 🐰 Cursos de Bootstrap
 
 - [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT) <br>
 - [Curso de Bootstrap 1](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze) <br>
@@ -1196,7 +1196,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) <br>
 - [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) <br>
 
-## 📚 Cursos de Git e Github
+## 🐮 Cursos de Git e Github
 
 - [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
 - [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
