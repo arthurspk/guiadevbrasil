@@ -466,7 +466,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Your First Pr](https://twitter.com/yourfirstpr) <br>
 - [Github Explore](https://github.com/explore/) <br>
 
-## 🔗 Melhores distros linux para programadores
+## 🐧 Melhores distros linux para programadores
 
 - [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os <br>
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
@@ -480,7 +480,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Solus](https://www.getsol.us) - Distribuição Linux Solus <br>
 - [Tails](https://www.tails.boum.org) - Distribuição Linux Tails <br>
 
-## 🪛 Bibliotecas JavaScript
+## 🔗 Bibliotecas JavaScript
 
 - [Lax.js](https://github.com/alexfoxy/lax.js) <br>
 - [Swiper](https://swiperjs.com/) <br>
@@ -490,7 +490,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Particles.js](https://vincentgarreau.com/particles.js/) <br>
 - [ScrollMagic](https://scrollmagic.io/) <br>
 
-## 🎭 7 Ferramentas que todo DEV precisa conhecer
+## 🪛 7 Ferramentas que todo DEV precisa conhecer
 
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
 - [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
@@ -501,7 +501,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
 - [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
-## ☁ Sites para praticar UI/UX
+## 🎭 Sites para praticar UI/UX
 
 - [Sharpen](https://sharpen.design/) <br>
 - [Daily UI](https://www.dailyui.co/) <br>
@@ -509,7 +509,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Drawerrr](https://drawerrr.com/challenge) <br>
 - [Uplabs](https://www.uplabs.com/challenges) <br>
 
-## 🌌 Ferramentas para hospedar seu site
+## ☁ Ferramentas para hospedar seu site
 
 - [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
 - [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
@@ -536,7 +536,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
 
-## 📮 Sites para inspirar o seu desenvolvimento
+## 🌌 Sites para inspirar o seu desenvolvimento
 
 - [Product Hunt](https://www.producthunt.com/) <br>
 - [Namify](https://namify.tech/?ref=producthunt) <br>
@@ -655,7 +655,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🎆 Sites de icones
 
-- [DrawKIT](https://www.drawkit/free-icons/) <br>
+- [DrawKIT](https://drawkit.com/free-icons) <br>
 - [Eva Icons](https://akveo.github.io/eva-icons/#/) <br>
 - [Feather Icons](https://feathericons.com/) <br>
 - [Font Awesome](https://fontawesome.com) <br>
