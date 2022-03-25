@@ -761,6 +761,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Pessonizando](https://www.youtube.com/c/pessonizando) - Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. <br>
 - [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
 - [Pisani da Arch](https://www.youtube.com/c/ArcHOfficeTech) - É um canal com conteúdos voltados para Arquitetura de Solução, onde o objetivo é ajudar a comunidade de Devs e Archs a projetarem soluções com os melhores padrões do mercado. <br>
+- [Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Canal de um engenheiro de software de Londres com tutoriais e dicas de ferramentas Microsoft (ASPNET Core, C#, etc)  <br>
 
 ## 🔓 Pentest
 
