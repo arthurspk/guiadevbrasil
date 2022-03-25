@@ -140,6 +140,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades=251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site com diversos cursos gratuitos na área da tecnologia <br>
 - [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
+- [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN) <br>
 
 ## 🎨 Sites para desenvolvedor front-end
 
@@ -449,7 +450,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada <br>
 - [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
 - [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
-- [URI](https://www.urionlinejudge.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
+- [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
 
 ## 🛠️ Ferramentas para desenvolvedores WEB
 
@@ -755,6 +756,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Coding Snow](https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA) - Coding Snow é um canal para design e desenvolvimento criativo da Web, designs de front-end, designs de interface do usuário, Web design responsivo e designs de back-end usando HTML, CSS, Javascript / JQuery, PHP, MYSQL <br>
 - [Pessonizando](https://www.youtube.com/c/pessonizando) - Canal fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na EUROPA. <br>
 - [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
+- [Pisani da Arch](https://www.youtube.com/c/ArcHOfficeTech) - É um canal com conteúdos voltados para Arquitetura de Solução, onde o objetivo é ajudar a comunidade de Devs e Archs a projetarem soluções com os melhores padrões do mercado. <br>
 
 ## 🔓 Pentest
 
@@ -797,6 +799,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
 - [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
 - [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
+- [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech. <br>
 
 ## 💼 Business
 
@@ -843,6 +846,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Code Well](https://codewell.cc/) - Treine suas habilidade de HTML e CSS com alguns templates <br>
 - [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
 - [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
+- [DevChallenges](https://devchallenges.io/) - Site com desafios de Front-end e Fullstack <br>
 
 ## 📗 Sites para treinar projetos back-end
 
