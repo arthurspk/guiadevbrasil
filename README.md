@@ -433,6 +433,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada <br>
 - [Codility](https://app.codility.com/) - Desafios de Programação Back-end. IDE integrada <br>
 - [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
+- [CSES](https://cses.fi/problemset/) - Desafios de Programação Back-end. IDE integrada <br>
 - [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada <br>
 - [DailyCodingProblem](https://www.dailycodingproblem.com/) - Desafios de Programação Back-end enviados por e-mail. Solução do problema Premium <br>
 - [Desafio333](https://github.com/codigofalado/desafio333) - O Desafio333 é um desafio bimestral SIMPLES com o objetivo de convidar a comunidade a conhecer novas ferramentas <br>
@@ -447,6 +448,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada <br>
 - [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada <br>
 - [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
+- [LeetCode](https://leetcode.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [BinarySearch](https://binarysearch.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [CodeAbbey](https://www.codeabbey.com/) - Desafios de Programação Back-end. IDE integrada <br>
 - [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada <br>
 - [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
 - [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
