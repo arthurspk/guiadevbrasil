@@ -110,6 +110,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado <br>
 - [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos <br>
+- [Torne-se um Programador](https://www.torneseumprogramador.com.br/cursos) - Dezenas de cursos gratuitos completos e avançados com aplicações reais de mercado. <br>
 - [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes <br>
 - [Origamid](https://www.origamid.com/) - Cursos gratuitos e pagos paras desenvolver suas habilidades na área de UX & UI Design e desenvolvimento front-end <br>
 - [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos <br>
@@ -682,6 +683,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [CodigoPraTodos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ) - Canal com lives de resolução de exercícios do CS50 e mais dicas de programação <br>
 - [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ) - Canal com aulas e cursos gratuitos sobre diversas tecnlogias <br>
 - [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Lives insanas sobre JS, front-end, etc <br>
+- [Torne-se um Programador - Danilo Aparecido](https://www.youtube.com/c/DaniloAparecido) - Canal com + de 500 aulas e dicas sobre programação e negócios com programação. <br>
 - [Daniel Donda](https://www.youtube.com/c/DanielDonda) - Canal sobre administração de redes, carreiras e certificação, hacking, segurança da informação <br>
 - [Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Canal sobre tecnologia e comunidade de desenvolvedores <br>
 - [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) - Canal de um dos maiores portais sobre programação do Brasil <br>
@@ -805,6 +807,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
 - [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
 - [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech. <br>
+- [Torne-se um Programador Podcast](https://open.spotify.com/show/50tgLD0cGqINLLLKNDULRl) - Podcast sobre programação e empreendedorismo digital. <br>
 
 ## 💼 Business
 
