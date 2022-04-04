@@ -184,9 +184,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius <br>
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS <br>
 - [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS <br>
-- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de butões do CSS <br>
+- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de botões do CSS <br>
 - [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS <br>
 - [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path <br>
+- [Animista](https://animista.net) - Criador de animações
 
 ## 🔎 Sites para buscar vagas remotas
 
