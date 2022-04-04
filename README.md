@@ -141,6 +141,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN) <br>
+- [InterviewBit](https://www.interviewbit.com/) -  A site that gamifies the experience of practising for interviews. (EN) <br>
 
 ## 🎨 Sites para desenvolvedor front-end
 
@@ -258,6 +259,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm <br>
 - [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança <br>
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online <br>
+- [Online Python Compiler](https://www.interviewbit.com/online-python-compiler/) - This online compiler (interpreter) helps code, compile, run and debug python programs online <br>
 - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS <br>
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native <br>
 - [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas <br>
@@ -407,6 +409,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura <br>
 - [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <br>
 - [Julia](https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/introduction.html) - Linguagem de programação dinâmica para experimentos de alta performance <br>
+- [Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions/) - Take your technical interview preparation to the next level with this completely free interview guide. <br>
 
 ## 📕 Guia de Estilo
 
