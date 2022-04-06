@@ -839,10 +839,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 📚 Recomendação de livros
 
-🔖 [Clean Code - Código Limpo](https://g.co/kgs/62wx9t) <br>
-🔖 [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
-🔖 [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
-🔖 [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
+- [Clean Code - Código Limpo](https://g.co/kgs/62wx9t) <br>
+- [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
+- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
+- [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
 
 ## 📱 Apps para praticar programação
 
