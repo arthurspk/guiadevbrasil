@@ -769,6 +769,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Lama Dev](https://www.youtube.com/c/LamaDev) - Tutoriais de desenvolvimento da Web para todos. Aprenda JavaScript, React.js, Node.js e encontre inspiração para HTML, CSS e web design com Lama e torne-se um desenvolvedor web. <br>
 - [Pisani da Arch](https://www.youtube.com/c/ArcHOfficeTech) - É um canal com conteúdos voltados para Arquitetura de Solução, onde o objetivo é ajudar a comunidade de Devs e Archs a projetarem soluções com os melhores padrões do mercado. <br>
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Canal de um engenheiro de software de Londres com tutoriais e dicas de ferramentas Microsoft (ASPNET Core, C#, etc)  <br>
+- [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar) - Canal de um desenvolvedor mobile com experiência em Android & IOS. <br>
 
 ## 🔓 Pentest
 
@@ -834,6 +835,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR) <br>
 - [Vue Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR) <br>
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR) <br>
+- [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt-BR) <br>
 
 ## 📚 Recomendação de livros
 
@@ -885,6 +887,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Curso de Java](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) <br>
 - [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
 - [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
+- [Curso de Java 4](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL) <br>
 
 ## 🐴 Cursos de JavaScript
 
