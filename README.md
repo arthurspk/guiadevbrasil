@@ -142,6 +142,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN) <br>
+- [4noobs](https://github.com/he4rt/4noobs) - Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes. <br>
 
 ## 🎨 Sites para desenvolvedor front-end
 
@@ -160,7 +161,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Schemaverse](https://schemaverse.com) - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL. <br>
 - [Code Monkey](https://codemonkey.com) - CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador. <br>
 - [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada <br>
-- [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
+- [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [Flexbox Zombie](https://mastery.games/flexboxzombies/) - Desafios com CSS Flexbox para se defender de zumbis <br>
+- [Flexbox Defense](http://www.flexboxdefense.com) - Desafios com CSS Flexbox para impedir que inimigos ultrapassem suas defesas <br>
+- [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Ataque inimigos enquanto treina práticas de CSS, com uma narrativa mais profunda <br>
 
 ## ✨ Templates HTML gratuitos
 
