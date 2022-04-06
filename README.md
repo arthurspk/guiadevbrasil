@@ -1219,12 +1219,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🐮 Cursos de Git e Github
 
-🔖 [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
-🔖 [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
-🔖 [Aprenda Git](https://learngitbranching.js.org/) <br>
-🔖 [Git School](https://git-school.github.io/visualizing-git/) <br>
-🔖 [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
-🔖 [Git cheat sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)<br>
+- [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) <br>
+- [Comandos Git](https://github.com/theandersonn/comandos-git) <br>
+- [Aprenda Git](https://learngitbranching.js.org/) <br>
+- [Git School](https://git-school.github.io/visualizing-git/) <br>
+- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
+- [Git cheat sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)<br>
 
   <details>
     <summary>📝 Necessário para sobrevivencia</summary>
@@ -1325,9 +1325,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
   </details>
 
 ## 📚 Linha de comando
-🔖 [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
-🔖 [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
-🔖 [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
+- [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
+- [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
+- [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
 
   <details>
     <summary>📝 Alguns comandos úteis (Linux, MacOs e Powershell/Windows)</summary>
