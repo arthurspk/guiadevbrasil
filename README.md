@@ -1450,7 +1450,16 @@ $ git clone <link>
 
 
 
+Clone do repositório remoto na máquina local especificando uma branch especifica
 
+
+
+
+```bash
+
+$ git clone <link> -b <branch>
+
+```
 ### Configurações iniciais do Git 
 
 
