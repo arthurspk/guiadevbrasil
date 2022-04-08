@@ -172,6 +172,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos <br>
 - [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos <br>
 - [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos <br>
+- [HTML5 UP](https://html5up.net/) - Temas HTML5 + CSS3 gratuitos
 
 ## 🪅 Sites para aprender ou treinar CSS
 
@@ -490,6 +491,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon <br>
 - [Solus](https://www.getsol.us) - Distribuição Linux Solus <br>
 - [Tails](https://www.tails.boum.org) - Distribuição Linux Tails <br>
+- [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin <br>
+- [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu <br>
 
 ## 🔗 Bibliotecas JavaScript
 
@@ -552,6 +555,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Product Hunt](https://www.producthunt.com/) <br>
 - [Namify](https://namify.tech/?ref=producthunt) <br>
 - [Dribbble](https://dribbble.com/) <br>
+- [Behance](https://www.behance.net/) <br>
 - [Pinterest](https://br.pinterest.com/) <br>
 - [Deviant Art](https://www.deviantart.com/) <br>
 - [Lapa](https://www.lapa.ninja/) <br>
@@ -607,6 +611,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas <br>
 - [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas <br>
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial <br>
+- [Noun Project](https://thenounproject.com/photos/) - Banco de imagens stock gratuitas <br>
 
 ## 👔 Aumentando o network
 
@@ -649,6 +654,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Pigment](https://pigment.shapefactory.co/) <br>
 - [WebGradient](https://webgradients.com/) <br>
 - [Color.lol](https://colors.lol/) <br>
+- [ColorBox](https://colorbox.io/) <br>
 
 ## 🎇 Lista de ilustrações
 
@@ -678,6 +684,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Flaticon](https://www.flaticon.com/br/) <br>
 - [Bootstrap icons](https://icons.getbootstrap.com/) <br>
 - [devicon](https://devicon.dev/) <br>
+- [Noun Project](https://thenounproject.com/) <br>
+- [Iconfinder](https://www.iconfinder.com/) <br>
+- [iconmonstr](https://iconmonstr.com/) <br>
 
 ## 🎥 Canais do youtube com conteúdo gratuito
 
@@ -843,6 +852,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
 - [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
 - [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) <br>
 
 ## 📱 Apps para praticar programação
 
@@ -862,10 +873,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile <br>
 - [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada <br>
 - [DevChallenges](https://devchallenges.io/) - Site com desafios de Front-end e Fullstack <br>
+- [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end <br>
 
 ## 📗 Sites para treinar projetos back-end
 
 - [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end <br>
+- [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end <br>
 
 ## 📙 Sites para treinar projetos mobile
 
