@@ -1224,516 +1224,151 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Aprenda Git](https://learngitbranching.js.org/) <br>
 - [Git School](https://git-school.github.io/visualizing-git/) <br>
 - [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
-
-Listar conteúdo do diretório <br>
-
-
-
-
-```bash
-
-  $ ls
-
-```
-
-
-
-
-Voltar um diretório <br>
-
-CD: <br>
-
-
-
-
-```bash
-
-$ cd ..
-
-```
-
-
-
-
-Ver o que tem dentro da pasta folder
-
-
-
-
-```bash
-
-$ dir ~/folder
-
-$ tree ~/folder
-
-```
-
-
-
-
-Criar novos diretórios/pastas 
-
-
-
-
-```bash
-
-$ mkdir nome_da_pasta
-
-```
-
-
-
-
-Verifica o status do repositório<br>
-
-
-
-
-```bash
-
-$ git status 
-
-```
-
-
-
-
-Trackear o que não foi trackeado, inserir tudo <br>
-
-
-
-
-```bash
-
-$ git add -A 
-
-```
-
-
-
-
-Para commitar<br>
-
-
-
-
-```bash
-
-$ git commit -m "menssagem" 
-
-# -- Ou
-
-$ git commit -am "mensagem"
-
-```
-
-
-
-
-[Diferença do commit -m para o git commit -am](https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m) <br>
-
-Lista de commits
-
-
-
-
-```bash
-
-$ git log 
-
-```
-
-
-
-
-Removendo commits soft(mantendo) ou hard(removendo)
-
-
-
-
-```bash
-
-$ git reset --soft 
-
-# -- Ou
-
-$ git reset --mixed 
-
-# -- Ou
-
-$ git reset--hard
-
-```
-
-
-
-
-Alterar estado dos arquivos no commit
-
-
-
-
-```bash
-
-$ git checkout (Mudar a branch atual) 
-
-
-
-#-- retroceder até a posição --
-
-$ git checkout HEAD -- "diff" nome_do_arquivo
-
-```
-
-
-
-
-Checar o que houve nas alterações
-
-
-
-
-```bash
-
-$ git diff  
-
-$ git diff --name-only 
-
-#-- vê apenas a alteração feita naquele arquivo --
-
-$ git diff nome_do_arquivo
-
-```
-
-
-
-
-Atualiza repositorio remoto
-
-
-
-
-```bash
-
-$ git push origin <link> 
-
-```
-
-
-
-
-Atualiza repositório local
-
-
-
-
-```bash
-
-$ git pull origin <link> 
-
-```
-
-
-
-
-Clone do repositório remoto na máquina local
-
-
-
-
-```bash
-
-$ git clone <link> 
-
-```
-
-
-
-Clone do repositório remoto na máquina local especificando uma branch especifica
-
-
-
-
-```bash
-
-$ git clone <link> -b <branch>
-
-```
-### Configurações iniciais do Git 
-
-
-
-
-Baixando e instalando o Git <br>
-
-[Site para instalar o Git](https://git-scm.com/downloads) <br>
-
-
-
-
-Configura nome de usuário: 
-
-
-
-
-```bash
-
-$ git config --global user.name 
-
-```
-
-
-
-
-Configura email de usuário: 
-
-
-
-
-```bash
-
-$ git config --global user.email email@email.com.br 
-
-```
-
-
-
-
-### Inicializando um repositório 
-
-
-
-
-Inicializa o versionamento no respectivo diretório:
-
-
-
-
-```bash
-
-$ git init 
-
-```
-
-
-
-
-### Comandos básicos para sobreviver: 
-
-
-
-
-Verificando o status do repositório: 
-
-
-
-
-```bash
-
-$ git status 
-
-```
-
-
-
-
-Adicionando todos os arquivos para serem commitados: 
-
-
-
-
-```bash
-
-$ git add . 
-
-#-- ou então --
-
-$ git add -A 
-
-```
-
-
-
-
-Commitando arquivos: 
-
-
-
-
-```bash
-
-$ git commit -m "inserir um comentário significativo" 
-
-```
-
-
-
-
-Visualizando relatório de commits: 
-
-
-
-
-```bash
-
-#-- todos os commits  --
-
-$ git log 
-
-
-
-#-- exibe log com hash e título do commit --
-
-$ git log --oneline
-
-```
-
-
-
-
-Adicionando um repositório remoto: 
-
-
-
-
-
-```bash
-
-$ git remote add origin https://github.com/GIT_USER/Repository.git 
-
-```
-
-
-
-
-Enviando as modificações para o repositório remoto:
-
-
-
-
-
-```bash
-
-$ git push origin <branch> 
-
-```
-
-
-
-
-Puxando alterações do repositório remoto: 
-
-
-
-
-
-```bash
-
-$ git pull origin <branch> 
-
-```
-
-
-
-
-Trabalhando com branches: 
-
-
-
-
-```bash
-
-$ git checkout -b nome-branch
-
- ```
-
-
-
-
-Aplicando merge em branches: <br>
-
-
-
-
-```bash
-
-# -- precisa estar na branch de destino --
-
-$ git merge nome-branch 
-
-```
-
-
-
-
-Visualizando todas as branches existentes no repositório: <br>
-
-
-
-
-```bash
-
-$ git branch
-
-```
-
-
-
-
-Deletando uma branch local: <br>
-
-
-
-
-```bash
-
-$ git branch -D nome-branch 
-
-$ git branch -d nome-branch 
-
-```
-
-
-
-
-Deletando uma branch remota: <br>
-
-
-
-
-```bash
-
-$ git push origin nome_da_branch
-
-```
-
-
-
-
-Deletando todas branch que não se encontram no repositório remoto: <br>
-
-
-
-
-```bash
-
-$ git branch --merged
-
-$ git branch -r | egrep -v -f /dev/fd/0 < (git branch -vv | grep origin | grep -v "master") | xargs git branch -d 
-
-```  
-
-
-
-
-Deletando todos branches no repositório local (exceto a master): <br>
-
-
-
-
-```bash
-
-$ git branch | grep -v "master" | xargs git branch -D 
-
-```
+- [Git cheat sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)<br>
+
+  <details>
+    <summary>📝 Necessário para sobrevivencia</summary>
+
+  - [Site para instalar o Git](https://git-scm.com/downloads)
+  - Configurações iniciais do Git
+    ```bash
+    git config --global user.name <nome de usuário> # => Configura nome de usuário que marcará os commits
+    git config --global user.email <email@email.com.br> # => Configura o email que marcará os commits
+    ```
+  - Inicializando um repositório <br>
+    ```bash 
+    git init
+    ```
+  - Clonar projeto remoto
+    ```bash
+    git pull <link>
+    ```
+  - Adicionando um repositório remoto
+    ```bash
+      git remote add origin https://github.com/User/Repository.git
+    ```
+  - Verifica o status do repositório
+    ```bash
+    git status
+    ```
+  - Trackear o que não foi trackeado, inserir tudo
+    ```bash
+    git add . #=> Ou -A
+    ```
+  - Realizar Commit
+    ```bash
+    git commit -m "inserir um comentário significativo" # => Ou -am 
+    ```
+    [Diferença entre as flags -m e -am](https://pt.stackoverflow.com/questions/344986/diferen%C3%A7a-do-git-commit-am-e-m)
+  - lista de commits
+    ```bash
+    git log
+    #=> ou
+    git log --oneline #=> exibe log com hash e título do commit
+    ```
+  - Desfazer alterações
+    ```bash
+    git reset # => --soft / --mixed / --hard
+    ```
+  - Mudar a branch atual
+    ```bash
+    git checkout <branch>
+    # ou
+    git checkout -b <branch> # => Cria e muda para a branch passada
+    ```
+  - Checar o que houve nas alterações
+    ```bash
+    git diff 
+    # ou
+    git diff --name-only <SHA1> <SHA2> # Mostra apenas a alteração entre commits especificados por identificador
+    git diff --name-only HEAD~<num> HEAD~<num> # ou por contagem
+    # ou
+    git diff <nome_do.arquivo> # => Mostra apenas a alteração feita naquele arquivo
+    ```
+  - Retroceder até certa posição
+    ```bash
+    git checkout HEAD -- "diff" <nome_do.arquivo>
+    ```
+  - Envia todos os commits do branch local
+    ```bash
+    git push <alias> <branch>
+    ```
+  - Baixa o histórico e incorpora as mudanças
+    ```bash
+    git pull
+    ```
+  - Combina o marcador do branch no branch local
+    ```bash
+    git merge [marcador]/[branch]
+    ```
+  - Visualizando todas as branches existentes no repositório
+    ```bash
+    git branch #=> local
+    # => ou
+    git branch --all #=> local e remoto
+    ```
+  - Deletando Branchs
+    ```bash
+    # Local
+      git branch -D <nome-branch>
+      git branch -d <nome-branch>
+    # Remoto
+      git push origin <:nome-branch>
+
+    # Todas branch que não se encontram no repositório remoto
+      git branch --merged ##
+      git branch -r | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin | grep -v "master") | xargs git branch -d
+
+    # Todas as branches no repositório local (exceto a master)
+      git branch | grep -v "master" | xargs git branch -D 
+    ```
+  </details>
+
+## 📚 Linha de comando
+- [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
+- [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
+- [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
+
+  <details>
+    <summary>📝 Alguns comandos úteis (Linux, MacOs e Powershell/Windows)</summary>
+
+  - lista os arquivos presentes no diretório
+    ```bash
+    ls # => lista do diretorio atual 
+    # ou
+    dir / tree /f
+    # ou
+    ls <caminho do diretorio> # => lista do diretorio passado
+    ```
+  - Altera diretório atual
+    ```bash
+    cd #=> volta para a home
+    # ou
+    cd <caminho> #=> leva para o caminho passado
+    ```
+  - Remove arquivo
+    ```bash
+    rm <arquivo>
+    ```
+  - Remove diretório cujo caminho é dado como operando 
+    ```bash
+    rmdir <caminho>
+    # => o diretório deve estar vazio, ou seja, antes você tem que remover todos os arquivos do diretório
+    ```
+  - Escreve na tela o conteúdo do arquivo do caminho dado como operando
+    ```bash
+    cat <arquivo>
+    ```
+  - Escreve na tela o caminho do diretório de trabalho atual
+    ```bash
+    pwd
+    ```
+  - Lista os comandos já executados
+    ```bash
+    history
+    ```
+  - Limpa a tela do terminal
+    ```bash
+    clear # => (clc no Powershell)
+    ```
+  </details>
