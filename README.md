@@ -197,13 +197,17 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🔎 Sites para buscar vagas remotas
 
-- [Remote OK](https://remoteok.io) <br>
-- [Hired](https://hired.com) <br>
+- [BairesDev](https://www.bairesdev.com) <br>
 - [Bergamot](https://bergamot.io) <br>
+- [Coodesh](https://coodesh.com) <br>
+- [Há Vagas](https://havagas.pt) <br>
+- [Hired](https://hired.com) <br>
 - [JustRemote](https://justremote.co) <br>
+- [Remote OK](https://remoteok.io) <br>
+- [Toptal](https://www.toptal.com) <br>
+- [Turing](https://www.turing.com) <br>
 - [Working Nomads](https://workingnomads.co) <br>
-- [Coodesh](https://coodesh.com/) <br>
-- [Há Vagas](https://havagas.pt/) <br>
+- [X-Team](https://x-team.com) <br>
 
 ## 🔧 Ferramentas de desenvolvimento:
 
