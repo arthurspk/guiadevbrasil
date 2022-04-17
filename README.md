@@ -1243,6 +1243,58 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
 - [Git cheat sheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet.pdf)<br>
 
+## Data Science 
+
+### Machine Learning
+
+- [Scikit-learn](https://scikit-learn.org/stable/)<br>
+- [TensorFlow](https://www.tensorflow.org/)<br>
+- [PyTorch](https://pytorch.org/)<br>
+- [mlflow](https://mlflow.org/)<br>
+
+### Base de Dados
+
+- [Base de Dados](https://basedosdados.org/)<br>
+- [Dados GOV](https://dados.gov.br/)<br>
+- [IBGE](https://servicodados.ibge.gov.br/api/docs)<br>
+- [Portal da Transparência](https://www.portaltransparencia.gov.br/download-de-dados)<br>
+- [yelp](https://www.yelp.com/dataset)<br>
+- [Chigago data portal](https://data.cityofchicago.org/)<br>
+- [UCI](https://archive.ics.uci.edu/ml/datasets.php)<br>
+- 
+### Manipulação de Dados
+
+- [Pandas](https://pandas.pydata.org/)<br>
+- [Numpy](https://numpy.org/)<br>
+- [Matplotlib](https://matplotlib.org/stable/#)<br>
+- [mlflow](https://mlflow.org/)<br>
+
+### Tools Data Science
+
+- [Jupyter](https://jupyter.org/)<br>
+- [Anaconda](https://www.anaconda.com/)<br>
+
+## Banco de Dados e SQL
+
+- [Banco de Dados de Banco de Dados](https://dbdb.io/)<br>
+- [drawSQl](https://drawsql.app/)<br>
+- [Delta Lake](https://delta.io/)<br>
+- [Elastic](https://www.elastic.co/pt/)<br>
+- [Cassandra](https://cassandra.apache.org/_/index.html)<br>
+
+## News TECH
+
+- [Medium](https://medium.com/)<br>
+- [itnews](https://www.itnews.com.au/)<br>
+- [COMPUTERWORLD](https://www.computerworld.com/news/)<br>
+- [The Hack](https://thehack.com.br/)<br>
+- [DIOLINUX](https://diolinux.com.br/)<br>
+- [Notícias de Hackers](https://news.ycombinator.com/)<br>
+- [Data Science Central](https://www.datasciencecentral.com/)<br>
+- [Data Camp](https://www.datacamp.com/blog)<br>
+
+
+
   <details>
     <summary>📝 Necessário para sobrevivencia</summary>
 
