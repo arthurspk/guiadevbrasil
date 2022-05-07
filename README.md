@@ -165,6 +165,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Flexbox Zombie](https://mastery.games/flexboxzombies/) - Desafios com CSS Flexbox para se defender de zumbis <br>
 - [Flexbox Defense](http://www.flexboxdefense.com) - Desafios com CSS Flexbox para impedir que inimigos ultrapassem suas defesas <br>
 - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Ataque inimigos enquanto treina práticas de CSS, com uma narrativa mais profunda <br>
+- [Code](https://code.org/minecraft) - Site para estudos de algoritmos com a temática do jogo Minecraft <br>
 
 ## ✨ Templates HTML gratuitos
 
