@@ -7,9 +7,9 @@
 
 ## :dart: O guia para alavancar a sua carreira
 
-Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor ou qualquer área de TI, caso você já atue como desenvolvedor ou em outra área confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, back-end, entre outras, faça bom uso do guia e bons estudos!
+Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras. Faça bom uso do guia e bons estudos!
 
-<sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
+<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
@@ -19,7 +19,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## ⚠️ Aviso importante
 
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
+> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
 
 - Me siga no [Github](https://github.com/arthurspk)
 - Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
@@ -28,11 +28,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 💡 Nossa proposta
 
-> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
 
 ## :beginner: Para quem está começando agora
 
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+> Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
 
 ## 🚨 Colabore
 
@@ -115,9 +115,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Origamid](https://www.origamid.com/) - Cursos gratuitos e pagos paras desenvolver suas habilidades na área de UX & UI Design e desenvolvimento front-end <br>
 - [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos <br>
 - [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares <br>
-- [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada <br>
-- [Hackereath](https://www.hackerearth.com/) - Site para desenvolver suas hábilidades de código. <br>
-- [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada <br>
+- [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. Com IDE integrada <br>
+- [Hackereath](https://www.hackerearth.com/) - Site para desenvolver suas habilidades de código. <br>
+- [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. Com IDE integrada <br>
 - [Coderchef](https://www.codechef.com/) - Site para Estuda sobre programação, código e afins. <br>
 - [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens <br>
 - [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados <br>
@@ -127,7 +127,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - Plataforma para desenvolver suas habilidade em diversas áreas da programação <br>
 - [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva <br>
 - [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado <br>
-- [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com conteúdos mais quentes do mercado (IA, data science, cloud computing, etc) <br>
+- [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com ps conteúdos mais quentes do mercado (IA, data science, cloud computing, etc) <br>
 - [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web <br>
 - [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo <br>
 - [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio <br>
@@ -891,7 +891,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 ## 🛖 Ideias para projeto
 
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
-- [What to Code](https://what-to-code.com/) - Compilado de desafio e ideias para você praticar seus códigos e aumentar seu portfólio <br>
+- [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 
 ## 🦓 Cursos de Java
 
