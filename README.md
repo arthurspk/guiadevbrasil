@@ -1059,13 +1059,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 💧 Cursos de Elixir
 
-- [Curso de Elixir 1](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY)
-- [Curso de Elixir 2](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto)
-- [Curso de Elixir 3](https://www.youtube.com/watch?v=XHxRv0f2MEY&list=PLr4c053wuXU-YY4GmqUM3y_uauspsmO0O&ab_channel=queroser.ninja-FernandoDaciuk)
-- [Curso de Elixir 4](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD&ab_channel=StoneTech)
-- [Elixir in 100 Seconds](https://www.youtube.com/watch?v=R7t7zca8SyM)
-- [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs)
-- [ElixirSchool](https://elixirschool.com/pt)
+- [Curso de Elixir 1](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY) <br>
+- [Curso de Elixir 2](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto) <br>
+- [Curso de Elixir 3](https://www.youtube.com/watch?v=XHxRv0f2MEY&list=PLr4c053wuXU-YY4GmqUM3y_uauspsmO0O&ab_channel=queroser.ninja-FernandoDaciuk) <br>
+- [Curso de Elixir 4](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD&ab_channel=StoneTech) <br>
+- [Elixir in 100 Seconds](https://www.youtube.com/watch?v=R7t7zca8SyM) <br>
+- [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) <br>
+- [ElixirSchool](https://elixirschool.com/pt) <br>
 
 ## 🐷 Cursos de React
 
