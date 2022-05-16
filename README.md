@@ -94,6 +94,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [🐋 Cursos de Swift](#-cursos-de-swift) <br>
 [🐺 Cursos de Go](#-cursos-de-go) <br>
 [🐦 Cursos de Ruby](#-cursos-de-ruby) <br>
+[💧 Cursos de Elixir](#-cursos-de-elixir) <br>
 [🐷 Cursos de React](#-cursos-de-react) <br>
 [🐼 Cursos de React Native](#-cursos-de-react-native) <br>
 [🐯 Cursos de Angular](#-cursos-de-angular) <br>
@@ -397,7 +398,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++ <br>
 - [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs) <br>
 - [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter <br>
-- [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional executada na máquina virutal Erlang <br>
+- [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional, concorrente, de propósito geral que executa na máquina virtual Erlang (BEAM) <br>
 - [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional <br>
 - [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas <br>
 - [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos <br>
@@ -1058,6 +1059,16 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de Ruby On-Rails 3](https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0) <br>
 - [Curso de Ruby On-Rails (15 aulas)](https://goo.gl/LcHcn4) <br>
 - [Curso de Ruby On Rails (49 aulas)](https://goo.gl/4oXEAP) <br>
+
+## 💧 Cursos de Elixir
+
+- [Curso de Elixir 1](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY) <br>
+- [Curso de Elixir 2](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto) <br>
+- [Curso de Elixir 3](https://www.youtube.com/watch?v=XHxRv0f2MEY&list=PLr4c053wuXU-YY4GmqUM3y_uauspsmO0O&ab_channel=queroser.ninja-FernandoDaciuk) <br>
+- [Curso de Elixir 4](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD&ab_channel=StoneTech) <br>
+- [Elixir in 100 Seconds](https://www.youtube.com/watch?v=R7t7zca8SyM) <br>
+- [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) <br>
+- [ElixirSchool](https://elixirschool.com/pt) <br>
 
 ## 🐷 Cursos de React
 
