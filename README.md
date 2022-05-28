@@ -90,6 +90,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [🦚 Cursos de C#](#-cursos-de-c) <br>
 [🦉 Cursos de C](#-cursos-de-c-1) <br>
 [🐸 Cursos de C++](#-cursos-de-c-2) <br>
+[⚙️ Cursos de Camunda](#-cursos-de-camunda) <br>
 [🐶 Cursos de Kotlin](#-cursos-de-kotlin) <br>
 [🐋 Cursos de Swift](#-cursos-de-swift) <br>
 [🐺 Cursos de Go](#-cursos-de-go) <br>
@@ -1014,6 +1015,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
+
+## ⚙️ Cursos de Camunda
+
+- [Curso de Camunda 1](https://www.youtube.com/playlist?list=PLb7Px7q28I7UqIdEnZDP0RCPB2wEvO7KW) <br>
+- [Curso de Camunda 2](https://www.youtube.com/watch?v=f9DmrLPMjRM&list=PLc_Oj42KdFQGex3gBjtVZtYWyVhDu0VEo) <br>
+- [Curso de Camunda 3](https://www.youtube.com/watch?v=l-sCUKQZ44s&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv) <br>
 
 ## 🐶 Cursos de Kotlin
 
