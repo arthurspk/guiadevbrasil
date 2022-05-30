@@ -339,7 +339,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft <br>
 
-
 ## 🖌 Design Front-end
 
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos <br>
