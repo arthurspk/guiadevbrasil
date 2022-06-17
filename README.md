@@ -552,6 +552,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail <br>
 - [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático <br>
 - [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites) <br>
+- [Oracle Cloud](https://www.oracle.com/br/cloud/) - Serviço de aluguel de servidores da Oracle <br>
 - [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
