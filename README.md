@@ -170,6 +170,8 @@
 
 ## 📚 Ferramentas de desenvolvimento:
 
+🔖 [Unminify](https://unminify.com/) - Desofuscador JavaScript, CSS, HTML, XML e código JSON, tornando-o legível e bonito.
+
 🔖 [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe <br>
 🔖 [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido. <br>
 🔖 [Hokusai](https://hokusai.app/) - Conteúdo sobre NFT's <br>
