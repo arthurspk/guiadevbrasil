@@ -153,6 +153,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
 - [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 - [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+- [Meta Tags](https://metatags.io/) - Elementos de metadados HTML gerados automaticamente para melhor o SEO <br>
 
 ## 🎮 Sites para aprender a programar jogando
 
@@ -295,6 +296,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso <br>
 - [WordPress](https://wordpress.org/) - Criação de blogs <br>
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml <br>
+- [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos <br>
+- [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação <br>
 
 ## 🗂 Gerenciamento de projetos
 
@@ -694,6 +697,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Noun Project](https://thenounproject.com/) <br>
 - [Iconfinder](https://www.iconfinder.com/) <br>
 - [iconmonstr](https://iconmonstr.com/) <br>
+- [Reshot](https://www.reshot.com/)
 - [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue <br>
 
 ## 🎥 Canais do youtube com conteúdo gratuito
@@ -853,6 +857,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Vue Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR) <br>
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR) <br>
 - [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt-BR) <br>
+- [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) <br>
+- [Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) <br>
+- [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) <br>
 
 ## 📚 Recomendação de livros
 
