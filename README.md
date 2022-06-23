@@ -510,8 +510,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Particles.js](https://vincentgarreau.com/particles.js/) <br>
 - [ScrollMagic](https://scrollmagic.io/) <br>
 
-## 🪛 7 Ferramentas que todo DEV precisa conhecer
+## 🪛 9 Ferramentas que todo DEV precisa conhecer
 
+- [Unminify](https://unminify.com/) - Ferramenta para desofuscar JavaScript, CSS, HTML, XML e código JSON, tornando-o legível e bonito.<br>
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
 - [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
 - [Rive](https://rive.app) - ferramenta colaborativa de animação para apps, jogos e sites. <br>
