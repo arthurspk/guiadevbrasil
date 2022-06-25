@@ -695,6 +695,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Iconfinder](https://www.iconfinder.com/) <br>
 - [iconmonstr](https://iconmonstr.com/) <br>
 - [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue <br>
+- [Thenounproject](https://thenounproject.com/) <br>
 
 ## 🎥 Canais do youtube com conteúdo gratuito
 
