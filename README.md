@@ -60,7 +60,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
-[🪛 7 Ferramentas que todo DEV precisa conhecer](#-7-ferramentas-que-todo-dev-precisa-conhecer) <br>
+[🪛 10 Ferramentas que todo DEV precisa conhecer](#-9-ferramentas-que-todo-dev-precisa-conhecer) <br>
 [🎭 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
 [☁ Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
 [🌌 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
@@ -510,8 +510,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Particles.js](https://vincentgarreau.com/particles.js/) <br>
 - [ScrollMagic](https://scrollmagic.io/) <br>
 
-## 🪛 9 Ferramentas que todo DEV precisa conhecer
-
+## 🪛 10 Ferramentas que todo DEV precisa conhecer
+- [1loc.dev](https://1loc.dev/) - Utilitários JavaScript em uma única linha de código!
 - [Unminify](https://unminify.com/) - Ferramenta para desofuscar JavaScript, CSS, HTML, XML e código JSON, tornando-o legível e bonito.<br>
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
 - [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
