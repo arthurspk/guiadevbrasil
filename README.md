@@ -312,6 +312,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro <br>
 - [Slack](https://slack.com/) - Gerenciamento de projetos com equipes <br>
 - [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros <br>
+- [Taskade](https://www.taskade.com/) - Gerenciamento de projetos pessoais e de equipe com notas e mapas mentais integrados <br>
 - [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais <br>
 - [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe <br>
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros <br>
