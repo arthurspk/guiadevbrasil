@@ -227,6 +227,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker <br>
 - [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online <br>
 - [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência <br>
+- [4Devs](https://www.4devs.com.br/) - Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras <br>
 - [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas <br>
 - [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos <br>
 - [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web <br>
