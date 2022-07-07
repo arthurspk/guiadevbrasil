@@ -409,21 +409,21 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional, concorrente, de propósito geral que executa na máquina virtual Erlang (BEAM) <br>
 - [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional <br>
 - [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas <br>
-- [Go](https://golang.org/) - A linguagem de programação Go é um projeto de código aberto para tornar os programadores mais produtivos <br>
+- [Go](https://golang.org/) - Linguagem de código aberto para tornar os programadores mais produtivos <br>
 - [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada <br>
 - [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance <br>
 - [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado <br>
 - [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica <br>
 - [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ <br>
-- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação desenvolvida no Brasil, permite programação procedural e POO <br>
-- [MatLab](https://www.mathworks.com/help/matlab/) -Linguagem de programação de alto nível com foco em cálculos e construção de gráficos <br>
+- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos) <br>
+- [MatLab](https://www.mathworks.com/help/matlab/) - Linguagem de programação de alto nível com foco em cálculos e construção de gráficos <br>
 - [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos <br>
 - [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica <br>
 - [PHP](https://www.php.net/) - A linguagem de programação dominante na web <br>
-- [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial e chatbot <br>
+- [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial, aprendizado de máquina e chatbots <br>
 - [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina <br>
 - [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica <br>
-- [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem para sistemas rápidos, concorrentes e seguros <br>
+- [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem estáticamente tipada para sistemas rápidos, concorrentes, de baixo nível e seguros <br>
 - [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone <br>
 - [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura <br>
 - [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica) <br>
