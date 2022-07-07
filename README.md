@@ -90,6 +90,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [🦚 Cursos de C#](#-cursos-de-c) <br>
 [🦉 Cursos de C](#-cursos-de-c-1) <br>
 [🐸 Cursos de C++](#-cursos-de-c-2) <br>
+[🦉 Cursos de Camunda](#-cursos-de-camunda) <br>
 [🐶 Cursos de Kotlin](#-cursos-de-kotlin) <br>
 [🐋 Cursos de Swift](#-cursos-de-swift) <br>
 [🐺 Cursos de Go](#-cursos-de-go) <br>
@@ -122,6 +123,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Coderchef](https://www.codechef.com/) - Site para Estuda sobre programação, código e afins. <br>
 - [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens <br>
 - [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados <br>
+- [Scrimba](https://scrimba.com/) - Cursos gratuitos e pagos para aprender as tecnologias mais demandadas do Front-end<br>
 - [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end <br>
 - [Codementor](https://www.codementor.io/) - Site para praticar e aprender a desenvolver suas skills como desenvolvedor <br>
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos <br>
@@ -153,6 +155,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
 - [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 - [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+- [Meta Tags](https://metatags.io/) - Elementos de metadados HTML gerados automaticamente para melhor o SEO <br>
 
 ## 🎮 Sites para aprender a programar jogando
 
@@ -226,6 +229,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker <br>
 - [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online <br>
 - [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência <br>
+- [4Devs](https://www.4devs.com.br/) - Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras <br>
 - [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas <br>
 - [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos <br>
 - [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web <br>
@@ -295,6 +299,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso <br>
 - [WordPress](https://wordpress.org/) - Criação de blogs <br>
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml <br>
+- [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos <br>
+- [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação <br>
 
 ## 🗂 Gerenciamento de projetos
 
@@ -328,6 +334,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM <br>
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains <br>
 - [NeoVim](https://neovim.io/) - Editor de código via terminal <br>
+- [LunarVim](https://www.lunarvim.org/#opinionated) - Editor de código via terminal baseado em NeoVim e Escrito em Lua <br>
 - [NetBeans](https://netbeans.org/) - IDE gratuita da Apache <br>
 - [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz <br>
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP <br>
@@ -552,6 +559,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail <br>
 - [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático <br>
 - [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites) <br>
+- [Oracle Cloud](https://www.oracle.com/br/cloud/) - Serviço de aluguel de servidores da Oracle <br>
 - [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
@@ -677,6 +685,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Pixeltru](https://www.pixeltrue.com/free-illustrations/) <br>
 - [Iconscout](https://iconscout.com/) <br>
 - [Onfire Craftwork Design](https://onfire.craftwork.design/) <br>
+- [Openpeeps](https://www.openpeeps.com/) <br>
+
 
 ## 🎆 Sites de icones
 
@@ -695,7 +705,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Noun Project](https://thenounproject.com/) <br>
 - [Iconfinder](https://www.iconfinder.com/) <br>
 - [iconmonstr](https://iconmonstr.com/) <br>
+- [Reshot](https://www.reshot.com/)
 - [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue <br>
+- [Thenounproject](https://thenounproject.com/) <br>
 
 ## 🎥 Canais do youtube com conteúdo gratuito
 
@@ -854,6 +866,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Vue Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR) <br>
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR) <br>
 - [CSS Viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=pt-BR) <br>
+- [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) <br>
+- [Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) <br>
+- [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) <br>
 
 ## 📚 Recomendação de livros
 
@@ -863,6 +878,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) <br>
+- [The Road to learn React (Português)](https://leanpub.com/the-road-to-learn-react-portuguese) <br>
 
 ## 📱 Apps para praticar programação
 
@@ -1015,6 +1031,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
+
+## 🦉 Cursos de Camunda
+
+- [Curso de Camunda 1](https://www.youtube.com/playlist?list=PLb7Px7q28I7UqIdEnZDP0RCPB2wEvO7KW) <br>
+- [Curso de Camunda 2](https://www.youtube.com/watch?v=f9DmrLPMjRM&list=PLc_Oj42KdFQGex3gBjtVZtYWyVhDu0VEo) <br>
+- [Curso de Camunda 3](https://www.youtube.com/watch?v=l-sCUKQZ44s&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv) <br>
 
 ## 🐶 Cursos de Kotlin
 
