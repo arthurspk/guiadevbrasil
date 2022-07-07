@@ -877,6 +877,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) <br>
+- [The Road to learn React (Português)](https://leanpub.com/the-road-to-learn-react-portuguese) <br>
 
 ## 📱 Apps para praticar programação
 
