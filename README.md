@@ -123,6 +123,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Coderchef](https://www.codechef.com/) - Site para Estuda sobre programação, código e afins. <br>
 - [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens <br>
 - [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados <br>
+- [Scrimba](https://scrimba.com/) - Cursos gratuitos e pagos para aprender as tecnologias mais demandadas do Front-end<br>
 - [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end <br>
 - [Codementor](https://www.codementor.io/) - Site para praticar e aprender a desenvolver suas skills como desenvolvedor <br>
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos <br>
