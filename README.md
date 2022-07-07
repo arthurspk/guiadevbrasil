@@ -329,6 +329,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM <br>
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains <br>
 - [NeoVim](https://neovim.io/) - Editor de código via terminal <br>
+- [LunarVim](https://www.lunarvim.org/#opinionated) - Editor de código via terminal baseado em NeoVim e Escrito em Lua <br>
 - [NetBeans](https://netbeans.org/) - IDE gratuita da Apache <br>
 - [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz <br>
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP <br>
