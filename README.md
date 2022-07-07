@@ -476,6 +476,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada <br>
 - [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada <br>
 - [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada <br>
+- [OsProgramadores](https://osprogramadores.com/desafios/) - Desafios de Lógica de Programação do grupo Os Programadores.<br>
 
 ## 🛠️ Ferramentas para desenvolvedores WEB
 
@@ -641,6 +642,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub <br>
 - [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram <br>
 - [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog <br>
+- [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação. <br>
 
 ## 🎠 Sites para baixar e encontrar fontes
 
@@ -819,6 +821,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral <br>
 - [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para <br>
 - [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área <br>
+- [Podcast OsProgramadores](https://osprogramadores.com/podcast) - Tudo que você sempre quis saber sobre Programação vida de programador, e também como chegar lá. Entrevistas com profissionais reconhecidos Nacional e Internacionalmente. <br>
 - [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral <br>
 - [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I <br>
 - [É tudo nuve](https://www.etudonuve.com.br/i/) - Pesquisa <br>
