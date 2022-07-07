@@ -684,6 +684,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Delesing](https://delesign.com/free-designs/graphics/) <br>
 - [Pixeltru](https://www.pixeltrue.com/free-illustrations/) <br>
 - [Iconscout](https://iconscout.com/) <br>
+- [Onfire Craftwork Design](https://onfire.craftwork.design/) <br>
 - [Openpeeps](https://www.openpeeps.com/) <br>
 
 
