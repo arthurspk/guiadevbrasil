@@ -343,6 +343,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica para a Linguagem R e suas variantes <br>
 - [StackEdit](https://stackedit.io/) - Editor de markdown online <br>
 - [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou <br>
+- [Thonny](https://thonny.org) - IDE Python para iniciantes <br>
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft <br>
 
