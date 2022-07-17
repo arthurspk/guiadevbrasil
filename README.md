@@ -339,6 +339,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [LunarVim](https://www.lunarvim.org/#opinionated) - Editor de código via terminal baseado em NeoVim e Escrito em Lua <br>
 - [NetBeans](https://netbeans.org/) - IDE gratuita da Apache <br>
 - [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz <br>
+- [Code with Mu](https://codewith.mu) - Um editor de código Python simples, para iniciantes <br>
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP <br>
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python <br>
 - [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica para a Linguagem R e suas variantes <br>
