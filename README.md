@@ -216,8 +216,8 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 
 ## 🔧 Ferramentas de desenvolvimento:
 
-- [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe <br>
-- [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido. <br>
+- [Internxt](https://internxt.com/) - Internxt é um Drive de armazenamento de arquivos descentralizado, que promete ser o mais seguro do mercado. <br>
+- [Motion](https://motion.dev/) - Uma biblioteca de animação, construída com API Web Animations que promete animações com tamanhos reduzidos e melhor desempenho. <br>
 - [Hokusai](https://hokusai.app/) - Conteúdo sobre NFT's <br>
 - [Hidden Tools](https://hiddentools.dev) - Ampla coleção de ferramentas feitas pela comunidade disponiveís para uso <br>
 - [Dev Hints](https://devhints.io) - Coleção de cheatsheets <br>
@@ -286,7 +286,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII <br>
 - [Telegram](https://telegram.org/) - Mensageiro criptografado <br>
 - [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG <br>
-- [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG <br>
 - [Creately](https://creately.com/) - Crie e altere lindos diagramas em tempo real com a sua equipe <br>
 - [Carbon](https://carbon.now.sh/) - Crie Snippets de codigo clean e bonitos <br>
 - [DbDiagram](https://dbdiagram.io/home) - Crie elegrantes diagramas de banco de dados e gere script ddl <br>
@@ -443,6 +442,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada <br>
 - [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário <br>
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
+- [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio <br>
 - [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
 - [ChallengeRocket](https://challengerocket.com/) - Desafios de Programação Back-end. IDE integrada <br>
 - [Code Golf - StackExchange](https://codegolf.stackexchange.com/) - Desafios de programação da comunidade para a comunidade, IDE integrada somente pelo Snippet <br>
@@ -758,7 +758,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Jose Carlos Macoratti](https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) - Vídeo Aulas sobre a plataforma .NET e tecnologias web: C# , VB .NET , ASP .NET , ASP .NET MVC, ASP .NET Core, Entity Framework, Xamarin Forms, Xamarin Android, Angular, ADO .NET , SQL, Node, etc <br>
 - [Michelli Brito](https://youtube.com/c/MichelliBrito) - Canal sobre conteúdos de programação, arquitetura de software e carreira em TI <br>
 - [The Net Ninja](https://youtube.com/c/TheNetNinja) - Habilidades de desenvolvimento web. Mais de 1000 tutoriais de programação gratuitos sobre <br>
-- [Vinícius Thiengo](https://youtube.com/c/ThiengoCalopsita) - Vídeos tutoriais sobre desenvolvimento Android e técnicas de código limpo <br>
 - [Traversy Media](https://youtube.com/c/TraversyMedia) - Traversy Media apresenta os melhores tutoriais de desenvolvimento e programação da web on-line para todas as tecnologias da web mais recentes <br>
 - [Mango](https://youtube.com/c/MangoDeveloper) - Cursos avançados completos utilizando Clean Architecture, TDD, SOLID principles e design patterns <br>
 - [Academind](https://youtube.com/c/Academind) - Cursos e tutoriais que ensinam tudo relacionado ao desenvolvimento web <br>
@@ -913,11 +912,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 
 - [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile <br>
 
-## 🛖 Ideias para projeto
-
-- [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio <br>
-- [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio <br>
-
 ## 🦓 Cursos de Java
 
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) <br>
@@ -973,7 +967,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 
 ## 🐍 Cursos de Python
 
-- [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 - [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
 - [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
 - [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
@@ -1019,7 +1012,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de C 4](https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A) <br>
 - [Curso de C 5](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) <br>
 - [Curso de C 6](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) <br>
-- [Curso de C 7](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
 - [Curso de C 8](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8) <br>
 - [Curso de C 9](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp) <br>
 - [Curso de C 10](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R) <br>
@@ -1110,7 +1102,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 
 - [Curso de React Native 1](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
 - [Curso de React Native 2](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) <br>
-- [Curso de React Native 3](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) <br>
 - [Curso de React Native 4](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) <br>
 - [Curso de React Native 5](https://www.youtube.com/playlist?list=PLbnAsJ6zlidsqILBeTaeUr7aaWcqAtMrW) <br>
 - [Curso de React Native 6](https://www.youtube.com/playlist?list=PL_Axpn7FrXHSt92vK3EthJCId4mUn7viv) <br>
@@ -1249,8 +1240,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PL0FXkz5ILg9Y0ADavZORWRUU3mqG80N8s) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) <br>
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) <br>
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) <br>
 
