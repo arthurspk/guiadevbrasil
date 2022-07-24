@@ -60,7 +60,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
-[🪛 7 Ferramentas que todo DEV precisa conhecer](#-7-ferramentas-que-todo-dev-precisa-conhecer) <br>
+[🪛 9 Ferramentas que todo DEV precisa conhecer](#-7-ferramentas-que-todo-dev-precisa-conhecer) <br>
 [🎭 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
 [☁ Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
 [🌌 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
@@ -149,6 +149,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 
 ## 🎨 Sites para desenvolvedor front-end
 
+- [Uiverse](https://uiverse.io/) - Rede social de elementos de interfaces. <br>
 - [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
 - [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
@@ -522,8 +523,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Particles.js](https://vincentgarreau.com/particles.js/) <br>
 - [ScrollMagic](https://scrollmagic.io/) <br>
 
-## 🪛 7 Ferramentas que todo DEV precisa conhecer
+## 🪛 9 Ferramentas que todo DEV precisa conhecer
 
+- [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos. 
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces. <br>
 - [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's. <br>
 - [Rive](https://rive.app) - ferramenta colaborativa de animação para apps, jogos e sites. <br>
