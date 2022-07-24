@@ -333,16 +333,19 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++ <br>
 - [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++ <br>
 - [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM <br>
+- [Geany](https://geany.org/) - Editor de texto poderoso, estável e leve <br>
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains <br>
 - [NeoVim](https://neovim.io/) - Editor de código via terminal <br>
 - [LunarVim](https://www.lunarvim.org/#opinionated) - Editor de código via terminal baseado em NeoVim e Escrito em Lua <br>
 - [NetBeans](https://netbeans.org/) - IDE gratuita da Apache <br>
 - [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz <br>
+- [Code with Mu](https://codewith.mu) - Um editor de código Python simples, para iniciantes <br>
 - [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP <br>
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python <br>
 - [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica para a Linguagem R e suas variantes <br>
 - [StackEdit](https://stackedit.io/) - Editor de markdown online <br>
 - [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou <br>
+- [Thonny](https://thonny.org) - IDE Python para iniciantes <br>
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft <br>
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft <br>
 
