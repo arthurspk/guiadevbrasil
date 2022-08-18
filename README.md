@@ -1043,6 +1043,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
+- [Curso de C++ 4](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfgWfHqVHVAEPCDG54RLArJh) <br>
 
 ## 🦉 Cursos de Camunda
 
