@@ -278,8 +278,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online <br>
 - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS <br>
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native <br>
+- [Readme.so](https://readme.so/pt) - Crie de maneira fácil o readme para seu projeto <br>
 - [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas <br>
 - [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site <br>
+- [Responsively](https://responsively.app/) - Ferramenta para facilitar a responsividade do seu site <br>
 - [Shields.io](https://shields.io/) - Gerador de badges para markdown <br>
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites <br>
 - [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador <br>
