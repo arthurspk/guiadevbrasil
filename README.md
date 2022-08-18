@@ -210,6 +210,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 - [Hired](https://hired.com) <br>
 - [JustRemote](https://justremote.co) <br>
 - [Remote OK](https://remoteok.io) <br>
+- [Strider](https://www.onstrider.com/) <br>
 - [Toptal](https://www.toptal.com) <br>
 - [Turing](https://www.turing.com) <br>
 - [Working Nomads](https://workingnomads.co) <br>
