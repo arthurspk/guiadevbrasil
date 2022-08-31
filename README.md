@@ -56,7 +56,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 [🔤 Linguagens de programação](#-linguagens-de-programação) <br>
 [📕 Guia de Estilo](#-guia-de-estilo) <br>
 [📁 Desafios](#-desafios) <br>
-[🛠️ Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
+[🛠️ Ferramentas para desenvolvedores WEB](#%EF%B8%8F-ferramentas-para-desenvolvedores-web) <br>
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
