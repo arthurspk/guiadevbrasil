@@ -1109,7 +1109,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenv
 ## 🐷 Cursos de React
 
 - [Curso de React.js 1](https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1) <br>
-- [Curso de React.js 2](https://www.alura.com.br/imersao-react/aula01-react-alurakut) <br>
+- [Curso de React.js 2](https://youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) <br>
 - [Curso de React.js 3](https://www.youtube.com/watch?v=sZ0bZGfg_m4) <br>
 - [Curso de React.js 4](https://www.youtube.com/watch?v=JZQ8m08cbF0) <br>
 - [Curso Intensivo de Next JS e React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) <br>
