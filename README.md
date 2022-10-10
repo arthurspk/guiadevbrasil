@@ -7,7 +7,7 @@
 
 ## Tradução
 
-<img src = "https://i.imgur.com/zm0dxSF.png">・To translate this repository into Brazilian Portuguese — Click here.
+<img src = "https://i.imgur.com/ZV7oVMB.png">・To translate this repository into Brazilian Portuguese — Click here.
 
 ## :dart: O guia para alavancar a sua carreira
 
