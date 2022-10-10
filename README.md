@@ -7,6 +7,12 @@
 
 ## Tradução
 
+<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 <img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 
 
