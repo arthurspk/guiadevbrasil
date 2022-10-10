@@ -7,7 +7,7 @@
 
 ## Tradução
 
-<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="24" height="17">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/ZV7oVMB.png" alt="Guia Extenso de Programação" width="24" height="19">・<b>Brazilian portuguese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 
 
 ## :dart: O guia para alavancar a sua carreira
