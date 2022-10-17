@@ -224,6 +224,7 @@
 - [Há Vagas](https://havagas.pt) <br>
 - [Hired](https://hired.com) <br>
 - [JustRemote](https://justremote.co) <br>
+- [Programathor](https://programathor.com.br/) <br>
 - [Remotar](https://remotar.com.br) <br>
 - [Remote OK](https://remoteok.io) <br>
 - [Strider](https://www.onstrider.com/) <br>
