@@ -735,6 +735,8 @@
 - [Reshot](https://www.reshot.com/)
 - [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue <br>
 - [Thenounproject](https://thenounproject.com/) <br>
+- [Simple Icons](https://simpleicons.org/) <br>
+
 
 ## 🎥 Canais do youtube com conteúdo gratuito
 
