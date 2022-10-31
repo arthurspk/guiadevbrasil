@@ -950,6 +950,7 @@
 - [Java Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5): <br>
 - [Frameworks de Java](https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado) <br>
 - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) <br>
+- [Introdução ao java](https://www.scaler.com/topics/java/introduction-to-java/) <br>
 - [Curso de Java](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) <br>
 - [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
 - [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
