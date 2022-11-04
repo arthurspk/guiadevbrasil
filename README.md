@@ -165,7 +165,6 @@
 ## 🎨 Sites para desenvolvedor front-end
 
 - [Uiverse](https://uiverse.io/) - Rede social de elementos de interfaces. <br>
-- [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
 - [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
