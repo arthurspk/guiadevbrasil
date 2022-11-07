@@ -956,6 +956,7 @@
 - [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
 - [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
 - [Curso de Java 4](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL) <br>
+- [Curso grátis de lógica de programação com Java](https://www.algaworks.com/curso/logica-de-programacao-java/) <br>
 
 ## 🐴 Cursos de JavaScript
 
