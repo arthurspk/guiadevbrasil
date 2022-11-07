@@ -826,6 +826,7 @@
 - [Pisani da Arch](https://www.youtube.com/c/ArcHOfficeTech) - É um canal com conteúdos voltados para Arquitetura de Solução, onde o objetivo é ajudar a comunidade de Devs e Archs a projetarem soluções com os melhores padrões do mercado. <br>
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Canal de um engenheiro de software de Londres com tutoriais e dicas de ferramentas Microsoft (ASPNET Core, C#, etc)  <br>
 - [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar) - Canal de um desenvolvedor mobile com experiência em Android & IOS. <br>
+- [AlgaWorks](https://www.youtube.com/algaworks) - Canal da escola de programação online AlgaWorks. Aprenda sobre Java, Spring, Microsserviços, Angular e React <br>
 
 ## 🔓 Pentest
 
