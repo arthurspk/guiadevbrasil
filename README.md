@@ -1130,7 +1130,53 @@
 - [Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o) 
 - [Curso Completo de PHP (108 aulas)](https://goo.gl/1th6ok) 
 
-## 🦚 Cursos de C#
+## 🦚 Sites e cursos para aprender C#
+
+> Cursos para aprender C# em Português 
+- [Curso de C# - Aprenda o essencial em 5 HORAS](https://www.youtube.com/watch?v=PKMm-cHe56g&ab_channel=VictorLima-GuiadoProgramador)
+- [Curso de Programação C#](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi)
+- [Curso C# 2021](https://www.youtube.com/playlist?list=PL50rZONmv8ZTLPRyqb37EoPlBpSmVBJWX)
+- [Curso de C# para Iniciantes](https://www.youtube.com/playlist?list=PLwftZeDnOzt3VMtat5BTJvP_7qgNtRDD8)
+- [Linguagem C#](https://www.youtube.com/playlist?list=PLEdPHGYbHhlcxWx-_LrVVYZ2RRdqltums)
+- [C# - De Novato a Profissional](https://www.youtube.com/playlist?list=PLXik_5Br-zO-rMqpRy5qPG2SLNimKmVCO)
+- [Curso de C#](https://www.youtube.com/playlist?list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD)
+- [Curso de C# - Pildoras Informaticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B)
+- [Curso de C# Básico e Avançado](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgRAa5mGXlCoSGyfYau8nZI)
+- [Curso de Programação em C#](https://www.youtube.com/playlist?list=PLO_xIfla8f1wDmI0Vd4YJLKBJhOeQ3xbz)
+- [Curso de Programação com C#](https://www.youtube.com/playlist?list=PLucm8g_ezqNoMPIGWbRJXemJKyoUpTjA1)
+- [Curso Básico de C#](https://www.youtube.com/playlist?list=PL0YuSuacUEWsHR_a22z31bvA2heh7iUgr)
+- [Curso de Desenvolvimento de Sistemas - C# com SQL](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjLIq-eTL8mgROdviCiobs9)
+- [Curso de C# - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_400MCSyUlje1ifmFltonuN)
+- [C# - Programação Orientada a Objetos](https://www.youtube.com/playlist?list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU)
+- [Curso .NET Core C#](https://www.youtube.com/playlist?list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS)
+- [Curso de C# com Entity - CSharp com SQL](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgIUUueLguueyhx0UuICC3-)
+- [Curso de C# com MVC e SQL](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxgilp2iFXI4i2if6Qtg6qFZ)
+
+> Cursos para aprender C# em Espanhol
+- [Curso C# de 0 a Experto](https://www.youtube.com/playlist?list=PLvMLybJwXhLEVUlBI2VdmYXPARO2Zwxze)
+- [Tutorial C# - Curso básico](https://www.youtube.com/playlist?list=PLM-p96nOrGcakia6TWllPW9lkQmB2g-yX)
+- [Aprende a programar en C# desde CERO](https://www.youtube.com/playlist?list=PL8gxzfBmzgexdFa0XZZSZZn2Ogx3j-Qd5)
+
+> Cursos para aprender C# em Inglês
+- [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org)
+- [C# Full Course - Learn C# 10 and .NET 6 in 7 hours](https://www.youtube.com/watch?v=q_F4PyW8GTg&ab_channel=tutorialsEU)
+- [C# Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=wxznTygnRfQ&ab_channel=BroCode)
+- [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU&ab_channel=MicrosoftDeveloper)
+- [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY&ab_channel=ProgrammingwithMosh)
+- [C# for Beginners | Full 2-hour course](https://www.youtube.com/watch?v=Z5JS36NlJiU&ab_channel=dotnet)
+- [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw&ab_channel=CalebCurry)
+- [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4&ab_channel=freeCodeCamp.org)
+- [C# Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC)
+- [C# Mastery Course](https://www.youtube.com/playlist?list=PLrW43fNmjaQVSmaezCeU-Hm4sMs2uKzYN)
+- [C# Full Course Beginner to Advanced](https://www.youtube.com/playlist?list=PLq5Uz3LSFff8GmtFeoXRZCtWBKQ0kWl-H)
+- [C# Tutorial For Beginners & Basics - Full Course 2022](https://www.youtube.com/playlist?list=PL82C6-O4XrHfoN_Y4MwGvJz5BntiL0z0D)
+- [C# for Beginners Course](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
+- [C# tutorial for beginners](https://www.youtube.com/playlist?list=PLAC325451207E3105)
+- [C# Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM)
+- [C# Training](https://www.youtube.com/playlist?list=PLEiEAq2VkUULDJ9tZd3lc0rcH4W5SNSoW)
+- [C# for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+- [C# - Programming Language | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpNIBTYHNDrhfE9C-imUXCmk)
+- [C#.NET Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
 
 ## 🦉 Sites e cursos para aprender C
 
@@ -1186,12 +1232,40 @@
 - [Curso de C 15](https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_) 
 - [Curso de C 16](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) 
 
-## 🐸 Cursos de C++
+## 🐸 Sites e cursos para aprender C++
 
-- [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) 
-- [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) 
-- [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) 
-- [Curso de C++ 4](https://www.youtube.com/playlist?list=PLX6Nyaq0ebfgWfHqVHVAEPCDG54RLArJh) 
+> Cursos para aprender C++ em Português 
+- [Curso C++ - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo)
+- [Curso de C e C++ - Daves Tecnologia](https://www.youtube.com/playlist?list=PL5EmR7zuTn_bONyjFxSO4ZCE-SVVNFGkS)
+- [Curso Programação em C/C++](https://www.youtube.com/playlist?list=PLC9E87254BD7A875B)
+- [Curso C++ para iniciantes](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV)
+- [Curso de C++ e C#](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhro_xZd-PCUDUsgg8tZFKh)
+- [Curso C++](https://www.youtube.com/playlist?list=PL6xP0t6HQYWcUPcXLu2XTZ3gOCJSmolgO)
+- [Curso de C++ - A linguagem de programação fundamental para quem quer ser um programador](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40)
+
+> Cursos para aprender C++ em Espanhol
+- [Programación en C++](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh)
+- [Curso en C++ para principiantes](https://www.youtube.com/playlist?list=PLDfQIFbmwhreSt6Rl2PbDpGuAEqOIPmEu)
+- [C++ desde cero](https://www.youtube.com/playlist?list=PLAzlSdU-KYwWsM0FgOs4Jqwnr5zhHs0wU)
+- [Curso de Interfaces Graficas en C/C++](https://www.youtube.com/playlist?list=PLYA44wBp7zVTiCJiXIC5H5OkMOXptxLOI)
+
+> Cursos para aprender C++ em Inglês
+- [C++ Programming Course - Beginner to Advanced 31 hours](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) 
+- [C++ Full Course For Beginners (Learn C++ in 10 hours)](https://www.youtube.com/watch?v=GQp1zzTwrIg&ab_channel=CodeBeauty) 
+- [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8&ab_channel=ProgrammingwithMosh) 
+- [C++ Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=-TkoO8Z07hI&ab_channel=BroCode) 
+- [C++ Tutorial for Beginners - Complete Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org) 
+- [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4&ab_channel=CalebCurry) 
+- [C++ Full Course 2022](https://www.youtube.com/watch?v=SYd5F4gIH90&ab_channel=Simplilearn) 
+- [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&ab_channel=BroCode) 
+- [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) 
+- [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) 
+- [C++ Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) 
+- [C++ Complete Course](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee) 
+- [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) 
+- [C++ Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpGDG3--IKMLPoYrgfuhaz_t) 
+- [C / C++ - freeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) 
+- [C++ Modern Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA) 
 
 ## 🦉 Cursos de Camunda
 
