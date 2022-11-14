@@ -942,19 +942,66 @@
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio 
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio 
 
-## 🦓 Cursos de Java
+> Cursos para aprender Java em Português 
+- [Maratona Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+- [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+- [Curso de Java - Tiago Aguiar](https://www.youtube.com/playlist?list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL)
+- [Curso de Java - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW)
+- [Maratona Java - O maior curso Java em português](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
+- [Curso de Java Básico Gratuito com Certificado](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- [Curso de Java - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD)
+- [Curso de POO Java (Programação Orientada a Objetos)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+- [Curso de Programação em Java](https://www.youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc)
+- [Curso - Fundamentos da Linguagem Java](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
+- [Curso Java Estruturado](https://www.youtube.com/playlist?list=PLGPluF_nhP9p6zWTN88ZJ1q9J_ZK148-f)
+- [Curso de Java Completo](https://www.youtube.com/playlist?list=PL6vjf6t3oYOrSx2XQKm3yvNxgjtI1A56P)
+- [Curso Programação Java](https://www.youtube.com/playlist?list=PLtchvIBq_CRTAwq_xmHdITro_5vbyOvVw)
+- [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLt2CbMyJxu8iQL67Am38O1j5wKLf0AIRZ)
 
-- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) 
-- [Maratona Java](https://youtu.be/VKjFuX91G5Q) 
-- [Learn Java 8 Full Course in 9 Hours](https://www.youtube.com/watch?v=grEKMHGYyns) 
-- [Java Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5): 
-- [Frameworks de Java](https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado) 
-- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) 
-- [Introdução ao java](https://www.scaler.com/topics/java/introduction-to-java/) 
-- [Curso de Java](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) 
-- [Curso de Java 2](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) 
-- [Curso de Java 3](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) 
-- [Curso de Java 4](https://www.youtube.com/watch?v=mRryrODqQcw&list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL) 
+> Cursos para aprender Java em Espanhol
+- [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
+- [Curso de programación Java desde cero](https://www.youtube.com/playlist?list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB)
+- [Curso de Java Completo 2021](https://www.youtube.com/playlist?list=PLt1J5u9LpM59sjPZFl3KYUhTrpwPIhKor)
+- [Java Netbeans Completo](https://www.youtube.com/playlist?list=PLCTD_CpMeEKTT-qEHGqZH3fkBgXH4GOTF)
+- [Programación en Java](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR74K)
+- [Curso de Java 11](https://www.youtube.com/playlist?list=PLf5ldD20p3mHRM3O4yUongNYx6UaELABm)
+- [Curso de Java - Jesús Conde](https://www.youtube.com/playlist?list=PL4D956E5314B9C253)
+- [Curso de programacion funcional en java](https://www.youtube.com/playlist?list=PLjJ8HhsSfskiDEwgfyF9EznmrSyEukcJa)
+
+> Cursos para aprender Java em Inglês
+- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh)
+- [Java Tutorial: Full Course for Beginners](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode)
+- [Java Full Course](https://www.youtube.com/watch?v=Qgl81fPcLc8&ab_channel=Amigoscode)
+- [Java Programming for Beginners – Full Course](https://www.youtube.com/watch?v=A74TOX803D0&ab_channel=freeCodeCamp.org)
+- [Intro to Java Programming - Course for Absolute Beginners](https://www.youtube.com/watch?v=GoXwIVyNvX0&ab_channel=freeCodeCamp.org)
+- [Learn Java 8 - Full Tutorial for Beginners](https://www.youtube.com/watch?v=grEKMHGYyns&ab_channel=freeCodeCamp.org)
+- [Java Full Course 2022 | Java Tutorial For Beginners | Core Java Full Course](https://www.youtube.com/watch?v=CFD9EFcNZTQ&ab_channel=Simplilearn)
+- [Java Full Course for Beginners](https://www.youtube.com/watch?v=_3ds4qujpxU&ab_channel=SDET-QAAutomation)
+- [Java Full Course | Java Tutorial for Beginners](https://www.youtube.com/watch?v=hBh_CC5y8-s&ab_channel=edureka%21)
+- [Learn JavaScript in 12 Hours | JavaScript Tutorial For Beginners 2022](https://www.youtube.com/watch?v=A1eszacPf-4&ab_channel=Simplilearn)
+- [Java GUI: Full Course](https://www.youtube.com/watch?v=Kmgo00avvEw&ab_channel=BroCode)
+- [Java Collections Framework | Full Course](https://www.youtube.com/watch?v=GdAon80-0KA&ab_channel=JavaGuides)
+- [Java Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5)
+- [Java Complete Course | Placement Series](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+- [Stanford - Java course](https://www.youtube.com/playlist?list=PLA70DBE71B0C3B142)
+- [Java Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF)
+- [Java Full Course - 2022 | Java Tutorial for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEe9EN119lMdwcBxcrBI1D3)
+- [Java (Intermediate) Tutorials](https://www.youtube.com/playlist?list=PL27BCE863B6A864E3)
+- [Core Java (Full Course)](https://www.youtube.com/playlist?list=PLsjUcU8CQXGFZ7xMUxJBE33FWWykEWm49)
+- [Working Class Java Programming & Software Architecture Fundamentals Course](https://www.youtube.com/playlist?list=PLEVlop6sMHCoVFZ8nc_HmXOi8Msrah782)
+- [Java Programming Tutorials for Beginners [Complete Course]](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_uaJgi-FL9QwINS9JxKKg2)
+- [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+- [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+- [Java Tutorial for Beginners - Bro Code](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1)
+- [Java Programming Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7pFZoGT1NbZJpywedeyzyaf)
+- [Java (Beginner) Programming Tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
+- [Complete Java Course for Beginners](https://www.youtube.com/playlist?list=PLab_if3UBk9-ktSKtoVQoLngTFpj9PIed)
+- [Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+- [Mastering Java Course - Learn Java from ZERO to HERO](https://www.youtube.com/playlist?list=PL6Q9UqV2Sf1gb0izuItEDnU8_YBR-DZi6)
+- [Tim Buchalka's Java Course PlayList](https://www.youtube.com/playlist?list=PLXtTjtWmQhg1SsviTmKkWO5n0a_-T0bnD)
+- [Java Full Course](https://www.youtube.com/playlist?list=PLrhDANsBnxU9WFTBt73Qog9CH1ox5zI--)
+- [Java Course](https://www.youtube.com/playlist?list=PLJSrGkRNEDAhE_nsOkDiC5OvckE7K0bo2)
+- [Java Web App Course](https://www.youtube.com/playlist?list=PLcRrh9hGNaln4tPtqsmglKenc3NZW7l9M)
 
 ## 🐴 Cursos de JavaScript
 
@@ -1123,12 +1170,59 @@
 - [Python hacking - Abdul Kamara](https://www.youtube.com/playlist?list=PLmrwFpxY0W1PPRPJrFAJInpOzuB3TLx0K)
 
 
-## 🐘 Cursos de PHP
+## 🐘 Sites e cursos para aprender PHP
 
-- [Curso de PHP 1](https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) 
-- [Curso de PHP 2](https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) 
-- [Curso Básico de PHP (20 aulas)](https://goo.gl/wLra9o) 
-- [Curso Completo de PHP (108 aulas)](https://goo.gl/1th6ok) 
+> Cursos para aprender PHP em Português 
+- [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
+- [Curso de PHP - Node Studio](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq)
+- [Curso de PHP - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUgB4R1dDXke4uKMq-IrSr4B)
+- [Curso de PHP 8 Completo](https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ)
+- [Curso de PHP - eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)
+- [Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I)
+- [Curso de PHP8 Completo - Intermédio e Avançado](https://www.youtube.com/playlist?list=PLXik_5Br-zO9Z8l3CE8zaIBkVWjHOboeL)
+- [Curso de PHP](https://www.youtube.com/playlist?list=PLBFB56E8115533B6C)
+- [Curso de POO PHP (Programação Orientada a Objetos)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x)
+- [Curso de PHP 7 Orientado a Objetos](https://www.youtube.com/playlist?list=PLnex8IkmReXz6t1rqxB-W17dbvfSL1vfg)
+- [Curso de PHP 7](https://www.youtube.com/playlist?list=PLnex8IkmReXw-QlzKS9zA3rXQsRnK5nnA)
+- [Curso de PHP com MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrkPSrXiYgGXXkK4x245cvV)
+- [Curso de PHP para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzx82Bov1cuo_sZI2Lrb7mXr)
+- [Curso de PHP 7 e MVC - Micro Framework](https://www.youtube.com/playlist?list=PL0N5TAOhX5E-NZ0RRHa2tet6NCf9-7B5G)
+- [Curso de PHP - Emerson Carvalho](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpOxc0x1c4HpEWyK0JMsL49)
+
+> Cursos para aprender PHP em Espanhol
+- [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_)
+- [Curso completo de PHP desde cero a experto](https://www.youtube.com/playlist?list=PLH_tVOsiVGzmnl7ImSmhIw5qb9Sy5KJRE)
+- [Curso PHP 8 y MySQL 8 desde cero](https://www.youtube.com/playlist?list=PLZ2ovOgdI-kUSqWuyoGJMZL6xldXw6hIg)
+- [Curso de PHP completo desde cero](https://www.youtube.com/playlist?list=PLg9145ptuAij8vIQLU25f7sUSH4E8pdY5)
+- [Curso completo PHP y MySQL principiantes-avanzado](https://www.youtube.com/playlist?list=PLvRPaExkZHFkpBXXCsL2cn9ORTTcPq4d7)
+- [Curso PHP Básico](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
+- [PHP desde cero](https://www.youtube.com/playlist?list=PLAzlSdU-KYwW9eWj88DW55gTi1M5HQo5S)
+
+> Cursos para aprender PHP em Inglês
+- [Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+- [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c&ab_channel=freeCodeCamp.org)
+- [PHP For Absolute Beginners | 6.5 Hour Course](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia)
+- [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU&ab_channel=TraversyMedia)
+- [PHP Tutorial for Beginners - Full Course | OVER 7 HOURS!](https://www.youtube.com/watch?v=t0syDUSbdfE&ab_channel=EnvatoTuts%2B)
+- [PHP And MySQL Full Course in 2022](https://www.youtube.com/watch?v=s-iza7kAXME&ab_channel=Simplilearn)
+- [PHP Full Course | PHP Tutorial For Beginners](https://www.youtube.com/watch?v=6EukZDFE_Zg&ab_channel=Simplilearn)
+- [PHP Front To Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+- [PHP Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)
+- [PHP for beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk_fFEWydZJLiXpc9nB1qfpi)
+- [The Complete 2021 PHP Full Stack Web Developer](https://www.youtube.com/playlist?list=PLs-hN447lej6LvquSMoWkGlJAJrhwaVNX)
+- [PHP Training Videos](https://www.youtube.com/playlist?list=PLEiEAq2VkUUIjP-QLfvICa1TvqTLFvn1b)
+- [PHP complete course with Project](https://www.youtube.com/playlist?list=PLFINWHSIpuivHWnGE8YGw8uFygThFGr3-)
+- [PHP Course for Beginners](https://www.youtube.com/playlist?list=PLLQuc_7jk__WTMT4U1qhDkhqd2bOAdxSo)
+- [PHP Tutorials Playlist](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
+- [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-)
+- [PHP Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg)
+- [PHP 7 Course - From Zero to Hero](https://www.youtube.com/playlist?list=PLCwJ-zYcMM92IlmUrW7Nn79y4LHGfODGc)
+- [PHP Tutorials (updated)](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxhsuT_QAqfi-NNVAlV4WIP)
+- [PHP & MySQL Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFB2yjxFbK-Za8HwM5v1NC5)
+- [PHP from intermediate to advanced](https://www.youtube.com/playlist?list=PLBEpR3pmwCazOsFp0xI3keBq7SoqDnxM7)
+- [Object Oriented PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [PHP OOP Basics Full Course](https://www.youtube.com/playlist?list=PLY3j36HMSHNUfTDnDbW6JI06IrkkdWCnk)
+- [Advanced PHP](https://www.youtube.com/playlist?list=PLu4-mSyb4l4SlKcO51aLtyiuOmlEuojvZ)
 
 ## 🦚 Sites e cursos para aprender C#
 
@@ -1363,12 +1457,36 @@
 
 ## 🐦 Cursos de Ruby
 
-- [Introdução ao Ruby On-Rails](https://youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ) 
-- [Curso de Ruby On-Rails 1](https://youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV) 
-- [Curso de Ruby On-Rails 2](https://youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) 
-- [Curso de Ruby On-Rails 3](https://youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0) 
-- [Curso de Ruby On-Rails (15 aulas)](https://goo.gl/LcHcn4) 
-- [Curso de Ruby On Rails (49 aulas)](https://goo.gl/4oXEAP) 
+> Cursos para aprender Ruby em Português
+- [Ruby Para Iniciantes (2021 - Curso Completo Para Iniciantes)](https://www.youtube.com/playlist?list=PLnV7i1DUV_zOit4a_tEDf1_PcRd25dL7e)
+- [Curso completo de Ruby](https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
+- [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
+- [Curso de Ruby on Rails básico](https://www.youtube.com/playlist?list=PLFeyfVYazTkJN6uM5opCfSN_xjxrMybXV)
+- [Programação com Ruby](https://www.youtube.com/playlist?list=PLucm8g_ezqNqMm1gdqjZzfhAMFQ9KrhFq)
+- [Linguagem Ruby](https://www.youtube.com/playlist?list=PLEdPHGYbHhldWUFs2Q-jSzXAv3NXh4wu0)
+
+> Cursos para aprender Ruby em Espanhol
+- [Curso Gratuito de Ruby en español](https://www.youtube.com/playlist?list=PL954bYq0HsCUG5_LbfZ54YltPinPSPOks)
+- [Ruby desde Cero](https://www.youtube.com/playlist?list=PLAzlSdU-KYwUG_5HcRVT4mr0vgLYBeFnm)
+- [Curso de Ruby](https://www.youtube.com/playlist?list=PLEFC2D43C36013A70)
+- [Curso Ruby - Codigofacilito](https://www.youtube.com/playlist?list=PLUXwpfHj_sMlkvu4T2vvAnqPSzWQsPesm)
+- [Curso Ruby on Rails 7 para principiantes en español](https://www.youtube.com/playlist?list=PLP06kydD_xaUS6plnsdonHa5ySbPx1PrP)
+- [Curso de Ruby on Rails 5](https://www.youtube.com/playlist?list=PLIddmSRJEJ0uaT5imV49pJqP8CGSqN-7E)
+
+> Cursos para aprender Ruby em Inglês
+- [Learn Ruby on Rails - Full Course](https://www.youtube.com/watch?v=fmyvWz5TUWg&ab_channel=freeCodeCamp.org)
+- [Ruby On Rails Crash Course](https://www.youtube.com/watch?v=B3Fbujmgo60&ab_channel=TraversyMedia)
+- [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org)
+- [Ruby on Rails Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=-AdqKjqHQIA&ab_channel=CodeGeek)
+- [Learn Ruby on Rails from Scratch](https://www.youtube.com/watch?v=2zZCzcupQao&ab_channel=ProgrammingKnowledge)
+- [The complete ruby on rails developer course](https://www.youtube.com/watch?v=y4pKYYMdAA0&ab_channel=FullCourse)
+- [Ruby on Rails for Beginners](https://www.youtube.com/playlist?list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56)
+- [Ruby on Rails Full Course](https://www.youtube.com/playlist?list=PLsikuZM13-0zOytkeVGSKk4VTTgE8x1ns)
+- [Full Stack Ruby on Rails Development Bootcamp](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
+- [Let's Build: With Ruby On Rails](https://www.youtube.com/playlist?list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4)
+- [Ruby On Rail Full Course 2022](https://www.youtube.com/playlist?list=PLAqsB9gf_hQY6pwlIbht35wSytqezS-Sy)
+- [Advanced Ruby on Rails](https://www.youtube.com/playlist?list=PLPiVX6hQQRl_UN9cLxSoGKQm_RF8pw7MU)
+- [Ruby On Rails 2021 | Complete Course](https://www.youtube.com/playlist?list=PLeMlKtTL9SH_J-S0JA9o5gUmcW-NZSDtF)
 
 ## 💧 Cursos de Elixir
 
