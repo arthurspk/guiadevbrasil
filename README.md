@@ -1656,7 +1656,61 @@
 - [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) 
 - [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) 
 
+## 🐴 Sites e cursos para aprender MySQL
 
+> Sites para aprender MySQL
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQLBolt](https://sqlbolt.com/)
+- [LinuxJedi](https://linuxjedi.co.uk/tag/mysql/)
+- [SQLCourse](https://www.sqlcourse.com/)
+- [CodeQuizzes](https://www.codequizzes.com/apache-spark/spark/datasets-spark-sql)
+- [Planet MySQL](https://planet.mysql.com/pt/)
+- [MySQL Learn2torials](https://learn2torials.com/category/mysql)
+- [Learn MySQL, Memrise](https://app.memrise.com/course/700054/learn-mysql/)
+- [Tizag MySQL Tutorials](http://www.tizag.com/mysqlTutorial/)
+- [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
+- [SQL Basics Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Phptpoint MySQL Tutorial](https://www.phptpoint.com/mysql-tutorial/)
+- [RoseIndia MySQL Tutorials](https://www.roseindia.net/mysql/)
+- [MySQL on Linux Like Geeks](https://likegeeks.com/mysql-on-linux-beginners-tutorial/)
+- [Mastering MySQL by Mark Leith](http://www.markleith.co.uk/)
+- [Tutorials Point MySQL Tutorial](https://www.tutorialspoint.com/mysql/index.htm)
+- [KillerPHP MySQL Video Tutorials](https://www.killerphp.com/mysql/videos/)
+- [PYnative MySQL Database Tutorial](https://pynative.com/python/databases/)
+- [Digital Ocean Basic MySQL Tutorial](https://www.digitalocean.com/community/tags/mysql)
+- [Journal to SQL Authority, Pinal Dave](https://blog.sqlauthority.com/)
+- [MySQL Tutorial, Learn MySQL Fast, Easy and Fun](https://www.mysqltutorial.org/)
+
+> Cursos para aprender MySQL em Português 
+
+- [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+- [Curso de MySQL - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
+- [Curso SQL Completo 2022 em 4 horas - Dev Aprender](https://www.youtube.com/watch?v=G7bMwefn8RQ&ab_channel=DevAprender)
+- [Curso de SQL com MySQL (Completo) - Ótavio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)
+- [MySQL - Curso Completo para Iniciantes e Estudantes](https://www.youtube.com/playlist?list=PLOPt_yd2VLWGEnSzO-Sc9MYjs7GZadX1f)
+- [Curso de MySQL - Daves Tecnologia](https://www.youtube.com/playlist?list=PL5EmR7zuTn_ZGtE7A5PJjzQ0u7gicicLK)
+- [Curso de SQL - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra)
+- [Curso Gratuito MySQL Server](https://www.youtube.com/playlist?list=PLiLrXujC4CW1HSOb8i7j8qXIJmSqX44KH)
+- [Curso de MySQL - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_4KmkW7AKH87nDWtb29jHvN)
+- [Curso completo MySQL WorkBench](https://www.youtube.com/playlist?list=PLq-sApY8QuyeEq4L_ECA7yYgOJH6IUphP)
+- [Curso de MySQL 2022 - IS](https://www.youtube.com/playlist?list=PL-6S8_azQ-MrCeQgZ1ZaD8Be3EVW4wEKx)
+- [MySql/MariaDB - Do básico ao avançado](https://www.youtube.com/playlist?list=PLfvOpw8k80WqyrR7P7fMNREW2Q82xJlpO)
+- [Curso de PHP com MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrkPSrXiYgGXXkK4x245cvV)
+
+> Cursos para aprender MySQL em Inglês
+- [The New Boston MySQL Videos](https://www.youtube.com/playlist?list=PL32BC9C878BA72085)
+- [MySQL For Beginners, Programming With Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+- [Complete MySQL Beginner to Expert](https://www.youtube.com/watch?v=en6YPAgc6WM&ab_channel=FullCourse)
+- [Full MySQL Course for Beginners](https://www.youtube.com/playlist?list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
+- [MySQL Complete Tutorial for Beginners 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E)
+- [SQL for Beginners (MySQL)](https://www.youtube.com/playlist?list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT)
+- [MySQL Course](https://www.youtube.com/playlist?list=PLBlpUqEneF0-xZ1ctyLVqhwJyoQsyfOsO)
+- [MySQL Tutorial For Beginners - Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG)
+- [MySQL Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse)
+- [MySQL Tutorial for beginner - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIahlYDqHWZb81qsKgEvPiHn)
+- [MySQL DBA Tutorial - Mughees Ahmed](https://www.youtube.com/playlist?list=PLd5sTGXltJ-l9PKT2Bynhg0Ou2uESOJiH)
+- [MySQL DBA Tutorial - TechBrothers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICV0BARDhRC0JvNKHC5MDEU)
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org)
 
 ## 🐮 Cursos de Git e Github
 
