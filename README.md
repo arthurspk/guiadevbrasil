@@ -564,6 +564,7 @@
 ## ☁ Ferramentas para hospedar seu site
 
 - [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor 
+- [API Grátis](https://www.apigratis.com.br/) - Serviços de API do WhatsApp e outros totalmente free, forever.  
 - [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios 
 - [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium. 
 - [Infinity Free](https://infinityfree.net/) - Free Unlimited Web Hosting 
