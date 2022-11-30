@@ -1005,7 +1005,7 @@
 - [Java Course](https://www.youtube.com/playlist?list=PLJSrGkRNEDAhE_nsOkDiC5OvckE7K0bo2)
 - [Java Web App Course](https://www.youtube.com/playlist?list=PLcRrh9hGNaln4tPtqsmglKenc3NZW7l9M)
 
-## 🐴 Cursos de JavaScript
+## 🐴 Sites e cursos para aprender JavaScript
 
 - [Curso completo de Javascript (46 aulas):](https://goo.gl/zfjfkQ) 
 - [Curso de introdução ao Java script](https://youtu.be/i6Oi-YtXnAU) 
@@ -1022,7 +1022,7 @@
 - [Playlist de projetos de JS](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) 
 - [Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) 
 
-## 🦄 Cursos de HTML e CSS
+## 🦄 Sites e cursos para aprender HTML e CSS
 
 - [Curso em video](https://github.com/gustavoguanabara/html-css): 
 - [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) 
@@ -1045,7 +1045,7 @@
 - [Curso completo de CSS3 (22 aulas)](https://goo.gl/ebjzVG) 
 - [Curso de CSS3 com Sass e Compass (9 aulas)](https://goo.gl/bAO0hE) 
 
-## 🐍 Cursos de Python
+## 🐍 Sites e cursos para aprender Python
 
 > Sites & E-books para aprender Python
 - [Think Python](https://greenteapress.com/wp/think-python/)
@@ -1344,13 +1344,13 @@
 - [C / C++ - freeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m) 
 - [C++ Modern Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA) 
 
-## 🦉 Cursos de Camunda
+## 🦉 Sites e cursos para aprender Camunda
 
 - [Curso de Camunda 1](https://www.youtube.com/playlist?list=PLb7Px7q28I7UqIdEnZDP0RCPB2wEvO7KW) 
 - [Curso de Camunda 2](https://www.youtube.com/watch?v=f9DmrLPMjRM&list=PLc_Oj42KdFQGex3gBjtVZtYWyVhDu0VEo) 
 - [Curso de Camunda 3](https://www.youtube.com/watch?v=l-sCUKQZ44s&list=PLJG25HlmvsOUnCziyJBWzcNh7RM5quTmv) 
 
-## 🐶 Cursos de Kotlin
+## 🐶 Sites e cursos para aprender Kotlin
 
 - [Curso de Kotlin 1](https://youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) 
 - [Curso de Kotlin 2](https://www.youtube.com/playlist?list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg) 
@@ -1372,7 +1372,7 @@
 - [Curso de Kotlin 18](https://cursos.alura.com.br/course/fundamentos-android-kotlin) 
 - [Curso de Kotlin 19](https://play.kotlinlang.org/koans/Classes/Data%20classes/Task.kt) 
 
-## 🐋 Cursos de Swift
+## 🐋 Sites e cursos para aprender Swift
 
 > Cursos para aprender Swift em Português
 - [Curso de Swift- Tiago Aguiar](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-)
@@ -1436,7 +1436,7 @@
 - [Golang Crash Course](https://www.youtube.com/playlist?list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
 - [Golang Course From A to Z - 5 Hours of Video](https://www.youtube.com/playlist?list=PLuMFwYAgU7ii-z4TGGqXh1cJt-Dqnk2eY)
 
-## 🐦 Cursos de Ruby
+## 🐦 Sites e cursos para aprender Ruby
 
 > Cursos para aprender Ruby em Português
 - [Ruby Para Iniciantes (2021 - Curso Completo Para Iniciantes)](https://www.youtube.com/playlist?list=PLnV7i1DUV_zOit4a_tEDf1_PcRd25dL7e)
@@ -1469,7 +1469,7 @@
 - [Advanced Ruby on Rails](https://www.youtube.com/playlist?list=PLPiVX6hQQRl_UN9cLxSoGKQm_RF8pw7MU)
 - [Ruby On Rails 2021 | Complete Course](https://www.youtube.com/playlist?list=PLeMlKtTL9SH_J-S0JA9o5gUmcW-NZSDtF)
 
-## 💧 Cursos de Elixir
+## 💧 Sites e cursos para aprender Elixir
 
 - [Curso de Elixir 1](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY) 
 - [Curso de Elixir 2](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto) 
@@ -1479,7 +1479,7 @@
 - [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs) 
 - [ElixirSchool](https://elixirschool.com/pt) 
 
-## 🐷 Cursos de React
+## 🐷 Sites e cursos para aprender React
 
 - [Curso de React.js 1](https://youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1) 
 - [Curso de React.js 2](https://youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) 
@@ -1488,7 +1488,7 @@
 - [Curso Intensivo de Next JS e React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) 
 - [Curso de React Native com Hooks e Context API - Cadastro Completo](https://www.cod3r.com.br/courses/react-native-crud) 
 
-## 🐼 Cursos de React Native
+## 🐼 Sites e cursos para aprender React Native
 
 - [Curso de React Native 1](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) 
 - [Curso de React Native 2](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) 
@@ -1534,7 +1534,7 @@
 - [Curso de React Native 42](https://www.youtube.com/playlist?list=PLLEQmYfSF6FQCrSxRuq-4OCYx8wE67yfV) 
 - [Curso de React Native 43](https://www.youtube.com/playlist?list=PLC8ntN5__iMLKFGge64ZXIwFtlMYKh50k) 
 
-## 🐯 Cursos de Angular
+## 🐯 Sites e cursos para aprender Angular
 
 - [Curso de Angular 1](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) 
 - [Curso de Angular 2](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) 
@@ -1546,7 +1546,7 @@
 - [Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt) 
 - [Curso de Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) 
 
-## 🐞 Cursos de Vue
+## 🐞 Sites e cursos para aprender Vue
 
 - [Library de Vue](https://revue-draggable.vercel.app/) 
 - [Vue 3 Notification](https://github.com/kyvg/vue3-notification) 
@@ -1572,7 +1572,7 @@
 - [Curso de Vue 20](https://www.youtube.com/playlist?list=PLSk-H3V-Rn5E5DrKFFeROu5j1FaYGA7gl) 
 - [Curso de Vue 21](https://www.youtube.com/playlist?list=PLUW39uIualVtC9sciopJGnuOsjZuytE4z) 
 
-## 🦂 Cursos de Svelte
+## 🦂 Sites e cursos para aprender Svelte
 
 - [Curso Intensivo de Svelte](https://www.cod3r.com.br/courses/svelte-intensivo) 
 - [Curso de Svelte 1](https://www.youtube.com/playlist?list=PLV8x_i1fqBw2QScggh0pw2ATSJg_WHqUN) 
@@ -1584,7 +1584,7 @@
 - [Curso de Svelte 7](https://www.youtube.com/playlist?list=PLNBi2FtnN_UY_bLPWm2_0O8dReEsCNYhv) 
 - [Curso de Svelte 8](https://www.youtube.com/playlist?list=PL0dTfY76y54PSpCel0rBb5VR2A-mMnDLJ) 
 
-## 🦞 Cursos de Flutter
+## 🦞 Sites e cursos para aprender Flutter
 
 - [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) 
 - [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) 
@@ -1598,7 +1598,7 @@
 - [Curso de Flutter 9](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) 
 - [Curso de Flutter 10](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) 
 
-## 🐹 Cursos de jQuery
+## 🐹 Sites e cursos para aprender jQuery
 
 - [Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7) 
 - [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg) 
@@ -1614,14 +1614,14 @@
 - [Curso de jQuery 11](https://www.youtube.com/playlist?list=PLdrT3osfZM8wqtx9pEDyXmbn5NpSRSJOL) 
 - [Curso de jQuery 12](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) 
 
-## 🐢 Cursos de Less
+## 🐢 Sites e cursos para aprender Less
 
 - [Curso de Less (6 aulas)](https://goo.gl/Y5UkLQ) 
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBSfhS9nzc5BkopBY-22K-D) 
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLwzKFCxxOMjPUOJitRL31rD1Zsd030sYX) 
 - [Curso de Less ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKT70itw70uVs0vlFbvbCPQN) 
 
-## 🐱 Cursos de Sass
+## 🐱 Sites e cursos para aprender Sass
 
 - [Curso de Sass (18 aulas) /Inglês/](https://goo.gl/DzRv1e) 
 - [Curso de Sass ](https://www.youtube.com/watch?v=Wo5t3uUV8n4) 
@@ -1636,7 +1636,7 @@
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) 
 - [Curso de Sass ](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) 
 
-## 🐰 Cursos de Bootstrap
+## 🐰 Sites e cursos para aprender Bootstrap
 
 - [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT) 
 - [Curso de Bootstrap 1](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze) 
@@ -1713,7 +1713,7 @@
 - [MySQL DBA Tutorial - TechBrothers](https://www.youtube.com/playlist?list=PLWf6TEjiiuICV0BARDhRC0JvNKHC5MDEU)
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org)
 
-## 🐮 Cursos de Git e Github
+## 🐮 Sites e cursos para aprender Git e Github
 
 - [Git 4 Noobs](https://github.com/DanielHe4rt/git4noobs) 
 - [Comandos Git](https://github.com/theandersonn/comandos-git) 
