@@ -97,31 +97,32 @@
 [📗 Sites para treinar projetos back-end](#-sites-para-treinar-projetos-back-end) <br>
 [📙 Sites para treinar projetos mobile](#-sites-para-treinar-projetos-mobile) <br>
 [🛖 Ideias para projeto](#-ideias-para-projeto) <br>
-[🦓 Sites e cursos para aprender Java](#-cursos-de-java) <br>
-[🐴 Sites e cursos para aprender JavaScript](#-cursos-de-javascript) <br>
-[🦄 Sites e cursos para aprender HTML e CSS](#-cursos-de-html-e-css) <br>
-[🐍 Sites e cursos para aprender Python](#-cursos-de-python) <br>
-[🐘 Sites e cursos para aprender PHP](#-cursos-de-php) <br>
-[🦚 Sites e cursos para aprender C#](#-cursos-de-c) <br>
-[🦉 Sites e cursos para aprender C](#-cursos-de-c-1) <br>
-[🐸 Sites e cursos para aprender C++](#-cursos-de-c-2) <br>
-[🦉 Sites e cursos para aprender Camunda](#-cursos-de-camunda) <br>
-[🐶 Sites e cursos para aprender Kotlin](#-cursos-de-kotlin) <br>
-[🐋 Sites e cursos para aprender Swift](#-cursos-de-swift) <br>
-[🐺 Sites e cursos para aprender Go](#-cursos-de-go) <br>
-[🐦 Sites e cursos para aprender Ruby](#-cursos-de-ruby) <br>
-[💧 Sites e cursos para aprender Elixir](#-cursos-de-elixir) <br>
-[🐷 Sites e cursos para aprender React](#-cursos-de-react) <br>
-[🐼 Sites e cursos para aprender React Native](#-cursos-de-react-native) <br>
-[🐯 Sites e cursos para aprender Angular](#-cursos-de-angular) <br>
-[🐞 Sites e cursos para aprender Vue](#-cursos-de-vue) <br>
-[🦂 Sites e cursos para aprender Svelte](#-cursos-de-svelte) <br>
-[🦞 Sites e cursos para aprender Flutter](#-cursos-de-flutter) <br>
-[🐹 Sites e cursos para aprender jQuery](#-cursos-de-jquery) <br>
-[🐢 Sites e cursos para aprender Less](#-cursos-de-less) <br>
-[🐱 Sites e cursos para aprender Sass](#-cursos-de-sass) <br>
-[🐰 Sites e cursos para aprender Bootstrap](#-cursos-de-bootstrap) <br>
-[🐮 Sites e cursos para aprender Git e Github](#-cursos-de-git-e-github) <br>
+[🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
+[🐴 Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
+[🦄 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
+[🐓 Sites e cursos para aprender CSS](#-sites-e-cursos-para-aprender-css) <br>
+[🐍 Sites e cursos para aprender Python](#-sites-e-cursos-para-aprender-python) <br>
+[🐘 Sites e cursos para aprender PHP](#-sites-e-cursos-para-aprender-php) <br>
+[🦚 Sites e cursos para aprender C#](#-sites-e-cursos-para-aprender-c) <br>
+[🦉 Sites e cursos para aprender C](#-sites-e-cursos-para-aprender-c-1) <br>
+[🐸 Sites e cursos para aprender C++](#-sites-e-cursos-para-aprender-c-2) <br>
+[🦉 Sites e cursos para aprender Camunda](#-sites-e-cursos-para-aprender-camunda) <br>
+[🐶 Sites e cursos para aprender Kotlin](#-sites-e-cursos-para-aprender-kotlin) <br>
+[🐋 Sites e cursos para aprender Swift](#-sites-e-cursos-para-aprender-swift) <br>
+[🐺 Sites e cursos para aprender Go](#-sites-e-cursos-para-aprender-go) <br>
+[🐦 Sites e cursos para aprender Ruby](#-sites-e-cursos-para-aprender-ruby) <br>
+[💧 Sites e cursos para aprender Elixir](#-sites-e-cursos-para-aprender-elixir) <br>
+[🐷 Sites e cursos para aprender React](#-sites-e-cursos-para-aprender-react) <br>
+[🐼 Sites e cursos para aprender React Native](#-sites-e-cursos-para-aprender-react-native) <br>
+[🐯 Sites e cursos para aprender Angular](#-sites-e-cursos-para-aprender-angular) <br>
+[🐞 Sites e cursos para aprender Vue](#-sites-e-cursos-para-aprender-vue) <br>
+[🦂 Sites e cursos para aprender Svelte](#-sites-e-cursos-para-aprender-svelte) <br>
+[🦞 Sites e cursos para aprender Flutter](#-sites-e-cursos-para-aprender-flutter) <br>
+[🐹 Sites e cursos para aprender jQuery](#-sites-e-cursos-para-aprender-jquery) <br>
+[🐢 Sites e cursos para aprender Less](#-sites-e-cursos-para-aprender-less) <br>
+[🐱 Sites e cursos para aprender Sass](#-sites-e-cursos-para-aprender-sass) <br>
+[🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
+[🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
 
 ## 👨‍🏫 Sites para estudar programação
 
