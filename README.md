@@ -99,8 +99,8 @@
 [🛖 Ideias para projeto](#-ideias-para-projeto) <br>
 [🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
 [🐴 Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
-[🦄 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
-[🐓 Sites e cursos para aprender CSS](#-sites-e-cursos-para-aprender-css) <br>
+[🐓 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
+[🦄 Sites e cursos para aprender CSS](#-sites-e-cursos-para-aprender-css) <br>
 [🐍 Sites e cursos para aprender Python](#-sites-e-cursos-para-aprender-python) <br>
 [🐘 Sites e cursos para aprender PHP](#-sites-e-cursos-para-aprender-php) <br>
 [🦚 Sites e cursos para aprender C#](#-sites-e-cursos-para-aprender-c) <br>
@@ -1080,7 +1080,7 @@
 - [JavaScript Projects Playlist - Zlad Mohamed](https://www.youtube.com/playlist?list=PLJoT4UFj-n7nL9D2ZCBRismDxN_oHQBl8)
 - [JavaScript Projects Playlist - Code With Hossein](https://www.youtube.com/playlist?list=PL5a_Yttx9bWXapYCTkqh-jTOKuNkE20KZ)
 
-## 🦄 Sites e cursos para aprender HTML
+## 🐓 Sites e cursos para aprender HTML
 
 > Cursos para aprender HTML em Português 
 - [Curso de HTML para iniciantes - Aprenda HTML em 1 hora](https://www.youtube.com/watch?v=SV7TL0hxmIQ&ab_channel=MatheusBattisti-HoradeCodar)
@@ -1109,7 +1109,7 @@
 - [HTML Complete Course - Beginner to Expert](https://www.youtube.com/playlist?list=PLJ9Lcll8xpWpBuUUc6ykHoCQpdDzauDCg)
 - [HTML Course - Zeytoon Tuts](https://www.youtube.com/playlist?list=PLDVUkWPClxtc-wxTPG02NrdA7RbBogjGW)
 
-## 🐓 Sites e cursos para aprender CSS
+## 🦄 Sites e cursos para aprender CSS
 
 > Cursos para aprender CSS em Português 
 - [Curso de CSS para iniciantes - Aprenda CSS e crie um projeto](https://www.youtube.com/watch?v=vwbegraDXD8&ab_channel=MatheusBattisti-HoradeCodar)
