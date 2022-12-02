@@ -122,7 +122,7 @@
 [🐢 Sites e cursos para aprender Less](#-sites-e-cursos-para-aprender-less) <br>
 [🐱 Sites e cursos para aprender Sass](#-sites-e-cursos-para-aprender-sass) <br>
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
-[🐻‍❄️ Sites e cursos para aprender MySQL](#-sites-e-cursos-para-aprender-mysql) <br>
+[🐻‍❄️ Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
 
 ## 👨‍🏫 Sites para estudar programação
