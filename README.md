@@ -122,6 +122,7 @@
 [🐢 Sites e cursos para aprender Less](#-sites-e-cursos-para-aprender-less) <br>
 [🐱 Sites e cursos para aprender Sass](#-sites-e-cursos-para-aprender-sass) <br>
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
+[🐻‍❄️ Sites e cursos para aprender MySQL](#-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
 
 ## 👨‍🏫 Sites para estudar programação
@@ -943,9 +944,15 @@
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio 
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio 
 
-## Projetos para práticar programação
+## 🥋 Projetos para práticar programação
 
-- [Projetos para práticar programação - Playlist](https://www.youtube.com/playlist?list=PLTXDELCX_dQs8Vkwurj__cRu7UsU5zs1x)
+> Playlist de de vídeos com projetos para praticar programação em Português
+- [Projetos para práticar programação - Playlist 1](https://www.youtube.com/playlist?list=PLTXDELCX_dQs8Vkwurj__cRu7UsU5zs1x)
+
+> Playlist de de vídeos com projetos para praticar programação em Inglês
+
+> Playlist de de vídeos com projetos para praticar programação em Espanhol
+
 
 ## 🦓 Sites e cursos para aprender Java
 
@@ -1640,7 +1647,7 @@
 - [Curso de ReactJS do Amador ao Profissional](https://www.youtube.com/playlist?list=PLXik_5Br-zO_47e0Zdjog8t2z76Fhlf9M)
 - [Curso React + NextJS - Dev & Design](https://www.youtube.com/playlist?list=PLeBknJ2kuv1mDABV2N-H2tcu1vbfffRvg)
 - [Curso Intensivo de Next JS e React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) 
-- [Curso de React Native com Hooks e Context API - Cadastro Completo](https://www.cod3r.com.br/courses/react-native-crud) 
+- [Curso de React Native -  com Hooks e Context API - Cadastro Completo](https://www.cod3r.com.br/courses/react-native-crud) 
 
 > Projetos para praticar React em Português
 - [Crie um Quiz com React.js - Projeto de React para iniciantes](https://www.youtube.com/watch?v=HlkbeikH8cs&ab_channel=MatheusBattisti-HoradeCodar)
@@ -1728,174 +1735,270 @@
 
 ## 🐼 Sites e cursos para aprender React Native
 
-- [Curso de React Native 1](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) 
-- [Curso de React Native 2](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) 
-- [Curso de React Native 3](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) 
-- [Curso de React Native 4](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) 
-- [Curso de React Native 5](https://www.youtube.com/playlist?list=PLbnAsJ6zlidsqILBeTaeUr7aaWcqAtMrW) 
-- [Curso de React Native 6](https://www.youtube.com/playlist?list=PL_Axpn7FrXHSt92vK3EthJCId4mUn7viv) 
-- [Curso de React Native 7](https://www.youtube.com/playlist?list=PL4zG19BCs4pdPJzElbUxCykHTClU-B0Ts) 
-- [Curso de React Native 8](https://www.youtube.com/playlist?list=PL69eBMqNvxhVer10WY3nxgV0qiO8xenOP) 
-- [Curso de React Native 9](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
-- [Curso de React Native 10](https://www.youtube.com/playlist?list=PLAF5G8rnMmBb2XMMfo79GWnsFvuDuLHA7) 
-- [Curso de React Native 11](https://www.youtube.com/playlist?list=PLxF2lyHGcERApnjQPgeeEIzJJdGurraMW) 
-- [Curso de React Native 12](https://www.youtube.com/playlist?list=PLkOyNuxGl9jyhndcnbFcgNM81fZak7Rbw) 
-- [Curso de React Native 13](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) 
-- [Curso de React Native 14](https://www.youtube.com/playlist?list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h) 
-- [Curso de React Native 15](https://www.youtube.com/playlist?list=PLcDaXGnNU58bmEbkYNUHsrLMF6a_AqjF9) 
-- [Curso de React Native 16](https://www.youtube.com/playlist?list=PLB5l-YuqoyEFATE6Ax6WXB0P4AGjRDljr) 
-- [Curso de React Native 17](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhe_PxwprF0R2fp0UurDZuw) 
-- [Curso de React Native 18](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgALv5Vm-ooZo8qYRgCzKSV) 
-- [Curso de React Native 19](https://www.youtube.com/playlist?list=PL6sXCB6Pgqf9RbLaxmiSQQXp-a0_j56xe) 
-- [Curso de React Native 20](https://www.youtube.com/playlist?list=PLH7791M3Es82ztdPxpeLZXmfBG4tAJloH) 
-- [Curso de React Native 21](https://www.youtube.com/playlist?list=PLvVYUfc9tf-JMETwebyYaA4vk3YoXlWAM) 
-- [Curso de React Native 22](https://www.youtube.com/playlist?list=PLEk7yXd40KELpioDsnXbGu45nhx9xTbiL) 
-- [Curso de React Native 23](https://www.youtube.com/playlist?list=PLg1BUBhZiTHNYFDZUYplk9m0D1hF_tr3j) 
-- [Curso de React Native 24](https://www.youtube.com/playlist?list=PLizN3WA8HR1wRbFttKXDdc_yQ5CWj2msJ) 
-- [Curso de React Native 25](https://www.youtube.com/playlist?list=PLvmEIQBREIvS_gS6BX5Tk1z61i85BZF7E) 
-- [Curso de React Native 26](https://www.youtube.com/playlist?list=PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm) 
-- [Curso de React Native 27](https://www.youtube.com/playlist?list=PLBWrrrRI1gZBbmG43QE1hYOsqu5QXjilT) 
-- [Curso de React Native 28](https://www.youtube.com/playlist?list=PLd4Jo6d-yhDIOgnG4EueCh2ADbMCJyJoX) 
-- [Curso de React Native 29](https://www.youtube.com/playlist?list=PLntXnq2Zot_04VH1IFSZwJspOfKquAyKq) 
-- [Curso de React Native 30](https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo) 
-- [Curso de React Native 31](https://www.youtube.com/playlist?list=PL9Fgd5f5dgGIjrHsbqQNFUsgo7uQRIAdj) 
-- [Curso de React Native 32](https://www.youtube.com/playlist?list=PLTYREodEJtnVW4oseGzb5oCk0Sbd6TumK) 
-- [Curso de React Native 33](https://www.youtube.com/playlist?list=PLTYm84ujubwL3aYYWkU9FoZBrkW9GFy2G) 
-- [Curso de React Native 34](https://www.youtube.com/playlist?list=PL0CFwZ06NyfKR1x7aYBXBwplNMwa2CMFX) 
-- [Curso de React Native 35](https://www.youtube.com/playlist?list=PLTLAlheiUm5G6yzSN0KTBbZwZS8xVKYxI) 
-- [Curso de React Native 36](https://www.youtube.com/playlist?list=PLSMIv0i-2Ebmp-FpmJW84UO_48ErxzhAB) 
-- [Curso de React Native 37](https://www.youtube.com/playlist?list=PLfDIQS3HDSgmkbsdN-fLVagFdKt7O5tFa) 
-- [Curso de React Native 38](https://www.youtube.com/playlist?list=PLA_u3gtc5zsyEgLaTLY7clKiM2IRU4ndI) 
-- [Curso de React Native 39](https://www.youtube.com/playlist?list=PLaAoUJDWH9Wqatfwa4SEfyFevrl8QefcN) 
-- [Curso de React Native 40](https://www.youtube.com/playlist?list=PLQWFhX-gwJblNXe9Fj0WomT0aWKqoDQ-h) 
-- [Curso de React Native 41](https://www.youtube.com/playlist?list=PLyOq2o1zHOI9lAMMKr9OEhm5ZUUA8UX1V) 
-- [Curso de React Native 42](https://www.youtube.com/playlist?list=PLLEQmYfSF6FQCrSxRuq-4OCYx8wE67yfV) 
-- [Curso de React Native 43](https://www.youtube.com/playlist?list=PLC8ntN5__iMLKFGge64ZXIwFtlMYKh50k) 
+> Cursos para aprender React Native em Português
+- [Curso de React Native - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD) 
+- [Curso de React Native - Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k) 
+- [Curso de React Native - Canal Geek Dev](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) 
+- [Curso de React Native - Webdesign em Foco](https://www.youtube.com/playlist?list=PLbnAsJ6zlidsqILBeTaeUr7aaWcqAtMrW) 
+- [Curso de React Native -  Caio Malheiros](https://www.youtube.com/playlist?list=PL69eBMqNvxhVer10WY3nxgV0qiO8xenOP) 
+- [Curso de React Native -  Sujeito programador](https://www.youtube.com/playlist?list=PLAF5G8rnMmBb2XMMfo79GWnsFvuDuLHA7) 
+- [Curso de React Native -  Developer Plus](https://www.youtube.com/playlist?list=PLxF2lyHGcERApnjQPgeeEIzJJdGurraMW) 
+- [Curso de React Native -  Programador BR](https://www.youtube.com/playlist?list=PLVzrOYTg7zYD__qifpofsQDhHVHEvSx_h) 
+- [Playlist com vídeos de React Native -  Renan H.](https://www.youtube.com/playlist?list=PLB5l-YuqoyEFATE6Ax6WXB0P4AGjRDljr) 
+- [Curso de React Native - APP IOS e Android](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhe_PxwprF0R2fp0UurDZuw) 
+- [Curso de React com MySQL - React Native](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgALv5Vm-ooZo8qYRgCzKSV) 
+- [Curso de React Native -  Eduardo Marques](https://www.youtube.com/playlist?list=PLvVYUfc9tf-JMETwebyYaA4vk3YoXlWAM) 
+- [Playlist de vídeos sobre React Native](https://www.youtube.com/playlist?list=PLEk7yXd40KELpioDsnXbGu45nhx9xTbiL) 
+- [Programação para Dispositivos Móveis 2020.1 - React Native](https://www.youtube.com/playlist?list=PLd4Jo6d-yhDIOgnG4EueCh2ADbMCJyJoX) 
+- [Curso de React Native -  Paulo Araujo](https://www.youtube.com/playlist?list=PL9Fgd5f5dgGIjrHsbqQNFUsgo7uQRIAdj) 
+- [React Native do Zero -  Stack Mobile](https://www.youtube.com/playlist?list=PLizN3WA8HR1wRbFttKXDdc_yQ5CWj2msJ) 
+- [Curso de React Native -  Jorge Jardim](https://www.youtube.com/playlist?list=PLvmEIQBREIvS_gS6BX5Tk1z61i85BZF7E) 
+- [Curso de React Native -  Marcelo Anselmo](https://www.youtube.com/playlist?list=PLBWrrrRI1gZBbmG43QE1hYOsqu5QXjilT) 
+- [Desenvolvimento de App com React Native e NestJS](https://www.youtube.com/playlist?list=PLTLAlheiUm5G6yzSN0KTBbZwZS8xVKYxI) 
+
+> Projetos para praticar React Native em Português
+- [Netflix Clone - Utilizando React Native](https://www.youtube.com/playlist?list=PL_Axpn7FrXHSt92vK3EthJCId4mUn7viv) 
+- [Programando um Aplicativo em React Native do Zero](https://www.youtube.com/playlist?list=PL4zG19BCs4pdPJzElbUxCykHTClU-B0Ts) 
+- [Playlist com projetos em React Native- Arthur Duarte](https://www.youtube.com/playlist?list=PLH7791M3Es82ztdPxpeLZXmfBG4tAJloH) 
+- [Playlist com projetos em React Native - Hebert Alquimin](https://www.youtube.com/playlist?list=PLg1BUBhZiTHNYFDZUYplk9m0D1hF_tr3j) 
+
+> Cursos para aprender React Native em Inglês
+- [React Native Tutorial for Beginners - Crash Course 2020](https://www.youtube.com/watch?v=qSRrxpdMpVc&ab_channel=Academind)
+- [The Complete React Native Course 2021 : from Zero to Hero](https://www.youtube.com/watch?v=ANdSdIlgsEw&ab_channel=ProgrammingwithMash)
+- [React Native Crash Course | Build a Complete App](https://www.youtube.com/watch?v=VozPNrt-LfE&ab_channel=Academind)
+- [React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More)](https://www.youtube.com/watch?v=AkEnidfZnCU&ab_channel=SonnySangha)
+- [React Native Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) 
+- [React Native Fashion](https://www.youtube.com/playlist?list=PLkOyNuxGl9jyhndcnbFcgNM81fZak7Rbw) 
+- [React Native Tutorial - 2021](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) 
+- [Let's Code React Native](https://www.youtube.com/playlist?list=PLcDaXGnNU58bmEbkYNUHsrLMF6a_AqjF9) 
+- [React Native UI's](https://www.youtube.com/playlist?list=PL6sXCB6Pgqf9RbLaxmiSQQXp-a0_j56xe) 
+- [React Native EU 2020 - Virtual Edition](https://www.youtube.com/playlist?list=PLZ3MwD-soTTEGG42-BvoqD0qK0vKV2ygm) 
+- [React Native Tutorial - Styling](https://www.youtube.com/playlist?list=PL0CFwZ06NyfKR1x7aYBXBwplNMwa2CMFX) 
+- [React Native -  Computer Science Tutorial](https://www.youtube.com/playlist?list=PLA_u3gtc5zsyEgLaTLY7clKiM2IRU4ndI) 
+
+> Projetos para praticar React Native em Inglês
+- [Tutoriais React/React Native](https://www.youtube.com/playlist?list=PLntXnq2Zot_04VH1IFSZwJspOfKquAyKq) 
+- [React Native Animation Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo) 
+- [React Native Music Player](https://www.youtube.com/playlist?list=PLaAoUJDWH9Wqatfwa4SEfyFevrl8QefcN) 
+- [React Native Tutorials](https://www.youtube.com/playlist?list=PLQWFhX-gwJblNXe9Fj0WomT0aWKqoDQ-h) 
+- [React Native Crud](https://www.youtube.com/playlist?list=PLLEQmYfSF6FQCrSxRuq-4OCYx8wE67yfV) 
+- [React Native Tutorial for Beginners - Build a React Native App](https://www.youtube.com/watch?v=0-S5a0eXPoc&ab_channel=ProgrammingwithMosh)
 
 ## 🐯 Sites e cursos para aprender Angular
 
-- [Curso de Angular 1](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) 
-- [Curso de Angular 2](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) 
-- [Curso de Angular 3](https://www.youtube.com/playlist?list=PLHlHvK2lnJneQPfbOvUait1MtAoXeYhtL) 
-- [Curso de Angular 4](https://www.youtube.com/playlist?list=PL4iwH9RF8xHnMnKewOLjDvTHzTmyxJNHF) 
-- [Curso de Angular 5](https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q) 
-- [Curso de Angular 6](https://www.youtube.com/playlist?list=PLA8Qj9w4RGkVOj-xGYJCHJ0Ob4CMg-8NI) 
-- [Curso de Angular (17 aulas)](https://goo.gl/6rT9ZC) 
-- [Curso de Angular 2 (56 aulas)](https://goo.gl/mxPqRt) 
-- [Curso de Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) 
+> Cursos para aprender Angular em Português
+- [Curso de Angular - Matheus Battisti - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw)
+- [Curso de Angular - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+- [Curso Angular 9 - Cod3r Cursos](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3)
+- [Curso Angular 9 - Michelli Brito](https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q)
+- [Curso Começando com Angular](https://www.youtube.com/playlist?list=PLHlHvK2lnJneQPfbOvUait1MtAoXeYhtL)
+- [Curso Angular v13 - Tour of Heroes](https://www.youtube.com/playlist?list=PLqsayW8DhUmvtNlkDqYj99X73ts9FLK7j)
+- [Curso Angular para Iniciantes](https://www.youtube.com/playlist?list=PLWgD0gfm500Fhx8xSutDtEu8Q2hKTQpB9)
+- [Curso de Angular - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
+- [Aplicação com Angular 12+: Como desenvolver uma pokedex](https://www.youtube.com/watch?v=UhOcUII_5PU&ab_channel=VidaFullStack)
+- [Angular (O Vídeo que Você Precisava para Começar no Framework) - Dicionário do Programador](https://www.youtube.com/watch?v=Yf0rC7dERjg&ab_channel=C%C3%B3digoFonteTV)
+
+> Cursos para aprender Angular em Inglês
+- [Angular for Beginners Course - Full Front End Tutorial with TypeScript](https://www.youtube.com/watch?v=3qBXWUpoPHo&ab_channel=freeCodeCamp.org)
+- [Complete Angular 13 Course Step by Step](https://www.youtube.com/playlist?list=PL1BztTYDF-QNrtkvjkT6Wjc8es7QB4Gty)
+- [Angular - Complete Course Guide](https://www.youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs)
+- [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+- [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8&ab_channel=TraversyMedia)
+- [Angular Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs)
+- [Angular Tutorial For Beginners 2022](https://www.youtube.com/playlist?list=PL82C6-O4XrHdf0LMDVl1Y-4_BFbNmdrGc)
+- [Complete TypeScript + Angular Tutorial by Sandeep Soni - Angular Full Course](https://www.youtube.com/playlist?list=PLo80fWiInSIOTOeS3TRCk0_pCYVKbWDBG)
+- [Angular Tutorial for Beginners: Learn Angular & TypeScript](https://www.youtube.com/watch?v=k5E2AVpwsko&ab_channel=ProgrammingwithMosh)
+- [Angular 14 full course 2022 for beginner](https://www.youtube.com/watch?v=IYI0em-xT28&ab_channel=Bitfumes)
+- [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI&ab_channel=freeCodeCamp.org)
+- [The Ultimate Angular and Nodejs Tutorial For Beginners 2022](https://www.youtube.com/watch?v=NFh9WEH0Zi4&ab_channel=CodeWithNasir)
+- [Angular 11 Tutorial - Code a Project from Scratch](https://www.youtube.com/watch?v=LiOzTQAz13Q&ab_channel=freeCodeCamp.org)
+- [Cafe Management System - Angular, Node.js, MySQL Database Complete Project step by step](https://www.youtube.com/watch?v=SqSN6sqbdMQ&ab_channel=BTechDays)
+- [Spring Boot and Angular Tutorial - Build a Reddit Clone Coding Project](https://www.youtube.com/watch?v=DKlTBBuc32c&ab_channel=freeCodeCamp.org)
+- [The Modern Angular Crash Course - 2022](https://www.youtube.com/watch?v=WHv1YQUg6ow&ab_channel=LaithAcademy)
+- [Angular Full Course - Learn Angular in 6 Hours | Angular Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=Ati-oip_HcU&ab_channel=edureka%21)
+- [Angular for Beginners - Let's build a Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc&ab_channel=Fireship)
+- [Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ&ab_channel=freeCodeCamp.org)
+- [AngularJS Tutorial for Beginners Full Cours)](https://www.youtube.com/watch?v=9b9pLgaSQuI&ab_channel=MyLesson)
+- [Angular 14 Full Course with real time example 2022 - Angular crud + authentication + Material UI](https://www.youtube.com/watch?v=rZCQiMdQsxE&ab_channel=NihiraTechiees)
+- [Spring Boot and Angular Full Stack Development | 4 Hour Course](https://www.youtube.com/watch?v=8ZPsZBcue50&ab_channel=Amigoscode)
+- [Angular Full Course - Learn Angular In 3 Hours | Angular Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=iZ1mlcCkY8A&ab_channel=Simplilearn)
+- [Angular Crash Course for beginners](https://www.youtube.com/watch?v=T_Fe4IaG0KU&ab_channel=HiteshChoudhary)
+- [Full Angular Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV)
+- [Build a Webshop – Angular, Node.js, TypeScript, Stripe](https://www.youtube.com/watch?v=Kbauf9IgsC4&ab_channel=freeCodeCamp.org)
+- [Spring Boot Full Stack with Angular | Full Course 2021 ](https://www.youtube.com/watch?v=Gx4iBLKLVHk&ab_channel=Amigoscode)
 
 ## 🐞 Sites e cursos para aprender Vue
 
-- [Library de Vue](https://revue-draggable.vercel.app/) 
-- [Vue 3 Notification](https://github.com/kyvg/vue3-notification) 
-- [Curso de Vue 1](https://www.youtube.com/playlist?list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh) 
-- [Curso de Vue 2](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW) 
-- [Curso de Vue 3](https://www.youtube.com/playlist?list=PLXik_5Br-zO_xQHAH9GrNR1gAefYWaKxz) 
-- [Curso de Vue 4](https://www.youtube.com/playlist?list=PLWhiA_CuQkbDxptXchXrYuGZnhlwnJgOF) 
-- [Curso de Vue 5](https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT) 
-- [Curso de Vue 6](https://www.youtube.com/playlist?list=PLYAyQauAPx8l7G8lTbSv23UTAwbVORY1r) 
-- [Curso de Vue 7](https://www.youtube.com/playlist?list=PLygIEirBzJi6qaDltMN44zyVHjbqUa4e-) 
-- [Curso de Vue 8](https://www.youtube.com/playlist?list=PLVSNL1PHDWvRbZsrcQ249Ae5MoKrlBTdd) 
-- [Curso de Vue 9](https://www.youtube.com/playlist?list=PL0_f8nzxZ-FksYjJ8Oj4WwD13OVE2tNiH) 
-- [Curso de Vue 10](https://www.youtube.com/playlist?list=PLSuKjujFoGJ2RBs4bX03JPuqJtHqJme9B) 
-- [Curso de Vue 11](https://www.youtube.com/playlist?list=PLCTD_CpMeEKSiIog15wqiNOH52gYn42kW) 
-- [Curso de Vue 12](https://www.youtube.com/playlist?list=PLIUcOrGGQI6QaH57pVTWnF8vmPIgp_Jv_) 
-- [Curso de Vue 13](https://www.youtube.com/playlist?list=PLJCJl1zIiLEOgN0m46LkNwDfRgLgf__wc) 
-- [Curso de Vue 14](https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xqtT7jn6PgzwC2jqdMajP2) 
-- [Curso de Vue 15](https://www.youtube.com/playlist?list=PLSsqMeVmrPfHCeWzNeZSC5WitC8yGe4dZ) 
-- [Curso de Vue 16](https://www.youtube.com/playlist?list=PLL0TiOXBeDajWIEXDUvQbzjV4D4GiruLy) 
-- [Curso de Vue 17](https://www.youtube.com/playlist?list=PLlf-3U45Cg7VwJ2MTT83eREUM1xsndRJa) 
-- [Curso de Vue 18](https://www.youtube.com/playlist?list=PL6u1VNwqZdJYGyfb99ct-xF5f3kIy4icr) 
-- [Curso de Vue 19](https://www.youtube.com/playlist?list=PLhJsCsTdxwvuMqZJq_5s0bJKbduM3vHNS) 
-- [Curso de Vue 20](https://www.youtube.com/playlist?list=PLSk-H3V-Rn5E5DrKFFeROu5j1FaYGA7gl) 
-- [Curso de Vue 21](https://www.youtube.com/playlist?list=PLUW39uIualVtC9sciopJGnuOsjZuytE4z) 
+> Cursos para aprender Vue em Português
+- [Curso de Vue - Matheus Battisti - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL)
+- [Curso gratuito Vue.js 3 INTRO](https://www.youtube.com/playlist?list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w)
+- [Curso Gratuito de Vue 3](https://www.youtube.com/playlist?list=PLVSNL1PHDWvRbZsrcQ249Ae5MoKrlBTdd)
+- [Vue.js do jeito ninja](https://www.youtube.com/playlist?list=PLcoYAcR89n-qq1vGRbaUiV6Q9puy0qigW)
+- [Vue JS - Curso Completo](https://www.youtube.com/playlist?list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh)
+- [VueJS - Curso de Iniciação](https://www.youtube.com/playlist?list=PLXik_5Br-zO_xQHAH9GrNR1gAefYWaKxz)
+- [VueJS em 1 hora! (Teoria e prática)](https://www.youtube.com/watch?v=cSa-SMVMGsE&ab_channel=AyrtonTeshima-ProgramadoraBordo)
+- [Curso Vue 3, Quasar e Supabase](https://www.youtube.com/playlist?list=PLBjvYfV_TvwIfgvouZCaLtgjYdrWQL02d)
+- [Curso de Vue.js & Vuetify - Lista de tarefas vue-todo](https://www.youtube.com/playlist?list=PLygIEirBzJi6qaDltMN44zyVHjbqUa4e-)
+- [Curso de Vuejs 2 - Completo](https://www.youtube.com/playlist?list=PLWhiA_CuQkbDxptXchXrYuGZnhlwnJgOF)
+
+> Cursos para aprender Vue em Inglês
+- [Vue.js Course for Beginners - 2021 Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c&ab_channel=freeCodeCamp.org)
+- [Vue JS Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia)
+- [Vue 3 Tutorial - Full Course 10 Hours 10 apps](https://www.youtube.com/watch?v=e-E0UB-YDRk&ab_channel=Bitfumes)
+- [The best way to learn Vue.js in 2022 - CRASH COURSE](https://www.youtube.com/watch?v=bzlFvd0b65c&ab_channel=VueMastery)
+- [Vue 3 Tutorial for Beginners - FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=ZqgiuPt5QZo&ab_channel=TheEarthIsSquare)
+- [VUE JS 3 Complete Course Tutorial](https://www.youtube.com/playlist?list=PL_euSNU_eLbedoBv-RllKj_f2Yh--91nZ)
+- [The Ultimate Vue 3 Tutorial (100% Composition API)](https://www.youtube.com/watch?v=I_xLMmNeLDY&ab_channel=LaithAcademy)
+- [VUE JS CRUD | VUE JS Contacts Manager | VUE JS Tutorial | 2022](https://www.youtube.com/watch?v=_5Tw_oI9kKg&ab_channel=UiBrainsTechnologies)
+- [Vue.js Explained in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw&ab_channel=Fireship)
 
 ## 🦂 Sites e cursos para aprender Svelte
 
+> Cursos para aprender Svelte em Português
 - [Curso Intensivo de Svelte](https://www.cod3r.com.br/courses/svelte-intensivo) 
-- [Curso de Svelte 1](https://www.youtube.com/playlist?list=PLV8x_i1fqBw2QScggh0pw2ATSJg_WHqUN) 
-- [Curso de Svelte 2](https://www.youtube.com/playlist?list=PLPl81lqbj-4J6xcUu7SW4f3Y1ou8X8rRY) 
-- [Curso de Svelte 3](https://www.youtube.com/playlist?list=PLvEHfHi6ADDvRNq3tqf13-iQA5hKLKPvV) 
-- [Curso de Svelte 4](https://www.youtube.com/playlist?list=PLtEoLIi1AQhWzcCE76KQi4OLHqlDu_XUh) 
-- [Curso de Svelte 5](https://www.youtube.com/playlist?list=PLDyYHqVG_tvWnbi94m0SxQeKZW8E4LVnQ) 
-- [Curso de Svelte 6](https://www.youtube.com/playlist?list=PLLp1rKaDevPcGSBjdX0jxdUOYQrT_wS8X) 
-- [Curso de Svelte 7](https://www.youtube.com/playlist?list=PLNBi2FtnN_UY_bLPWm2_0O8dReEsCNYhv) 
-- [Curso de Svelte 8](https://www.youtube.com/playlist?list=PL0dTfY76y54PSpCel0rBb5VR2A-mMnDLJ) 
+- [Curso Intensivo de Svelte - Aprenda SvelteJS em 1 Vídeo](https://www.youtube.com/watch?v=SVNTizLyuvo&ab_channel=Cod3rCursos)
+- [Como trabalhar com Framework Svelte? Com Mario Souto](https://www.youtube.com/watch?v=1F7r0G0hFcE&ab_channel=AluraCursosOnline)
+
+> Cursos para aprender Svelte em Inglês
+[Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+[Learn Svelte – Full Course for Beginners](https://www.youtube.com/watch?v=UGBJHYpHPvA&ab_channel=freeCodeCamp.org)
+[Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx)
+[SvelteKit Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+[Svelte Complete Course | 2022 | Tutorials](https://www.youtube.com/watch?v=cGQo_iNJaQ4&ab_channel=RDHCode)
+[Svelte full course 2022 for beginner](https://www.youtube.com/watch?v=AilOdkZGeOk&ab_channel=Bitfumes)
+[Svelte Complete Tutorials from basics to advance Course](https://www.youtube.com/playlist?list=PLKf7GYNMvJ1NInsRQqGmKL233dlAQtWwO)
+[Learn the Svelte JavaScript Framework - Full Course](https://www.youtube.com/watch?v=ujbE0mzX-CU&ab_channel=freeCodeCamp.org)
+[Svelte Tutorial - Is it better than React?](https://www.youtube.com/watch?v=vhGiGqZ78Rs&ab_channel=freeCodeCamp.org)
+[Brand NEW APP Marathon!  LIVE Coding & Chill with SvelteKit](https://www.youtube.com/watch?v=wrADp40o1YY&ab_channel=JohnnyMagrippis)
+[Let's try SvelteKit](https://www.youtube.com/watch?v=60e9Cs9lMhg&ab_channel=SimonGrimm)
+[Sveltejs 3 Basics Complete Crash Course Tutorials](https://www.youtube.com/watch?v=Ub5veQTl-ik&ab_channel=RDHCode)
+[Svelte Crash Course for Beginners](https://www.youtube.com/watch?v=0I_B6o2RX5A&ab_channel=EvanDoesTech)
+[Svelte 3 Reaction & QuickStart Tutorial](https://www.youtube.com/watch?v=043h4ugAj4c&ab_channel=Fireship)
+[Svelte Crash Course](https://www.youtube.com/watch?v=uK2RnIzrQ0M&ab_channel=TraversyMedia)
+[Svelte Course | Learn from scratch](https://www.youtube.com/watch?v=-9V6AsahNFE&ab_channel=AnotherSapiens)
 
 ## 🦞 Sites e cursos para aprender Flutter
 
-- [Curso de Flutter - Desenvolva um Cadastro Completo 2020](https://www.cod3r.com.br/courses/flutter-desenvolva-um-cadastro-completo) 
-- [Curso de Flutter 1](https://www.youtube.com/playlist?list=PLl_hIu4u7P677H9f6zPOHiOz2izkvQq2E) 
-- [Curso de Flutter 2](https://www.youtube.com/playlist?list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg) 
-- [Curso de Flutter 3](https://www.youtube.com/playlist?list=PLEXr-WZRgPjwk2v5wYi70WN--pCGvN-9u) 
-- [Curso de Flutter 4](https://www.youtube.com/playlist?list=PLRpTFz5_57cufduUDgiZZqA_k5Q7UV_50) 
-- [Curso de Flutter 5](https://www.youtube.com/playlist?list=PLrfnI95Js56bWvNYF5ItofdQy3aoJj4tQ) 
-- [Curso de Flutter 6](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) 
-- [Curso de Flutter 7](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_) 
-- [Curso de Flutter 8](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS) 
-- [Curso de Flutter 9](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ) 
-- [Curso de Flutter 10](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG) 
+> Cursos para aprender Flutter em Português
+- [Curso COMPLETO de Flutter](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB)
+- [Flutter Curso 2022](https://www.youtube.com/playlist?list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)
+- [Flutter e Dart - Curso](https://www.youtube.com/playlist?list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_)
+- [Curso de FLUTTER 2022](https://www.youtube.com/playlist?list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx)
+- [Curso Flutter](https://www.youtube.com/playlist?list=PLg5-aZqPjMmBmCIgUZ0kNtoE7KJfvJZXS)
+- [Curso Flutter Básico [NV1] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S)
+- [Curso de FLUTTER e DART](https://www.youtube.com/playlist?list=PL5EmR7zuTn_aX0pG4oWTyKKQT25Hkq2XG)
+- [A Primeira Aula de Flutter Que Todo Mundo Deveria Ter](https://www.youtube.com/watch?v=J4BVaXkwmM8&ab_channel=FilipeDeschamps)
+- [Curso Flutter - Projeto COMPLETO Passo a Passo [Campo Minado]](https://www.youtube.com/watch?v=i3w3Wnouowo&ab_channel=Cod3rCursos)
+- [Education App UI Design in Flutter - Flutter UI Design Tutorial](https://www.youtube.com/watch?v=ucwBcTgxyME&ab_channel=DearProgrammer)
+- [Live Coding | Desenvolva um aplicativo em Flutter!](https://www.youtube.com/watch?v=j8Swzym_EEc&ab_channel=AluraCursosOnline)
+- [Flutter: Configurando cores dinâmicas | #AluraMais](https://www.youtube.com/watch?v=gI4-vj0WpKM&ab_channel=AluraCursosOnline)
+- [Curso de Flutter: Criando seu primeiro App grátis](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ)
+- [Curso Flutter Avançado - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cufduUDgiZZqA_k5Q7UV_50)
+- [Curso de Programação com Dart - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cseSiszvssXO7HKVzOsrI77)
+- [Flutter e MobX: Desenvolva uma Aplicação Completa - Masterclass 2021](https://www.youtube.com/watch?v=LeRjIY4n2Vk&ab_channel=Cod3rCursos)
+
+> Cursos para aprender Flutter em Inglês
+- [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://www.youtube.com/watch?v=VPvVD8t02U8&ab_channel=freeCodeCamp.org)
+- [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+- [Flutter bootcamp 2022 || Flutter Complete course for beginners to advanced level](https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4)
+- [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [Flutter Crash Course for Beginners 2021 - Build a Flutter App with Google's Flutter & Dart](https://www.youtube.com/watch?v=x0uinJvhNxI&ab_channel=Academind)
+- [Flutter Firebase & DDD](https://www.youtube.com/playlist?list=PLB6lc7nQ1n4iS5p-IezFFgqP6YvAJy84U)
+- [Flutter State Management Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
+- [Flutter and Firebase Course](https://www.youtube.com/playlist?list=PL78sHffDjI77iyUND7TrUOXud9NSf0eCr)
+- [Full Stack Flutter Development](https://www.youtube.com/playlist?list=PLFhJomvoCKC-HHwfZzIy2Mv59Uen88rqB)
+- [Flutter UI Tutorial - UI Design Best Practices](https://www.youtube.com/playlist?list=PLjOFHn8uDrvQDUiY57tQN39wI_NAey8x1)
+- [Flutter Tutorial for Beginners | Flutter App Development Course](https://www.youtube.com/playlist?list=PLS1QulWo1RIa5W8F_XInRJrZLwkLY39oK)
+- [Flutter Tutorial For Beginners in 3 Hours](https://www.youtube.com/watch?v=CD1Y2DmL5JM&ab_channel=FlutterMapp)
+- [Flutter Tutorial For Beginners In 1 Hour - 2022](https://www.youtube.com/watch?v=C-fKAzdTrLU&ab_channel=FlutterMapp)
+- [Flutter Course – Build Full Stack Google Docs Clone](https://www.youtube.com/watch?v=F6P0hve2clE&ab_channel=freeCodeCamp.org)
+- [Flutter 3.0 & Rest API crash course, build a store app](https://www.youtube.com/watch?v=YAoYJfitObA&ab_channel=CodingwithHadi)
+- [Flutter Essentials - Learn to make apps for Android, iOS, Windows, Mac, Linux (Full Course)](https://www.youtube.com/watch?v=P2IGQT3BZQo&ab_channel=freeCodeCamp.org)
+- [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&ab_channel=freeCodeCamp.org)
+- [Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone [Full Course]](https://www.youtube.com/watch?v=ylJz7N-dv1E&ab_channel=freeCodeCamp.org)
 
 ## 🐹 Sites e cursos para aprender jQuery
 
-- [Curso Completo de jQuery (56 aulas)](https://goo.gl/tHdIZ7) 
-- [Curso de jQuery 1](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg) 
-- [Curso de jQuery 2](https://www.youtube.com/playlist?list=PLcHPNq67CaVnHwfOeK9-7n57aOV6orMSO) 
-- [Curso de jQuery 3](https://www.youtube.com/playlist?list=PLH4WTsFKLXIcswDAqSge13AC76FiX4fCk) 
-- [Curso de jQuery 4](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04) 
-- [Curso de jQuery 5](https://www.youtube.com/playlist?list=PLB-cqguyT0racOkvxOYP6Am-Z0v7sdEcF) 
-- [Curso de jQuery 6](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7) 
-- [Curso de jQuery 7](https://www.youtube.com/playlist?list=PLtLYd79f_qX9uufvXcgMrG6XVyc0VHlMp) 
-- [Curso de jQuery 8](https://www.youtube.com/playlist?list=PLTE0X123tz-yxigJHnmuEgqWeVMI7YI-W) 
-- [Curso de jQuery 9](https://www.youtube.com/playlist?list=PLu_qC9Zc8vNwlFP_1hSOXN2906iN_tvBL) 
-- [Curso de jQuery 10](https://www.youtube.com/playlist?list=PLYIucmTPLjx6ENmhonMnyu2nai5NAYter) 
-- [Curso de jQuery 11](https://www.youtube.com/playlist?list=PLdrT3osfZM8wqtx9pEDyXmbn5NpSRSJOL) 
-- [Curso de jQuery 12](https://www.youtube.com/playlist?list=PLoRfWwOOv4jzx5mQTbL_un5KSFEAhkm8K) 
+> Cursos para aprender jQuery em Português
+- [Curso JQUERY BÁSICO](https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg)
+- [Curso de JQuery (Universidade XTI)](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGOv4evjpsB3JWWZnYChp04)
+- [Curso JQuery 2019 - Aprende a usar JQuery do zero](https://www.youtube.com/playlist?list=PLtLYd79f_qX9uufvXcgMrG6XVyc0VHlMp)
+- [Curso jQuery - código facilito](https://www.youtube.com/playlist?list=PLTE0X123tz-yxigJHnmuEgqWeVMI7YI-W)
+- [Curso de jQuery](https://www.youtube.com/playlist?list=PLu_qC9Zc8vNwlFP_1hSOXN2906iN_tvBL)
+
+> Cursos para aprender jQuery em Inglês
+- [jQuery Full Course 2022 | jQuery Tutorial For Beginners | jQuery Tutorial | Simplilearn](https://www.youtube.com/watch?v=Rkvn_MA04fo&ab_channel=Simplilearn)
+- [Learn jQuery for Beginners - Full Course](https://www.youtube.com/watch?v=ScoURsEM_yU&ab_channel=TechZ)
+- [jQuery - Beau teaches JavaScript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkyK9woUZUtunToLtNGoQHB)
+- [jQuery Tutorial for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_)
+- [jQuery Tutorial | jQuery Tutorial For Beginners | jQuery | jQuery full course | Simplilearn](https://www.youtube.com/watch?v=QhQ4m5g2fhA&ab_channel=Simplilearn)
+- [jQuery Full Course | jQuery Tutorial For Beginners | jQuery Certification Training | Edureka](https://www.youtube.com/watch?v=HgvIox6ehkM&ab_channel=edureka%21)
+- [jQuery Advanced Full Course | jQuery Tutorial | jQuery Tutorial For Beginners | SimpliCode](https://www.youtube.com/watch?v=OSjDGLfNsDI&ab_channel=SimpliCode)
 
 ## 🐢 Sites e cursos para aprender Less
 
-- [Curso de Less (6 aulas)](https://goo.gl/Y5UkLQ) 
-- [Curso de Less ](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBSfhS9nzc5BkopBY-22K-D) 
-- [Curso de Less ](https://www.youtube.com/playlist?list=PLwzKFCxxOMjPUOJitRL31rD1Zsd030sYX) 
-- [Curso de Less ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKT70itw70uVs0vlFbvbCPQN) 
+> Cursos para aprender jQuery em Português
+- [Curso de Less - Jornada do Dev](https://goo.gl/Y5UkLQ) 
+- [Curso de Less - Filipe Morelli Developer](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBSfhS9nzc5BkopBY-22K-D) 
+- [Curso de Less - Daniel Martínez](https://www.youtube.com/playlist?list=PLwzKFCxxOMjPUOJitRL31rD1Zsd030sYX) 
+- [Curso de Less - Programador Novato](https://www.youtube.com/playlist?list=PLCTD_CpMeEKT70itw70uVs0vlFbvbCPQN) 
 
 ## 🐱 Sites e cursos para aprender Sass
 
-- [Curso de Sass (18 aulas) /Inglês/](https://goo.gl/DzRv1e) 
-- [Curso de Sass ](https://www.youtube.com/watch?v=Wo5t3uUV8n4) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLCTD_CpMeEKQXywJB8KMN_-GccZuVf9ag) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL0FXkz5ILg9Y0ADavZORWRUU3mqG80N8s) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) 
-- [Curso de Sass ](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) 
+> Cursos para aprender Sass em Português
+- [Sass/SCSS para iniciantes + Bônus com React](https://www.youtube.com/watch?v=UKFzAu9AR7w&ab_channel=AlgaWorks)
+- [Aprenda SASS em 1 hora | Curso de SASS](https://www.youtube.com/watch?v=Wo5t3uUV8n4) 
+- [SASS de 0 a 100](https://www.youtube.com/playlist?list=PLCTD_CpMeEKQXywJB8KMN_-GccZuVf9ag) 
+- [Curso Básico de SASS desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yVyMlZyW-NAbgjtgAgLBzFP) 
+- [Curso de SASS - Lucas Ribeiro](https://www.youtube.com/playlist?list=PLF3tsQa29IM2KG0OIHYxN_uqaVSI0gnbg) 
+- [Curso de Sass - Vida FullStack](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) 
+- [Curso de Sass - Amanda Vilela](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) 
+
+> Cursos para aprender Sass em Espanhol
+- [Curso de Sass para principiantes desde cero](https://www.youtube.com/playlist?list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP) 
+- [Curso de Sass - El Exilio de Atlas](https://www.youtube.com/playlist?list=PL0FXkz5ILg9Y0ADavZORWRUU3mqG80N8s) 
+- [Curso Básico de Sass - Tutoriales Front-End](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) 
+
+> Cursos para aprender Sass em InglÊs
+- [Curso de Sass - Jornada do Dev](https://goo.gl/DzRv1e) 
+- [Sass, BEM, & Responsive Design (4 hr beginners course)](https://www.youtube.com/watch?v=jfMHA8SqUL4&ab_channel=CoderCoder)
+- [SASS Tutorial (Build Your Own CSS Library)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
+- [Sass Tutorial for Beginners - CSS With Superpowers](https://www.youtube.com/watch?v=_a5j7KoflTs&ab_channel=freeCodeCamp.org)
+- [SASS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
+- [Sass & Scss - Supercharge Your CSS | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOMcA70cU3gZZAXeCR9CNS9)
+- [Learning SASS](https://www.youtube.com/playlist?list=PLyuRouwmQCjlzPHwHOAIfIFXkf6J8Q_qy)
+- [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI&ab_channel=developedbyed)
+- [Sass Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM&ab_channel=TraversyMedia)
+- [Sass in 100 Seconds](https://www.youtube.com/watch?v=akDIJa0AP5c&t=53s&ab_channel=Fireship)
+- [Sass Crash Course 2022](https://www.youtube.com/watch?v=BEdCOvJ5RY4&ab_channel=PixelRocket)
+- [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M&ab_channel=Fireship)
 
 ## 🐰 Sites e cursos para aprender Bootstrap
 
-- [Curso de Bootstrap (16 aulas)](https://goo.gl/xFDOxT) 
-- [Curso de Bootstrap 1](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze) 
-- [Curso de Bootstrap 2](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxjh7ZRXg6wXgPaACdFqoBhM) 
-- [Curso de Bootstrap 3](https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR) 
-- [Curso de Bootstrap 4](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjYsjQCzv_POTOssvR1zL2L) 
-- [Curso de Bootstrap 5](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjV5B9tXA7D7_4Ovp_k_2lB) 
-- [Curso de Bootstrap 6](https://www.youtube.com/playlist?list=PLxIWikUsH2nQcHKUTu8S7cNTzqT-_HOr4) 
-- [Curso de Bootstrap 7](https://www.youtube.com/playlist?list=PLZL68elhOXv9TzSOF1TSRWJZanzfdl5FG) 
-- [Curso de Bootstrap 8](https://www.youtube.com/playlist?list=PLL0TiOXBeDagsYUYFO9WMwDtuDuoGZVB9) 
-- [Curso de Bootstrap 9](https://www.youtube.com/playlist?list=PLXik_5Br-zO-iwhAe12sirOo_LZ0t-qEm) 
-- [Curso de Bootstrap 10](https://www.youtube.com/playlist?list=PLd4yfya-3PIomj2O-W0s9A-0i1ThWJncj) 
-- [Curso de Bootstrap 11](https://www.youtube.com/playlist?list=PLZOpILNI-A8kF_-OsviJK8-Saao7aAVaJ) 
-- [Curso de Bootstrap 12](https://www.youtube.com/playlist?list=PLMy95_4XE08Pr2_9gRnZ4niSgp00FgIHP) 
-- [Curso de Bootstrap 13](https://www.youtube.com/playlist?list=PLXik_5Br-zO9pxSxRtgESquGT2OhR3o8B) 
-- [Curso de Bootstrap 14](https://www.youtube.com/playlist?list=PLO38D8juJBEPoryQhCkI_HjFePeH9_opW) 
-- [Curso de Bootstrap 15](https://www.youtube.com/playlist?list=PL4fEIiChAHVvUZ4AphnSc5GdxL9s6yrnB) 
-- [Curso de Bootstrap 16](https://www.youtube.com/playlist?list=PLsAGEZyePyj9_J7aj4oss5R1z6BlP9Jrv) 
-- [Curso de Bootstrap 17](https://www.youtube.com/playlist?list=PLdrT3osfZM8x7J_p0DI3r3WSfrvEc2ZWU) 
+> Cursos para aprender Bootstrap em Português
+- [Curso de Bootstrap - Matheus Battisti - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
+- [Curso de Bootstrap - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUgop9qBqm6ReuNa3XraZBrc)
+- [Curso completo de Bootstrap 5- Diego Mariano](https://www.youtube.com/playlist?list=PLjS7DS1TxzJIkIgR8AR6Lu0deOOs0AQuv)
+- [Bootstrap 5 Funtamental](https://www.youtube.com/playlist?list=PLXik_5Br-zO-iwhAe12sirOo_LZ0t-qEm)
+- [Curso de Bootstrap 5 - Ricardo Maroquio](https://www.youtube.com/playlist?list=PL0YuSuacUEWuJN3qb6NP15bzqd8w_oAj7)
+- [Criando um site com Bootstrap 4](https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR)
+- [Aprenda Bootstrap 5 criando um projeto - curso fundamentos de Bootstrap 2021](https://www.youtube.com/watch?v=jJUpJA1GJHw&ab_channel=MatheusBattisti-HoradeCodar)
+- [FORMULÁRIO MULTISTEP COM REACT.JS - FORMULÁRIO DE MÚLTIPLAS ETAPAS REACT](https://www.youtube.com/watch?v=PRSruHX_eig&ab_channel=MatheusBattisti-HoradeCodar)
+- [Bootstrap Guia para Iniciantes 2022 - Hostinger Brasil](https://www.youtube.com/watch?v=jsTJL6Da5wc&ab_channel=HostingerBrasil)
 
-## 🐴 Sites e cursos para aprender MySQL
+> Cursos para aprender Bootstrap em Inglês
+- [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE&ab_channel=freeCodeCamp.org)
+- [Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=Jyvffr3aCp0&ab_channel=WebDevSimplified)
+- [Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+- [Bootstrap 5 Crash Course | Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia)
+- [Getting Started with Bootstrap 5 for Beginners - Crash Course](https://www.youtube.com/watch?v=1nxSE0R27Gg&ab_channel=DesignCourse)
+- [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8&ab_channel=freeCodeCamp.org)
+- [Bootstrap CSS Framework For Beginners [TAGALOG]](https://www.youtube.com/watch?v=NUCvrUU8NFo&ab_channel=PinoyFreeCoder)
+- [Learn Bootstrap in less than 20 minutes - Responsive Website Tutorial](https://www.youtube.com/watch?v=eow125xV5-c&ab_channel=Raddy)
+- [Bootstrap 4 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv)
+- [Bootstrap 4 Tutorial + Project](https://www.youtube.com/watch?v=Uhy3gtZoeOM&ab_channel=CodingAddict)
+
+## 🐻‍❄️ Sites e cursos para aprender MySQL
 
 > Sites para aprender MySQL
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
