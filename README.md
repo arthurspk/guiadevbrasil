@@ -944,16 +944,6 @@
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio 
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio 
 
-## 🥋 Projetos para práticar programação
-
-> Playlist de de vídeos com projetos para praticar programação em Português
-- [Projetos para práticar programação - Playlist 1](https://www.youtube.com/playlist?list=PLTXDELCX_dQs8Vkwurj__cRu7UsU5zs1x)
-
-> Playlist de de vídeos com projetos para praticar programação em Inglês
-
-> Playlist de de vídeos com projetos para praticar programação em Espanhol
-
-
 ## 🦓 Sites e cursos para aprender Java
 
 > Cursos para aprender Java em Português 
