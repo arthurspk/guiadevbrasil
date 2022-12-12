@@ -1678,7 +1678,7 @@
 - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 - [React 18 Fundamentals Crash Course 2022](https://www.youtube.com/watch?v=jLS0TkAHvRg&ab_channel=Codevolution)
 
-> Projetos para praticar React em Português
+> Projetos para praticar React em Inglês
 - [Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications](https://www.youtube.com/watch?v=XxXyfkrP298&ab_channel=JavaScriptMastery)
 - [Full Stack React & Firebase Tutorial - Build a social media app](https://www.youtube.com/watch?v=m_u6P5k0vP0&ab_channel=freeCodeCamp.org)
 - [React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations (2022)](https://www.youtube.com/watch?v=hYv6BM2fWd8&t=11s&ab_channel=webdecoded)
