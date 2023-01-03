@@ -762,6 +762,7 @@
 - [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Canal sobre desenvolvimento de interface com Flutter 
 - [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A) - Canal com intruduções a conceitos básicos dentro da computação 
 - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Canal sobre tecnologia e hacking 
+- [Giuliana Bezerra](https://www.youtube.com/@giulianabezerra) - Canal sobre desenvolvimento e arquitetura de software com Java e Spring
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Canal oficial da comunidade de desenvolvedores da Google 
 - [Guia do Programador](https://www.youtube.com/c/GuiadoProgramador) - Canal de cursos de NodeJS gratuitos 
 - [Guru da Ciência](https://www.youtube.com/user/LimaoAzeddo) - Canal sobre tecnologia e ciências 
@@ -961,6 +962,7 @@
 - [Curso de Java Completo](https://www.youtube.com/playlist?list=PL6vjf6t3oYOrSx2XQKm3yvNxgjtI1A56P)
 - [Curso Programação Java](https://www.youtube.com/playlist?list=PLtchvIBq_CRTAwq_xmHdITro_5vbyOvVw)
 - [Curso de Java para Iniciantes](https://www.youtube.com/playlist?list=PLt2CbMyJxu8iQL67Am38O1j5wKLf0AIRZ)
+- [Fundamentos do Java para Iniciantes em Programação](https://youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf)
 
 > Cursos para aprender Java em Espanhol
 - [Curso de Java desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
