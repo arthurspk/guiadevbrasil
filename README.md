@@ -843,6 +843,7 @@
 - [NMap](https://nmap.org/) - Scanner de portas de rede 
 - [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes 
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL 
+- [TryHackMe](https://tryhackme.com/) - Plataforma com laboratórios para aprender sobre pentest de maneira prática e teórica
 
 ## 🎙 Blogs e Podcasts
 
