@@ -19,6 +19,12 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
 </sub>
 
+## :closed_book: E-Book
+
+> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando meu e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é R$20,00 e sua compra me ajuda a fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada.
+
+- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
+
 ## ⚠️ Aviso importante
 
 > Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
