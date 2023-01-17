@@ -21,7 +21,7 @@
 
 ## :closed_book: E-Book
 
-> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando meu e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é R$20,00 e sua compra me ajuda a fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada.
+> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é R$20,00 e sua compra me ajuda a fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada.
 
 - eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
 
