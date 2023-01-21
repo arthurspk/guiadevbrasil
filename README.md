@@ -915,7 +915,8 @@
 
 - [Clean Code - Código Limpo](https://g.co/kgs/62wx9t) 
 - [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) 
-- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) 
+- [Clean Archtecture - Arquitertura Limpa](https://www.google.com/search?q=arquitetura+limpa)
+- [O Codificador Limpo](https://www.google.com/search?q=codificador+limpo)
 - [O programador pragmático](https://g.co/kgs/5nbqB3) 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) 
