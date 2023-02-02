@@ -65,6 +65,7 @@
 
 ## 📚 ÍNDICE
 
+[🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
 [👨‍🏫 Sites para estudar programação](#-sites-para-estudar-programação) <br>
 [🎨 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end) <br>
 [🎮 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando) <br>
@@ -132,6 +133,70 @@
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
 [🐻‍❄️ Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
+[🦣 Sites e cursos para aprender TypeScript]() <br>
+[🦬 Sites e cursos para aprender Node.js]() <br>
+[🦌 Sites e cursos para aprender Next.js]() <br>
+[🦘 Sites e cursos para aprender Assembly]() <br>
+[🦒 Sites e cursos para aprender Lua]() <br>
+[🐫 Sites e cursos para aprender Perl]() <br>
+[🐧 Sites e cursos para aprender Linux]() <br>
+[🦥 Sites e cursos para aprender Ionic]() <br>
+[🦦 Sites e cursos para aprender Jira]() <br>
+[🦫 Sites e cursos para aprender Rust]() <br>
+[🦭 Sites e cursos para aprender Scala]() <br>
+[🦝 Sites e cursos para aprender Nuxt.js]() <br>
+[🦎 Sites e cursos para aprender Gulp]() <br>
+[🐅 Sites e cursos para aprender MongoDB]() <br>
+[🦩 Sites e cursos para aprender GraphQL]() <br>
+[🦙 Sites e cursos para aprender Cassandra]() <br>
+[🦏 Sites e cursos para aprender MariaDB]() <br>
+[🦛 Sites e cursos para aprender SQL Server]() <br>
+[🐐 Sites e cursos para aprender Postgree SQL]() <br>
+[🐑 Sites e cursos para aprender Delphi]() <br>
+[🐊 Sites e cursos para aprender Wordpress]() <br>
+[🦊 Sites e cursos para aprender Swift]() <br>
+[🐳 Sites e cursos para aprender Docker]() <br>
+[🦜 Sites e cursos para aprender Kubernets]() <br>
+[🐆 Sites e cursos para aprender Nest]() <br>
+[🐿 Sites e cursos para aprender Laravel]() <br>
+[🐃 Sites e cursos para aprender AWS]() <br>
+[🐬 Sites e cursos para aprender Google Cloud]() <br>
+[🦆 Sites e cursos para aprender Azure]() <br>
+[🦅 Sites e cursos para aprender Django]() <br>
+[🦈 Sites e cursos para aprender Firebird]() <br>
+[🕷 Sites e cursos para aprender Ext.js]() <br>
+[🐏 Sites e cursos para aprender Gatsby]() <br>
+[🐂 Sites e cursos para aprender ASP.net]() <br>
+[🐖 Sites e cursos para aprender Inteligência Artificial]() <br>
+[🦀 Sites e cursos para aprender Machine Learning]() <br>
+[🦑 Sites e cursos para aprender Data Science]() <br>
+[🐙 Sites e cursos para aprender NumPy]() <br>
+[🦃 Sites e cursos para aprender Pandas]() <br>
+[🐟 Sites e cursos para aprender XML]() <br>
+[🦢 Sites e cursos para aprender Jenkins]() <br>
+[🦤 Sites e cursos para aprender Xamarin]() <br>
+[🦁 Sites e cursos para aprender Matlab]() <br>
+[🪲 Sites e cursos para aprender Julia]() <br>
+[🐻 Sites e cursos para aprender Groovy]() <br>
+[🐨 Sites e cursos para aprender PowerShell]() <br>
+[🦗 Sites e cursos para aprender Shell]() <br>
+[🪳 Sites e cursos para aprender Backbone.js]() <br>
+[🐥 Sites e cursos para aprender Flask]() <br>
+[🐔 Sites e cursos para aprender Spring]() <br>
+[🦍 Sites e cursos para aprender Express.js]() <br>
+[🐗 Sites e cursos para aprender Tailwind CSS]() <br>
+[🦐 Sites e cursos para aprender Styled Components]() <br>
+[🐎 Sites e cursos para aprender Magento]() <br>
+[🐜 Sites e cursos para aprender ArangoDB]() <br>
+
+## 🔧 Ferramentas para tradução de conteúdo
+
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do seu idioma, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de tecnologia independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
+
+- [Google Translate](https://translate.google.com.br/?hl=pt-BR)
+- [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
+- [DeepL](https://www.deepl.com/pt-BR/translator)
+- [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
 
 ## 👨‍🏫 Sites para estudar programação
 
@@ -2212,3 +2277,4 @@
     clear # => (clc no Powershell)
     ```
   </details>
+
