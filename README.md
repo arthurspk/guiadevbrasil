@@ -117,7 +117,7 @@
 [🐸 Sites e cursos para aprender C++](#-sites-e-cursos-para-aprender-c-2) <br>
 [🦉 Sites e cursos para aprender Camunda](#-sites-e-cursos-para-aprender-camunda) <br>
 [🐶 Sites e cursos para aprender Kotlin](#-sites-e-cursos-para-aprender-kotlin) <br>
-[🐋 Sites e cursos para aprender Swift](#-sites-e-cursos-para-aprender-swift) <br>
+[🦊 Sites e cursos para aprender Swift](#-sites-e-cursos-para-aprender-swift) <br>
 [🐺 Sites e cursos para aprender Go](#-sites-e-cursos-para-aprender-go) <br>
 [🐦 Sites e cursos para aprender Ruby](#-sites-e-cursos-para-aprender-ruby) <br>
 [💧 Sites e cursos para aprender Elixir](#-sites-e-cursos-para-aprender-elixir) <br>
@@ -154,7 +154,6 @@
 [🐐 Sites e cursos para aprender Postgree SQL]() <br>
 [🐑 Sites e cursos para aprender Delphi]() <br>
 [🐊 Sites e cursos para aprender Wordpress]() <br>
-[🦊 Sites e cursos para aprender Swift]() <br>
 [🐳 Sites e cursos para aprender Docker]() <br>
 [🦜 Sites e cursos para aprender Kubernets]() <br>
 [🐆 Sites e cursos para aprender Nest]() <br>
