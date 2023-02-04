@@ -133,60 +133,53 @@
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
 [🐻‍❄️ Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
-[🦣 Sites e cursos para aprender TypeScript]() <br>
-[🦬 Sites e cursos para aprender Node.js]() <br>
-[🦌 Sites e cursos para aprender Next.js]() <br>
-[🦘 Sites e cursos para aprender Assembly]() <br>
-[🦒 Sites e cursos para aprender Lua]() <br>
-[🐫 Sites e cursos para aprender Perl]() <br>
-[🐧 Sites e cursos para aprender Linux]() <br>
-[🦥 Sites e cursos para aprender Ionic]() <br>
-[🦦 Sites e cursos para aprender Jira]() <br>
-[🦫 Sites e cursos para aprender Rust]() <br>
-[🦭 Sites e cursos para aprender Scala]() <br>
-[🦝 Sites e cursos para aprender Nuxt.js]() <br>
-[🦎 Sites e cursos para aprender Gulp]() <br>
-[🐅 Sites e cursos para aprender MongoDB]() <br>
-[🦩 Sites e cursos para aprender GraphQL]() <br>
-[🦙 Sites e cursos para aprender Cassandra]() <br>
-[🦏 Sites e cursos para aprender MariaDB]() <br>
-[🦛 Sites e cursos para aprender SQL Server]() <br>
-[🐐 Sites e cursos para aprender Postgree SQL]() <br>
-[🐑 Sites e cursos para aprender Delphi]() <br>
-[🐊 Sites e cursos para aprender Wordpress]() <br>
-[🐳 Sites e cursos para aprender Docker]() <br>
-[🦜 Sites e cursos para aprender Kubernets]() <br>
-[🐆 Sites e cursos para aprender Nest]() <br>
-[🐿 Sites e cursos para aprender Laravel]() <br>
-[🐃 Sites e cursos para aprender AWS]() <br>
-[🐬 Sites e cursos para aprender Google Cloud]() <br>
-[🦆 Sites e cursos para aprender Azure]() <br>
-[🦅 Sites e cursos para aprender Django]() <br>
-[🦈 Sites e cursos para aprender Firebird]() <br>
-[🕷 Sites e cursos para aprender Ext.js]() <br>
-[🐏 Sites e cursos para aprender Gatsby]() <br>
-[🐂 Sites e cursos para aprender ASP.net]() <br>
-[🐖 Sites e cursos para aprender Inteligência Artificial]() <br>
-[🦀 Sites e cursos para aprender Machine Learning]() <br>
-[🦑 Sites e cursos para aprender Data Science]() <br>
-[🐙 Sites e cursos para aprender NumPy]() <br>
-[🦃 Sites e cursos para aprender Pandas]() <br>
-[🐟 Sites e cursos para aprender XML]() <br>
-[🦢 Sites e cursos para aprender Jenkins]() <br>
-[🦤 Sites e cursos para aprender Xamarin]() <br>
-[🦁 Sites e cursos para aprender Matlab]() <br>
-[🪲 Sites e cursos para aprender Julia]() <br>
-[🐻 Sites e cursos para aprender Groovy]() <br>
-[🐨 Sites e cursos para aprender PowerShell]() <br>
-[🦗 Sites e cursos para aprender Shell]() <br>
-[🪳 Sites e cursos para aprender Backbone.js]() <br>
-[🐥 Sites e cursos para aprender Flask]() <br>
-[🐔 Sites e cursos para aprender Spring]() <br>
-[🦍 Sites e cursos para aprender Express.js]() <br>
-[🐗 Sites e cursos para aprender Tailwind CSS]() <br>
-[🦐 Sites e cursos para aprender Styled Components]() <br>
-[🐎 Sites e cursos para aprender Magento]() <br>
-[🐜 Sites e cursos para aprender ArangoDB]() <br>
+[🦣 Sites e cursos para aprender TypeScript](feito) <br>
+[🦬 Sites e cursos para aprender Node.js](feito) <br>
+[🦌 Sites e cursos para aprender Next.js](feito) <br>
+[🦘 Sites e cursos para aprender Assembly](feito) <br>
+[🦒 Sites e cursos para aprender Lua](feito) <br>
+[🐫 Sites e cursos para aprender Perl](feito) <br>
+[🐧 Sites e cursos para aprender Linux](feito) <br>
+[🦥 Sites e cursos para aprender Ionic](feito) <br>
+[🦦 Sites e cursos para aprender Jira](feito) <br>
+[🦫 Sites e cursos para aprender Rust](feito) <br>
+[🦭 Sites e cursos para aprender Scala](feito) <br>
+[🦝 Sites e cursos para aprender Nuxt.js](feito) <br>
+[🦎 Sites e cursos para aprender Gulp](feito) <br>
+[🐅 Sites e cursos para aprender MongoDB](feito) <br>
+[🦩 Sites e cursos para aprender GraphQL](feito) <br>
+[🦙 Sites e cursos para aprender Cassandra](feito) <br>
+[🦛 Sites e cursos para aprender SQL Server](feito) <br>
+[🐐 Sites e cursos para aprender Postgree SQL](feito) <br>
+[🐑 Sites e cursos para aprender Delphi](feito) <br>
+[🐊 Sites e cursos para aprender Wordpress](feito) <br>
+[🐳 Sites e cursos para aprender Docker](feito) <br>
+[🦜 Sites e cursos para aprender Kubernets](feito) <br>
+[🐆 Sites e cursos para aprender Nest](feito) <br>
+[🐿 Sites e cursos para aprender Laravel](feito) <br>
+[🐃 Sites e cursos para aprender AWS](feito) <br>
+[🐬 Sites e cursos para aprender Google Cloud](feito) <br>
+[🦆 Sites e cursos para aprender Azure](feito) <br>
+[🦅 Sites e cursos para aprender Django](feito) <br>
+[🐏 Sites e cursos para aprender Gatsby](feito) <br>
+[🐂 Sites e cursos para aprender ASP.net](feito) <br>
+[🐖 Sites e cursos para aprender Inteligência Artificial](feito) <br>
+[🦀 Sites e cursos para aprender Machine Learning](feito) <br>
+[🦑 Sites e cursos para aprender Data Science](feito) <br>
+[🐙 Sites e cursos para aprender NumPy](feito) <br>
+[🦃 Sites e cursos para aprender Pandas](feito) <br>
+[🐟 Sites e cursos para aprender XML](feito) <br>
+[🦢 Sites e cursos para aprender Jenkins](feito) <br>
+[🦤 Sites e cursos para aprender Xamarin](feito) <br>
+[🦁 Sites e cursos para aprender Matlab](feito) <br>
+[🪲 Sites e cursos para aprender Julia](feito) <br>
+[🐨 Sites e cursos para aprender PowerShell](feito) <br>
+[🐥 Sites e cursos para aprender Flask](feito) <br>
+[🐔 Sites e cursos para aprender Spring](feito) <br>
+[🐗 Sites e cursos para aprender Tailwind CSS](feito) <br>
+[🦐 Sites e cursos para aprender Styled Components](feito) <br>
+[🐎 Sites e cursos para aprender Magento](feito) <br>
+[🐜 Sites e cursos para aprender ArangoDB](feito) <br>
 
 ## 🔧 Ferramentas para tradução de conteúdo
 
@@ -2228,10 +2221,1211 @@
     ```
   </details>
 
+  ## 🦣 Sites e cursos para aprender TypeScript
+
+> Cursos para aprender TypeScript em Português
+- [Curso de TypeScript na pŕatica - aprenda TypeScript em 1 hora](https://www.youtube.com/watch?v=lCemyQeSCV8&t=634s&ab_channel=MatheusBattisti-HoradeCodar)
+- [Curso de TypeScript para Completos Iniciantes](https://www.youtube.com/watch?v=ppDsxbUNtNQ&t=1s&ab_channel=FelipeRocha%E2%80%A2dicasparadevs)
+- [TypeScript, o início, de forma prática | MasterClass #07](https://www.youtube.com/watch?v=0mYq5LrQN1s&t=2s&ab_channel=Rocketseat)
+- [Intensivão de Clean Architecture e TypeScript](https://www.youtube.com/watch?v=yLPxkIxbNDg&t=3915s&ab_channel=FullCycle)
+- [TypeScript Course for Beginners - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&ab_channel=Academind)
+- [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs&t=1s&ab_channel=TraversyMedia)
+- [Esse é o motivo para você começar a estudar TypeScript ](https://www.youtube.com/watch?v=JbVBPatmLr8&ab_channel=AndreIacono)
+- [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI&ab_channel=freeCodeCamp.org)
+- [TypeScript - Zero to Hero | O que é TypeScript? #01](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&ab_channel=GlauciaLemos)
+- [Curso de react: Aula 01 - Começando com ReactJS](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm&ab_channel=LucasSouzaDev)
+- [Curso TypeScript do Básico ao avançado - Tipagem de Dados #01](https://www.youtube.com/watch?v=Z0RlhHuw6hk&list=PL4iwH9RF8xHlxBrCZImFELtiew3TneihE&ab_channel=PogCast)
+- [Curso de Typescript - Aula 1: O que é o typescript?](https://www.youtube.com/watch?v=3LPWQtvxHOk&list=PLbV6TI03ZWYWwU5p9ZBH8oJTCjgneX53u&ab_channel=DanielBerg)
+- [API Rest, Node e Typescript: #00 - Apresentação do curso, tecnologias usadas e muito mais](https://www.youtube.com/watch?v=SVepTuBK4V0&list=PL29TaWXah3iaaXDFPgTHiFMBF6wQahurP&ab_channel=LucasSouzaDev)
+- [Curso de Node.js completo com Typescript, Jest, TDD, Github](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab)
+- [React, Material UI 5 e Typescript: #00 - Introdução](https://www.youtube.com/watch?v=wLH1Vv86I44&list=PL29TaWXah3iaqOejItvW--TaFr9NcruyQ&ab_channel=LucasSouzaDev)
+- [TypeScript - Aprendendo Junto 00 - Introdução ao curso](https://www.youtube.com/watch?v=67ki0t_VWc0&list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs&ab_channel=DevDojo)
+- [Curso TypeScript para Desenvolvedores C# - Aula 00: Introdução à TypeScript](https://www.youtube.com/watch?v=SbAzEptUwI4&list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob&ab_channel=GlauciaLemos)
+- [Curso POO Typescript Aula 00 - Como Instalar Typescript - Para Iniciantes](https://www.youtube.com/watch?v=Xv7nNA-DtRE&list=PLnV7i1DUV_zMKEBTQ-wwlbyop8yVAh2tc&ab_channel=NoobCode)
+- [TypeScript #001 - Bem-vindos ao TypeScript](https://www.youtube.com/watch?v=DF9jY0ITt3Q&list=PLXik_5Br-zO9SEz-3tuy1UIcU6X0GZo4i&ab_channel=Jo%C3%A3oRibeiro)
+- [Clean Architecture & Typescript - BDD Specs + Use Cases](https://www.youtube.com/watch?v=7ylqtGk9bTo&list=PL9aKtVrF05DxIrtD3CuXGnzq8Q0IZ-t8J&ab_channel=Mango)
+- [TypeORM #0 - Preparando ambiente e conhecendo o Docker](https://www.youtube.com/watch?v=ZBlW5IBdhKk&list=PLDqnSpzNKDvn-3cpMf3yPn7gTnb3ooy4b&ab_channel=AngeloLuz)
+- [Criando site com Typescript#01 - Apresentação do curso](https://www.youtube.com/watch?v=JA2Gx-7Fy7g&list=PLyugqHiq-SKfPI4of2RbSdtzBfmwioERL&ab_channel=ClubeFull-Stack)
+- [Curso de Typescript - ¿ Que es #TypeScript ?](https://www.youtube.com/watch?v=ZwfoXOCpdCw&list=PL4qycS8CTHju8c4A06J_Vjtllyo6Pnc1G&ab_channel=ProCodeTv)
+- [01 - Curso de Orientação a Objetos no TypeScript - Classes e Objetos](https://www.youtube.com/watch?v=_Pi69njCXUU&list=PLVSNL1PHDWvQ8vKE5T2JTlLE4rXpFH3fM&ab_channel=CarlosFerreira-EspecializaTi)
+- [TypeORM #0 - Preparando ambiente e conhecendo o Docker](https://www.youtube.com/watch?v=ZBlW5IBdhKk&list=PLDqnSpzNKDvn-3cpMf3yPn7gTnb3ooy4b&ab_channel=AngeloLuz)
+- [Criando site com Typescript#01 - Apresentação do curso](https://www.youtube.com/watch?v=JA2Gx-7Fy7g&list=PLyugqHiq-SKfPI4of2RbSdtzBfmwioERL&ab_channel=ClubeFull-Stack)
+
+> Cursos para aprender TypeScript em Inglês
+- [Learn TypeScript – Full Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50&ab_channel=freeCodeCamp.org)
+- [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs&t=1s&ab_channel=TraversyMedia)
+- [TypeScript Course for Beginners - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&ab_channel=Academind)
+- [How to Setup Node.js with TypeScript in 2023](https://www.youtube.com/watch?v=H91aqUHn8sE&ab_channel=BeyondFireship)
+- [How To Create An Advanced Shopping Cart With React and TypeScript](https://www.youtube.com/watch?v=lATafp15HWA&ab_channel=WebDevSimplified)
+- [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs&ab_channel=ProgrammingwithMosh)
+- [TypeScript Full Beginner Course](https://www.youtube.com/watch?v=01txIbtssj0&ab_channel=Bitfumes)
+- [TypeScript Course - Beginner to Advanced TypeScript Tutorial [2022]](https://www.youtube.com/watch?v=vcNtrYfroDY&ab_channel=Cloudaffle)
+- [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI&ab_channel=freeCodeCamp.org)
+
+## 🦬 Sites e cursos para aprender Node.js
+
+> Cursos para aprender Node.js em Português
+- [Curso de Node.js Para Completos Iniciantes](https://www.youtube.com/watch?v=IOfDoyP1Aq0&t=963s&ab_channel=FelipeRocha%E2%80%A2dicasparadevs)
+- [COMEÇANDO COM NODE.JS EM 2022](https://www.youtube.com/watch?v=fm4_EuCsQwg&t=1s&ab_channel=Rocketseat)
+- [Autenticação com Node.js e MongoDB com JWT - Login e Registro com Node.js](https://www.youtube.com/watch?v=qEBoZ8lJR3k&ab_channel=MatheusBattisti-HoradeCodar)
+- [Curso de Node.JS - O que é Node.JS #01](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&ab_channel=VictorLima-GuiadoProgramador)
+- [Vamos aprender NodeJS? [Introdução, instalação, primeira aplicação NodeJS] - Curso de Node - Aula 01](https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE&ab_channel=CFBCursos)
+- [Curso de Node.js completo com Typescript, Jest, TDD, Github... [Código atualizado 2022]](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab)
+- [O que é Node.js? - Curso - Aula Grátis #01](https://www.youtube.com/watch?v=irrkH6VII78&list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V&ab_channel=LuizTools)
+- [Node.js #1 - O que é Node e como instalar o Node.js no Windows](https://www.youtube.com/watch?v=jqrKQEJ6DpY&list=PLmY5AEiqDWwBHJ3i_8MDSszXXRTcFdkSu&ab_channel=Celke)
+- [Curso Node JS Completo: Aula 01 - Introdução e Instalação](https://www.youtube.com/watch?v=zxziRBDFjGc&list=PL2Fdisxwzt_cQ7SMv8Drlg2TcrOS5LDZq&ab_channel=Programa%C3%A7%C3%A3oWeb)
+- [#01 Curso NodeJS com Typescript - Iniciando Ambiente](https://www.youtube.com/watch?v=GII-SyqjbqE&list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc&ab_channel=AndrewRos%C3%A1rio)
+- [Criando APIs com NodeJs - Aula 1: Instalação Node, NPM e VS Code](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn&ab_channel=balta.io)
+- [Curso React JS / Node JS - Configurando o Ambiente de Desenvolvimento](https://www.youtube.com/watch?v=hK59KYwQP3U&list=PL0QN_lbTofYcw7bzm8y-l2BMslKfMfNgr&ab_channel=codezero)
+- [Criação de API com Node.JS e MySQL - CRUD Completo - Aula 01 - Preparação do Ambiente](https://www.youtube.com/watch?v=xGk_R8Q1epU&list=PL1hl9qLyFtfDXY9NO8F3TnjxezKJ_1HlI&ab_channel=ProfessorLozano)
+- [API Rest, Node e Typescript: #00 - Apresentação do curso, tecnologias usadas e muito mais](https://www.youtube.com/watch?v=SVepTuBK4V0&list=PL29TaWXah3iaaXDFPgTHiFMBF6wQahurP&ab_channel=LucasSouzaDev)
+- [Curso de Node.js [ #01 Fundamentos desde cero - Primeros Pasos ]](https://www.youtube.com/watch?v=mG4U9t5nWG8&list=PLPl81lqbj-4IEnmCXEJeEXPepr8gWtsl6&ab_channel=Bluuweb)
+- [Aula #01 - Apresentação Mini Curso - Iniciando Desenvolvimento de API Restful - Node.js e Typescript](https://www.youtube.com/watch?v=M-pNDHC25Vg&list=PLE0DHiXlN_qp251xWxdb_stPj98y1auhc&ab_channel=JorgeAluizio)
+- [001 - API em Node.js + TypeScript com Programação Funcional - Apresentação do projeto](https://www.youtube.com/watch?v=G-wGMfiLW0Y&list=PLr4c053wuXU_2sufpBUxu3bLRBbyWt4lX&ab_channel=queroser.ninja-FernandoDaciuk)
+- [Node.js - 01 Instalação do Node.js](https://www.youtube.com/watch?v=D8qWu0MGyuQ&list=PLfvOpw8k80WqZsXphHeeSVNKr6EovKir-&ab_channel=DFILITTO)
+- [API com Node.JS - Passo 0 - Introdução (O que é uma REST API?)](https://www.youtube.com/watch?v=d_vXgK4uZJM&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR&ab_channel=Maransatto)
+- [Curso de Node.JS - #01 O que é Node.js](https://www.youtube.com/watch?v=aeRVisIgABA&list=PLJ0IKu7KZpCRCJgiT6jL4jJgssEcTBsg7&ab_channel=ProgramadorTech)
+- [Curso de Node JS Aula 01 Baixar e instalar o Node JS. Testar e instalar ferramentas extras](https://www.youtube.com/watch?v=05WeJCU8CJ4&list=PLnex8IkmReXwCyR-cGkyy8tCVAW7fGZow&ab_channel=ProfessorEdsonMaia)
+- [Aula 1.1 - Criando o primeiro App completo com Node.js, Postgres e front com Javascript puro](https://www.youtube.com/watch?v=TMdlKvoHxNI&list=PLAxN8g6Knm0camfON299B-vl31IYQhA8Q&ab_channel=Prof.JesielViana)
+- [Curso React + Node Js + React Native - Introdução. Aula 1](https://www.youtube.com/watch?v=veQ0JzX_g3w&list=PLMg7nm9OcrdlhTsN2PvLbNveJYWrHMQZv&ab_channel=MentorNerd)
+- [Node.js Básico 01 - Introdução](https://www.youtube.com/watch?v=F2cNmWNZSM0&list=PLWXw8Gu52TRLBgfIclx1Nh8LA60knsxY9&ab_channel=RalfLima)
+
+> Cursos para aprender Node.js em Inglês
+- [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=176s&ab_channel=freeCodeCamp.org)
+- [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8&ab_channel=DaveGray)
+- [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4&ab_channel=ProgrammingwithMosh)
+- [Node.js Tutorial For Beginners | Node JS Crash Course](https://www.youtube.com/watch?v=zQRrXTSkvfw&ab_channel=developedbyed)
+- [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM&t=1s&ab_channel=freeCodeCamp.org)
+- [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4&ab_channel=Fireship)
+- [Node.js Tutorial for Beginners 1 - Node.js Introduction](https://www.youtube.com/watch?v=spPtAEmwys4&list=PLS1QulWo1RIb8IwHYfah5pxGU5jgNiEbK&ab_channel=ProgrammingKnowledge)
+- [Node js tutorial #1 what is Node js | Introduction](https://www.youtube.com/watch?v=_sPLVYXfyDE&list=PL8p2I9GklV45ihqIep4n3_VijItAkcibN&ab_channel=CodeStepByStep)
+- [Node.js Tutorial - 1 - Introduction](https://www.youtube.com/watch?v=LAUi8pPlcUM&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY&ab_channel=Codevolution)
+- [Node.js Crash Course Tutorial #1 - Introduction & Setup](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&ab_channel=TheNetNinja)
+- [What is Node js? | Simplified Explanation](https://www.youtube.com/watch?v=yEHCfRWz-EI&list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG&ab_channel=Telusko)
+- [Node JS Tutorial for Beginners #1 - Introduction](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&ab_channel=TheNetNinja)
+- [Tech Talk: Server Scaling in Node.js](https://www.youtube.com/watch?v=w1IzRF6AkuI&list=PLiIKaud-klRGn7V0myJaSZzByPEX7VyiB&ab_channel=FullstackAcademy)
+- [Node js Tutorial for Beginners - 1 - Introduction](https://www.youtube.com/watch?v=CTxrpmY1At8&list=PLC3y8-rFHvwhco_O8PS1iS9xRrdVTvSIz&ab_channel=Codevolution)
+- [Express JS Tutorial #1 - Introduction | Node Express JS Tutorial](https://www.youtube.com/watch?v=KtnHb7FMk2Q&list=PLp50dWW_m40Vruw9uKGNqySCNFLXK5YiO&ab_channel=ARCTutorials)
+- [Introduction to Node JS (Hindi)](https://www.youtube.com/watch?v=5XzUdbYNWrA&list=PLbGui_ZYuhijy1SpwtIS9IwL6OJdbr4kE&ab_channel=GeekyShows)
+- [ExpressJS - Intro & Project Setup](https://www.youtube.com/watch?v=39znK--Yo1o&list=PL_cUvD4qzbkwp6pxx27pqgohrsP8v1Wj2&ab_channel=AnsontheDeveloper)
+- [How to build NodeJS Microservice - NodeJS Monolithic to Microservice Architecture](https://www.youtube.com/watch?v=EXDkgjU8DDU&list=PLaLqLOj2bk9ZV2RhqXzABUP5QSg42uJEs&ab_channel=CodewithJay)
+- [What is Node.js Exactly? - a beginners introduction to Nodejs](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=PLpXfHEl2fzl5wTERue9mU7AOLXEMcicBc&ab_channel=LearnCode.academy)
+- [Node.js in 2022 - Creating and testing a complete Node.js Rest API (WITH NO FRAMEWORKS)](https://www.youtube.com/watch?v=xR4D2bp8_S0&list=PLqFwRPueWb5fl_-rJ_6WdgCn9P87A7WNq&ab_channel=ErickWendel)
+
+## 🦌 Sites e cursos para aprender Next.js
+> Cursos para aprender Next.js em Português
+- [Desvendando Next.js do ZERO (SSG, SSR, ISR e mais) - Decode #013](https://www.youtube.com/watch?v=2LS6rP3ykJk&ab_channel=Rocketseat)
+- [Next.JS e React: Curso Intensivo - Masterclass #01 [2021]](https://www.youtube.com/watch?v=PHKaJlAeNLk&ab_channel=Cod3rCursos)
+- [Primeiros passos Next.js | #AluraMais](https://www.youtube.com/watch?v=slmtdlWNwcE&ab_channel=AluraCursosOnline)
+- [Primeiros Passos com Next.js](https://www.youtube.com/watch?v=xjrDEZQ5LnA&ab_channel=BoniekyLacerda)
+- [Next.js (Renderização React no Lado Servidor) // Dicionário do Programador](https://www.youtube.com/watch?v=q_ZoX98uopM&ab_channel=C%C3%B3digoFonteTV)
+- [Por Que Usar Next.JS?](https://www.youtube.com/watch?v=TzufYnZUmz4&ab_channel=Cod3rCursos)
+- [Curso Next.js: Introdução - #01](https://www.youtube.com/watch?v=XHrbg2iYNCg&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft&ab_channel=MatheusBattisti-HoradeCodar)
+- [Criando projeto React & NextJS + entendendo React #CursoDeReactNextJS #EP01](https://www.youtube.com/watch?v=BCnUMZUArrM&list=PLeBknJ2kuv1mDABV2N-H2tcu1vbfffRvg&ab_channel=Dev%26Design)
+- [Next.js o framework que você deveria conhecer](https://www.youtube.com/watch?v=9eI0o8io7I0&list=PLkFMdTTdI9c2js2bPRUhChVA0jdI-358s&ab_channel=LucasNhimi)
+- [Mini curso de Next.js - Aula 1](https://www.youtube.com/watch?v=P3p2LTz5miE&list=PLGQCLOAuF36leMwycZZ9o9uppqgmlGkhj&ab_channel=Andr%C3%A9Coelho)
+- [Introdução ao curso de NextJS | NextJS Intensivo](https://www.youtube.com/watch?v=cQ9ydTHx2Q0&list=PLvFchzWFz0yPKjnboH7Oq5jvzuw-7Fl4E&ab_channel=MateusSantana-BeDevLab)
+
+> Cursos para aprender Next.js em Inglês)
+- [NEXT.JS Crash Course for Beginners - Build 6 Apps in 17 Hours (SSR, Auth, Full-Stack + More) [2022]](https://www.youtube.com/watch?v=6fNy0iD3hsk&ab_channel=SonnySangha)
+- [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw&t=6005s&ab_channel=freeCodeCamp.org)
+- [Next.js 13 Crash Course | Learn How To Build Full Stack Apps!](https://www.youtube.com/watch?v=T63nY70eZF0&ab_channel=developedbyed)
+- [Next.js 13 - The Basics](https://www.youtube.com/watch?v=__mSgDEOyv8&ab_channel=BeyondFireship)
+- [The Ultimate NEXT.JS 13 Tutorial (Complete Walkthrough w/ Examples)](https://www.youtube.com/watch?v=6aP9nyTcd44&ab_channel=SonnySangha)
+- [Let's build a Modern Portfolio with NEXT.JS (Framer Motion, Tailwind CSS, Sanity.io, React) | 2023](https://www.youtube.com/watch?v=urgi2iz9P6U&ab_channel=SonnySangha)
+- [Nextjs ECommerce Tutorial For Beginners 2022 [Next.js, MongoDB & Tailwind]](https://www.youtube.com/watch?v=_IBlyR5mRzA&ab_channel=CodingwithBasir)
+- [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I&ab_channel=freeCodeCamp.org)
+- [Next.js Tutorial - 1 - Introduction](https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&ab_channel=Codevolution)
+- [Complete Next.js Course for Beginners #1 - Introduction](https://www.youtube.com/watch?v=HejT6QXmgtc&list=PLynWqC6VC9KOvExUuzhTFsWaxnpP_97BD&ab_channel=DailyTuition)
+- [Next.js Tutorial #1 - Introduction & Setup](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&ab_channel=TheNetNinja)
+- [Introduction to Next.js | NextJs Tutorial for Beginners #1](https://www.youtube.com/watch?v=DZKOunP-WLQ&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG&ab_channel=CodeWithHarry)
+- [ntroduction to Next.js – Next vs. Gatsby vs. CRA](https://www.youtube.com/watch?v=uQeidE2LA1s&list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR&ab_channel=LeeRobinson)
+- [Introduction to Next.js – Next vs. Gatsby vs. CRA](https://www.youtube.com/watch?v=uQeidE2LA1s&list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR&ab_channel=LeeRobinson)
+- [Build and Deploy THE PERFECT Portfolio Website | Create a Portfolio from Scratch](https://www.youtube.com/watch?v=OPaLnMw2i_0&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&ab_channel=JavaScriptMastery)
+- [NextAuth Course - Complete Authentication with Credentials, Google & GitHub](https://www.youtube.com/watch?v=t0Fs0NO78X8&list=PL2ieA03FJ6Fc34SSXinC2to9T30ztac2M&ab_channel=DailyTuition)
+- [NextJS & Tests : Setting Up for Tests in Next.JS (1/6) [react testing library & jest]](https://www.youtube.com/watch?v=S7Qi4kgLH7M&list=PLCBa_75YlKx6cQc0JNZz-L1ZGFb-pOIyL&ab_channel=abhikb)
+- [How to Create a Next.js Starter and Add Sass to a Next.js React App](https://www.youtube.com/watch?v=oFGs_x7kxZg&list=PLFsfg2xP7cbI1U7BZJwmJwTVs4D0pqX1F&ab_channel=ColbyFayock)
+
+## 🦘 Sites e cursos para aprender Assembly
+
+> Cursos para aprender Assembly em Português
+- [Assembly na Prática](https://www.youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC)
+- [Curso de Assembly com Snes e Mega Drive](https://www.youtube.com/playlist?list=PLLFRf_pkM7b6Vi0ehPPovl1gQ5ubHTy5P)
+- [Curso de Assembly para PIC](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt)
+- [Minicurso Programação Assembly x86 MASM32](https://www.youtube.com/playlist?list=PLmKKLDrwQKd6iL3rXIbIowc4GWMgYh_iH)
+- [Minicurso: Linguagem Assembly 8086 no DEBUG](https://www.youtube.com/playlist?list=PL838IdaPZmcsxX3HwxFSkxm5S_-4wqcYp)
+- [Curso de Assembly - Minilord](https://www.youtube.com/playlist?list=PLhkvr9d5St4VmgSpGoeXcQamYl8vBiMeH)
+- [Papo binario - Assembly](https://www.youtube.com/playlist?list=PLWHiAJhsj4eXi1AF6N5MYz61RcwSCoVO8)
+
+> Cursos para aprender Assembly em Inglês
+- [Assembly Language Programming with ARM – Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4&ab_channel=freeCodeCamp.org)
+- [Modern x64 Assembly](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
+- [Assembly Language Programming](https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC)
+- [Intro to x86 Assembly Language](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
+- [x86 Assembly](https://www.youtube.com/playlist?list=PLan2CeTAw3pFOq5qc9urw8w7R-kvAT8Yb)
+
+## 🦒 Sites e cursos para aprender Lua
+
+> Cursos para aprender Lua em Português
+- [Introdução a Lua, instalação e primeiro programa em Lua - Curso de Lua - Aula 01](https://www.youtube.com/watch?v=J9iZeIk2OII&list=PLx4x_zx8csUhdMczA1OSq9rM7N48L6OLU&ab_channel=CFBCursos)
+- [Curso de Lua - Aula 01 - Introdução e Ambiente](https://www.youtube.com/watch?v=3BA_fK0yXrI&list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt&ab_channel=Techiesse)
+- [Introdução a Programação - 00 - Sobre o Curso - É Válido e Atualizado?](https://www.youtube.com/watch?v=_EyRsqA_tKA&list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA&ab_channel=AlfredBaudisch%28Pardall%29)
+- [Introdução e configuração do ambiente - Curso programação Lua Language](https://www.youtube.com/watch?v=W_XTAaO8fiU&list=PLFzjIdwnQBMzaq4srTW6ZEvoJLm2TFvOo&ab_channel=KevinSouza)
+- [Aprenda Lua Comigo #0 - Nosso Primeiro Projeto](https://www.youtube.com/watch?v=BhP4ic8qpUA&list=PL61kTUcYddBOFrp8dBlXfRz2Buld6Xx9m&ab_channel=Glider)
+- [Aprenda Lua em 20 minutos!](https://www.youtube.com/watch?v=qxoMNzpI_2A&list=PLGVGJmkQU-wd64WNnMVI1Vy9dmpfHDzrH&ab_channel=Luaverse)
+- [Introdução ao curso (Opcional)](https://www.youtube.com/watch?v=O6ZwV0ltNlM&list=PL4iMR_FGApjL5ahV00_MbK0j5c9RShuP3&ab_channel=MilionarioScripter)
+- [Curso Basico Lua (Capitulo 1)](https://www.youtube.com/watch?v=R3ky9Z786dc&list=PLZKvFeoJSjNnpuiy_ez9PylW8neFp2-gA&ab_channel=MiguelHernandezLiebano)
+- [Aprenda Lua em 20 minutos!](https://www.youtube.com/watch?v=qxoMNzpI_2A&ab_channel=Luaverse)
+- [Lua - Dicionário do Programador](https://www.youtube.com/watch?v=35Ib4BR7WZc&ab_channel=C%C3%B3digoFonteTV)
+
+> Cursos para aprender Lua em Inglês
+- [Full Lua Programming Crash Course - Beginner to Advanced](https://www.youtube.com/watch?v=1srFmjt1Ib0&ab_channel=Steve%27steacher)
+- [Game Development with LÖVE 2D and Lua – Full Course](https://www.youtube.com/watch?v=I549C6SmUnk&ab_channel=freeCodeCamp.org)
+- [OOP (Object Oriented Programming) - Lua tutorial (Part 15)](https://www.youtube.com/watch?v=xdJZdEAQOEo&ab_channel=Steve%27steacher)
+- [Lua Tutorial - DerekBanas](https://www.youtube.com/watch?v=iMacxZQMPXs&ab_channel=DerekBanas)
+- [Introduction to the Lua Programming Language - Lua Tutorial (Part 1)](https://www.youtube.com/watch?v=PW8NRGAZQs8&list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU&ab_channel=Steve%27steacher)
+- [Introdução a Programação - 00 - Sobre o Curso - É Válido e Atualizado?](https://www.youtube.com/watch?v=_EyRsqA_tKA&list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA&ab_channel=AlfredBaudisch%28Pardall%29)
+- [Aprendendo Lua: um histórico rápido e primeiros passos com ferramentas de script Lua](https://www.youtube.com/watch?v=-iU1pCgmjx4&list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O&ab_channel=BurtonsMediaGroup)
+- [Lua Introduction](https://www.youtube.com/watch?v=jwn1Vkez7og&list=PLysdvSvCcUhZ3d2AEF4XVAdAyQSBxLNRT&ab_channel=IndronilBanerjee)
+- [Lua Programming Tutorials - 1 - Downloading and Installing Lua IDE](https://www.youtube.com/watch?v=R2ozVV61qBQ&list=PLd43cTxFZWlc7vTG-3TgMhfZU6o-7pyLD&ab_channel=TutorialswithGanofins)
+
+## 🐪 Sites e cursos para aprender Perl
+
+> Cursos para aprender Perl em Português
+- [Curso Perl - Alder Pinto](https://www.youtube.com/playlist?list=PLE1HNzXaOep0RJIQoWA9_-OPg4WUbjQUZ)
+- [Curso de Perl - Perfil Antigo](https://www.youtube.com/playlist?list=PLBDxU1-FpoohxqH3XfnqTqLCxTj8dz5sI)
+
+> Cursos para aprender Perl em Espanhol
+- [Tutorial de Perl en Español](https://www.youtube.com/playlist?list=PLjARR1053fYmN9oYz-H6ZI1fOkrjLz6L2)
+- [Curso de Perl en Español](https://www.youtube.com/playlist?list=PL8qgaJWZ7bGJPlIvAFbq8fKrFogUEJ3AJ)
+- [Curso Perl - David Elí Tupac](https://www.youtube.com/playlist?list=PL2FOMZ1Ba3plgMbgLlxE-8IXi7oIlkdVp)
+
+> Cursos para aprender Perl em Inglês
+- [Perl Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpE0UEJPQ2PUeXUfvJDhPqSD)
+- [Perl Enough to be dangerous](https://www.youtube.com/watch?v=c0k9ieKky7Q&ab_channel=NedDev)
+- [Perl Tutorials](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+- [Perl Tutorial: Basics to Advanced](https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16)
+- [Perl Programming](https://www.youtube.com/playlist?list=PL5eJgcQ87sgcXxN8EG7RUGZ_kTDUDwYX9)
+- [Perl Scripting Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga)
+
+## 🐧 Sites e cursos para aprender Linux
+
+> Sites para aprender Linux
+- [Tecmint](https://www.tecmint.com/)
+- [Linuxize](https://linuxize.com/)
+- [nixCraft](https://www.cyberciti.biz/)
+- [It's FOSS](https://itsfoss.com/)
+- [Linux Hint](https://linuxhint.com/)
+- [FOSS Linux](https://www.fosslinux.com/)
+- [LinuxOPsys](https://linuxopsys.com/)
+- [Linux Journey](https://linuxjourney.com/)
+- [Linux Command](https://linuxcommand.org/)
+- [Linux Academy](https://linuxacademy.org/)
+- [Linux Survival](https://linuxsurvival.com/)
+- [Linux Handbook](https://linuxhandbook.com/)
+- [Ryan's Tutorials](https://ryanstutorials.net/)
+- [LinuxFoundationX](https://www.edx.org/school/linuxfoundationx)
+- [LabEx Linux For Noobs](https://labex.io/courses/linux-for-noobs)
+- [Conquering the Command Line](http://conqueringthecommandline.com/)
+- [Guru99 Linux Tutorial Summary](https://www.guru99.com/unix-linux-tutorial.html)
+- [Eduonix Learn Linux From Scratch](https://www.eduonix.com/courses/system-programming/learn-linux-from-scratch)
+- [TLDP Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+- [The Debian Administrator's Handbook](https://debian-handbook.info/)
+- [Cyberciti Bash Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+- [Digital Ocean Getting Started With Linux](https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux)
+- [Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+
+> Cursos para aprender Linux em Português 
+- [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
+- [Curso de Linux Básico / Certificação LPIC - 1](https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
+- [Curso de Linux - Matheus Battisti](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH)
+- [Curso GNU/Linux - Paulo Kretcheu](https://www.youtube.com/playlist?list=PLuf64C8sPVT9L452PqdyYCNslctvCMs_n)
+- [Curso completo de Linux desde cero para principiantes](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4FKsZQKqCmbylDqssYFJX5A)
+- [Curso de Linux Avançado Terminal](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp)
+- [Curso Grátis Linux Ubuntu Desktop](https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u)
+- [Curso Kali Linux - Daniel Donda](https://www.youtube.com/playlist?list=PLPIvFl3fAVRfzxwHMK1ACl9m4GmwFoxVz)
+- [Curso Grátis Linux Ubuntu Server 18.04.x LTS](https://www.youtube.com/playlist?list=PLozhsZB1lLUOjGzjGO4snI34V0zINevDm)
+- [Curso de Linux Ubuntu - Portal Hugo Cursos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxh3gfTUfr3BGmfuLUH4L-5Z)
+- [Cursos de Linux - Playlist variada com 148 vídeos](https://www.youtube.com/playlist?list=PLreu0VPCNEMQJBXmyptwC5gDGGGnQnu_u)
+- [Curso de Linux Básico para Principiantes 2021](https://www.youtube.com/playlist?list=PLG1hKOHdoXktPkbN_sxqr1fLqDle8wnOh)
+- [Revisão Certificação Linux Essentials](https://www.youtube.com/playlist?list=PLsBCFv4w3afsg8QJnMwQbFGumLpwFchc-)
+- [Curso completo de Linux do zero - ProfeSantiago](https://www.youtube.com/playlist?list=PLbcS-eIZbbxUqcd3Kr74fo46HzfnYpMqc)
+
+> Cursos para aprender Linux em Inglês
+- [The Linux Basics Course: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
+- [Linux for Hackers (and everyone)](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+- [Linux Command Line Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+- [Linux Crash Course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)
+- [The Complete Kali Linux Course: Beginner to Advanced](https://www.youtube.com/playlist?list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw)
+- [Linux Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpGsim4cuJrh9w6-yfuC9XqI)
+- [CompTIA Linux+ XK0-004 Complete Video Course](https://www.youtube.com/playlist?list=PLC5eRS3MXpp-zlq64CcDfzMl2hO2Wtcl0)
+- [LPI Linux Essentials (010-160 Exam Prep)](https://www.youtube.com/playlist?list=PL78ppT-_wOmvlYSfyiLvkrsZTdQJ7A24L)
+- [Complete Linux course for beginners in Arabic](https://www.youtube.com/playlist?list=PLNSVnXX5qE8VOJ6BgMytvgFpEK2o4sM1o)
+- [Linux internals](https://www.youtube.com/playlist?list=PLX1h5Ah4_XcfL2NCX9Tw4Hm9RcHhC14vs)
+- [The Complete Red Hat Linux Course: Beginner to Advanced](https://www.youtube.com/playlist?list=PLYmlEoSHldN6W1w_0l-ta8oKzGWqCcq63)
+- [Linux for Programmers](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h)
+- [Kali Linux: Ethical Hacking Getting Started Course](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMe1Ue0IdeULQvEgCgQ3a1B)
+- [Linux Masterclass Course - A Complete Tutorial From Beginner To Advanced](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+- [Unix/Linux Tutorial Videos](https://www.youtube.com/playlist?list=PLd3UqWTnYXOloH0vWBs4BtSbP84WcC2NY)
+- [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik)
+- [Linux Tutorials | GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySFc4KtwEZTANgmyJm3NqS_L)
+- [Linux Operating System - Crash Course for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA&ab_channel=freeCodeCamp.org)
+- [The Complete Linux Course: Beginner to Power User](https://www.youtube.com/watch?v=wBp0Rb-ZJak&ab_channel=JosephDelgadillo)
+- [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org)
+- [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org)
+- [Linux Tutorial for Beginners - Intellipaat](https://www.youtube.com/watch?v=4ZHvZge1Lsw&ab_channel=Intellipaat)
+
+## 🦥 Sites e cursos para aprender Ionic
+
+> Cursos para aprender Ionic em Português
+- [Ionic - Dicionário do Programador](https://www.youtube.com/watch?v=5QqvO_9LPzQ&ab_channel=C%C3%B3digoFonteTV)
+- [Curso Ionic Completo 2022 [Iniciantes] + Desafios + Criando um Aplicativo!](https://www.youtube.com/watch?v=gEVYAdwDHwg&t=5894s&ab_channel=WhileTrue)
+- [Conhecendo o Ionic Framework](https://www.youtube.com/watch?v=HUBg2VTYRPo&list=PLuXkauUmG1ZH7iJfW5GpAKAQTo_NL5PZ7&ab_channel=RonanAdrielZenatti)
+- [Introdução ao Ionic](https://www.youtube.com/watch?v=qr9jS-ZrWpo&list=PLfhMD9jnhSMny0jU_azpnLhvsPWsvRv0q&ab_channel=JulianaCristinadosSantos)
+- [Curso de Ionic 6 - Aula 01 - Aplicativos Android e IOS](https://www.youtube.com/watch?v=mMQbYiHy59Q&list=PLxNM4ef1BpxgBAqQsMHhwBH6EmwQOD7Rq&ab_channel=PortalHugoCursos)
+- [Curso - Desenvolvimento de apps com Ionic | 01 - Apresentação](https://www.youtube.com/watch?v=xABQOK5vFZQ&list=PLVG76XkqmT1-a738T809H1xPMONh910Dl&ab_channel=JardelGarcia)
+- [Ionic 6 com Mysql - Aula 01 - Aplicativos Mobile](https://www.youtube.com/watch?v=ZYM9FYKTDnA&list=PLxNM4ef1BpxirvhqM-E96LdFPlDU8Wg6w&ab_channel=PortalHugoCursos)
+- [Ionic 3 Essencial - 1 Introdução](https://www.youtube.com/watch?v=kx7f_5IJXY8&list=PLswa9HeoJUq_Dphg3w1TwqBMgruzRCwIO&ab_channel=CodeExperts)
+- [Desenvolvimento de Aplicativos - Aula 01 - Introdução ao Curso](https://www.youtube.com/watch?v=hz7-z9JGQFw&list=PLxNM4ef1BpxgA3RP3L3Y___xZPc1g2h-5&ab_channel=PortalHugoCursos)
+- [Criando Aplicativos com Ionic | Preparação do Ambiente | Aula 1](https://www.youtube.com/watch?v=eb5i6nus8vo&list=PLxIWikUsH2nSlBxyxEEgVUTBRYbDWmFC9&ab_channel=Programa%C3%A7%C3%A3odeQuinta)
+- [Curso de Ionic - Aula 01 - Desenvolvimento de Aplicativos](https://www.youtube.com/watch?v=fOO6D1lb0OQ&list=PLxNM4ef1BpxgcK0J97u3aSJo30UIfpbNN&ab_channel=PortalHugoCursos)
+- [Ionic #01 - INSTALANDO e criando o PRIMEIRO PROJETO](https://www.youtube.com/watch?v=y2hBKxJhfGM&list=PLuUvvidbi-uCGT4LycMif1VVNhC-ZF-pi&ab_channel=SthefaneSoares-VidaPrograma%C3%A7%C3%A3o)
+- [Ionic COM MYSQL E PHP - AULA 01 - INTRODUÇÃO AO CURSO](https://www.youtube.com/watch?v=k_VbSstZ52A&list=PLSEfgw3tr7tPtncnFpMEymvVFNiRY3OpZ&ab_channel=GliderSI)
+
+> Cursos para aprender Ionic em Inglês
+- [How to Build Your First Ionic 6 App with API Calls](https://www.youtube.com/watch?v=y_vwf15eADs&ab_channel=SimonGrimm)
+- [Ionic 4 & Angular Tutorial For Beginners - Crash Course](https://www.youtube.com/watch?v=r2ga-iXS5i4&ab_channel=Academind)
+- [Ionic Framework 4 - Full Tutorial - iOS / Android App Development](https://www.youtube.com/watch?v=AvbuIRg8_Jg&ab_channel=freeCodeCamp.org)
+- [How to create your first mobile app using Ionic Angular](https://www.youtube.com/watch?v=whnA4Eod3xo&ab_channel=CodeSwag)
+- [Ionic Framework explained in 60 seconds](https://www.youtube.com/watch?v=iLLXfPwrtj0&ab_channel=AlanMontgomery)
+- [Building a Deliveroo Food Ordering UI with Ionic](https://www.youtube.com/watch?v=82iWIKejaiQ&ab_channel=SimonGrimm)
+- [Ionic 5 Tutorial #1 - Welcome to Ionic 5 For Beginners](https://www.youtube.com/watch?v=PExk4luoBiE&list=PLQfqQHJBFM18zcPVbRUIuJYCnytKG4oSn&ab_channel=ZinoTrustAcademy)
+- [Ionic Tutorial #1 - Overview, installation and creating the project](https://www.youtube.com/watch?v=5Gj4Y8zvl-s&list=PLlyAM-8-I7S9iNcZRfP4SQJhm4Mw5q5ku&ab_channel=ITwithPauloAlves)
+- [ionic 4+: Search Bar - Módulos - Filtros](https://www.youtube.com/watch?v=T5pdU0s4J6w&list=PLWmEuj970qeGbjM8NU0kdmU7Iydve81gC&ab_channel=FernandoHerrera)
+- [Ionic Framework Tutorial 1: Create Mobile Apps Using Ionic (Intro)](https://www.youtube.com/watch?v=0jamhGf-8ww&list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5&ab_channel=codedamn)
+- [Ionic 6+ ALL IN 1 DELIVERY APP UI | EPISODE 01 - HOME SCREEN](https://www.youtube.com/watch?v=FOnsC9pXbqc&list=PLixvNT19uDK7pO5KLKqTFf7QxY2lgqN2L&ab_channel=CodingTechnyks)
+- [#1: Introduction - Ionic 5 / React / Firebase](https://www.youtube.com/watch?v=BX9bSrfwy7Y&list=PLYxzS__5yYQkxcATbHyMA6wfEinKL6jPD&ab_channel=codedamn)
+- [This app is amazing | App Review | Ionic, ReactJS, Flutter](https://www.youtube.com/watch?v=J8mSfAQvzJc&list=PLNFwX8PVq5q5K_ztYB5umsEu9p6SOQQSb&ab_channel=SimonGrimm)
+
+
+## 🦦 Sites e cursos para aprender Jira
+
+> Cursos para aprender Jira em Português
+- [Curso Jira Software básico](https://www.youtube.com/playlist?list=PL7NDvV6PnYODio6jp-dYLXPL8SQHzTJxy)
+- [Jira Software 2022: Básico de Jira para Devs, POs e SMs](https://www.youtube.com/watch?v=642AqqkpgRA&ab_channel=Moxie-EspecialistasemJira)
+- [Jira Software - Visão Geral ( Tutorial Simples e Completo do Jira Software )](https://www.youtube.com/watch?v=o7tbOHcNQuQ&ab_channel=Moxie-EspecialistasemJira)
+- [Básico de Jira para Devs, POs e SMs](https://www.youtube.com/watch?v=SbHfEMYKXgA&ab_channel=LuizTools)
+
+> Cursos para aprender Jira em Inglês
+- [Jira Training | Jira Tutorial for Beginners | Jira Course | Intellipaat](https://www.youtube.com/watch?v=uM_m6EzMg3k&ab_channel=Intellipaat)
+- [How to Get A Jira Certification | Atlassian Jira](https://www.youtube.com/watch?v=UfiM2Ob1Jmc&ab_channel=ApetechTechTutorials)
+- [Jira Tutorial for Beginners: Jira Project Management](https://www.youtube.com/watch?v=nHuhojfjeUY&ab_channel=SimonSezIT)
+- [Jira Full Course 4 hours | Jira Tutorial For Beginners | Jira Training | Intellipaat](https://www.youtube.com/watch?v=fhAcJ6Gv1ko&ab_channel=Intellipaat)
+- [How To Use Jira Software For Beginners | Jira Project Management Software (2023)](https://www.youtube.com/watch?v=aP7W7zNTM2I&ab_channel=TutorialsbyManizha%26Ryan)
+
+## 🦫 Sites e cursos para aprender Rust
+
+> Cursos para aprender Rust em Português
+- [Introdução a linguagem Rustlang | Aprenda Rust | 01](https://www.youtube.com/watch?v=zWXloY0sslE&ab_channel=BrunoRocha-CodeShow)
+- [Rust Lang (A Linguagem Mais AMADA de Todas) // Dicionário do Programador](https://www.youtube.com/watch?v=gA-hmH83XHc&ab_channel=C%C3%B3digoFonteTV)
+- [Curso rust [ 01 ] - instalação do rustup](https://www.youtube.com/watch?v=K6L43dl9frY&list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE&ab_channel=LinguagemRust)
+- [bem vindo ao curso em rust](https://www.youtube.com/watch?v=Hizsjpi66D8&list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf&ab_channel=Lanby%CE%BB)
+
+> Cursos para aprender Rust em Inglês
+- [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4&ab_channel=DerekBanas)
+- [Why You SHOULDN'T Learn Rust](https://www.youtube.com/watch?v=kOFWIvNowXo&ab_channel=Theo-t3%E2%80%A4gg)
+- [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M&ab_channel=freeCodeCamp.org)
+- [Rust Programming Tutorial #1 - Hello World | Getting Started with Rust](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&ab_channel=dcode)
+- [Chapter 1 - Intro - Rust Crash Course](https://www.youtube.com/watch?v=ZxozvCT0oZw&list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS&ab_channel=VandadNahavandipoor)
+- [Learning Rust From Zero to Hero! - Episode 1](https://www.youtube.com/watch?v=tuRQ1URwvhI&list=PLhaAGnuDAW8TrWfGhWL26XDuHDf_O5bWv&ab_channel=BendotCodes)
+- [Learning Rust Together! Going through the Rust Programming book live!](https://www.youtube.com/watch?v=5QsEuoIt7JQ&list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6&ab_channel=TomMcGurl)
+- [50 Rust Projects - New Playlist Announcement](https://www.youtube.com/watch?v=qru3L4BvrOU&list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO&ab_channel=AkhilSharma)
+- [Best FREE Rust Learning Resources](https://www.youtube.com/watch?v=T4E8LSCFHu8&ab_channel=Let%27sGetRusty)
+- [Introduction to the series [1 of 35] | Rust for Beginners](https://www.youtube.com/watch?v=PpWR6zungUk&list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x&ab_channel=MicrosoftDeveloper)
+- [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw&ab_channel=TraversyMedia)
+- [Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek&ab_channel=Fireship)
+
+
+## 🦭 Sites e cursos para aprender Scala
+
+> Cursos para aprender Scala em Português
+- [Mini Curso Scala Aula 01 - Por que utilizar a linguagem Scala?](https://www.youtube.com/watch?v=WoOZuiM28LI&list=PLRjtXwBVDaEhUXvT9s3f9T8KhzvbNIOBQ&ab_channel=DanielGoncalves)
+
+> Cursos para aprender Scala em Inglês
+- [Scala Tutorial - Scala at Light Speed, Part 1: Getting Started](https://www.youtube.com/watch?v=-8V6bMjThNo&list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM&ab_channel=RocktheJVM)
+- [Spark Scala | Spark Tutorial | Scala Tutorial | Spark Scala Full Course | Intellipaat](https://www.youtube.com/watch?v=PzQ3DBrHW-U&ab_channel=Intellipaat)
+- [Scala Tutorial 1 - Introduction to Scala](https://www.youtube.com/watch?v=LQVDJtfpQU0&list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3&ab_channel=ProgrammingKnowledge)
+- [Introduction to Scala Basics](https://www.youtube.com/watch?v=iilTz5R_i6E&list=PLWPirh4EWFpFeu4K1gdw2M-97w_5qEpeU&ab_channel=TutorialsPoint)
+- [Scala Tutorial for Beginners](https://www.youtube.com/watch?v=OfngvXKNkpM&ab_channel=ProgrammingKnowledge)
+- [Apache Spark Tutorial | Spark Tutorial For Beginners | Spark Scala Full Course | Intellipaat](https://www.youtube.com/watch?v=r83NhShrNdw&ab_channel=Intellipaat)
+- [Scala Crash Course by a Scala Veteran (with some JavaScript flavor)](https://www.youtube.com/watch?v=-xRfJcwhy7A&ab_channel=DevInsideYou)
+- [Why Scala? | An introduction by Adam Warski](https://www.youtube.com/watch?v=t7SOXNJVbJo&ab_channel=SoftwareMill)
+- [Scala Tutorial 1 Why Scala ( हिन्दी)](https://www.youtube.com/watch?v=xw9N8CQo5JI&list=PLgPJX9sVy92wUdX7uVMgEzREgJrXiRdUC&ab_channel=CSGeeks)
+- [Scala Tutorial Full Course](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko)
+- [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas)
+- [Scala 3 & Functional Programming Essentials Course: An Overview of Scala](https://www.youtube.com/watch?v=Rp2b7pgXxFY&ab_channel=RocktheJVM)
+- [Functional Programming Crash Course for Scala Beginners](https://www.youtube.com/watch?v=XXkYBncbz0c&ab_channel=DevInsideYou)
+- [Scala Programming Tutorial | Learn Scala programming | Scala language](https://www.youtube.com/watch?v=pDq06gwJnLk&ab_channel=ProgrammingKnowledge)
+
+## 🦝 Sites e cursos para aprender Nuxt.js
+
+> Cursos para aprender Nuxt.js em Português
+[Curso gratuito de Nuxt.js 2 #1 - Introdução e instalação](https://www.youtube.com/watch?v=jw6tRUGkpmo&ab_channel=TiagoMatos)[
+[Nuxtjs para iniciantes - Dando um boost no seu desenvolvimento Vue js](https://www.youtube.com/watch?v=mJLeZWl71cA&ab_channel=TiagoMatos)[
+[Nuxt.js (O Melhor Companheiro do Vue.js) // Dicionário do Programador](https://www.youtube.com/watch?v=l2y8oYqNV8I&ab_channel=C%C3%B3digoFonteTV)[
+[Nuxt Levue Week (NLW) #01 - Introdução e Configuração (Vue, Nuxt, TypeScript e TailwindCSS)](https://www.youtube.com/watch?v=VbkFOWw4yeY&ab_channel=Frontverso)[
+[Nuxt.JS: Conhecendo o Framework](https://www.youtube.com/watch?v=CZ6Qbn80h4k&ab_channel=PabloCodes)
+
+> Cursos para aprender Nuxt.js em Inglês
+- [Getting Started with Nuxt 3 | A Beginners Guide](https://www.youtube.com/watch?v=KHF4JdcF4JA&ab_channel=VueMastery)
+- [What is Nuxt js? | One Dev Question](https://www.youtube.com/watch?v=og_2HLjgD0E&ab_channel=MicrosoftDeveloper)
+- [Learn NuxtJS Tutorial for Beginners | Udemy Instructor, Maximilian Schwarzmüller](https://www.youtube.com/watch?v=PVMOQrdEjB0&ab_channel=Udemy)
+- [Nuxt JS Crash Course](https://www.youtube.com/watch?v=Wdmi4k7sFzU&ab_channel=LaithAcademy)
+- [Nuxt JS beginner tutorial - In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family](https://www.youtube.com/watch?v=YjmLFdXiCJU&list=PLe30vg_FG4OQihO5an0tNT_dpkxig8iPz&ab_channel=Bitfumes)
+- [Nuxt 3 Crash Course #1 - What is Nuxt?](https://www.youtube.com/watch?v=GBdO5myZNsQ&ab_channel=TheNetNinja)
+- [Nuxt 3 full course build and deploy | #Nuxtjs #vue #nuxt3](https://www.youtube.com/watch?v=5dQMQ1BwUyc&ab_channel=Bitfumes)
+- [Next.js Tutorial - 1 - Introduction](https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&ab_channel=Codevolution)
+- [Mastering Nuxt JS Course](https://www.youtube.com/watch?v=sS9pkLlZ96E&ab_channel=AcademiaDigital)
+- [The Nuxt 3 Crash Course](https://www.youtube.com/watch?v=dZC4T4UiU1c&ab_channel=LaithAcademy)
+- [Nuxt JS For Beginners! - What is Nuxt and how to use it!?](https://www.youtube.com/watch?v=CBwq_TUL5Fg&ab_channel=TylerPotts)
+- [Next.js 13 Crash Course | Learn How To Build Full Stack Apps!](https://www.youtube.com/watch?v=T63nY70eZF0&ab_channel=developedbyed)
+- [Build & Deploy a Movie App With NuxtJS | NuxtJS Crash Course (2021)](https://www.youtube.com/watch?v=IzLIXyZkKAA&ab_channel=JohnKomarnicki)
+
+
+## 🦎 Sites e cursos para aprender Gulp
+
+> Cursos para aprender Gulp em Português
+- [Gulp - Dicionário do Programador](https://www.youtube.com/watch?v=H_jbU5ClRgc&ab_channel=C%C3%B3digoFonteTV)
+- [Curso de GulpJS - Módulo I - Plugin Gulp Sass](https://www.youtube.com/watch?v=TEoqa9VSoXA&ab_channel=ProfessorChoren)
+- [Como Usar o Gulp JS - Tutorial de gulp completo](https://www.youtube.com/watch?v=QobWkb20UEQ&ab_channel=FeatureCode)
+- [Aula 01 - Curso de Gulp - Introdução](https://www.youtube.com/watch?v=9pZOL5_bTw4&list=PLWhiA_CuQkbD8BiFB0aGkwpqpGjvNM3zC&ab_channel=FilipeMorelliDeveloper)
+- [Curso de GulpJS - O que é o Gulp? Por que eu deveria utilizá-lo?](https://www.youtube.com/watch?v=LDLPBuGYoqo&ab_channel=ProfessorChoren)
+- [Aula 01 - Curso de Gulp - Introdução](https://www.youtube.com/watch?v=9pZOL5_bTw4&ab_channel=FilipeMorelliDeveloper)
+- [Usando Gulp em Arquivos Javascript // Mão no Código #2](https://www.youtube.com/watch?v=jsF1PeCxXqM&ab_channel=C%C3%B3digoFonteTV)
+- [Trabalhando com GULP | Torne-se um Programador](https://www.youtube.com/watch?v=2kdR2D8EEho&ab_channel=DaniloAparecido-Torne-seumprogramador)
+- [Grunt vs. Gulp #1 - Qual é o melhor? - Rodrigo Branas](https://www.youtube.com/watch?v=ZG0fSXOKcGM&ab_channel=RodrigoBranas)
+
+> Cursos para aprender Gulp em Inglês
+- [Browsersync + Sass + Gulp in 15 minutes](https://www.youtube.com/watch?v=q0E1hbcj-NI&ab_channel=CoderCoder)
+- [Gulp JS Crash Course](https://www.youtube.com/watch?v=1rw9MfIleEg&ab_channel=TraversyMedia)
+- [Curso de GulpJS - Módulo I - Plugin Gulp Sass](https://www.youtube.com/watch?v=TEoqa9VSoXA&ab_channel=ProfessorChoren)
+- [Gulp 4 Crash Course for Beginners](https://www.youtube.com/watch?v=-lG0kDeuSJk&ab_channel=CoderCoder)
+- [Gulp.js Crash Course](https://www.youtube.com/watch?v=JDXmbcNYdoU&ab_channel=BalboaCodes)
+- [Gulp from scratch: Intro - What the hell is Gulp?](https://www.youtube.com/watch?v=oRoy1fJbMls&list=PLriKzYyLb28lp0z-OMB5EYh0OHaKe91RV&ab_channel=AlessandroCastellani)
+- [Gulp from scratch: Intro - What the hell is Gulp?](https://www.youtube.com/watch?v=oRoy1fJbMls&ab_channel=AlessandroCastellani)
+- [Full beginner Gulp setup for SCSS, minifying Javascript, and minifying/webp images](https://www.youtube.com/watch?v=ubHwScDfRQA&ab_channel=CodinginPublic)
+- [Gulp JS Crash Course in Hindi #1 - An Introduction to Gulp](https://www.youtube.com/watch?v=awz6G57aY_c&ab_channel=PortableProgrammer)
+- [Gulpfile Setup-Automate and Enhance Your Code](https://www.youtube.com/watch?v=CFdzwGb5pBg&ab_channel=Treehouse)
+- [Gulp.js Tutorial - Getting Started With Gulp js | Sass](https://www.youtube.com/watch?v=8H8E75bkXos&ab_channel=CurlyBraces)
+- [Essential Gulp Tasks: Introduction](https://www.youtube.com/watch?v=3-WNVccDpKo&ab_channel=EnvatoTuts%2B)
+- [Gulp v4 - Sass and BrowserSync setup](https://www.youtube.com/watch?v=QgMQeLymAdU&ab_channel=KevinPowell)
+
+
+## 🐅 Sites e cursos para aprender MongoDB
+
+> Cursos para aprender MongoDB em Português
+- [Curso de MongoDB fundamental | Aprenda MongoDB em 1 hora - 2021](https://www.youtube.com/watch?v=x9tC0eK0GtA&ab_channel=MatheusBattisti-HoradeCodar)
+- [MongoDB em 15 minutos](https://www.youtube.com/watch?v=j-cjF1GkEMQ&t=475s&ab_channel=CanalTI)
+- [CRIE UMA API COM NODE.JS EXPRESS MONGODB E MONGOOSE - API RESTFUL](https://www.youtube.com/watch?v=anMK76I2dUA&ab_channel=MatheusBattisti-HoradeCodar)
+- [MongoDB (O Banco de Dados NoSQL mais Legal) - Dicionário do Programador](https://www.youtube.com/watch?v=4dTI1mVLX3I&ab_channel=C%C3%B3digoFonteTV)
+- [Curso de MongoDB para iniciantes](https://www.youtube.com/watch?v=u3sVM3viDtQ&list=PLxuFqIk29JL0DMM0Z-S9_XEHAexXvhYyb&ab_channel=NatanielPaivaOficial)
+- [O que é Node.js? - Curso - Aula Grátis #01](https://www.youtube.com/watch?v=irrkH6VII78&list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V&ab_channel=LuizTools)
+- [Mongodb - Introdução](https://www.youtube.com/watch?v=3z90A7VBF4Y&list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS&ab_channel=Zurubabel)
+- [Introdução NoSQL e MongoDB](https://www.youtube.com/watch?v=kedLyo95fGU&list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj&ab_channel=RicardoLeme)
+
+
+> Cursos para aprender MongoDB em Inglês
+- [MongoDB Crash Course](https://www.youtube.com/watch?v=ofme2o29ngU&ab_channel=WebDevSimplified)
+- [MongoDB Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=Www6cTUymCY&ab_channel=Amigoscode)
+- [Complete MongoDB Tutorial #1 - What is MongoDB?](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&ab_channel=TheNetNinja)
+- [MongoDB course 2022 | MongoDB tutorial](https://www.youtube.com/watch?v=9cWm74DteMQ&ab_channel=Bitfumes)
+- [MongoDB Tutorial | MongoDB Full Course | MongoDB | MongoDB Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=lBBtq3Oawqw&ab_channel=Simplilearn)
+- [Course Structure and Projects](https://www.youtube.com/watch?v=VI9TP-_7X1E&list=PLx6gGOAOEqGHqDaIjFhwnojD4Lhf4kU_N&ab_channel=ITServices%26Consulting)
+- [How to install MongoDB 6.0.3 on Windows 11 | Install MongoDB 6.0.3 & Mongo Shell | MongoDB Tutorial](https://www.youtube.com/watch?v=1y5sAnn0ans&list=PLSDyGb_vtanyZbsI9coZHdBNoD1ZVJn7E&ab_channel=CSCORNERSunitaRai)
+- [Diagnostic Thinking Course - MongoDB University](https://www.youtube.com/watch?v=9D900FFuivw&list=PL4RCxklHWZ9tDjU4TEEGof955v8JS0oet&ab_channel=MongoDB)
+- [Introduction to MongoDB | Fundamentals of MongoDB | Complete MongoDB Course 2022](https://www.youtube.com/watch?v=l7Psw5frLwk&list=PL1BztTYDF-QM6KSVfrbSyJNTU9inyBqYF&ab_channel=procademy)
+- [Complete MongoDB Tutorial #25 - MongoDB Atlas](https://www.youtube.com/watch?v=084rmLU1UgA&ab_channel=TheNetNinja)
+- [MongoDB Tutorial For Beginners #1 - Introduction](https://www.youtube.com/watch?v=Ya0H-7A5cE4&list=PLp50dWW_m40UWFSV6PTgYzciZJIxgHy7Q&ab_channel=ARCTutorials)
+- [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE&ab_channel=TraversyMedia)
+- [MongoDB Crash Course 2022](https://www.youtube.com/watch?v=2QQGWYe7IDU&ab_channel=TraversyMedia)
+- [MongoDB in 100 Seconds](https://www.youtube.com/watch?v=-bt_y4Loofg&ab_channel=Fireship)
+- [Complete MongoDB Tutorial #1 - What is MongoDB?](https://www.youtube.com/watch?v=ExcRbA7fy_A&ab_channel=TheNetNinja)
+
+## 🦩 Sites e cursos para aprender GraphQL
+
+> Cursos para aprender GraphQL em Português
+- [Fundamentos do GraphQL na prática (Node.js + React) | Decode 019](https://www.youtube.com/watch?v=6SZOPKs9SUg&t=2851s&ab_channel=Rocketseat)
+- [GraphQL no Node.js do ZERO criando 2 apps completos](https://www.youtube.com/watch?v=1dz48pReq_c&ab_channel=Rocketseat)
+- [Curso COMPLETO de GraphQL #1: Introdução | O Que é ? | O Que veio resolver?](https://www.youtube.com/watch?v=RyqLvFhPNy8&list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j&ab_channel=WashingtonDeveloper)
+- [GraphQL // Dicionário do Programador](https://www.youtube.com/watch?v=xbLpIhCsIdg&ab_channel=C%C3%B3digoFonteTV)
+- [Modern GraphQL Crash Course - 2022](https://www.youtube.com/watch?v=qux4-yWeZvo&ab_channel=LaithAcademy)
+- [O que é GraphQL? com Juliana Amoasei | #HipstersPontoTube](https://www.youtube.com/watch?v=trf3ZR_K1nk&ab_channel=AluraCursosOnline)
+- [Entendendo GraphQL](https://www.youtube.com/watch?v=x6TwzA2yh08&ab_channel=DevPleno)
+- [GraphQL: O mínimo que um Full Cycle Developer precisa saber. feat: Rodrigo Branas](https://www.youtube.com/watch?v=NJsSsLmQPN4&ab_channel=FullCycle)
+- [Apresentação do Projeto - Aprenda NextJS, GraphQL na prática!](https://www.youtube.com/watch?v=WOqF_pSzyvQ&list=PLlAbYrWSYTiPlXj6USip_lCPzONUATJbE&ab_channel=WillianJusten)
+
+> Cursos para aprender GraphQL em Inglês
+- [Modern GraphQL Crash Course - 2022](https://www.youtube.com/watch?v=qux4-yWeZvo&ab_channel=LaithAcademy)
+- [GraphQL Explained in 100 Seconds](https://www.youtube.com/watch?v=eIQh02xuVw4&t=9s&ab_channel=Fireship)
+- [What Is GraphQL? | GraphQL Course For Beginners Ep. 1](https://www.youtube.com/watch?v=16bHGKe1QqY&list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU&ab_channel=PedroTech)
+- [GraphQL Full Course - Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q&ab_channel=freeCodeCamp.org)
+- [GraphQL Tutorial #1 - Introduction to GraphQL](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f&ab_channel=TheNetNinja)
+- [Spring Tips: Spring for GraphQL: the GraphQL Java Engine](https://www.youtube.com/watch?v=gvIqFDNGgwU&list=PLgGXSWYM2FpNRPDQnAGfAHxMl3zUG2Run&ab_channel=SpringDeveloper)
+- [What is GraphQL?](https://www.youtube.com/watch?v=wfBeEn8d-8A&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI&ab_channel=PragmaticReviews)
+- [GraphQL Mesh as a Gateway](https://www.youtube.com/watch?v=fhTg5wPU5LY&list=PLs2PzMqLzi7UPExN1rjpaDlXMVZQTxeDm&ab_channel=JamieBarton)
+- [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw&ab_channel=TraversyMedia)
+- [Learn GraphQL In 40 Minutes](https://www.youtube.com/watch?v=ZQL7tL2S0oQ&ab_channel=WebDevSimplified)
+- [Learn GraphQL in 4 Hours - From Beginner to Expert](https://www.youtube.com/watch?v=yqWzCV0kU_c&ab_channel=PedroTech)
+- [GraphQL & Apollo server full course](https://www.youtube.com/watch?v=VaN6_yDTcNs&ab_channel=Bitfumes)
+- [GraphQL Crash course | easy way](https://www.youtube.com/watch?v=_Zss2Mbz4Bs&ab_channel=HiteshChoudhary)
+- [Spring Boot GraphQL Tutorial #1 - Introduction, Dependencies, IDE Setup](https://www.youtube.com/watch?v=nju6jFW8CVw&list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-5Wi&ab_channel=PhilipStarritt)
+- [The BEST GraphQL Course on Planet! | GraphQL for Beginners](https://www.youtube.com/watch?v=YJMSlR9z5Zw&ab_channel=codedamn)
+- [GraphQL Crash Course](https://www.youtube.com/watch?v=CFrKTrMJIBY&ab_channel=LaithAcademy)
+- [React With GraphQL (Apollo Client) Crash Course](https://www.youtube.com/watch?v=gAbIQx26wSI&ab_channel=LaithAcademy)
+
+## 🦙 Sites e cursos para aprender Cassandra
+
+> Cursos para aprender Cassandra em Português
+- [Modelagem de dados com Cassandra - Cassandra Day Brasil 2022](https://www.youtube.com/watch?v=4vnqakN5HEw&ab_channel=DataStaxDevelopers)
+- [Apache Cassandra Training | Apache Cassandra Tutorial | Apache Cassandra Course | Intellipaat](https://www.youtube.com/watch?v=47Us3i_XetI&ab_channel=Intellipaat)
+- [Curso de Apache Cassandra](https://www.youtube.com/watch?v=Vr6CokWVCkQ&ab_channel=OpenWebinars)
+- [Tudo sobre Apache Cassandra](https://www.youtube.com/watch?v=FbluLZmHmPI&ab_channel=KeepCoding-TechSchool)
+- [Instalando e trabalhando com banco de dados Cassandra](https://www.youtube.com/watch?v=ngY3QRJPVwU&ab_channel=EduardodeBastianiMior)
+- [Apache Cassandra - Armazenando Grandes Bases de Dados](https://www.youtube.com/watch?v=1oz4ZmBRmzk&ab_channel=InstitutoInfnet)
+
+> Cursos para aprender Cassandra em Inglês
+- [Apache Cassandra - Tutorial 1 - Introduction to Apache Cassandra](https://www.youtube.com/watch?v=s1xc1HVsRk0&list=PLalrWAGybpB-L1PGA-NfFu2uiWHEsdscD&ab_channel=jumpstartCS)
+- [Apache Cassandra Training | Apache Cassandra Tutorial | Apache Cassandra Course | Intellipaat](https://www.youtube.com/watch?v=47Us3i_XetI&ab_channel=Intellipaat)
+- [Apache Cassandra Database – Full Course for Beginners](https://www.youtube.com/watch?v=J-cSy5MeMOA&ab_channel=freeCodeCamp.org)
+- [Intro to Cassandra - Cassandra Fundamentals](https://www.youtube.com/watch?v=YjYWsN1vek8&list=PL2g2h-wyI4SqCdxdiyi8enEyWvACcUa9R&ab_channel=DataStaxDevelopers)
+- [Introduction to Cassandra | Cassandra Tutorial | Cassandra Online Training - Intellipaat](https://www.youtube.com/watch?v=Q7jO0UaH1iU&list=PLVHgQku8Z93762uoAOdAeVfr6gwPUViAt&ab_channel=Intellipaat)
+- [What is Apache Cassandra? | Apache Cassandra Tutorial | Apache Cassandra Introduction | Edureka](https://www.youtube.com/watch?v=iDhIjrJ7hG0&list=PL9ooVrP1hQOGJ4Yz9vbytkRmLaD6weg8k&ab_channel=edureka%21)
+- [Introduction To Apache Cassandra Certification Training | Simplilearn](https://www.youtube.com/watch?v=JlZxTmmRdDk&ab_channel=Simplilearn)
+- [Cassandra Database Crash Course](https://www.youtube.com/watch?v=KZsVSfQVU4I&ab_channel=CodewithIrtiza)
+
+## 🦛 Sites e cursos para aprender SQL Server
+
+> Cursos para aprender SQL Server em Português
+- [SQL SERVER - 01 - SQL Server Express Edition - Instalando no seu computador](https://www.youtube.com/watch?v=OKqpZ6zbZwQ&list=PL7iAT8C5wumpQWB8AFW7CwK2nlzh8ZdP9&ab_channel=AlessandroTrovato)
+- [Curso SQL Completo 2022 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=G7bMwefn8RQ&ab_channel=DevAprender)
+- [Curso de SQL Server para Iniciantes (Aula 0) - Expectativas e Link para Baixar o SQL Server](https://www.youtube.com/watch?v=X7BUKUoO8ZI&list=PL4OAe-tL47sY7ZzeE8__q_N7BWFOehxug&ab_channel=Zurubabel)
+
+> Cursos para aprender SQL Server em Inglês
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=32s&ab_channel=freeCodeCamp.org)
+- [SQL Server Tutorial For Beginners | Microsoft SQL Server Tutorial | SQL Server Training | Edureka](https://www.youtube.com/watch?v=-EPMOaV7h_Q&ab_channel=edureka%21)
+- [Install SQL Server 2019 Step by Step | Developer Edition | Free Software | Install SSMS](https://www.youtube.com/watch?v=7GVFYt6_ZFM&list=PL08903FB7ACA1C2FB&ab_channel=kudvenkat)
+- [Sql Server tutorial || onlinetraining||Sql Server ||Introduction Part - 1 by Narayana](https://www.youtube.com/watch?v=wt3yuc-rTJA&list=PLd3UqWTnYXOkDmQvCVKsXeoGeocusMP4i&ab_channel=DurgaSoftwareSolutions)
+- [Advanced Sql Tutorial (001 Welcome to the course)](https://www.youtube.com/watch?v=Fm3fMnbWTGg&list=PLw_k9CF7hBpIFmHUyz2jQ3Fo7yYW9jeol&ab_channel=FreeOnlineCourses)
+- [Learn SQL Complete | Course Introduction | SQL Full Course | SQL Tutorial For Beginners (0/11)](https://www.youtube.com/watch?v=5FrBJ4PXj2s&list=PLjNd3r1KLjQtFEklcPDhidqC_2lmpjk5H&ab_channel=AnalyticswithNags)
+- [Introduction of SQL Server | SQL Server Tutorial](https://www.youtube.com/watch?v=eSUG8zZ7DfQ&list=PLVlQHNRLflP8WFEvFvANnUsD2y8HJIJh1&ab_channel=NareshiTechnologies)
+- [SQL Course | SQL Tutorial For Beginners | Learn SQL | Intellipaat](https://www.youtube.com/watch?v=wkOD6mbXc2M&ab_channel=Intellipaat)
+
+## 🐐 Sites e cursos para aprender Postgree SQL
+
+> Cursos para aprender Postgree SQL em Português
+- [Introdução ao PostgreSQL - Curso de Postgres](https://www.youtube.com/watch?v=Z_SPrzlT4Fc&list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY&ab_channel=B%C3%B3sonTreinamentos)
+- [Guia Completo PostgreSQL do Básico ao Avançado | Como importar Banco de Dados Educacional NorthWind?](https://www.youtube.com/watch?v=Wmg_JfwkODU&list=PLDqAb8tE7SQZzMWvPG4PYevQAW1cDsbD0&ab_channel=ProfessorMarcoMaddo)
+- [Instalando o PostgreSQL e Criando o Primeiro Banco de Dados](https://www.youtube.com/watch?v=L_2l8XTCPAE&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+- [Banco de Dados com PostgreSQL - #01 - Introdução](https://www.youtube.com/watch?v=k4wYRoMvBwE&list=PLWd_VnthxxLe660ABLFZH26CW3G-uQIv-&ab_channel=Descompila)
+- [Curso PostgreSQL #1 Instalando no Ubuntu e Derivados](https://www.youtube.com/watch?v=grJlOnbZYus&list=PLiLrXujC4CW0YEyTxomRYXiyQEzJB4P0l&ab_channel=DanielMoraisInfocotidiano)
+- [Primeiros Passos no PostgreSQL](https://www.youtube.com/watch?v=l5VXbLNYu2U&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+
+> Cursos para aprender Postgree SQL em Inglês
+- [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4&ab_channel=freeCodeCamp.org)
+- [PostgreSQL: What is a Database | Course | 2019](https://www.youtube.com/watch?v=XQ_6G0iCyMQ&list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS&ab_channel=Amigoscode)
+- [PostgreSQL Tutorial Full Course 2022](https://www.youtube.com/watch?v=85pG_pDkITY&ab_channel=DerekBanas)
+- [PostgreSQL CRASH COURSE - Learn PostgreSQL in 2022](https://www.youtube.com/watch?v=zw4s3Ey8ayo&ab_channel=TroyAmelotte)
+- [SQL For Beginners Tutorial | Learn SQL in 4.2 Hours | 2021](https://www.youtube.com/watch?v=5hzZtqCNQKk&ab_channel=Amigoscode)
+- [Learn Database Administration - PostgreSQL Database Administration (DBA) for Beginners](https://www.youtube.com/watch?v=aUfPf-clLLs&ab_channel=DatabasesA2Z)
+- [PostgreSQL: What is PostreSQL AKA Postrgres | Course | 2019](https://www.youtube.com/watch?v=tzbA7VniRpw&ab_channel=Amigoscode)
+
+## 🐑 Sites e cursos para aprender Delphi
+
+> Cursos para aprender Delphi em Português
+- [O que é o Delphi?](https://www.youtube.com/watch?v=pFni9cj4tqE&list=PLVetaKmuPN9_gBPcyRZ7YinNXsNPSfrwY&ab_channel=AugustoC%C3%A9sar)
+- [Delphi EM 10 MINUTOS: Tudo Que Você Precisa Saber para Começar!](https://www.youtube.com/watch?v=aTPgBJj6IRc&ab_channel=DevMedia)
+- [Curso de Delphi 10 Avançado - Aula 01 - Programando com Delphi](https://www.youtube.com/watch?v=6CjoKSzeHHM&list=PLxNM4ef1BpxhAExrORrdjAUhm9krPxc-R&ab_channel=PortalHugoCursos)
+- [Modelagem do Banco de Dados Inicial - Sistema de Escola Completo - Curso Delphi Gratuito](https://www.youtube.com/watch?v=2bdUJHGtwm4&list=PLVetaKmuPN99zOK1rgvKQV-gKhg96Mo5o&ab_channel=AugustoC%C3%A9sar)
+- [Curso de Delphi 10 (2017) - Aula 01 - Iniciando na programação](https://www.youtube.com/watch?v=rBJ43Usj0NM&list=PLxNM4ef1BpxjAZNWTpzSGmZ86XDAa_jf4&ab_channel=PortalHugoCursos)
+- [Delphi do Zero to Hero - #01](https://www.youtube.com/watch?v=zChvMKjmUeY&ab_channel=AcademiadoC%C3%B3digo)
+- [Delphi (soluções para Desktop, Web e Mobile) // Dicionário do Programador](https://www.youtube.com/watch?v=QKjFEMDGCYk&ab_channel=C%C3%B3digoFonteTV)
+
+> Cursos para aprender Delphi em Inglês
+- [Learn Delphi Programming | Unit 1.1 | Welcome To Delphi Programming for Beginners](https://www.youtube.com/watch?v=wsGpj-FVjGs&list=PLZZqoiUyRBsRTgdPJPr-eqAiOnKlP3CaP&ab_channel=LearnDelphi)
+- [Delphi Programming Course (FMX): 1 - Introduction to this course](https://www.youtube.com/watch?v=NrswPm4OCTk&list=PLfrySFqYRf2f8Tzyd8znGe1ldk72vJZ73&ab_channel=ShaunRoselt)
+- [Delphi Programming - Full Beginner Crash Course](https://www.youtube.com/watch?v=BqmJpFbRY2U&ab_channel=Steve%27steacher)
+- [Introduction to Delphi Programming](https://www.youtube.com/watch?v=NrWoheh_REU&ab_channel=CodeWithHuw)
+
+## 🐊 Sites e cursos para aprender Wordpress
+
+> Cursos para aprender Wordpress em Português
+- [Curso WordPress Profissional](https://www.youtube.com/watch?v=JPR4OK4c35Q&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&ab_channel=CursoemV%C3%ADdeo)
+- [Curso de WordPress 2023: Elementor Container Flexbox](https://www.youtube.com/watch?v=pZOU9RPpr20&list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa&ab_channel=CursoB-CursosOnline)
+- [Curso WordPress na Prática | Passo a passo [2022]](https://www.youtube.com/watch?v=lBarY0wXf4Y&list=PLSAqMrdVsnTabS-6FQPcr3LcF-UzEA7Co&ab_channel=HostGatorAcademy)
+- [Curso WordPress Grátis 2023: Como Criar um Site](https://www.youtube.com/watch?v=PBtM37Wug3E&list=PLR9X8pL__UdiA1wMB02jndrD1d2kffu1o&ab_channel=CursoWordPressDefinitivo)
+- [Curso WordPress Grátis 2023 Completo - (Aula 1 - Apresentação)](https://www.youtube.com/watch?v=9LIZkP9HqJk&list=PLpEvhvupz-uQ3Fsaf_y1z_hRDKuh24dxR&ab_channel=iConectado-CursosOnline)
+- [Como Criar Um Site No Wordpress | 2022 | Para Iniciantes](https://www.youtube.com/watch?v=YtFxzjCDoXk&t=2744s&ab_channel=SalaNinja)
+- [Como Criar Site PROFISSIONAL, Instalar o WordPress Passo a Passo Completo, Fácil Sem Programação](https://www.youtube.com/watch?v=X6qHe5Eazyw&ab_channel=WesleyPereira-EmpreendedorDigital)
+- [Curso de Wordpress COMPLETO paso a paso (Gutenberg)](https://www.youtube.com/watch?v=lwNEskjrGD8&ab_channel=RomualdFons)
+- [WordPress para Iniciantes 2023 - Passo a Passo de Todas Funções do WordPress](https://www.youtube.com/watch?v=1EqAYuvOeT0&ab_channel=HostingerBrasil)
+
+> Cursos para aprender Wordpress em Inglês
+- [WordPress Full Course | Part 1](https://www.youtube.com/watch?v=-t5WNFPoCCE&list=PLQOGKy2nPhxlEVP4RBVrBoXPL6mZNZv5L&ab_channel=AzharulRafy)
+- [How To Make A WordPress Website ~ 2023 ~ The Ultimate WordPress Tutorial For Beginners](https://www.youtube.com/watch?v=pf8wji-tjPw&ab_channel=WebYoda)
+- [8 Hours Complete Course WordPress Tutorial for Beginners 2023](https://www.youtube.com/watch?v=09gj5gM4V98&ab_channel=Skilllot)
+- [WordPress for Beginners | FREE COURSE](https://www.youtube.com/watch?v=MsRhxl_zk5A&ab_channel=EnvatoTuts%2B)
+- [Education LMS WordPress Theme for Online Courses — MasterStudy | Ver. 4.0](https://www.youtube.com/watch?v=V8Lttze18-I&list=PL3Pyh_1kFGGDikfKuVbGb_dqKmXZY86Ve&ab_channel=StylemixThemes)
+- [Cloudways Tutorial (Move to Cloudways in 19 Minutes!) Setup, Migration, Domain, SSL & Free SMTP](https://www.youtube.com/watch?v=N7C9RR28Ggg&list=PLSk3zfDlC1f-r0dWcZHsWccaJ3CUhhylZ&ab_channel=IdeaSpot)
+- [WordPress Full Course in ONE VIDEO | ZERO to HERO | STEP BY STEP](https://www.youtube.com/watch?v=DcbPVzq8lHY&ab_channel=AzharulRafy)
+- [What is WordPress & CMS (Content Management System) | WordPress Tutorial #1](https://www.youtube.com/watch?v=-6q3Rt1MTtk&list=PLjVLYmrlmjGcXDYZC67Us13PBD-3us9jB&ab_channel=WsCubeTech)
+- [Week 01 | Lec 01 | Mentor Muhammad Kashif | WordPress full course | Digiskills](https://www.youtube.com/watch?v=7h_ETVuiSdY&list=PLuqUq6yfXlCGVBWbU_WyMQiLD72buRUvF&ab_channel=MissSkillie)
+- [Build a Website from Start to Finish using WordPress [Full Course]](https://www.youtube.com/watch?v=IPo71JPKUmg&ab_channel=freeCodeCamp.org)
+- [Become a WordPress Developer: Unlocking Power with Code](https://www.youtube.com/watch?v=FVqzKAUsM68&ab_channel=LearnWebCode)
+- [How To Build A Website with Wordpress in 2023 (Full Tutorial)](https://www.youtube.com/watch?v=AABmCvjd_iU&ab_channel=CharlieChang)
+
+## 🐳 Sites e cursos para aprender Docker
+> Cursos para aprender Docker em Português 
+- [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4)
+- [Curso de Docker para iniciantes](https://www.youtube.com/watch?v=np_vyd7QlXk&t=1s&ab_channel=MatheusBattisti-HoradeCodar)
+- [Curso de Introdução ao Docker](https://www.youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-)
+- [Curso Descomplicando o Docker - LINUXtips 2016](https://www.youtube.com/playlist?list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
+- [Descomplicando o Docker - LINUXtips 2022](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR)
+- [Curso Docker - Jose Carlos Macoratti](https://www.youtube.com/playlist?list=PLJ4k1IC8GhW1kYcw5Fiy71cl-vfoVpqlV)
+- [Docker DCA - Caio Delgado](https://www.youtube.com/playlist?list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_)
+- [Docker em 22 minutos - teoria e prática](https://www.youtube.com/watch?v=Kzcz-EVKBEQ&ab_channel=ProgramadoraBordo)
+- [Curso de Docker Completo - Cultura DevOps](https://www.youtube.com/playlist?list=PLdOotbFwzDIjPK7wcu4MBCZhm9Lj6mX11)
+
+> Cursos para aprender Docker em Inglês
+- [Runnable, Slash Docker](https://runnable.com/docker/)
+- [Docker, Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
+- [Online IT Guru, Docker Tutorial](https://onlineitguru.com/docker-training)
+- [Tutorials Point, Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm)
+- [Andrew Odewahn, Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/)
+- [Romin Irani, Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023?gi=4504494d886a)
+- [LearnDocker Online](https://learndocker.online/)
+- [Noureddin Sadawi, Docker Training](https://www.youtube.com/playlist?list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt)
+- [Learn2torials, Latest Docker Tutorials](https://learn2torials.com/category/docker)
+- [Docker Curriculum, Docker For Beginners](https://docker-curriculum.com/)
+- [Jake Wright, Learn Docker In 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24&ab_channel=JakeWright)
+- [Digital Ocean, How To Install And Use Docker](https://www.digitalocean.com/community/tutorial_collections/how-to-install-and-use-docker)
+- [LinuxTechLab, The Incomplete Guide To Docker](https://linuxtechlab.com/the-incomplete-guide-to-docker-for-linux/)
+- [Play With Docker Classroom, Play With Docker](https://training.play-with-docker.com/)
+- [Shota Jolbordi, Introduction to Docker](https://medium.com/free-code-camp/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
+- [Collabnix, The #1 Docker Tutorials, Docker Labs](https://dockerlabs.collabnix.com/)
+- [Servers For Hackers, Getting Started With Docker](https://serversforhackers.com/c/getting-started-with-docker)
+- [Dive Into Docker, The Complete Course](https://diveintodocker.com/)
+- [Hashnode, Docker Tutorial For Beginners](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)
+- [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+- [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
+- [Docker Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
+- [Docker Tutorial for Beginners Full Course in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+- [Docker Tutorial for Beginners Full Course](https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode)
+
+## 🦜 Sites e cursos para aprender Kubernets
+
+> Cursos para aprender Kubernets em Português 
+- [Curso de Kubernetes: Introdução ](https://www.youtube.com/watch?v=n1myN27XLfo&list=PLnPZ9TE1Tj4CpbmTsTgqVpRG0hIgHXsaX&ab_channel=MateusSchwede)
+- [Apresentação - Curso de Introdução ao Kubernetes ](https://www.youtube.com/watch?v=RuNTvYejG90&list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs&ab_channel=InsightLab)
+- [Kubernetes do Zero a Produção ](https://www.youtube.com/watch?v=oxWEVQP5_Rg&ab_channel=FullCycle)
+- [Mini Curso Gratuito de Kubernetes para Devs Javascript ](https://www.youtube.com/watch?v=eXKg9B5ooaY&ab_channel=ErickWendel)
+- [Containers, Docker e Kubernetes com Giovanni Bassi | #HipstersPontoTube ](https://www.youtube.com/watch?v=wxLvvMxzc1Q&ab_channel=AluraCursosOnline)
+- [Kubernetes // Dicionário do Programador ](https://www.youtube.com/watch?v=mVL0nOM3AGo&ab_channel=C%C3%B3digoFonteTV)
+- [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] ](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana)
+- [Kubernetes Course | Kubernetes Training | Kubernetes Tutorial | Intellipaat ](https://www.youtube.com/watch?v=Vjetwwgv36o&ab_channel=Intellipaat)
+
+> Cursos para aprender Kubernets em Inglês 
+- [Kubernetes Crash Course for Absolute Beginners [NEW] ](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
+- [Docker Containers and Kubernetes Fundamentals – Full Hands-On Course ](https://www.youtube.com/watch?v=kTp5xUtcalw&ab_channel=freeCodeCamp.org)
+- [Kubernetes Tutorial For Beginners - Learn Kubernetes ](https://www.youtube.com/watch?v=yznvWW_L7AA&ab_channel=Amigoscode)
+- [Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!) ](https://www.youtube.com/watch?v=d6WC5n9G_sM&ab_channel=freeCodeCamp.org)
+- [CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam! ](https://www.youtube.com/watch?v=AplluksKvzI&ab_channel=freeCodeCamp.org)
+
+## 🐆 Sites e cursos para aprender Nest
+
+> Cursos para aprender Nest em Português 
+- [Intensivão Nest.js: do Básico ao Avançado](https://www.youtube.com/watch?v=PHIMN85trgk&ab_channel=FullCycle)
+- [CURSO FUNDAMENTOS DO FRAMEWORK NESTJS | AULA #01 | CRIAÇÃO DE APLICAÇÕES BACKEND COM BASE DO NODE.JS](https://www.youtube.com/watch?v=wTvnlgJb9hI&list=PLE0DHiXlN_qqRNX4KpkNKvFswCXHUwoyL&ab_channel=JorgeAluizio)
+- [Criando uma aplicação com NestJS e PrismaIO](https://www.youtube.com/watch?v=0Idug0e9tPw&ab_channel=DanieleLe%C3%A3o)
+- [Programa em Node.js? Então conheça esse framework (NestJS do ZERO)](https://www.youtube.com/watch?v=TRa55WbWnvQ&ab_channel=Rocketseat)
+- [Arquitetura Hexagonal com Nest.js](https://www.youtube.com/watch?v=y4CayhdrSOY&ab_channel=FullCycle)
+- [CI/CD: Fazendo deploy de uma aplicação Nest.js no mundo real](https://www.youtube.com/watch?v=89GWF72F0sw&ab_channel=FullCycle)
+- [Nest.js: desenvolvimento de APIs](https://www.youtube.com/watch?v=BT7novtdAgI&ab_channel=FullCycle)
+- [Conhecendo NestJS | #AluraMais](https://www.youtube.com/watch?v=YHpG6t91oW8&ab_channel=AluraCursosOnline)
+- [Clean Architecture com Nest.js na prática](https://www.youtube.com/watch?v=ZOyEFaBSEfk&ab_channel=FullCycle)
+- [Desenvolva uma aplicação com Nest.js 9 e aproveite as novidades da nova versão](https://www.youtube.com/watch?v=1yu9084sVjs&ab_channel=FullCycle)
+- [Microsserviços com Nest.js e gRPC](https://www.youtube.com/watch?v=0bcwZJhplSE&ab_channel=FullCycle)
+- [Iniciando com NestJS - NestJS para Iniciantes](https://www.youtube.com/watch?v=ufSIGVs9X_8&ab_channel=F%C3%A1bricadeC%C3%B3digo)
+- [NestJS, o melhor framework backend de NodeJS](https://www.youtube.com/watch?v=bAH4nBb1NFc&ab_channel=PauloSalvatore)
+- [Criando CRUD com NestJS + deploy no Heroku em 30 minutos - Code/drops #80](https://www.youtube.com/watch?v=cBIUOL6MFXw&ab_channel=Rocketseat)
+- [GraphQL com NestJS, a melhor e mais fácil opção para o backend web](https://www.youtube.com/watch?v=2wBtOsMrPSY&ab_channel=AprendendoaProgramar)
+
+> Cursos para aprender Nest em Inglês 
+- [NestJS Crash Course | Training #01](https://www.youtube.com/watch?v=5tau19ae6aY&list=PLIGDNOJWiL186E2BIAofH6vbS9GxAWRle&ab_channel=Codewithtkssharma)
+- [NestJS Crash Course](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK&ab_channel=AnsontheDeveloper)
+- [Nest JS Advance Course #01](https://www.youtube.com/watch?v=i1wN86rnMEI&list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr&ab_channel=Codewithtkssharma)
+- [NestJS in 100 Seconds](https://www.youtube.com/watch?v=0M8AYU_hPas&ab_channel=Fireship)
+- [Learn Nest.js from Scratch by building an API](https://www.youtube.com/watch?v=F_oOtaxb0L8&ab_channel=Academind)
+- [NestJS Crash Course: Everything you need to know! | NodeJS Tutorial 2021](https://www.youtube.com/watch?v=2n3xS89TJMI&list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB&ab_channel=MariusEspejo)
+- [Nest JS Advance Course #01](https://www.youtube.com/watch?v=Zmz9ZuSgIro&list=PLT5Jhb7lgSBPcUDAmmEnuiFMrqcurNCs7&ab_channel=CodeStudio)
+- [NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s&ab_channel=freeCodeCamp.org)
+- [Nestjs Full Course 2022 | Beginner Nestjs Tutorial](https://www.youtube.com/watch?v=Mgr5_r70OJQ&ab_channel=Bitfumes)
+- [NestJS Crash Course - Build a Complete Backend API](https://www.youtube.com/watch?v=BiN-xzNkH_0&ab_channel=LaithAcademy)
+- [NestJS Crash Course - 2021](https://www.youtube.com/watch?v=S0R82Osg-Mk&ab_channel=LaithAcademy)
+- [NestJS Crash Course](https://www.youtube.com/watch?v=wqhNoDE6pb4&ab_channel=TraversyMedia)
+- [NestJS Tutorial - Full Crash Course](https://www.youtube.com/watch?v=MNa-h_uPNmw&ab_channel=MonsterlessonsAcademy)
+- [NestJS tutorial for Beginners 1 - Getting Started + Creating First Nest.JS Application](https://www.youtube.com/watch?v=oU5Di3be-Sk&ab_channel=ProgrammingKnowledge)
+
+## 🐿 Sites e cursos para aprender Laravel
+
+> Cursos para aprender Laravel em Português 
+- [Curso Laravel - Introdução - #01](https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG&ab_channel=MatheusBattisti-HoradeCodar)
+- [Curso de Laravel - #01 Introdução e Ambiente PHP](https://www.youtube.com/watch?v=SnOlhaJTMTA&list=PLwXQLZ3FdTVH5Tb57_-ll_r0VhNz9RrXb&ab_channel=RodrigoOliveira)
+- [Curso gratuito Laravel 9 INTRO #1 - Introdução e instalação](https://www.youtube.com/watch?v=_h7pq2uc6e4&list=PLcoYAcR89n-reidRFA3XCIvQPeKFt4dQU&ab_channel=TiagoMatos)
+- [Curso Gratuito de Laravel 9.x](https://www.youtube.com/watch?v=8IBlbBvcI3U&list=PLVSNL1PHDWvS1e1aeoJV7VvaDZ9m67YPU&ab_channel=CarlosFerreira-EspecializaTi)
+- [LARAVEL - 01 | Apresentação do CURSO](https://www.youtube.com/watch?v=jy8I-wZzeN4&list=PLSHNk_yA5fNhzjjOGcIdSB1nyhv6NR0W1&ab_channel=GustavoNeitzke)
+- [Laravel 8 - Aula 01 - Laravel 8](https://www.youtube.com/watch?v=z9goB9ntdoI&list=PLxNM4ef1BpxinM_SH_JWtJ-ME11QorxPa&ab_channel=PortalHugoCursos)
+- [Convite Curso Gratuito de Laravel 8.x](https://www.youtube.com/watch?v=rljzeWpPNYU&list=PLVSNL1PHDWvQwfqqY7XSobGuV39KsM46G&ab_channel=CarlosFerreira-EspecializaTi)
+- [Curso Laravel. Presentación. Vídeo 1](https://www.youtube.com/watch?v=0sHSrqyZCnM&list=PLU8oAlHdN5Bk-qkvjER90g2c_jVmpAHBh&ab_channel=pildorasinformaticas)
+[Laravel para iniciantes - Truques e dicas para você aprender de forma ultra rápida](https://www.youtube.com/watch?v=x5C4BmrbFjM&ab_channel=TiagoMatos)
+
+> Cursos para aprender Laravel em Inglês 
+- [Laravel From Scratch 2022 | 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY&ab_channel=TraversyMedia)
+- [Get Started With Laravel | FREE COURSE](https://www.youtube.com/watch?v=AGE3wRKljkw&ab_channel=EnvatoTuts%2B)
+- [React + Laravel Full-stack Application | Build and Deploy](https://www.youtube.com/watch?v=qJq9ZMB2Was&ab_channel=TheCodeholic)
+- [Laravel 6 Tutorial for Beginers #1 - Introduction](https://www.youtube.com/watch?v=zckH4xalOns&list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q&ab_channel=TheNetNinja)
+- [Laravel PHP Framework Tutorial - Full Course for Beginners (2019)](https://www.youtube.com/watch?v=ImtZ5yENzgE&ab_channel=freeCodeCamp.org)
+- [Laravel 8 Tutorial - Installation](https://www.youtube.com/watch?v=RyYKXyvM3D4&list=PLz_YkiqIHesvWMGfavV8JFDQRJycfHUvD&ab_channel=SurfsideMedia)
+- [Full Laravel Restaurant Reservation Website | Laravel 9 Tutorial](https://www.youtube.com/watch?v=8KaBeq9JzrQ&ab_channel=Laraveller)
+- [Laravel API Server Full Course - Beginner to Intermediate](https://www.youtube.com/watch?v=_zNi37BJVBk&ab_channel=Acadea.io)
+- [Build and Deploy Laravel 9 Portfolio - For Beginners](https://www.youtube.com/watch?v=JNhmEoBsZ48&ab_channel=TheCodeholic)
+- [Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)](https://www.youtube.com/watch?v=BXiHvgrJfkg&ab_channel=Bitfumes)
+- [Laravel Crash Course](https://www.youtube.com/watch?v=MFh0Fd7BsjE&ab_channel=TraversyMedia)
+- [Laravel 8 tutorial - what is laravel | Introduction](https://www.youtube.com/watch?v=0urHFBFHsLc&list=PL8p2I9GklV46dciS4GDzBFHBi0JVIbnzT&ab_channel=CodeStepByStep)
+- [Laravel 9 Tutorial for Beginners | How to Learn Laravel 9 | Complete Laravel 9 Tutorial in 2022](https://www.youtube.com/watch?v=2mqsVzgsV_c&ab_channel=CodeWithDary)
+
+## 🐃 Sites e cursos para aprender AWS
+
+> Cursos para aprender AWS em Português 
+- [O que é AWS e como aprender mais com o Curso Gratuito Amazon Web Services na Prática - Aula 01 - #32](https://www.youtube.com/watch?v=j6yImUbs4OA&list=PLOF5f9_x-OYUaqJar6EKRAonJNSHDFZUm&ab_channel=UmInventorQualquer)
+- [Aula 1 - Curso Completo AWS - Introdução ao mundo da cloud](https://www.youtube.com/watch?v=HiBCv9DolxI&list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz&ab_channel=MundodaCloud)
+- [Treinamento AWS Cloud Practitioner](https://www.youtube.com/playlist?list=PLAOaeiAO8J5mjnEwpSUteXZ9y7cT-K42H)
+
+> Cursos para aprender AWS em Inglês 
+- [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc&ab_channel=freeCodeCamp.org)
+- [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4&list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3&ab_channel=edureka%21)
+- [AWS Data Engineering Tutorial for Beginners [FULL COURSE in 90 mins]](https://www.youtube.com/watch?v=ckQ7d6ca2J0&list=PL8JO6Q_xfjenBPR9uT_G55UdSd5PYjt1D&ab_channel=JohnnyChivers)
+- [NEW AWS Certified Cloud Practitioner Course - 10 HOURS of VIDEO](https://www.youtube.com/watch?v=kvP_7jT-ImY&list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB&ab_channel=StephaneMaarek)
+- [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4&ab_channel=edureka%21)
+- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org)
+- [How I Passed My AWS Cloud Practitioner Exam in 7 Days](https://www.youtube.com/watch?v=s8byh4MCJYw&ab_channel=Soleyman)
+- [Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners](https://www.youtube.com/watch?v=iRaai1IBlB0&ab_channel=freeCodeCamp.org)
+- [AWS DevOps | AWS DevOps Tutorial For Beginners | AWS DevOps Training | Intellipaat](https://www.youtube.com/watch?v=cI16T7GOPwM&ab_channel=Intellipaat)
+- [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+- [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=ZB5ONbD_SMY&ab_channel=Simplilearn)
+- [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org)
+- [AWS In 10 Minutes | AWS Tutorial For Beginners | AWS Training Video | AWS Tutorial | Simplilearn](https://www.youtube.com/watch?v=r4YIdn2eTm4&ab_channel=Simplilearn)
+- [AWS In 5 Minutes | What Is AWS? | AWS Tutorial For Beginners | AWS Training | Simplilearn](https://www.youtube.com/watch?v=3XFODda6YXo&ab_channel=Simplilearn)
+- [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to&ab_channel=Fireship)
+- [How I would learn AWS Cloud (If I could start over)](https://www.youtube.com/watch?v=Z0EtjKNRdR4&ab_channel=TechWithLucy)
+
+## 🐬 Sites e cursos para aprender Google Cloud
+
+> Cursos para aprender Google Cloud em Português 
+- [Google Cloud Courses](https://www.youtube.com/results?search_query=Google+Cloud++Courses)
+- [Google Cloud, por onde começar e por quê você deveria faze-lo](https://www.youtube.com/watch?v=4lZmhCaq13U&ab_channel=CanaldaCloud)
+- [Apresentando o Google Cloud e Montando Servidor Ubuntu | Mini Curso Servidor Web Google Cloud](https://www.youtube.com/watch?v=OfNyUEqerxg&list=PLD4QKjLthwSIXToJoBrIhA7ARyyhUok9Y&ab_channel=MudardeVidaAgora)
+- [Saiba mais sobre Google Cloud Platform (GCP)](https://www.youtube.com/watch?v=iIBdj3Mump8&ab_channel=PenaRocks)
+
+> Cursos para aprender Google Cloud em Inglês 
+- [Google Cloud Associate Cloud Engineer Course - Pass the Exam!](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org)
+- [Google Cloud Platform Full Course | Google Cloud Platform Tutorial | Cloud Computing | Simplilearn](https://www.youtube.com/watch?v=-pMtwYXSFK8&ab_channel=Simplilearn)
+- [GCP Fundamentals - Google Cloud Platform Fundamentals: Core Infrastructure #1](https://www.youtube.com/watch?v=uOTy_0gXf7I&list=PLVext98k2evjIFqVggHfvecnFu4tTJK_o&ab_channel=Coursera)
+- [What is Google Cloud?](https://www.youtube.com/watch?v=kzKFuHk8ovk&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL&ab_channel=GoogleCloudTech)
+- [Google Cloud Platform Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=G5w1rsFe-qA&ab_channel=zuni)
+- [Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka](https://www.youtube.com/watch?v=IUU6OR8yHCc&ab_channel=edureka%21)
+- [Google Cloud Beginner Tutorial (2023) - Host & Setup A Free Website](https://www.youtube.com/watch?v=1Hyxdg1ZYho&ab_channel=TechExpress)
+- [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=2LaAJq1lB1Q&ab_channel=edureka%21)
+- [Google Cloud Certification Path - New GCP Learning Path - List of Google Cloud Certifications](https://www.youtube.com/watch?v=wiR3u8RNxPo&ab_channel=Whizlabs)
+- [Google Cloud Platform Tutorial | Google Cloud Platform Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=vACTtmLWiQY&ab_channel=Simplilearn)
+- [Google Cloud Training | Google Cloud Platform Course | Google Cloud for Beginners | Intellipaat](https://www.youtube.com/watch?v=gud65lqebrc&ab_channel=Intellipaat)
+- [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=UGRDM86MBIQ&ab_channel=freeCodeCamp.org)
+- [Google Cloud Professional Data Engineer Certification Course](https://www.youtube.com/watch?v=rxUlmJpKY4Y&ab_channel=AlphaTutorials-Cloud)
+- [Google Cloud Platform Course | GCP Course | GCP Tutorial | GCP Training | Intellipaat](https://www.youtube.com/watch?v=rYJmMmpGhdg&ab_channel=Intellipaat)
+
+## 🦆 Sites e cursos para aprender Azure
+
+> Cursos para aprender Azure em Português 
+- [Azure (A plataforma Cloud da Microsoft) // Dicionário do Programador](https://www.youtube.com/watch?v=YgE-sZaCuJ0&ab_channel=C%C3%B3digoFonteTV)
+- [Azure Fundamentals - Introdução ao Curso](https://www.youtube.com/watch?v=AITM8sTsu-o&list=PLwftZeDnOzt0quETXYfGjfi2AcpeGX-7i&ab_channel=RayCarneiro)
+- [AZ-900 | Aula 01 | Curso Completo | Microsoft Azure Fundamentals | Preparação para o Exame AZ900](https://www.youtube.com/watch?v=h5PNYnwApkM&list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&ab_channel=HenriqueEduardoSouza)
+- [Azure Fundamentos (AZ-900) | Aprendendo na Prática !!](https://www.youtube.com/watch?v=mKDxMG1d76w&ab_channel=KaSolutionOficial)
+- [O que é MICROSOFT AZURE? Qual Certificação começar em 2022?](https://www.youtube.com/watch?v=f-oVzkvMwnE&ab_channel=AndreIacono)
+- [Como estudar e tirar sua 1ª certificação Azure de forma Gratuita](https://www.youtube.com/watch?v=OPxPFz2i3G4&ab_channel=MentoriaCloud)
+- [AZ-900 | EP 1/5 | AZ900 | Treinamento Oficial | Microsoft Azure Fundamentals](https://www.youtube.com/watch?v=4ub1uGKQK6U&ab_channel=CanaldaCloud)
+- [Azure na Prática Gratuito #3 - Azure DevOps](https://www.youtube.com/watch?v=6KuoTg1Ojtw&ab_channel=AzurenaPr%C3%A1tica)
+
+> Cursos para aprender Azure em Inglês 
+- [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA&ab_channel=freeCodeCamp.org)
+- [Azure Full Course - Learn Microsoft Azure in 8 Hours | Azure Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=tDuruX7XSac&ab_channel=edureka%21)
+- [AZ-900 | Microsoft Azure Fundamentals Full Course, Free Practice Tests, Website and Study Guides](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&ab_channel=AdamMarczak-AzureforEveryone)
+- [AZ-900 Certification Course - Introduction](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3&ab_channel=JohnSavill%27sTechnicalTraining)
+- [Azure Full Course - Learn Microsoft Azure in 8 Hours | Azure Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=tDuruX7XSac&list=PL9ooVrP1hQOHdFketT6JzY-71nBgIu-n0&ab_channel=edureka%21)
+- [What Is Azure? | Microsoft Azure Tutorial For Beginners | Microsoft Azure Training | Simplilearn](https://www.youtube.com/watch?v=3Arj5zlUPG4&ab_channel=Simplilearn)
+- [Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg&ab_channel=freeCodeCamp.org)
+- [Azure Developer Associate (AZ-204) — Full Course Pass the Exam!](https://www.youtube.com/watch?v=jZx8PMQjobk&ab_channel=freeCodeCamp.org)
+- [Microsoft Azure Developer [Exam AZ-204] Full Course](https://www.youtube.com/watch?v=anef67apIEA&ab_channel=SusanthSutheesh)
+- [Azure Administrator Training Course | AZ-103 Training | Intellipaat](https://www.youtube.com/watch?v=ki6rJwXzTSM&ab_channel=Intellipaat)
+- [Azure DevOps Tutorial for Beginners | Azure DevOps | Azure DevOps Boards | Intellipaat](https://www.youtube.com/watch?v=0WlDQakFAwE&ab_channel=Intellipaat)
+- [Azure Training | Azure Tutorial | Intellipaat](https://www.youtube.com/watch?v=0bNFkI_0jhc&ab_channel=Intellipaat)
+- [Azure Course | Microsoft Azure Full Course 2023 | Azure Tutorial For Beginners | Intellipaat](https://www.youtube.com/watch?v=hG-wgtKJ9Es&ab_channel=Intellipaat)
+- [Microsoft Azure Fundamentals Certification (AZ-900) Full Course | Azure Online Training | Edureka](https://www.youtube.com/watch?v=wK3U7xSt31M&ab_channel=edureka%21)
+
+## 🦅 Sites e cursos para aprender Django
+
+> Cursos para aprender Django em Português 
+- [Como Sair do Zero em Django no Python [Passo a Passo Primeiro Site]](https://www.youtube.com/watch?v=DNGI5aD9MJs&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+- [Curso de Django 2 #01: Instalando o Django no Windows](https://www.youtube.com/watch?v=LZsjuSBW5YM&list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj&ab_channel=MatheusBattisti-HoradeCodar)
+- [Como criar ambientes virtuais no Python com virtualenv e instalar pacotes como o Django, numpy, etc](https://www.youtube.com/watch?v=NNHlGCdQSNw&list=PLjv17QYEBJPpd6nI-MXpIa4qR7prKfPQz&ab_channel=RafaelZottesso)
+- [Aula 1 - Introdução e conhecendo o Framework](https://www.youtube.com/watch?v=UIvnNCQnejw&list=PLHWfNMxB2F4HdKbo8zdgXyxVDOxH429Ko&ab_channel=GregoryPacheco)
+- [Curso Django Avançado - Criando Uma Aplicação - 01](https://www.youtube.com/watch?v=2ayKIJJf1Ls&list=PL2Dw5PtrD32xmc9R48g4GWULWuWkbAllC&ab_channel=Cursosdeprograma%C3%A7%C3%A3o)
+- [Loja virtual - e-commerce - utilizando Django](https://www.youtube.com/watch?v=z_MMsWyLdj0&list=PLeFetwYAi-F_9lT7em1UDEXS-3Gm9hjrI&ab_channel=C%C3%93DIGOFLUENTE)
+- [Django, Curso de Django para Principiantes](https://www.youtube.com/watch?v=T1intZyhXDU&ab_channel=Fazt)
+- [Passo a passo para se tornar um desenvolvedor Python com Django | Aula semanal #31](https://www.youtube.com/watch?v=j2MPk-mVl10&ab_channel=pythonando)
+- [Django 4 CRUD completo em 30 minutos](https://www.youtube.com/watch?v=GGBzMpIAgz4&ab_channel=GregoryPacheco)
+
+> Cursos para aprender Django em Inglês 
+- [Python Django Tutorial 2020 - Full Course for Beginners](https://www.youtube.com/watch?v=JT80XhYJdBw&ab_channel=CleverProgrammer)
+- [Python Django 7 Hour Course](https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia)
+- [Django For Everybody - Full Python University Course](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org)
+- [Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&ab_channel=CoreySchafer)
+- [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4&ab_channel=freeCodeCamp.org)
+- [How I learned Django in 3 Months](https://www.youtube.com/watch?v=cRF7hIsIO10&ab_channel=DennisIvy)
+- [Learn Django Class-Based Views - Using TemplateView - theory and examples](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT&ab_channel=VeryAcademy)
+- [Django CRM Course - Learn how to build a CRM using Python](https://www.youtube.com/watch?v=LWro0nVdrBw&list=PLpyspNLjzwBka94O3ABYcRYk8IaBR8hXZ&ab_channel=CodeWithStein)
+- [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&ab_channel=freeCodeCamp.org)
+- [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&ab_channel=freeCodeCamp.org)
+- [E-commerce Website With Django and Vue Tutorial (Django Rest Framework)](https://www.youtube.com/watch?v=Yg5zkd9nm6w&ab_channel=freeCodeCamp.org)
+- [Python Django Tutorial for Beginners](https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh)
+
+## 🐏 Sites e cursos para aprender Gatsby
+
+> Cursos para aprender Gatsby em Português 
+- [Gatsby JS - Introdução ao tutorial](https://www.youtube.com/watch?v=3b2PinXRqYU&list=PLN9uKzK0o3GR3ky2Q6zc2v0Dlej3oOBtT&ab_channel=ThiagoFranchin)
+- [Gatsby (A alternativa ao Next.js que trabalha com MUUUITAS PÁGINAS WEB) // Dicionário do Programador](https://www.youtube.com/watch?v=uYVVzCmKY7M&t=285s&ab_channel=C%C3%B3digoFonteTV)
+- [Configurando projeto Gatsby | Behind the Code #09](https://www.youtube.com/watch?v=Z88SWjN6Yj0&t=4431s&ab_channel=Rocketseat)
+
+> Cursos para aprender Gatsby em Inglês 
+- [Gatsby Tutorial #1 - What is a Static Site Generator?](https://www.youtube.com/watch?v=Qms4k6y7OgI&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB&ab_channel=TheNetNinja)
+- [Gatsby JS - Introdução ao tutorial](https://www.youtube.com/watch?v=3b2PinXRqYU&list=PLN9uKzK0o3GR3ky2Q6zc2v0Dlej3oOBtT&ab_channel=ThiagoFranchin)
+- [Gatsby Static Site Generator Tutorial](https://www.youtube.com/watch?v=RaTpreA0v7Q&ab_channel=freeCodeCamp.org)
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc&ab_channel=TraversyMedia)
+- [Strapi & GatsbyJS Course - Portfolio Project](https://www.youtube.com/watch?v=Oc_ITwxiG-Y&ab_channel=freeCodeCamp.org)
+- [Gatsby - Full Tutorial for Beginners](https://www.youtube.com/watch?v=mHFAM0CXviE&ab_channel=freeCodeCamp.org)
+- [Can We Really Make a Gatsby Portfolio in 10 Minutes?](https://www.youtube.com/watch?v=JxB_MY7IkME&ab_channel=zachOSTech)
+- [GatsbyJS e WordPress: o básico](https://www.youtube.com/watch?v=W48eHfkwtlo&ab_channel=FelipeEliaWP)
+- [Webinar | The All New Gatsby 5](https://www.youtube.com/watch?v=X_9yDpPpp2w&ab_channel=Gatsby)
+- [What is Gatsby JS and Why Use It](https://www.youtube.com/watch?v=GuvAMcsoreI&ab_channel=ZacGordon)
+- [The Great Gatsby Bootcamp - Full Gatsby.js Tutorial Course](https://www.youtube.com/watch?v=kzWIUX3CpuI&ab_channel=freeCodeCamp.org)
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc&ab_channel=TraversyMedia)
+
+## 🐂 Sites e cursos para aprender ASP.net
+
+> Cursos para aprender ASP.net em Português 
+- [Curso completo ASP.net Core](https://www.youtube.com/watch?v=r6AcjjNvI8w&list=PL_yq9hmeKAk_5bdDzHBdqe5LGrZMxawOl&ab_channel=HenriqueEduardoSouza)
+- [Bem-vindos ao ASP.net](https://www.youtube.com/watch?v=Z3DU-Jpft74&list=PLXik_5Br-zO-5SRVrpNHnP4uVMBL2Gqz2&ab_channel=Jo%C3%A3oRibeiro)
+- [Projeto do curso de .NET Core C# | Mod 01 - Aula 01](https://www.youtube.com/watch?v=q1sF6D7vKPE&list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS&ab_channel=MidoriFukami)
+- [ASP.Net MVC - C# - Criando uma aplicação do Zero](https://www.youtube.com/watch?v=-v0sfER0po8&list=PLJ0IKu7KZpCQKdwRbU7HfXW3raImmghWZ&ab_channel=ProgramadorTech)
+
+> Cursos para aprender ASP.net em Inglês 
+- [ASP.NET - Introduction](https://www.youtube.com/watch?v=ccXz-oIrFe0&list=PLWPirh4EWFpGdA3VPS9umbvP6YGT3hUU9&ab_channel=TutorialsPoint)
+- [What is ASP.NET Part 1](https://www.youtube.com/watch?v=3AYoipyqOkQ&list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo&ab_channel=kudvenkat)
+- [ASP.NET Core 6 Full Course: ASP.NET Core MVC Tutorial](https://www.youtube.com/watch?v=XE0EcyEKdq4&ab_channel=ScholarHatByDotNetTricks)
+- [ASP.NET Microservices – Full Course for Beginners](https://www.youtube.com/watch?v=CqCDOosvZIk&ab_channel=freeCodeCamp.org)
+- [ASP.NET Core MVC Course (.NET 5)](https://www.youtube.com/watch?v=Pi46L7UYP8I&ab_channel=freeCodeCamp.org)
+- [Complete 3 Hour ASP NET 6.0 and Entity Framework Core Course!](https://www.youtube.com/watch?v=7d2UMAIgOLQ&ab_channel=tutorialsEU)
+
+## 🐖 Sites e cursos para aprender Inteligência Artificial
+
+> Cursos para aprender Inteligência Artificial em Português 
+- [Inteligência Artificial: Aula 0 - Introdução](https://www.youtube.com/watch?v=m1-Hc5-H22M&list=PL4OAe-tL47sY1OgDs7__GJW8xBpPEeNfC&ab_channel=Zurubabel)
+- [Introdução a Inteligência Artificial](https://www.youtube.com/watch?v=AotU3yIExqI&list=PL-LIyhnUCPkGdj9umESeimOfWctErNVzH&ab_channel=PROF.FABIOSANTOS)
+- [Curso de Inteligência Artificial - O que é Inteligência Artificial](https://www.youtube.com/watch?v=82VyhCNpxYA&list=PL5EmR7zuTn_Z912YaqukK1SWfY5o2xrYA&ab_channel=davestecnologia)
+- [Introdução às Redes Neurais Artificiais - Apresentação do Curso - Aula #0](https://www.youtube.com/watch?v=OQwxeFSJ_Q4&list=PLZj-vsMJRNhprMuIaE6HXmOkHh0NEEMtL&ab_channel=Intelig%C3%AAnciaArtificialnaPr%C3%A1tica)
+- [Introdução à IA #1: Introdução](https://www.youtube.com/watch?v=ucoFLlasfIo&list=PLBqjnKyN75dQiW0WJtvNoBESF5q8OWdge&ab_channel=AlgoritmoZ)
+- [Inteligencia Artificial com Unity - Aula 01 - Desenvolvimento de Jogos](https://www.youtube.com/watch?v=Ins6YXFJU7M&list=PLxNM4ef1BpxirZvCvdzMbFJrAWSWzGpIC&ab_channel=PortalHugoCursos)
+- [Inteligência Artificial na Prática com Python [Projeto Flappy Bird - Aula 1 de 4]](https://www.youtube.com/watch?v=GMDb2jtzKZQ&list=PLpdAy0tYrnKyVQDckS5IDB24QrSap2u8y&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+
+> Cursos para aprender Inteligência Artificial em Inglês 
+- [Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk&ab_channel=edureka%21)
+- [Artificial Intelligence | What is AI | Introduction to Artificial Intelligence | Edureka](https://www.youtube.com/watch?v=4jmsHaJ7xEA&list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI&ab_channel=edureka%21)
+- [Overview Artificial Intelligence Course | Stanford CS221: Learn AI (Autumn 2019)](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&ab_channel=StanfordOnline)
+
+## 🦀 Sites e cursos para aprender Machine Learning
+
+> Cursos para aprender Machine Learning em Português 
+- [Preencher Dados que Faltam da Galera do SVBR - Machine Learning 01](https://www.youtube.com/watch?v=p_SmODmFRUw&list=PL-t7zzWJWPtzhZtI-bWWHFtCfxtjmBdIW&ab_channel=UniversoDiscreto)
+- [O que é Inteligência Artificial?](https://www.youtube.com/watch?v=ID5Ui22F8HQ&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4&ab_channel=Did%C3%A1ticaTech)
+- [O que é MACHINE LEARNING? Introdução ao APRENDIZADO DE MÁQUINA | Machine Learning #1](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica)
+- [Python para Machine Learning (Curso - Aula 1)](https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ-&ab_channel=Did%C3%A1ticaTech)
+- [Introdução ao Machine Learning (ML de Zero a 100, parte 1)](https://www.youtube.com/watch?v=t5z5lyrb-7s&ab_channel=TensorFlow)
+- [Curso de Machine Learning Em Português - Introdução da Primeira Parte](https://www.youtube.com/watch?v=pKc1J4RB_VQ&list=PL4OAe-tL47sb3xdFBVXs2w1BA2LRN5JU2&ab_channel=Zurubabel)
+
+> Cursos para aprender Machine Learning em Inglês 
+- [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44&ab_channel=SethBling)
+- [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc&ab_channel=freeCodeCamp.org)
+- [The Best (Free) Machine Learning Courses Online!](https://www.youtube.com/watch?v=7t5MJ38NZ8E&ab_channel=CharlesWeill)
+- [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org)
+- [Best Machine Learning Courses on Coursera](https://www.youtube.com/watch?v=A4OVjWeVb10&ab_channel=AlexTheAnalyst)
+- [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&ab_channel=freeCodeCamp.org)
+
+## 🦑 Sites e cursos para aprender Data Science
+
+> Cursos para aprender Data Science em Português 
+- [Data Science: Introdução a Ciência de Dados (Primeira aula prática programando em Python)](https://www.youtube.com/watch?v=F608hzn_ygo&ab_channel=FilipeDeschamps)
+- [Os 3 Melhores Cursos de Data Science que fiz no Coursera](https://www.youtube.com/watch?v=r6nN8OQ-6co&ab_channel=MarioFilho)
+- [Como se Tornar um Cientista de Dados de Sucesso - Vlog #105](https://www.youtube.com/watch?v=-vawLSNdo-A&ab_channel=C%C3%B3digoFonteTV)
+- [Como eu aprenderia Data Science em 2022 (se começasse do zero) - Data Hackers](https://www.youtube.com/watch?v=K2Vu6E5Ybmo&ab_channel=DataHackers)
+- [Curso de Ciência de Dados (CCDD) 000 - Introdução ao Curso](https://www.youtube.com/watch?v=CiUumyrp7Ow&list=PLfCKf0-awunPFkWOKWNaXB_ndaHBlJ4QQ&ab_channel=Ignor%C3%A2nciaZero)
+- [Python para Data Science - #0 Apresentação e Ambiente](https://www.youtube.com/watch?v=WUuiEEuvgFE&list=PL3ZslI15yo2qCEmnYOa2sq6VQOzQ2CFhj&ab_channel=xavecoding)
+- [Mini-Curso: Introdução à Big Data e Data Science - Aula 1 - O que é Big Data](https://www.youtube.com/watch?v=8D20ZNTc-xA&list=PLrakQQfctUYUDaEsft9avwjbvemIEwiRQ&ab_channel=DiegoNogare)
+- [O que eu faria se tivesse que começar Ciência de Dados em 2022? | Comunidade DS | Meigarom Lopes](https://www.youtube.com/watch?v=0vbWEU9J3xs&ab_channel=SejaUmDataScientist)
+- [O que eu faria se tivesse que começar em Data Science hoje.](https://www.youtube.com/watch?v=VlYDWOfiFuc&ab_channel=SejaUmDataScientist)
+- [Aprenda tudo sobre Data Science, seus primeiros passos](https://www.youtube.com/watch?v=IQdISZCosAE&ab_channel=AluraCursosOnline)
+
+> Cursos para aprender Data Science em Inglês 
+- [Top Courses to Learn Data Science Skills FAST!](https://www.youtube.com/watch?v=ho9vNL4MYZ8&ab_channel=ThuVudataanalytics)
+- [Data Science Full Course - Learn Data Science in 10 Hours | Data Science For Beginners | Edureka](https://www.youtube.com/watch?v=-ETQ97mXXF0&ab_channel=edureka%21)
+- [What is Data Science? | Free Data Science Course | Data Science for Beginners | codebasics](https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&ab_channel=codebasics)
+- [Data Science Roadmap 2023 | Learn Data Science Skills in 6 Months](https://www.youtube.com/watch?v=eaFaD_IBYW4&ab_channel=codebasics)
+- [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30&ab_channel=freeCodeCamp.org)
+- [Reinforcement Learning in 3 Hours | Full Course using Python](https://www.youtube.com/watch?v=Mut_u40Sqz4&list=PLgNJO2hghbmid6heTu2Ar68CzJ344nUHy&ab_channel=NicholasRenotte)
+- [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY&list=PLlgLmuG_KgbaXMKcISC-fdz7HUn1oKr9i&ab_channel=GreatLearning)
+- [How I Would Learn Data Science in 2022](https://www.youtube.com/watch?v=Rt6eb9VOFII&ab_channel=RecallbyDataiku)
+- [How I Would NOT Learn Data Science in 2023.](https://www.youtube.com/watch?v=t6CD1EwU5kc&ab_channel=KenJee)
+- [O que realmente é Ciência de Dados? Explicado por um Cientista de Dados](https://www.youtube.com/watch?v=xC-c7E5PK0Y&ab_channel=JomaTech)
+- [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28&ab_channel=freeCodeCamp.org)
+- [A Day In The Life Of A Data Scientist](https://www.youtube.com/watch?v=Ck0ozfJV9-g&ab_channel=JomaTech)
+- [Data Science In 5 Minutes | Data Science For Beginners | What Is Data Science? | Simplilearn](https://www.youtube.com/watch?v=X3paOmcrTjQ&ab_channel=Simplilearn)
+- [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM&ab_channel=freeCodeCamp.org)
+- [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org)
+
+## 🐙 Sites e cursos para aprender NumPy
+
+> Cursos para aprender NumPy em Português 
+- [Curso Grátis - Se torne um Analista de Dados](https://www.youtube.com/watch?v=5kepfx0RquY&list=PL3Fmwz_E1hXRWxIkP843DiDf0ZeqgftTy&ab_channel=Gera%C3%A7%C3%A3oAnal%C3%ADtica)
+- [Como Sair do Zero com a Biblioteca Numpy no Python](https://www.youtube.com/watch?v=LZDZ0AZmWHI&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+
+> Cursos para aprender NumPy em Inglês 
+- [NumPy Full Python Course - Data Science Fundamentals](https://www.youtube.com/watch?v=4c_mwnYdbhQ&ab_channel=NeuralNine)
+- [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org)
+- [Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org)
+- [Introduction to NumPy Arrays for Beginners - Learn NumPy Series](https://www.youtube.com/watch?v=9fcTq8PDWWA&list=PLc_Ps3DdrcTuf3e-BBpDv8r9jbOB5Wdv-&ab_channel=DerrickSherrill)
+- [NumPy Python - What is NumPy in Python | Numpy Python tutorial in Hindi](https://www.youtube.com/watch?v=ZaKzw9tULeM&list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&ab_channel=WsCubeTech)
+- [Introduction to Numpy and Scipy | Python Tutorials](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xukqLLjNeuCxj4CwvkJin03Z&ab_channel=Amulya%27sAcademy)
+- [Intro To Numpy - Numpy For Machine Learning 1](https://www.youtube.com/watch?v=gnKbAAVUzro&list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK&ab_channel=Codemy.com)
+- [HOW TO INSTALL NUMPY - PYTHON PROGRAMMING](https://www.youtube.com/watch?v=8jBY5ior4W4&list=PLLOxZwkBK52BS9QmfiuJAGSoVikI5-1hN&ab_channel=SundeepSaradhiKanthety)
+- [NumPy Explained - Full Course (3 Hrs)](https://www.youtube.com/watch?v=eClQWW_gbFk&ab_channel=GormAnalysis)
+- [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org)
+- [Numpy Full Course  | Numpy Tutorial | Python Tutorial For Beginners | Python Training | Simplilearn](https://www.youtube.com/watch?v=j31ah5Qa4QI&ab_channel=Simplilearn)
+- [Numpy Tutorial | Python Numpy Tutorial | Intellipaat](https://www.youtube.com/watch?v=DI8wg3SRV90&ab_channel=Intellipaat)
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&ab_channel=freeCodeCamp.org)
+- [NumPy Tutorial : Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg&ab_channel=DerekBanas)
+- [Learn NUMPY in 5 minutes - BEST Python Library!](https://www.youtube.com/watch?v=xECXZ3tyONo&ab_channel=PythonProgrammer)
+- [Python Numpy Full Tutorial For Beginners | Numpy Full Course in 4 Hours](https://www.youtube.com/watch?v=-TYSM0CDA4c&ab_channel=WsCubeTech)
+- [NumPy for Beginners in 15 minutes | Python Crash Course](https://www.youtube.com/watch?v=uRsE5WGiKWo&ab_channel=NicholasRenotte)
+
+## 🦃 Sites e cursos para aprender Pandas
+
+> Cursos para aprender Pandas em Português 
+- [Curso de Pandas - Python - Introdução ao curso (versão ago/2020)](https://www.youtube.com/watch?v=1ua6uksg6wg&list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk&ab_channel=Zurubabel)
+- [Introdução ao Pandas no Python - [SAIA DO ZERO EM 1 AULA]](https://www.youtube.com/watch?v=C0aj3FjN5e0&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+- [Curso Grátis - Se torne um Analista de Dados](https://www.youtube.com/watch?v=5kepfx0RquY&list=PL3Fmwz_E1hXRWxIkP843DiDf0ZeqgftTy&ab_channel=Gera%C3%A7%C3%A3oAnal%C3%ADtica)
+- [Manipulação de Dados em Python/Pandas - #00 Apresentação e Ambiente](https://www.youtube.com/watch?v=hD0uJln4S2Y&list=PL3ZslI15yo2pfkf7EGNR14xTwe-wZ2bNX&ab_channel=xavecoding)
+- [Curso para principiantes de Pandas para análisis de datos desde cero paso a paso en Python](https://www.youtube.com/watch?v=1CIZFu_qWvk&list=PLjdo6jnQHJFYUxftilqXD1pgzq9E9yJze&ab_channel=EscuelaDeBayes)
+- [Curso rápido completo de Pandas - Parte 1](https://www.youtube.com/watch?v=6vpDSD1wchA&ab_channel=UniversidadedosDados)
+- [Pandas do ZERO a ANÁLISE de DADOS | Dica de Pandas Python para Análise de Dados](https://www.youtube.com/watch?v=wnGsAOPKjLo&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica)
+- [Pandas (A Lib "Delicinha" para Data Science) - Dicionário do Programador](https://www.youtube.com/watch?v=yCtiqMRt4TQ&ab_channel=C%C3%B3digoFonteTV)
+
+> Cursos para aprender Pandas em Inglês 
+- [Introduction to Pandas](https://www.youtube.com/watch?v=t4yBm9agYWo&list=PLFAYD0dt5xCxdKfIR3ZX3k07qrqEjUZSO&ab_channel=MachineLearningPlus)
+- [Pandas: free courses, books and learning resources.](https://www.youtube.com/watch?v=W0nC1yiL-VM&ab_channel=PythonProgrammer)
+- [Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
+- [Python Pandas Tutorial 1. What is Pandas python? Introduction and Installation](https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&ab_channel=codebasics)
+- [Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org)
+- [Data Analytics with Python](https://www.youtube.com/watch?v=4SJ7bEILPJk&list=PLLy_2iUCG87CNafffzNZPVa9rW-QmOmEv&ab_channel=IITRoorkeeJuly2018)
+- [Install Jupyter Notebook and Pandas - Pandas For Machine Learning 1](https://www.youtube.com/watch?v=fA0Ty562y8A&list=PLCC34OHNcOtqSz7Ke7kaYRf9CfviJgO55&ab_channel=Codemy.com)
+- [Pandas Tutorial : Pandas Full Course](https://www.youtube.com/watch?v=PcvsOaixUh8&ab_channel=DerekBanas)
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&ab_channel=freeCodeCamp.org)
+- [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg&ab_channel=KeithGalli)
+- [Pandas for Data Science in 20 Minutes | Python Crash Course](https://www.youtube.com/watch?v=tRKeLrwfUgU&ab_channel=NicholasRenotte)
+- [Learn pandas in 4 hours with this great (free) Kaggle course. Python for Data Science](https://www.youtube.com/watch?v=GU2mcHjLWlE&ab_channel=PythonProgrammer)
+
+## 🐟 Sites e cursos para aprender XML
+
+> Cursos para aprender XML em Português 
+- [XML - Dicionário do Programador](https://www.youtube.com/watch?v=h7W0UuRd4fc&ab_channel=C%C3%B3digoFonteTV)
+- [Curso de XML - Aula 01](https://www.youtube.com/watch?v=zqg38jy5yWQ&list=PLC1DD2110DBABA0E8&ab_channel=MarcosSouza)
+- [XML - Dicionário de Informática](https://www.youtube.com/watch?v=cwuosmEJuUQ&ab_channel=Dicion%C3%A1riodeInform%C3%A1tica)
+- [XML: Conceitos básicos](https://www.youtube.com/watch?v=LL3nWI2pM8E&ab_channel=Rog%C3%A9rioAra%C3%BAjo)
+
+> Cursos para aprender XML em Inglês 
+- [What is XML | XML Beginner Tutorial | Learn XML with Demo in 10 min](https://www.youtube.com/watch?v=1JblVElt5K0&list=PLhW3qG5bs-L9DloLUPwC3GdFimY5Ce_gS&ab_channel=AutomationStepbyStep)
+- [XML Tutorial 1 Introduction](https://www.youtube.com/watch?v=YX-Arx4TBmU&list=PLbhnirpS9esXfdfZ0mapojvDycQBAIx-C&ab_channel=mrfizzlebutt)
+- [XML Tutorial for Beginners Theory](https://www.youtube.com/watch?v=n-y-YHVZSwk&list=PLmdFG1KSZhosqwkP-BCtcMq0KubZ4v1Cm&ab_channel=Telusko)
+- [XML Tutorial For Beginners | XML Tutorial | What Is XML? | Learn XML For Beginners | Simplilearn](https://www.youtube.com/watch?v=E-NciVkZFVs&ab_channel=Simplilearn)
+
+## 🦢 Sites e cursos para aprender Jenkins
+
+> Cursos para aprender Jenkins em Português 
+[O básico de Pipelines CI/CD com Jenkins](https://www.youtube.com/watch?v=O6y27_Ol25g&ab_channel=Fabr%C3%ADcioVeronez)
+[Curso de Jenkins - 01 Instalação](https://www.youtube.com/watch?v=8iLRsb2gXXY&ab_channel=MarceloGomesdePaula)
+[Jenkins: O mínimo que você precisa saber](https://www.youtube.com/watch?v=8OfhS5f7jIY&ab_channel=FullCycle)
+
+> Cursos para aprender Jenkins em Inglês 
+[Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn](https://www.youtube.com/watch?v=FX322RVNGj4&ab_channel=Simplilearn)
+[Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://www.youtube.com/watch?v=6YZvp2GwT0A&ab_channel=DevOpsJourney)
+[Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://www.youtube.com/watch?v=f4idgaq2VqA&ab_channel=freeCodeCamp.org)
+[What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=LFDrDnKPOTg&ab_channel=Simplilearn)
+[Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0&ab_channel=TechWorldwithNana)
+[Jenkins pipeline// Advanced Tutorial // May2020- Session 1 (Part 1 Out 3 ) by DevOpsSchool](https://www.youtube.com/watch?v=v0nZnp0FUzs&list=PL0xeHY_ImQVXcCAu0PSdWKERIu4xLGo7N&ab_channel=AiOps%26MLOpsSchool)
+[Deployment Overview | Jenkins](https://www.youtube.com/watch?v=813eFgtceio&list=PLRVv68RjliSfxKab5wJ3dYW7ZtlMPBoJ4&ab_channel=KubernetesAWSJenkinsCafe)
+[Part 1 - An Introduction to Jenkins 2.0 for Build+Deploy+Test](https://www.youtube.com/watch?v=HZOII16W0oY&list=PL6tu16kXT9PqIe2b0BGul-cXbmwGt7Ihw&ab_channel=ExecuteAutomation)
+[Jenkins Beginner Tutorial 1 - Introduction and Getting Started](https://www.youtube.com/watch?v=89yWXXIOisk&list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG&ab_channel=AutomationStepbyStep)
+[Jenkins Full Course | Jenkins Tutorial For Beginners | Learn Jenkins Step By Step | Simplilearn](https://www.youtube.com/watch?v=MayMkFCkzj4&ab_channel=Simplilearn)
+[Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=3a8KsB5wJDE&ab_channel=edureka%21)
+[Jenkins Tutorial For Beginners 1 - Introduction to Jenkins](https://www.youtube.com/watch?v=yz3tyeA3Fe0&list=PLS1QulWo1RIbY8xXPqz6ad_sNHkIP3IXI&ab_channel=ProgrammingKnowledge)
+[Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](https://www.youtube.com/watch?v=woMAXn4e8NA&ab_channel=AutomationStepbyStep)
+[Jenkins Tutorial | Jenkins Course For Developers and DevOps](https://www.youtube.com/watch?v=BvUkXrAAqjE&ab_channel=ProgrammingKnowledge)
+[Free Jenkins CI course for beginners | Learn Jenkins CI / CD tool in one video.](https://www.youtube.com/watch?v=zhDTF_vjkuQ&ab_channel=TravelsCode)
+
+## Sites e cursos para aprender Xamarin
+
+> Cursos para aprender Xamarin em Português 
+[Curso de C# Xamarin - Aula 01 - Android, IOS e Windows Phone com C#](https://www.youtube.com/watch?v=d2tBuQEZtH8&list=PLxNM4ef1BpxjmpXgb-_0W6hUxjbgbI0PQ&ab_channel=PortalHugoCursos)
+[Xamarin (o concorrente do Flutter e React Native) - Dicionário do Programador](https://www.youtube.com/watch?v=rtuywS2fG2Y&ab_channel=C%C3%B3digoFonteTV)
+
+> Cursos para aprender Xamarin em Inglês 
+[Kill Kotlin and Swift, Use C# Instead - Welcome to Xamarin.Forms!](https://www.youtube.com/watch?v=9eM9T5svYHw&list=PLdkt3RKz_b0zd3FHevP5Bd2vZYIwq12pF&ab_channel=EduardoRosas)
+[Xamarin Android Tutorial - Linear Layout](https://www.youtube.com/watch?v=Wj-WT4uWlKA&list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8&ab_channel=EDMTDev)
+[Xamarin Forms #0- Introduction](https://www.youtube.com/watch?v=e6LeoYD1A1I&list=PL0CKdD7TV8pG0kNyfWO5LFqeU6J6Zj_49&ab_channel=Mikaelson)
+[Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://www.youtube.com/watch?v=93ZU6j59wL4&ab_channel=ProgrammingwithMosh)
+
+## Sites e cursos para aprender Matlab
+
+> Cursos para aprender Matlab em Português 
+[Curso de MATLAB #01 - Introdução](https://www.youtube.com/watch?v=da0qJnleaEQ&list=PLE1UtdMhwaEobcUPjpo27o5HxeBSYjLEs&ab_channel=2001Engenharia)
+[Aula 01- Apresentação do curso e do Ambiente do MATLAB](https://www.youtube.com/watch?v=XyNI0-DP-0o&list=PLJoR6gvpdNEZLB-Epf9csRTLhubXSnrzs&ab_channel=CarlosRonyheltonSantanadeOliveira)
+[Curso de MATLAB - Introdução](https://www.youtube.com/watch?v=88NQiUU6khY&list=PLlx81VEju6qAUUSE3M6NlFoFnrSSqR59-&ab_channel=LASI-)
+[Introdução ao Matlab para Engenharia # 001](https://www.youtube.com/watch?v=-8lHG5lX4Fg&list=PLALkrMtuSoe-0mVxznaj9NKosBUFKL7pr&ab_channel=SergioA.Casta%C3%B1oGiraldo-Brasil)
+[Apresentação e Estrutura do Curso - Curso de Matlab - PETEE UFMG](https://www.youtube.com/watch?v=3366RoF1WaA&list=PL73kW0L8uzCK2qFoaY4Rur2FUetnNoUze&ab_channel=PETEEUFMG)
+
+> Cursos para aprender Matlab em Inglês 
+[The Complete MATLAB Course: Beginner to Advanced!](https://www.youtube.com/watch?v=T_ekAD7U-wU&ab_channel=JosephDelgadillo)
+[Matlab Online Tutorial - 01 - The User Interface, Part 1](https://www.youtube.com/watch?v=w1cnxqBaljA&list=PLnVYEpTNGNtX6FcQm90I0WXdvhoEJPp3p&ab_channel=MathandScience)
+[Learn MATLAB Episode #1: Installation & Resources](https://www.youtube.com/watch?v=nmyJTiZ3NeE&list=PLYmlEoSHldN4bz5WY7e0OvXQ90E_xUOmz&ab_channel=JosephDelgadillo)
+[MATLAB Crash Course for Beginners](https://www.youtube.com/watch?v=7f50sQYjNRA&ab_channel=freeCodeCamp.org)
+[Lesson 1: 1. Introduction (Old version)](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS&ab_channel=FitzleLLC)
+[What is MATLAB? & How It Works | MATLAB Features & Types | MATLAB Tutorial for Beginners](https://www.youtube.com/watch?v=0x4JhS1YpzI&list=PLjVLYmrlmjGcNZrPa9bRg0JVlcxLX4Mu9&ab_channel=WsCubeTech)
+
+## Sites e cursos para aprender Julia
+
+> Cursos para aprender Julia em Português 
+- [Julia Lang (A Mistura de Linguagens que Deu Certo) - Dicionário do Programador](https://www.youtube.com/watch?v=Xzdg9czOxD8&ab_channel=C%C3%B3digoFonteTV)
+- [Uma LINGUAGEM para CIÊNCIA de DADOS? | Handshake #24 | Programe na Linguagem Julia](https://www.youtube.com/watch?v=Tj0CUAyxjck&list=PL5TJqBvpXQv4cAynxaIyclmpZ95g-gtqQ&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica)
+- [Linguagem de Programação Julia - Primeiras Impressões](https://www.youtube.com/watch?v=G2tYt3IKbXA&ab_channel=CaioDallaqua)
+- [Estrutura Básica | Linguagem Julia](https://www.youtube.com/watch?v=h0ubpGRtBUI&ab_channel=FilipeBraida)
+- [Tutoriais de Julia em Português - Super Tutorial do Básico](https://www.youtube.com/watch?v=Gmm5voUQaHw&ab_channel=AbelSiqueira)
+
+> Cursos para aprender Julia em Inglês 
+- [Julia Tutorial | Julia Data Science Basic Full Course [Complete Tutorial] for Beginners [2019]](https://www.youtube.com/watch?v=lwj-1mclq0U&ab_channel=AbhishekAgarrwal)
+- [A Gentle Introduction to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE&ab_channel=TheJuliaProgrammingLanguage)
+- [The Continuing Advancements of Scientific Machine Learning (SciML) | 2022 DigiWell Julia Seminar](https://www.youtube.com/watch?v=yHiyJQdWBY8&ab_channel=TheJuliaProgrammingLanguage)
+- [Julia for Data Science - Video 0: Welcome, by Dr. Huda Nassar (for JuliaAcademy.com)](https://www.youtube.com/watch?v=AXgLWumAOhk&list=PLP8iPy9hna6QuDTt11Xxonnfal91JhqjO&ab_channel=TheJuliaProgrammingLanguage)
+- [Julia in 100 Seconds](https://www.youtube.com/watch?v=JYs_94znYy0&ab_channel=Fireship)
+- [JULIA COURSE FOR COMPLETE BEGINERS](https://www.youtube.com/watch?v=2apwJKYOdZo&ab_channel=F-Course)
+
+
+## 🐨 Sites e cursos para aprender PowerShell
+
+> Cursos para aprender Powershell em Português
+- [PowerShell - Fundamentos](https://www.youtube.com/playlist?list=PLO_mlVzHgDw3EIKrT5rma_rmC4Lcc7ihT)
+- [Tutoriais de Windows PowerShell](https://www.youtube.com/playlist?list=PLucm8g_ezqNpdK1sHdiDC3T8VMANcT5WZ)
+- [PowerShell - ProfessorRamos](https://www.youtube.com/playlist?list=PL35Zp8zig6slB_EaLbwKP57L9weBfICtS)
+- [Curso Windows PowerShell - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLs8UzdP13z6oEUoENIGkBQf1b2AtZcyoB)
+
+> Cursos para aprender Powershell em Espanhol
+- [Curso PowerShell 2022](https://www.youtube.com/playlist?list=PLn98b7UTDjb1h5_LCHXyeJR8nrPeTaSBM)
+- [Curso de PowerShell en Español](https://www.youtube.com/playlist?list=PLs3CpSZ8xiuS-qgB7SgrMoDaJcFY88EIA)
+
+> Cursos para aprender Powershell em Inglês
+- [PowerShell Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8)
+- [PowerShell For Beginners Full Course](https://www.youtube.com/watch?v=UVUd9_k9C6A&ab_channel=Nerd%27slesson)
+- [Powershell Advanced Tools and Scripting Full Course](https://www.youtube.com/watch?v=K4YDHFalAK8&ab_channel=Nerd%27slesson)
+- [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58&ab_channel=JohnSavill%27sTechnicalTraining)
+
+## 🐥 Sites e cursos para aprender Flask
+
+> Cursos para aprender Flask em Português
+- [Introdução - Curso de Flask](https://www.youtube.com/watch?v=r40pC9kyoj0&list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&ab_channel=J%C3%BAliaRizza)
+- [Curso Flask - Aula 00 - Início](https://www.youtube.com/watch?v=MysMy8aV2NA&list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI&ab_channel=FilipeMorelliDeveloper)
+- [Curso Programação - Como Criar um Site em Python com Flask mysql - 2022 - 01](https://www.youtube.com/watch?v=__cux2CPBN4&list=PL2Dw5PtrD32wC32rRLJSueOFPRgekHxNG&ab_channel=Cursosdeprograma%C3%A7%C3%A3o)
+- [Como Criar e Publicar um Site em Python com Flask](https://www.youtube.com/watch?v=K2ejI4z8Mbg&ab_channel=HashtagPrograma%C3%A7%C3%A3o)
+- [Curso Programação - Criando Uma loja online em python usando o framework flask - 01](https://www.youtube.com/watch?v=h5XFtuBlrT4&ab_channel=Cursosdeprograma%C3%A7%C3%A3o)
+- [Desenvolvimento Web com Python (Flask Framework)](https://www.youtube.com/watch?v=rGT5lG71pMQ&ab_channel=DankiCode)
+- [Curso de Flask 2020 - Parte 1 (Introducción).](https://www.youtube.com/watch?v=Yz1gUwXPPJw&list=PLuB3bC9rWQAsHK6rL87Vz9mfMIlk4ewwL&ab_channel=MundoPython)
+- [Flask (Micro Framework Web para Python) - Dicionário do Programador](https://www.youtube.com/watch?v=e9EPb5AoMf8&ab_channel=C%C3%B3digoFonteTV)
+
+> Cursos para aprender Flask em Inglês
+- [Flask Course - Python Web Application Development](https://www.youtube.com/watch?v=Qr4QMBUPxWo&ab_channel=freeCodeCamp.org)
+- [Building your first Flask app - Python on the web - Learning Flask series Pt. 1](https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L&ab_channel=JulianNash)
+- [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&ab_channel=CoreySchafer)
+- [Python Flask Tutorial 1 - Introduction + Getting Started With Flask](https://www.youtube.com/watch?v=Kja_28SNIow&list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI&ab_channel=ProgrammingKnowledge)
+- [Python Website Full Tutorial - Flask, Authentication, Databases & More](https://www.youtube.com/watch?v=dam0GPOAvVI&ab_channel=TechWithTim)
+- [Flask Full Series - Web Application Development with Python - Introduction - Episode 1](https://www.youtube.com/watch?v=p068JokuThU&list=PLOkVupluCIjuPtTkhO6jmA76uQR994Wvi&ab_channel=JimShapedCoding)
+- [Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&ab_channel=freeCodeCamp.org)
+- [Flask Tutorial #1 - How to Make Websites with Python](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&ab_channel=TechWithTim)
+- [Flask [ Python Microframework ] Crash Course 2021 For Beginners](https://www.youtube.com/watch?v=3U1iHcqijCA&ab_channel=BekBrace)
+- [Make A Python Website As Fast As Possible!](https://www.youtube.com/watch?v=kng-mJJby8g&ab_channel=TechWithTim)
+
+## 🐔 Sites e cursos para aprender Spring
+
+> Cursos para aprender Spring em Português
+- [Spring Boot | Curso Completo 2022](https://www.youtube.com/watch?v=LXRU-Z36GEU&ab_channel=MichelliBrito)
+- [Curso Spring - Introdução - Parte 1 de 6 (Tutorial)](https://www.youtube.com/watch?v=KIoMhHiap88&list=PLmPk8AhMVhETu1h9ZgVZyvquzrY4BwVWS&ab_channel=AprendaProgramarEmMinutos)
+- [Curso Spring Boot aula 01: Iniciando uma aplicação Spring Boot](https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D&ab_channel=MichelliBrito)
+- [O que é Spring Framework? #Hipsterspontotube](https://www.youtube.com/watch?v=5XPojnx9bb8&ab_channel=AluraCursosOnline)
+- [Spring Boot Essentials 2 - Introdução ao curso.](https://www.youtube.com/watch?v=bCzsSXE4Jzg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&ab_channel=DevDojo)
+
+> Cursos para aprender Spring em Inglês
+- [Spring Boot Tutorial | Full Course [2022] [NEW]](https://www.youtube.com/watch?v=9SGDpanrc8U&ab_channel=Amigoscode)
+- [Spring framework Tutorial (001 Spring Framework Master Class Preview)](https://www.youtube.com/watch?v=MHoFSfXGX_A&list=PLw_k9CF7hBpJJsRWAhwSrDlWAzuMV0irl&ab_channel=FreeOnlineCourses)
+- [Spring Framework Course Overview | Content to cover | Prerequisite | Spring Tutorial in HINDI](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS&ab_channel=LearnCodeWithDurgesh)
+- [Spring Boot Tutorial | Full Course [2022]](https://www.youtube.com/watch?v=slTUtTSwRKU&list=PLGRDMO4rOGcNSBOJOlrgQqGpIgo6_VZgR&ab_channel=JavaGuides)
+- [Spring framework tutorial for beginners with examples in eclipse | Why spring inversion of control ?](https://www.youtube.com/watch?v=r2Q0Jzl2qMQ&list=PL3NrzZBjk6m-nYX072dSaGfyCJ59Q5TEi&ab_channel=SeleniumExpress)
+- [Spring Boot Complete Tutorial - Master Class](https://www.youtube.com/watch?v=zvR-Oif_nxg&ab_channel=DailyCodeBuffer)
+- [Spring Full Course - Learn Spring Framework In 3 Hours | Spring Framework Tutorial | Simplilearn](https://www.youtube.com/watch?v=j3byTqx7KDE&ab_channel=Simplilearn)
+- [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ&ab_channel=freeCodeCamp.org)
+- [5 Spring Boot Projects in 10 Hours - Line by Line Coding](https://www.youtube.com/watch?v=VR1zoNomG3w&ab_channel=JavaGuides)
+- [Spring Boot Roadmap - How To Master Spring Boot](https://www.youtube.com/watch?v=cehTm_oSrqA&ab_channel=Amigoscode)
+- [Spring Security | FULL COURSE](https://www.youtube.com/watch?v=her_7pa0vrg&ab_channel=Amigoscode)
+- [Spring Boot Full Stack with Angular | Full Course [2021] [NEW]](https://www.youtube.com/watch?v=Gx4iBLKLVHk&ab_channel=Amigoscode)
+- [Spring Framework Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=QqBl92wZafo&ab_channel=TechCode)
+- [Spring Framework Tutorial | Full Course](https://www.youtube.com/watch?v=If1Lw4pLLEo&ab_channel=Telusko)
+- [Spring Full Course - Learn Spring Framework in 4 Hours | Spring Framework Tutorial | Edureka](https://www.youtube.com/watch?v=VvGjZgqojMc&ab_channel=edureka%21)
+- [Spring Core Tutorial in one Video | Learn Spring Core step by step in Hindi](https://www.youtube.com/watch?v=XQd_D19fPvs&ab_channel=LearnCodeWithDurgesh)
+- [Spring Boot Microservice Project Full Course in 6 Hours](https://www.youtube.com/watch?v=mPPhcU7oWDU&ab_channel=ProgrammingTechie)
+- [Spring Boot - Learn Spring Boot 3 (2 Hours)](https://www.youtube.com/watch?v=-mwpoE0x0JQ&ab_channel=Amigoscode)
+- [Spring Security Tutorial - [NEW] [2023]](https://www.youtube.com/watch?v=b9O9NI-RJ3o&ab_channel=Amigoscode)
+
+## 🐗 Sites e cursos para aprender Tailwind CSS
+
+> Cursos para aprender Tailwind CSS em Português
+- [Curso gratuito Tailwind CSS #1 - Introdução e instalação](https://www.youtube.com/watch?v=1eLaBow7Zbo&list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u&ab_channel=TiagoMatos)
+- [Tailwind CSS - Curso rápido](https://www.youtube.com/watch?v=1qH3wAtX4So&ab_channel=RicardoSanches)
+- [Tailwind CSS // Dicionário do Programador](https://www.youtube.com/watch?v=i_EKstz3x04&ab_channel=C%C3%B3digoFonteTV)
+- [Como começar no Tailwind CSS 3.0?](https://www.youtube.com/watch?v=mK_19iqznc8&ab_channel=EmersonBr%C3%B4ga)
+- [Aprenda Tailwind CSS recriando a interface do Insta!](https://www.youtube.com/watch?v=48TaQMfD8fo&ab_channel=C%C3%B3digoEscola)
+
+> Cursos para aprender Tailwind CSS em Inglês
+- [Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours](https://www.youtube.com/watch?v=lCxcTsOHrjo&ab_channel=DaveGray)
+- [Tailwind CSS Tutorial #1 - Intro & Setup](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&ab_channel=TheNetNinja)
+- [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook&list=PLro89l7qVjR_aPxpjPH6V3YjckCbuvDzm&ab_channel=Fireship)
+- [Learn Tailwind CSS – Course for Beginners](https://www.youtube.com/watch?v=ft30zcMlFao&ab_channel=freeCodeCamp.org)
+- [Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://www.youtube.com/watch?v=_oO4Qi5aVZs&ab_channel=JavaScriptMastery)
+- [Course Intro – Tailwind CSS v2.0: From Zero to Production](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&ab_channel=TailwindLabs)
+- [Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar](https://www.youtube.com/watch?v=pfaSUYaSgRo&ab_channel=Fireship)
+- [Tailwind CSS 3 Crash Course](https://www.youtube.com/watch?v=LyRWNJK8I6U&ab_channel=codedamn)
+- [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook&ab_channel=Fireship)
+
+## 🦐 Sites e cursos para aprender Styled Components
+
+> Cursos para aprender Styled Components em Português
+- [Styled Components, por onde começar? Os poderes do CSS in JS](https://www.youtube.com/watch?v=QdfjWRc4ySA&ab_channel=MarioSouto-DevSoutinho)
+- [Como utilizar Styled Components no React | CSS no React | Criando App com React](https://www.youtube.com/watch?v=KP5AsH_j21U&ab_channel=RodolfoMori)
+- [Styled Components (O construtor de elementos do React) // Dicionário do Programador](https://www.youtube.com/watch?v=p4jYFJNEyqA&ab_channel=C%C3%B3digoFonteTV)
+- [Aprenda Styled Components avançado do jeito fácil!](https://www.youtube.com/watch?v=Rbe8fqdc6T4&ab_channel=ArielBetti)
+- [Utilizando Styled Components (CSS-in-JS) no ReactJS e React Native | Diego Fernandes](https://www.youtube.com/watch?v=R3S8DEzEn6s&ab_channel=Rocketseat)
+- [Como Usar CSS e Estilizar Componentes no React JS - Styled Components](https://www.youtube.com/watch?v=j_cLz_A2odI&ab_channel=ProgramadorEspartano)
+
+> Cursos para aprender Styled Components em Inglês
+- [CSS-in-JS com Styled Components no React Native | Decode #25](https://www.youtube.com/watch?v=ZsVGOmZLgec&ab_channel=Rocketseat)
+- [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw&ab_channel=TraversyMedia)
+- [React Styled Components - 1 - Introduction](https://www.youtube.com/watch?v=FSCSdAlLsYM&list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&ab_channel=Codevolution)
+- [Styled Components Is the Only Way To Do CSS](https://www.youtube.com/watch?v=54-hITMASgM&ab_channel=EngineerMan)
+- [Styled Components Full Tutorial - Style Your Components in React](https://www.youtube.com/watch?v=-FZzPHSLauc&ab_channel=PedroTech)
+- [React Styled Components Library Tutorial](https://www.youtube.com/watch?v=CDVEXZP0ki4&ab_channel=LaithAcademy)
+- [Styled Components - Beginners Tutorial](https://www.youtube.com/watch?v=vKI5aEsvch8&ab_channel=MonsterlessonsAcademy)
+- [React Hooks Tutorial - A Crash Course on Styled Components, JSX, React Router, and HOC](https://www.youtube.com/watch?v=iVRO0toVdYM&ab_channel=freeCodeCamp.org)
+- [Understanding the Styled Components Basics - with React](https://www.youtube.com/watch?v=nkfaZ8ctzpE&ab_channel=DailyTuition)
+
+## 🐎 Sites e cursos para aprender Magento
+
+> Cursos para aprender Magento em Português
+- [Curso de Magento - Aula 1 – Introdução e Download](https://www.youtube.com/watch?v=iDl0IiJt7mQ&list=PLpEvhvupz-uQiY_aD5GGCChNLJMdZF4hS&ab_channel=iConectado-CursosOnline)
+- [Como Instalar o Magento 2 (Tutorial em Português)](https://www.youtube.com/watch?v=8jcy4YxaI5s&list=PLDwV4OI4NbD1abkoGuLFScvGBvgbHwihR&ab_channel=MestreMagento)
+- [Aula 1 - Magento 2 Curso de Desenvolvimento de Módulo](https://www.youtube.com/watch?v=MHFz2t1aVug&list=PLAB1CVlnN7Lv2nxe3JkVaGfKFOUfqyuuN&ab_channel=AbraaoMarques)
+- [Aula 01 - Cadastro de Categorias Magento 2](https://www.youtube.com/watch?v=qCgpHmeXadM&list=PL1KgCGp7BEH6T_91GdpjmZeIHN_pdr_MM&ab_channel=ECOM-DPlataformaparaLojasVirtuais)
+- [Curso de Magento - Aula 01 - Introdução ao Curso de Magento](https://www.youtube.com/watch?v=kK9D2wvv9jE&list=PLxNM4ef1Bpxi7fkqIK0RfY3bj-sTEFsDZ&ab_channel=PortalHugoCursos)
+
+> Cursos para aprender Magento em Inglês
+- [The complete Magento2 course](https://www.youtube.com/watch?v=zsasXJTbG5k&ab_channel=TechReview)
+- [Magento 2 Beginner Class, Lesson #1: Introduction to Magento 2](https://www.youtube.com/watch?v=u81X-sjgmQ0&list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&ab_channel=OSTraining)
+- [How to Setup Magento on Your Computer 01/10 | Magento 2 Tutorials for Beginners (2019) | MageCafe](https://www.youtube.com/watch?v=XwXWg5fU7tY&list=PLeoWPZvrjokdF3KGMiEFuLXLIu1l2xlvd&ab_channel=Codilar%7CMagentoDevelopmentCompanyIndia)
+- [Magento 2 Project Overview for Beginner Developers](https://www.youtube.com/watch?v=yT6CGzt6eLM&ab_channel=MaxPronko)
+- [Magento 2 Introduction](https://www.youtube.com/watch?v=y6i-dVHN2vU&list=PLju9v8YUzEuzYxXrF8ucXwxW_Xcgu1dYd&ab_channel=AstralWebInc.)
+- [how to Install Magento 2](https://www.youtube.com/watch?v=4FYd6lRRATA&list=PL9Q0S-CmtAhJVjwnK5ip6H84sCuRQcACY&ab_channel=AlaaAl-Maliki)
+- [Lesson 4: A Module in Magento 2 | Magento 2 for Beginners | Mage Mastery](https://www.youtube.com/watch?v=CGEWkApKGbQ&list=PLwcl8DqLMv9cF8XBYeGDnelmV0UqO2xAJ&ab_channel=MaxPronko)
+- [Beginner to Certified - The Path of a Magento Developer](https://www.youtube.com/watch?v=RPCh2ca0EIg&ab_channel=MarkShust)
+- [How to prepare for Magento Certification Exams? (Tips and Tricks)](https://www.youtube.com/watch?v=Zq6xpA7dHpE&ab_channel=BartTv)
+
+## 🐜 Sites e cursos para aprender ArangoDB
+
+> Cursos para aprender ArangoDB em Português
+- - [Introdução ao ArangoDB através do Python Português](https://www.youtube.com/watch?v=umgJygSY2V0&ab_channel=ArangoDB)
+- - [Introdução ao banco de dados NOSQL - ArangoDB](https://www.youtube.com/watch?v=v45go6zNNkY&ab_channel=DanielFerreira)
+
+> Cursos para aprender ArangoDB em Inglês
+- - [ArangoDB Tutorial - Databases every developer should know about](https://www.youtube.com/watch?v=4C4zqhXwCKs&ab_channel=LearnCode.academy)
+- - [ArangoDB Dev Days 2021: Lessons Learned: Creating a Complete ERP-System with ArangoDB](https://www.youtube.com/watch?v=j3EVRtD3LBE&ab_channel=ArangoDB)
+- - [ArangoDB Graph Database Syntax Part 1 - Traversal](https://www.youtube.com/watch?v=0U8TfLOp184&ab_channel=ArangoDB)
+- - [Custom Pregel in ArangoDB Feature Preview and Demo](https://www.youtube.com/watch?v=DWJ-nWUxsO8&ab_channel=ArangoDB)
+- - [Introduction to ArangoDB Oasis](https://www.youtube.com/watch?v=0xzn1eOYnTU&ab_channel=ArangoDB)
+- - [Fundamentals and Best Practices of ArangoDB Cluster Administration](https://www.youtube.com/watch?v=RQ33fkgUg64&ab_channel=ArangoDB)
+- - [Learn all about the new Search Engine ArangoSearch in ArangoDB 3.4](https://www.youtube.com/watch?v=iDznGhelajY&ab_channel=ArangoDB)
+- - [ArangoDB - How to Install and Use ArangoDB Database on Windows](https://www.youtube.com/watch?v=M-7hB-4kHtk&ab_channel=DevNami)
+- - [GraphQL and ArangoDB](https://www.youtube.com/watch?v=vaUdiWU-src&ab_channel=ArangoDB)
+
 ## 📚 Linha de comando
+
+> Cursos para aprender Bash em Português
+- [Curso Básico de Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7)
+- [Curso intensivo de programação em Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGr53w4IzUzbPCqR4HPOHjAI)
+- [Curso de Shell Scripting - Programação no Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
 - [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) 
 - [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) 
 - [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
+
+> Cursos para aprender Bash em Espanhol
+- [Curso Profesional de Scripting Bash Shell](https://www.youtube.com/playlist?list=PLDbrnXa6SAzUsIAqsjVOeyagmmAvmwsG2)
+- [Curso Linux: Comandos Básicos [Introducción al Shell BASH]](https://www.youtube.com/playlist?list=PLN9u6FzF6DLTRhmLLT-ILqEtDQvVf-ChM)
+
+> Cursos para aprender Bash em Inglês
+- [Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM&ab_channel=linuxhint)
+- [Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials](https://www.youtube.com/watch?v=2PGnYjbYuUo&ab_channel=Geek%27sLesson)
+- [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g&ab_channel=Fireship)
+- [Bash Script with Practical Examples | Full Course](https://www.youtube.com/watch?v=TPRSJbtfK4M&ab_channel=Amigoscode)
+- [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag&ab_channel=JoeCollins)
+- [212 Bash Scripting Examples](https://www.youtube.com/watch?v=q2z-MRoNbgM&ab_channel=linuxhint)
+- [Linux Bash for beginners 2022](https://www.youtube.com/watch?v=qALScO3E61I&ab_channel=GPS)
+- [Bash scripting tutorial for beginners](https://www.youtube.com/watch?v=9T2nEXlLy9o&ab_channel=FortifySolutions)
+- [Linux CLI Crash Course - Fundamentals of Bash Shell](https://www.youtube.com/watch?v=S99sQLravYo&ab_channel=codedamn)
+- [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
+- [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+- [Bash Scripting | Complete Course](https://www.youtube.com/playlist?list=PLgmzaUQcOhaqQjXaqz7Ky5a_xj_8OlCK4)
+- [Complete Shell Scripting Tutorials](https://www.youtube.com/playlist?list=PL2qzCKTbjutJRM7K_hhNyvf8sfGCLklXw)
+- [Bash Scripting 3hrs course](https://www.youtube.com/playlist?list=PL2JwSAqE1httILs055eEgbnO9oTu1otIG)
+- [Bash Zero to Hero Series](https://www.youtube.com/playlist?list=PLP8aFdeDk9g5Pg7WHYfv6EsD1D8hrx5AJ)
+
 
   <details>
     <summary>📝 Alguns comandos úteis (Linux, MacOs e Powershell/Windows)</summary>
