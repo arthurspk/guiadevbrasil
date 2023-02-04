@@ -133,53 +133,54 @@
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
 [🐻‍❄️ Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
-[🦣 Sites e cursos para aprender TypeScript](feito) <br>
-[🦬 Sites e cursos para aprender Node.js](feito) <br>
-[🦌 Sites e cursos para aprender Next.js](feito) <br>
-[🦘 Sites e cursos para aprender Assembly](feito) <br>
-[🦒 Sites e cursos para aprender Lua](feito) <br>
-[🐫 Sites e cursos para aprender Perl](feito) <br>
-[🐧 Sites e cursos para aprender Linux](feito) <br>
-[🦥 Sites e cursos para aprender Ionic](feito) <br>
-[🦦 Sites e cursos para aprender Jira](feito) <br>
-[🦫 Sites e cursos para aprender Rust](feito) <br>
-[🦭 Sites e cursos para aprender Scala](feito) <br>
-[🦝 Sites e cursos para aprender Nuxt.js](feito) <br>
-[🦎 Sites e cursos para aprender Gulp](feito) <br>
-[🐅 Sites e cursos para aprender MongoDB](feito) <br>
-[🦩 Sites e cursos para aprender GraphQL](feito) <br>
-[🦙 Sites e cursos para aprender Cassandra](feito) <br>
-[🦛 Sites e cursos para aprender SQL Server](feito) <br>
-[🐐 Sites e cursos para aprender Postgree SQL](feito) <br>
-[🐑 Sites e cursos para aprender Delphi](feito) <br>
-[🐊 Sites e cursos para aprender Wordpress](feito) <br>
-[🐳 Sites e cursos para aprender Docker](feito) <br>
-[🦜 Sites e cursos para aprender Kubernets](feito) <br>
-[🐆 Sites e cursos para aprender Nest](feito) <br>
-[🐿 Sites e cursos para aprender Laravel](feito) <br>
-[🐃 Sites e cursos para aprender AWS](feito) <br>
-[🐬 Sites e cursos para aprender Google Cloud](feito) <br>
-[🦆 Sites e cursos para aprender Azure](feito) <br>
-[🦅 Sites e cursos para aprender Django](feito) <br>
-[🐏 Sites e cursos para aprender Gatsby](feito) <br>
-[🐂 Sites e cursos para aprender ASP.net](feito) <br>
-[🐖 Sites e cursos para aprender Inteligência Artificial](feito) <br>
-[🦀 Sites e cursos para aprender Machine Learning](feito) <br>
-[🦑 Sites e cursos para aprender Data Science](feito) <br>
-[🐙 Sites e cursos para aprender NumPy](feito) <br>
-[🦃 Sites e cursos para aprender Pandas](feito) <br>
-[🐟 Sites e cursos para aprender XML](feito) <br>
-[🦢 Sites e cursos para aprender Jenkins](feito) <br>
-[🦤 Sites e cursos para aprender Xamarin](feito) <br>
-[🦁 Sites e cursos para aprender Matlab](feito) <br>
-[🪲 Sites e cursos para aprender Julia](feito) <br>
-[🐨 Sites e cursos para aprender PowerShell](feito) <br>
-[🐥 Sites e cursos para aprender Flask](feito) <br>
-[🐔 Sites e cursos para aprender Spring](feito) <br>
-[🐗 Sites e cursos para aprender Tailwind CSS](feito) <br>
-[🦐 Sites e cursos para aprender Styled Components](feito) <br>
-[🐎 Sites e cursos para aprender Magento](feito) <br>
-[🐜 Sites e cursos para aprender ArangoDB](feito) <br>
+[🦣 Sites e cursos para aprender TypeScript](#-sites-e-cursos-para-aprender-typescript) <br>
+[🦬 Sites e cursos para aprender Node.js](#-sites-e-cursos-para-aprender-nodejs) <br>
+[🦌 Sites e cursos para aprender Next.js](#-sites-e-cursos-para-aprender-nextjs) <br>
+[🦘 Sites e cursos para aprender Assembly](#-sites-e-cursos-para-aprender-assembly) <br>
+[🦒 Sites e cursos para aprender Lua](#-sites-e-cursos-para-aprender-lua) <br>
+[🐫 Sites e cursos para aprender Perl](#-sites-e-cursos-para-aprender-perl) <br>
+[🐧 Sites e cursos para aprender Linux](#-sites-e-cursos-para-aprender-linux) <br>
+[🦥 Sites e cursos para aprender Ionic](#-sites-e-cursos-para-aprender-ionic) <br>
+[🦦 Sites e cursos para aprender Jira](#-sites-e-cursos-para-aprender-jira) <br>
+[🦫 Sites e cursos para aprender Rust](#-sites-e-cursos-para-aprender-rust) <br>
+[🦭 Sites e cursos para aprender Scala](#-sites-e-cursos-para-aprender-scala) <br>
+[🦝 Sites e cursos para aprender Nuxt.js](#-sites-e-cursos-para-aprender-nuxtjs) <br>
+[🦎 Sites e cursos para aprender Gulp](#-sites-e-cursos-para-aprender-gulp) <br>
+[🐅 Sites e cursos para aprender MongoDB](#-sites-e-cursos-para-aprender-mongodb) <br>
+[🦩 Sites e cursos para aprender GraphQL](#-sites-e-cursos-para-aprender-graphql) <br>
+[🦙 Sites e cursos para aprender Cassandra](#-sites-e-cursos-para-aprender-cassandra) <br>
+[🦛 Sites e cursos para aprender SQL Server](#-sites-e-cursos-para-aprender-sql-server) <br>
+[🐐 Sites e cursos para aprender Postgree SQL](#-sites-e-cursos-para-aprender-postgree-sql) <br>
+[🐑 Sites e cursos para aprender Delphi](#-sites-e-cursos-para-aprender-delphi) <br>
+[🐊 Sites e cursos para aprender Wordpress](#-sites-e-cursos-para-aprender-wordpress) <br>
+[🐳 Sites e cursos para aprender Docker](#-sites-e-cursos-para-aprender-docker) <br>
+[🦜 Sites e cursos para aprender Kubernets](#-sites-e-cursos-para-aprender-kubernets) <br>
+[🐆 Sites e cursos para aprender Nest](#-sites-e-cursos-para-aprender-nest) <br>
+[🐿 Sites e cursos para aprender Laravel](#-sites-e-cursos-para-aprender-laravel) <br>
+[🐃 Sites e cursos para aprender AWS](#-sites-e-cursos-para-aprender-aws) <br>
+[🐬 Sites e cursos para aprender Google Cloud](#-sites-e-cursos-para-aprender-google-cloud) <br>
+[🦆 Sites e cursos para aprender Azure](#-sites-e-cursos-para-aprender-azure) <br>
+[🦅 Sites e cursos para aprender Django](#-sites-e-cursos-para-aprender-django) <br>
+[🐏 Sites e cursos para aprender Gatsby](#-sites-e-cursos-para-aprender-gatsby) <br>
+[🐂 Sites e cursos para aprender ASP.net](#-sites-e-cursos-para-aprender-aspnet) <br>
+[🐖 Sites e cursos para aprender Inteligência Artificial](#-sites-e-cursos-para-aprender-inteligência-artificial) <br>
+[🦀 Sites e cursos para aprender Machine Learning](#-sites-e-cursos-para-aprender-machine-learning) <br>
+[🦑 Sites e cursos para aprender Data Science](#-sites-e-cursos-para-aprender-data-science) <br>
+[🐙 Sites e cursos para aprender NumPy](#-sites-e-cursos-para-aprender-numpy) <br>
+[🦃 Sites e cursos para aprender Pandas](#-sites-e-cursos-para-aprender-pandas) <br>
+[🐟 Sites e cursos para aprender XML](#-sites-e-cursos-para-aprender-xml) <br>
+[🦢 Sites e cursos para aprender Jenkins](#-sites-e-cursos-para-aprender-jenkins) <br>
+[🦤 Sites e cursos para aprender Xamarin](#sites-e-cursos-para-aprender-xamarin) <br>
+[🦁 Sites e cursos para aprender Matlab](#sites-e-cursos-para-aprender-matlab) <br>
+[🪲 Sites e cursos para aprender Julia](#sites-e-cursos-para-aprender-julia) <br>
+[🐨 Sites e cursos para aprender PowerShell](#-sites-e-cursos-para-aprender-powershell) <br>
+[🐥 Sites e cursos para aprender Flask](#-sites-e-cursos-para-aprender-flask) <br>
+[🐔 Sites e cursos para aprender Spring](#-sites-e-cursos-para-aprender-spring) <br>
+[🐗 Sites e cursos para aprender Tailwind CSS](#-sites-e-cursos-para-aprender-tailwind-css) <br>
+[🦐 Sites e cursos para aprender Styled Components](#-sites-e-cursos-para-aprender-styled-components) <br>
+[🐎 Sites e cursos para aprender Magento](#-sites-e-cursos-para-aprender-magento) <br>
+[🐜 Sites e cursos para aprender ArangoDB](#-sites-e-cursos-para-aprender-arangodb) <br>
+[📚 Sites e cursos para aprender Linha de comando](#-sites-e-cursos-para-aprender-linha-de-comando) <br>
 
 ## 🔧 Ferramentas para tradução de conteúdo
 
@@ -3177,57 +3178,57 @@
 ## 🦢 Sites e cursos para aprender Jenkins
 
 > Cursos para aprender Jenkins em Português 
-[O básico de Pipelines CI/CD com Jenkins](https://www.youtube.com/watch?v=O6y27_Ol25g&ab_channel=Fabr%C3%ADcioVeronez)
-[Curso de Jenkins - 01 Instalação](https://www.youtube.com/watch?v=8iLRsb2gXXY&ab_channel=MarceloGomesdePaula)
-[Jenkins: O mínimo que você precisa saber](https://www.youtube.com/watch?v=8OfhS5f7jIY&ab_channel=FullCycle)
+- [O básico de Pipelines CI/CD com Jenkins](https://www.youtube.com/watch?v=O6y27_Ol25g&ab_channel=Fabr%C3%ADcioVeronez)
+- [Curso de Jenkins - 01 Instalação](https://www.youtube.com/watch?v=8iLRsb2gXXY&ab_channel=MarceloGomesdePaula)
+- [Jenkins: O mínimo que você precisa saber](https://www.youtube.com/watch?v=8OfhS5f7jIY&ab_channel=FullCycle)
 
 > Cursos para aprender Jenkins em Inglês 
-[Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn](https://www.youtube.com/watch?v=FX322RVNGj4&ab_channel=Simplilearn)
-[Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://www.youtube.com/watch?v=6YZvp2GwT0A&ab_channel=DevOpsJourney)
-[Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://www.youtube.com/watch?v=f4idgaq2VqA&ab_channel=freeCodeCamp.org)
-[What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=LFDrDnKPOTg&ab_channel=Simplilearn)
-[Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0&ab_channel=TechWorldwithNana)
-[Jenkins pipeline// Advanced Tutorial // May2020- Session 1 (Part 1 Out 3 ) by DevOpsSchool](https://www.youtube.com/watch?v=v0nZnp0FUzs&list=PL0xeHY_ImQVXcCAu0PSdWKERIu4xLGo7N&ab_channel=AiOps%26MLOpsSchool)
-[Deployment Overview | Jenkins](https://www.youtube.com/watch?v=813eFgtceio&list=PLRVv68RjliSfxKab5wJ3dYW7ZtlMPBoJ4&ab_channel=KubernetesAWSJenkinsCafe)
-[Part 1 - An Introduction to Jenkins 2.0 for Build+Deploy+Test](https://www.youtube.com/watch?v=HZOII16W0oY&list=PL6tu16kXT9PqIe2b0BGul-cXbmwGt7Ihw&ab_channel=ExecuteAutomation)
-[Jenkins Beginner Tutorial 1 - Introduction and Getting Started](https://www.youtube.com/watch?v=89yWXXIOisk&list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG&ab_channel=AutomationStepbyStep)
-[Jenkins Full Course | Jenkins Tutorial For Beginners | Learn Jenkins Step By Step | Simplilearn](https://www.youtube.com/watch?v=MayMkFCkzj4&ab_channel=Simplilearn)
-[Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=3a8KsB5wJDE&ab_channel=edureka%21)
-[Jenkins Tutorial For Beginners 1 - Introduction to Jenkins](https://www.youtube.com/watch?v=yz3tyeA3Fe0&list=PLS1QulWo1RIbY8xXPqz6ad_sNHkIP3IXI&ab_channel=ProgrammingKnowledge)
-[Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](https://www.youtube.com/watch?v=woMAXn4e8NA&ab_channel=AutomationStepbyStep)
-[Jenkins Tutorial | Jenkins Course For Developers and DevOps](https://www.youtube.com/watch?v=BvUkXrAAqjE&ab_channel=ProgrammingKnowledge)
-[Free Jenkins CI course for beginners | Learn Jenkins CI / CD tool in one video.](https://www.youtube.com/watch?v=zhDTF_vjkuQ&ab_channel=TravelsCode)
+- [Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn](https://www.youtube.com/watch?v=FX322RVNGj4&ab_channel=Simplilearn)
+- [Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://www.youtube.com/watch?v=6YZvp2GwT0A&ab_channel=DevOpsJourney)
+- [Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)](https://www.youtube.com/watch?v=f4idgaq2VqA&ab_channel=freeCodeCamp.org)
+- [What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=LFDrDnKPOTg&ab_channel=Simplilearn)
+- [Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0&ab_channel=TechWorldwithNana)
+- [Jenkins pipeline// Advanced Tutorial // May2020- Session 1 (Part 1 Out 3 ) by DevOpsSchool](https://www.youtube.com/watch?v=v0nZnp0FUzs&list=PL0xeHY_ImQVXcCAu0PSdWKERIu4xLGo7N&ab_channel=AiOps%26MLOpsSchool)
+- [Deployment Overview | Jenkins](https://www.youtube.com/watch?v=813eFgtceio&list=PLRVv68RjliSfxKab5wJ3dYW7ZtlMPBoJ4&ab_channel=KubernetesAWSJenkinsCafe)
+- [Part 1 - An Introduction to Jenkins 2.0 for Build+Deploy+Test](https://www.youtube.com/watch?v=HZOII16W0oY&list=PL6tu16kXT9PqIe2b0BGul-cXbmwGt7Ihw&ab_channel=ExecuteAutomation)
+- [Jenkins Beginner Tutorial 1 - Introduction and Getting Started](https://www.youtube.com/watch?v=89yWXXIOisk&list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG&ab_channel=AutomationStepbyStep)
+- [Jenkins Full Course | Jenkins Tutorial For Beginners | Learn Jenkins Step By Step | Simplilearn](https://www.youtube.com/watch?v=MayMkFCkzj4&ab_channel=Simplilearn)
+- [Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=3a8KsB5wJDE&ab_channel=edureka%21)
+- [Jenkins Tutorial For Beginners 1 - Introduction to Jenkins](https://www.youtube.com/watch?v=yz3tyeA3Fe0&list=PLS1QulWo1RIbY8xXPqz6ad_sNHkIP3IXI&ab_channel=ProgrammingKnowledge)
+- [Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |](https://www.youtube.com/watch?v=woMAXn4e8NA&ab_channel=AutomationStepbyStep)
+- [Jenkins Tutorial | Jenkins Course For Developers and DevOps](https://www.youtube.com/watch?v=BvUkXrAAqjE&ab_channel=ProgrammingKnowledge)
+- [Free Jenkins CI course for beginners | Learn Jenkins CI / CD tool in one video.](https://www.youtube.com/watch?v=zhDTF_vjkuQ&ab_channel=TravelsCode)
 
-## Sites e cursos para aprender Xamarin
+## 🦤 Sites e cursos para aprender Xamarin
 
 > Cursos para aprender Xamarin em Português 
-[Curso de C# Xamarin - Aula 01 - Android, IOS e Windows Phone com C#](https://www.youtube.com/watch?v=d2tBuQEZtH8&list=PLxNM4ef1BpxjmpXgb-_0W6hUxjbgbI0PQ&ab_channel=PortalHugoCursos)
-[Xamarin (o concorrente do Flutter e React Native) - Dicionário do Programador](https://www.youtube.com/watch?v=rtuywS2fG2Y&ab_channel=C%C3%B3digoFonteTV)
+- [Curso de C# Xamarin - Aula 01 - Android, IOS e Windows Phone com C#](https://www.youtube.com/watch?v=d2tBuQEZtH8&list=PLxNM4ef1BpxjmpXgb-_0W6hUxjbgbI0PQ&ab_channel=PortalHugoCursos)
+- [Xamarin (o concorrente do Flutter e React Native) - Dicionário do Programador](https://www.youtube.com/watch?v=rtuywS2fG2Y&ab_channel=C%C3%B3digoFonteTV)
 
 > Cursos para aprender Xamarin em Inglês 
-[Kill Kotlin and Swift, Use C# Instead - Welcome to Xamarin.Forms!](https://www.youtube.com/watch?v=9eM9T5svYHw&list=PLdkt3RKz_b0zd3FHevP5Bd2vZYIwq12pF&ab_channel=EduardoRosas)
-[Xamarin Android Tutorial - Linear Layout](https://www.youtube.com/watch?v=Wj-WT4uWlKA&list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8&ab_channel=EDMTDev)
-[Xamarin Forms #0- Introduction](https://www.youtube.com/watch?v=e6LeoYD1A1I&list=PL0CKdD7TV8pG0kNyfWO5LFqeU6J6Zj_49&ab_channel=Mikaelson)
-[Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://www.youtube.com/watch?v=93ZU6j59wL4&ab_channel=ProgrammingwithMosh)
+- [Kill Kotlin and Swift, Use C# Instead - Welcome to Xamarin.Forms!](https://www.youtube.com/watch?v=9eM9T5svYHw&list=PLdkt3RKz_b0zd3FHevP5Bd2vZYIwq12pF&ab_channel=EduardoRosas)
+- [Xamarin Android Tutorial - Linear Layout](https://www.youtube.com/watch?v=Wj-WT4uWlKA&list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8&ab_channel=EDMTDev)
+- [Xamarin Forms #0- Introduction](https://www.youtube.com/watch?v=e6LeoYD1A1I&list=PL0CKdD7TV8pG0kNyfWO5LFqeU6J6Zj_49&ab_channel=Mikaelson)
+- [Xamarin Forms Tutorial: Build Native Mobile Apps with C#](https://www.youtube.com/watch?v=93ZU6j59wL4&ab_channel=ProgrammingwithMosh)
 
-## Sites e cursos para aprender Matlab
+## 🦁 Sites e cursos para aprender Matlab
 
 > Cursos para aprender Matlab em Português 
-[Curso de MATLAB #01 - Introdução](https://www.youtube.com/watch?v=da0qJnleaEQ&list=PLE1UtdMhwaEobcUPjpo27o5HxeBSYjLEs&ab_channel=2001Engenharia)
-[Aula 01- Apresentação do curso e do Ambiente do MATLAB](https://www.youtube.com/watch?v=XyNI0-DP-0o&list=PLJoR6gvpdNEZLB-Epf9csRTLhubXSnrzs&ab_channel=CarlosRonyheltonSantanadeOliveira)
-[Curso de MATLAB - Introdução](https://www.youtube.com/watch?v=88NQiUU6khY&list=PLlx81VEju6qAUUSE3M6NlFoFnrSSqR59-&ab_channel=LASI-)
-[Introdução ao Matlab para Engenharia # 001](https://www.youtube.com/watch?v=-8lHG5lX4Fg&list=PLALkrMtuSoe-0mVxznaj9NKosBUFKL7pr&ab_channel=SergioA.Casta%C3%B1oGiraldo-Brasil)
-[Apresentação e Estrutura do Curso - Curso de Matlab - PETEE UFMG](https://www.youtube.com/watch?v=3366RoF1WaA&list=PL73kW0L8uzCK2qFoaY4Rur2FUetnNoUze&ab_channel=PETEEUFMG)
+- [Curso de MATLAB #01 - Introdução](https://www.youtube.com/watch?v=da0qJnleaEQ&list=PLE1UtdMhwaEobcUPjpo27o5HxeBSYjLEs&ab_channel=2001Engenharia)
+- [Aula 01- Apresentação do curso e do Ambiente do MATLAB](https://www.youtube.com/watch?v=XyNI0-DP-0o&list=PLJoR6gvpdNEZLB-Epf9csRTLhubXSnrzs&ab_channel=CarlosRonyheltonSantanadeOliveira)
+- [Curso de MATLAB - Introdução](https://www.youtube.com/watch?v=88NQiUU6khY&list=PLlx81VEju6qAUUSE3M6NlFoFnrSSqR59-&ab_channel=LASI-)
+- [Introdução ao Matlab para Engenharia # 001](https://www.youtube.com/watch?v=-8lHG5lX4Fg&list=PLALkrMtuSoe-0mVxznaj9NKosBUFKL7pr&ab_channel=SergioA.Casta%C3%B1oGiraldo-Brasil)
+- [Apresentação e Estrutura do Curso - Curso de Matlab - PETEE UFMG](https://www.youtube.com/watch?v=3366RoF1WaA&list=PL73kW0L8uzCK2qFoaY4Rur2FUetnNoUze&ab_channel=PETEEUFMG)
 
 > Cursos para aprender Matlab em Inglês 
-[The Complete MATLAB Course: Beginner to Advanced!](https://www.youtube.com/watch?v=T_ekAD7U-wU&ab_channel=JosephDelgadillo)
-[Matlab Online Tutorial - 01 - The User Interface, Part 1](https://www.youtube.com/watch?v=w1cnxqBaljA&list=PLnVYEpTNGNtX6FcQm90I0WXdvhoEJPp3p&ab_channel=MathandScience)
-[Learn MATLAB Episode #1: Installation & Resources](https://www.youtube.com/watch?v=nmyJTiZ3NeE&list=PLYmlEoSHldN4bz5WY7e0OvXQ90E_xUOmz&ab_channel=JosephDelgadillo)
-[MATLAB Crash Course for Beginners](https://www.youtube.com/watch?v=7f50sQYjNRA&ab_channel=freeCodeCamp.org)
-[Lesson 1: 1. Introduction (Old version)](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS&ab_channel=FitzleLLC)
-[What is MATLAB? & How It Works | MATLAB Features & Types | MATLAB Tutorial for Beginners](https://www.youtube.com/watch?v=0x4JhS1YpzI&list=PLjVLYmrlmjGcNZrPa9bRg0JVlcxLX4Mu9&ab_channel=WsCubeTech)
+- [The Complete MATLAB Course: Beginner to Advanced!](https://www.youtube.com/watch?v=T_ekAD7U-wU&ab_channel=JosephDelgadillo)
+- [Matlab Online Tutorial - 01 - The User Interface, Part 1](https://www.youtube.com/watch?v=w1cnxqBaljA&list=PLnVYEpTNGNtX6FcQm90I0WXdvhoEJPp3p&ab_channel=MathandScience)
+- [Learn MATLAB Episode #1: Installation & Resources](https://www.youtube.com/watch?v=nmyJTiZ3NeE&list=PLYmlEoSHldN4bz5WY7e0OvXQ90E_xUOmz&ab_channel=JosephDelgadillo)
+- [MATLAB Crash Course for Beginners](https://www.youtube.com/watch?v=7f50sQYjNRA&ab_channel=freeCodeCamp.org)
+- [Lesson 1: 1. Introduction (Old version)](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS&ab_channel=FitzleLLC)
+- [What is MATLAB? & How It Works | MATLAB Features & Types | MATLAB Tutorial for Beginners](https://www.youtube.com/watch?v=0x4JhS1YpzI&list=PLjVLYmrlmjGcNZrPa9bRg0JVlcxLX4Mu9&ab_channel=WsCubeTech)
 
-## Sites e cursos para aprender Julia
+## 🪲 Sites e cursos para aprender Julia
 
 > Cursos para aprender Julia em Português 
 - [Julia Lang (A Mistura de Linguagens que Deu Certo) - Dicionário do Programador](https://www.youtube.com/watch?v=Xzdg9czOxD8&ab_channel=C%C3%B3digoFonteTV)
@@ -3395,7 +3396,7 @@
 - - [ArangoDB - How to Install and Use ArangoDB Database on Windows](https://www.youtube.com/watch?v=M-7hB-4kHtk&ab_channel=DevNami)
 - - [GraphQL and ArangoDB](https://www.youtube.com/watch?v=vaUdiWU-src&ab_channel=ArangoDB)
 
-## 📚 Linha de comando
+## 📚 Sites e cursos para aprender Linha de comando
 
 > Cursos para aprender Bash em Português
 - [Curso Básico de Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGpf4X-NdGjvSlEFZhn2f2H7)
