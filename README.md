@@ -2020,7 +2020,7 @@
 - [Curso de Sass - El Exilio de Atlas](https://www.youtube.com/playlist?list=PL0FXkz5ILg9Y0ADavZORWRUU3mqG80N8s) 
 - [Curso Básico de Sass - Tutoriales Front-End](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxKrfbsw5-1GxErJrOrSkWI) 
 
-> Cursos para aprender Sass em InglÊs
+> Cursos para aprender Sass em Inglês
 - [Curso de Sass - Jornada do Dev](https://goo.gl/DzRv1e) 
 - [Sass, BEM, & Responsive Design (4 hr beginners course)](https://www.youtube.com/watch?v=jfMHA8SqUL4&ab_channel=CoderCoder)
 - [SASS Tutorial (Build Your Own CSS Library)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
