@@ -184,7 +184,7 @@
 
 ## 🔧 Ferramentas para tradução de conteúdo
 
-> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do seu idioma, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de tecnologia independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do seu, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de tecnologia independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
 
 - [Google Translate](https://translate.google.com.br/?hl=pt-BR)
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
