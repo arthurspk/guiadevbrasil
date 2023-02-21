@@ -36,7 +36,7 @@
 
 ## 💡 Nossa proposta
 
-> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
+> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a mmenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
 
 ## :beginner: Para quem está começando agora
 
@@ -80,7 +80,7 @@
 [🔤 Linguagens de programação](#-linguagens-de-programação) <br>
 [📕 Guia de Estilo](#-guia-de-estilo) <br>
 [📁 Desafios](#-desafios) <br>
-[🛠️ Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
+[🛠️ Ferramentas para desenvolvedores WEB](#🛠️-ferramentas-para-desenvolvedores-web) <br>
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
@@ -217,7 +217,7 @@
 - [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web 
 - [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo 
 - [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio 
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plat - ormas de codificação online 
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online 
 - [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos 
 - [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos 
 - [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos 
