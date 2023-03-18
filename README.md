@@ -800,7 +800,7 @@
 - [Iconfinder](https://www.iconfinder.com/) 
 - [iconmonstr](https://iconmonstr.com/) 
 - [Reshot](https://www.reshot.com/)
-- [Phosphor Icon](https://phosphoricons.com) - Família flexível de ícones com integração HTML/CSS, React e Vue 
+- [Phosphor Icon](https://phosphoricons.com)
 - [Thenounproject](https://thenounproject.com/) 
 
 ## 🎥 Canais do youtube com conteúdo gratuito
