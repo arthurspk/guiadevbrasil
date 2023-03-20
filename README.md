@@ -80,7 +80,7 @@
 [🔤 Linguagens de programação](#-linguagens-de-programação) <br>
 [📕 Guia de Estilo](#-guia-de-estilo) <br>
 [📁 Desafios](#-desafios) <br>
-[🛠️ Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
+[🛠️ Ferramentas para desenvolvedores WEB](#🛠️-ferramentas-para-desenvolvedores-web) <br>
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
@@ -217,7 +217,7 @@
 - [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web 
 - [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo 
 - [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio 
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plat - ormas de codificação online 
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online 
 - [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos 
 - [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos 
 - [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos 
@@ -618,7 +618,7 @@
 - [CloudCraft](https://www.cloudcraft.co) - plataforma com foco em criar desenhos de arquiteturas AWS. 
 - [BundlePhobia](https://bundlephobia.com) - site para descobrir o custo de adicionar um npm package no seu pacote. 
 - [Font Flipper](https://fontflipper.com) - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. 
-- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. 
+- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pela Google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. 
 - [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP.
 - [SmallDevTools](https://smalldev.tools/) - Ferramentas GRATUITAS para desenvolvedores, como codificador/decodificador, formatadores HTML/CSS/Javascript, minificadores, geradores de dados falsos ou de teste &amp; muito mais
 
