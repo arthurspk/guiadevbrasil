@@ -21,15 +21,22 @@
 
 ## 💌 Doações
 
-Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
+> Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
 
-Eu sempre acreditei que conhecimento deve ser compartilhado livremente, e é por isso que meu repositório no GitHub oferece acesso gratuito a tutoriais, exemplos de código, dicas e truques úteis para desenvolvedores de todos os níveis. No entanto, manter esse projeto atualizado e sustentável requer um esforço significativo e muitas horas de trabalho.
+> Eu sempre acreditei que conhecimento deve ser compartilhado livremente, e é por isso que meu repositório no GitHub oferece acesso gratuito a tutoriais, exemplos de código, dicas e truques úteis para desenvolvedores de todos os níveis. No entanto, manter esse projeto atualizado e sustentável requer um esforço significativo e muitas horas de trabalho.
 
-Com a sua ajuda, posso continuar produzindo conteúdo de qualidade para ajudar a comunidade de desenvolvedores. Além disso, também quero usar parte das doações para investir em novos projetos e apoiar iniciativas socioeducativas que ajudem jovens talentosos a se tornarem programadores.
+> Com a sua ajuda, posso continuar produzindo conteúdo de qualidade para ajudar a comunidade de desenvolvedores. Além disso, também quero usar parte das doações para investir em novos projetos e apoiar iniciativas socioeducativas que ajudem jovens talentosos a se tornarem programadores.
 
-Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência.
+> Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência.
 
-Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
+> Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
+
+- [PIX](#)
+- [Paypal](#)
+- [PicPay](#)
+- [PagSeguro](#)
+- [Mercado Pago](#)
+- [Buy Me A Coffe](#)
 
 ## :closed_book: E-Book
 
