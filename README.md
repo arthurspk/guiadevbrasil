@@ -40,7 +40,6 @@
 - Me siga no [Github](https://github.com/arthurspk)
 - Acesse as redes sociais do [Guia Dev Brasil](https://beacons.ai/guiadevbrasil/)
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
-- Faça uma doação pelo PIX: arthurcoutinho2@hotmail.com
 
 ## 💡 Nossa proposta
 
