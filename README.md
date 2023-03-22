@@ -757,6 +757,7 @@
 - [Abstract fonts](https://www.abstractfonts.com/)
 - [Fontget](https://www.fontget.com/)
 - [Material Design Icons](https://materialdesignicons.com/)
+- [FontsKey](https://www.fontskey.com/)
 
 ## 🧵 Sites de paletas de cores
 
