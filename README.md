@@ -139,7 +139,7 @@
 [🐢 Sites e cursos para aprender Less](#-sites-e-cursos-para-aprender-less) <br>
 [🐱 Sites e cursos para aprender Sass](#-sites-e-cursos-para-aprender-sass) <br>
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
-[🐻‍❄️ Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
+[🐤 Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
 [🐒 Sites e cursos para aprender TypeScript](#-sites-e-cursos-para-aprender-typescript) <br>
 [🐌 Sites e cursos para aprender Node.js](#-sites-e-cursos-para-aprender-nodejs) <br>
@@ -2129,7 +2129,7 @@
 - [Bootstrap 4 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv)
 - [Bootstrap 4 Tutorial + Project](https://www.youtube.com/watch?v=Uhy3gtZoeOM&ab_channel=CodingAddict)
 
-## 🐻‍❄️ Sites e cursos para aprender MySQL
+## 🐤 Sites e cursos para aprender MySQL
 
 > Sites para aprender MySQL
 
