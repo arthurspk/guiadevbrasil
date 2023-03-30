@@ -78,8 +78,8 @@
 [🎨 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end) <br>
 [🎮 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando) <br>
 [✨ Templates HTML gratuitos](#-templates-html-gratuitos) <br>
-[🪅 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css) <br>
-[🪡 Geradores de CSS](#-geradores-de-css) <br>
+[🎯 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css) <br>
+[⏰ Geradores de CSS](#-geradores-de-css) <br>
 [🔎 Sites para buscar vagas remotas](#-sites-para-buscar-vagas-remotas) <br>
 [🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento) <br>
 [🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos) <br>
@@ -92,7 +92,7 @@
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
-[🪛 9 Ferramentas que todo DEV precisa conhecer](#-7-ferramentas-que-todo-dev-precisa-conhecer) <br>
+[⚙️ 9 Ferramentas que todo DEV precisa conhecer](#-9-ferramentas-que-todo-dev-precisa-conhecer) <br>
 [🎭 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
 [☁ Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
 [🌌 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
@@ -113,7 +113,7 @@
 [📘 Sites para treinar projetos front-end](#-sites-para-treinar-projetos-front-end) <br>
 [📗 Sites para treinar projetos back-end](#-sites-para-treinar-projetos-back-end) <br>
 [📙 Sites para treinar projetos mobile](#-sites-para-treinar-projetos-mobile) <br>
-[🛖 Ideias para projeto](#-ideias-para-projeto) <br>
+[🗃️ Ideias para projeto](#-ideias-para-projeto) <br>
 [🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
 [🐴 Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
 [🐓 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
@@ -141,8 +141,8 @@
 [🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
 [🐻‍❄️ Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
 [🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
-[🦣 Sites e cursos para aprender TypeScript](#-sites-e-cursos-para-aprender-typescript) <br>
-[🦬 Sites e cursos para aprender Node.js](#-sites-e-cursos-para-aprender-nodejs) <br>
+[🐒 Sites e cursos para aprender TypeScript](#-sites-e-cursos-para-aprender-typescript) <br>
+[🐌 Sites e cursos para aprender Node.js](#-sites-e-cursos-para-aprender-nodejs) <br>
 [🦌 Sites e cursos para aprender Next.js](#-sites-e-cursos-para-aprender-nextjs) <br>
 [🦘 Sites e cursos para aprender Assembly](#-sites-e-cursos-para-aprender-assembly) <br>
 [🦒 Sites e cursos para aprender Lua](#-sites-e-cursos-para-aprender-lua) <br>
@@ -150,8 +150,8 @@
 [🐧 Sites e cursos para aprender Linux](#-sites-e-cursos-para-aprender-linux) <br>
 [🦥 Sites e cursos para aprender Ionic](#-sites-e-cursos-para-aprender-ionic) <br>
 [🦦 Sites e cursos para aprender Jira](#-sites-e-cursos-para-aprender-jira) <br>
-[🦫 Sites e cursos para aprender Rust](#-sites-e-cursos-para-aprender-rust) <br>
-[🦭 Sites e cursos para aprender Scala](#-sites-e-cursos-para-aprender-scala) <br>
+[🐭 Sites e cursos para aprender Rust](#-sites-e-cursos-para-aprender-rust) <br>
+[🐁 Sites e cursos para aprender Scala](#-sites-e-cursos-para-aprender-scala) <br>
 [🦝 Sites e cursos para aprender Nuxt.js](#-sites-e-cursos-para-aprender-nuxtjs) <br>
 [🦎 Sites e cursos para aprender Gulp](#-sites-e-cursos-para-aprender-gulp) <br>
 [🐅 Sites e cursos para aprender MongoDB](#-sites-e-cursos-para-aprender-mongodb) <br>
@@ -178,9 +178,9 @@
 [🦃 Sites e cursos para aprender Pandas](#-sites-e-cursos-para-aprender-pandas) <br>
 [🐟 Sites e cursos para aprender XML](#-sites-e-cursos-para-aprender-xml) <br>
 [🦢 Sites e cursos para aprender Jenkins](#-sites-e-cursos-para-aprender-jenkins) <br>
-[🦤 Sites e cursos para aprender Xamarin](#sites-e-cursos-para-aprender-xamarin) <br>
+[🐩 Sites e cursos para aprender Xamarin](#sites-e-cursos-para-aprender-xamarin) <br>
 [🦁 Sites e cursos para aprender Matlab](#sites-e-cursos-para-aprender-matlab) <br>
-[🪲 Sites e cursos para aprender Julia](#sites-e-cursos-para-aprender-julia) <br>
+[🦨 Sites e cursos para aprender Julia](#sites-e-cursos-para-aprender-julia) <br>
 [🐨 Sites e cursos para aprender PowerShell](#-sites-e-cursos-para-aprender-powershell) <br>
 [🐥 Sites e cursos para aprender Flask](#-sites-e-cursos-para-aprender-flask) <br>
 [🐔 Sites e cursos para aprender Spring](#-sites-e-cursos-para-aprender-spring) <br>
@@ -270,7 +270,7 @@
 - [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
 - [HTML5 UP](https://html5up.net/) - Temas HTML5 + CSS3 gratuitos
 
-## 🪅 Sites para aprender ou treinar CSS
+## 🎯 Sites para aprender ou treinar CSS
 
 - [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
 - [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
@@ -281,7 +281,7 @@
 - [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
 
-## 🪡 Geradores de CSS
+## ⏰ Geradores de CSS
 
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
@@ -617,7 +617,7 @@
 - [Particles.js](https://vincentgarreau.com/particles.js/)
 - [ScrollMagic](https://scrollmagic.io/)
 
-## 🪛 9 Ferramentas que todo DEV precisa conhecer
+## ⚙️ 9 Ferramentas que todo DEV precisa conhecer
 
 - [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos.
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces.
@@ -1017,7 +1017,7 @@
 
 - [Dev Challenge Mobile](https://devchallenge.vercel.app/challenges?type=mobile) - Treine suas habilidades com desafios Mobile
 
-## 🛖 Ideias para projeto
+## 🗃️ Ideias para projeto
 
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio
@@ -2296,7 +2296,7 @@
 
     </details>
 
-  ## 🦣 Sites e cursos para aprender TypeScript
+  ## 🐒 Sites e cursos para aprender TypeScript
 
 > Cursos para aprender TypeScript em Português
 
@@ -2339,7 +2339,7 @@
 - [TypeScript Course - Beginner to Advanced TypeScript Tutorial [2022]](https://www.youtube.com/watch?v=vcNtrYfroDY&ab_channel=Cloudaffle)
 - [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI&ab_channel=freeCodeCamp.org)
 
-## 🦬 Sites e cursos para aprender Node.js
+## 🐌 Sites e cursos para aprender Node.js
 
 > Cursos para aprender Node.js em Português
 
@@ -2618,7 +2618,7 @@
 - [Jira Full Course 4 hours | Jira Tutorial For Beginners | Jira Training | Intellipaat](https://www.youtube.com/watch?v=fhAcJ6Gv1ko&ab_channel=Intellipaat)
 - [How To Use Jira Software For Beginners | Jira Project Management Software (2023)](https://www.youtube.com/watch?v=aP7W7zNTM2I&ab_channel=TutorialsbyManizha%26Ryan)
 
-## 🦫 Sites e cursos para aprender Rust
+## 🐭 Sites e cursos para aprender Rust
 
 > Cursos para aprender Rust em Português
 
@@ -2642,7 +2642,7 @@
 - [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw&ab_channel=TraversyMedia)
 - [Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek&ab_channel=Fireship)
 
-## 🦭 Sites e cursos para aprender Scala
+## 🐁 Sites e cursos para aprender Scala
 
 > Cursos para aprender Scala em Português
 
@@ -3345,7 +3345,7 @@
 - [Jenkins Tutorial | Jenkins Course For Developers and DevOps](https://www.youtube.com/watch?v=BvUkXrAAqjE&ab_channel=ProgrammingKnowledge)
 - [Free Jenkins CI course for beginners | Learn Jenkins CI / CD tool in one video.](https://www.youtube.com/watch?v=zhDTF_vjkuQ&ab_channel=TravelsCode)
 
-## 🦤 Sites e cursos para aprender Xamarin
+## 🐩 Sites e cursos para aprender Xamarin
 
 > Cursos para aprender Xamarin em Português
 
@@ -3378,7 +3378,7 @@
 - [Lesson 1: 1. Introduction (Old version)](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLYdXvSx87cgRJfv6gZl7GjAs0GNvyg-uS&ab_channel=FitzleLLC)
 - [What is MATLAB? & How It Works | MATLAB Features & Types | MATLAB Tutorial for Beginners](https://www.youtube.com/watch?v=0x4JhS1YpzI&list=PLjVLYmrlmjGcNZrPa9bRg0JVlcxLX4Mu9&ab_channel=WsCubeTech)
 
-## 🪲 Sites e cursos para aprender Julia
+## 🦨 Sites e cursos para aprender Julia
 
 > Cursos para aprender Julia em Português
 
