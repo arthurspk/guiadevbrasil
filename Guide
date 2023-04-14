@@ -1,0 +1,456 @@
+<p align="center">
+  <a href="https://github.com/arthurspk/guiadevbrasil">
+    <img src="./images/guia.png" alt="Guia Extenso de Programação" width="160" height="160">
+  </a>
+  <h1 align="center">Guia Extenso de Programação</h1>
+</p>
+
+## :dart: O guia para alavancar a sua carreira
+
+> Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras.
+
+<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
+[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
+[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
+</sub>
+
+## 💌 Doações
+
+> Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
+
+- [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/doacoesguiadev)
+
+> Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência. Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
+
+## :closed_book: E-Book
+
+> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
+
+- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
+
+## ⚠️ Aviso importante
+
+> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
+
+- Me siga no [Github](https://github.com/arthurspk)
+- Acesse as redes sociais do [Guia Dev Brasil](https://beacons.ai/guiadevbrasil/)
+- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
+
+## 💡 Nossa proposta
+
+> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
+
+## :beginner: Para quem está começando agora
+
+> Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+
+## 🚨 Colabore
+
+- Abra Pull Requests com atualizações
+- Discuta ideias em Issues
+- Compartilhe o repositório com a sua comunidade
+
+## 🌍 Tradução
+
+> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
+
+<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+
+## 📚 ÍNDICE
+
+[🔧 Ferramentas para tradução de conteúdo](#-ferramentas-para-tradução-de-conteúdo) <br>
+[👨‍🏫 Sites para estudar programação](#-sites-para-estudar-programação) <br>
+[🎨 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end) <br>
+[🎮 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando) <br>
+[✨ Templates HTML gratuitos](#-templates-html-gratuitos) <br>
+[🎯 Sites para aprender ou treinar CSS](#-sites-para-aprender-ou-treinar-css) <br>
+[⏰ Geradores de CSS](#-geradores-de-css) <br>
+[🔎 Sites para buscar vagas remotas](#-sites-para-buscar-vagas-remotas) <br>
+[🔧 Ferramentas de desenvolvimento](#-ferramentas-de-desenvolvimento) <br>
+[🗂 Gerenciamento de projetos](#-gerenciamento-de-projetos) <br>
+[📝 IDEs e editores de código](#-ides-e-editores-de-código) <br>
+[🖌 Design Front-end](#-design-front-end) <br>
+[🔤 Linguagens de programação](#-linguagens-de-programação) <br>
+[📕 Guia de Estilo](#-guia-de-estilo) <br>
+[📁 Desafios](#-desafios) <br>
+[🛠️ Ferramentas para desenvolvedores WEB](#-ferramentas-para-desenvolvedores-web) <br>
+[⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
+[🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
+[🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
+[⚙️ 9 Ferramentas que todo DEV precisa conhecer](#-9-ferramentas-que-todo-dev-precisa-conhecer) <br>
+[🎭 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
+[☁ Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
+[🌌 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
+[📮 Banco de imagens gratuitas](#-banco-de-imagens-gratuitas) <br>
+[👔 Aumentando o network](#-aumentando-o-network) <br>
+[🎠 Sites para baixar e encontrar fontes](#-sites-para-baixar-e-encontrar-fontes) <br>
+[🧵 Sites de paletas de cores](#-sites-de-paletas-de-cores) <br>
+[🎇 Lista de ilustrações](#-lista-de-ilustrações) <br>
+[🎆 Sites de icones](#-sites-de-icones) <br>
+[🎥 Canais do youtube com conteúdo grautito](#-canais-do-youtube-com-conteúdo-gratuito) <br>
+[🔓 Pentest](#-pentest) <br>
+[🎙 Blogs e Podcasts](#-blogs-e-podcasts) <br>
+[💼 Business](#-business) <br>
+[🧭 Web Developer Roadmap](#-web-developer-roadmap) <br>
+[🔩 Extensões para o seu navegador](#-extensões-para-o-seu-navegador) <br>
+[📚 Recomendação de livros](#-recomendação-de-livros) <br>
+[📱 Apps para praticar programação](#-apps-para-praticar-programação) <br>
+[📘 Sites para treinar projetos front-end](#-sites-para-treinar-projetos-front-end) <br>
+[📗 Sites para treinar projetos back-end](#-sites-para-treinar-projetos-back-end) <br>
+[📙 Sites para treinar projetos mobile](#-sites-para-treinar-projetos-mobile) <br>
+[🗃️ Ideias para projeto](#-ideias-para-projeto) <br>
+[🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
+[🐴 Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
+[🐓 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
+[🦄 Sites e cursos para aprender CSS](#-sites-e-cursos-para-aprender-css) <br>
+[🐍 Sites e cursos para aprender Python](#-sites-e-cursos-para-aprender-python) <br>
+[🐘 Sites e cursos para aprender PHP](#-sites-e-cursos-para-aprender-php) <br>
+[🦚 Sites e cursos para aprender C#](#-sites-e-cursos-para-aprender-c) <br>
+[🦉 Sites e cursos para aprender C](#-sites-e-cursos-para-aprender-c-1) <br>
+[🐸 Sites e cursos para aprender C++](#-sites-e-cursos-para-aprender-c-2) <br>
+[🦉 Sites e cursos para aprender Camunda](#-sites-e-cursos-para-aprender-camunda) <br>
+[🐶 Sites e cursos para aprender Kotlin](#-sites-e-cursos-para-aprender-kotlin) <br>
+[🦊 Sites e cursos para aprender Swift](#-sites-e-cursos-para-aprender-swift) <br>
+[🐺 Sites e cursos para aprender Go](#-sites-e-cursos-para-aprender-go) <br>
+[🐦 Sites e cursos para aprender Ruby](#-sites-e-cursos-para-aprender-ruby) <br>
+[💧 Sites e cursos para aprender Elixir](#-sites-e-cursos-para-aprender-elixir) <br>
+[🐷 Sites e cursos para aprender React](#-sites-e-cursos-para-aprender-react) <br>
+[🐼 Sites e cursos para aprender React Native](#-sites-e-cursos-para-aprender-react-native) <br>
+[🐯 Sites e cursos para aprender Angular](#-sites-e-cursos-para-aprender-angular) <br>
+[🐞 Sites e cursos para aprender Vue](#-sites-e-cursos-para-aprender-vue) <br>
+[🦂 Sites e cursos para aprender Svelte](#-sites-e-cursos-para-aprender-svelte) <br>
+[🦞 Sites e cursos para aprender Flutter](#-sites-e-cursos-para-aprender-flutter) <br>
+[🐹 Sites e cursos para aprender jQuery](#-sites-e-cursos-para-aprender-jquery) <br>
+[🐢 Sites e cursos para aprender Less](#-sites-e-cursos-para-aprender-less) <br>
+[🐱 Sites e cursos para aprender Sass](#-sites-e-cursos-para-aprender-sass) <br>
+[🐰 Sites e cursos para aprender Bootstrap](#-sites-e-cursos-para-aprender-bootstrap) <br>
+[🐤 Sites e cursos para aprender MySQL](#%EF%B8%8F-sites-e-cursos-para-aprender-mysql) <br>
+[🐮 Sites e cursos para aprender Git e Github](#-sites-e-cursos-para-aprender-git-e-github) <br>
+[🐒 Sites e cursos para aprender TypeScript](#-sites-e-cursos-para-aprender-typescript) <br>
+[🐌 Sites e cursos para aprender Node.js](#-sites-e-cursos-para-aprender-nodejs) <br>
+[🦌 Sites e cursos para aprender Next.js](#-sites-e-cursos-para-aprender-nextjs) <br>
+[🦘 Sites e cursos para aprender Assembly](#-sites-e-cursos-para-aprender-assembly) <br>
+[🦒 Sites e cursos para aprender Lua](#-sites-e-cursos-para-aprender-lua) <br>
+[🐫 Sites e cursos para aprender Perl](#-sites-e-cursos-para-aprender-perl) <br>
+[🐧 Sites e cursos para aprender Linux](#-sites-e-cursos-para-aprender-linux) <br>
+[🦥 Sites e cursos para aprender Ionic](#-sites-e-cursos-para-aprender-ionic) <br>
+[🦦 Sites e cursos para aprender Jira](#-sites-e-cursos-para-aprender-jira) <br>
+[🐭 Sites e cursos para aprender Rust](#-sites-e-cursos-para-aprender-rust) <br>
+[🐁 Sites e cursos para aprender Scala](#-sites-e-cursos-para-aprender-scala) <br>
+[🦝 Sites e cursos para aprender Nuxt.js](#-sites-e-cursos-para-aprender-nuxtjs) <br>
+[🦎 Sites e cursos para aprender Gulp](#-sites-e-cursos-para-aprender-gulp) <br>
+[🐅 Sites e cursos para aprender MongoDB](#-sites-e-cursos-para-aprender-mongodb) <br>
+[🦩 Sites e cursos para aprender GraphQL](#-sites-e-cursos-para-aprender-graphql) <br>
+[🦙 Sites e cursos para aprender Cassandra](#-sites-e-cursos-para-aprender-cassandra) <br>
+[🦛 Sites e cursos para aprender SQL Server](#-sites-e-cursos-para-aprender-sql-server) <br>
+[🐐 Sites e cursos para aprender Postgree SQL](#-sites-e-cursos-para-aprender-postgree-sql) <br>
+[🐑 Sites e cursos para aprender Delphi](#-sites-e-cursos-para-aprender-delphi) <br>
+[🐊 Sites e cursos para aprender Wordpress](#-sites-e-cursos-para-aprender-wordpress) <br>
+[🐳 Sites e cursos para aprender Docker](#-sites-e-cursos-para-aprender-docker) <br>
+[🦜 Sites e cursos para aprender Kubernets](#-sites-e-cursos-para-aprender-kubernets) <br>
+[🐆 Sites e cursos para aprender Nest](#-sites-e-cursos-para-aprender-nest) <br>
+[🐿 Sites e cursos para aprender Laravel](#-sites-e-cursos-para-aprender-laravel) <br>
+[🐃 Sites e cursos para aprender AWS](#-sites-e-cursos-para-aprender-aws) <br>
+[🐬 Sites e cursos para aprender Google Cloud](#-sites-e-cursos-para-aprender-google-cloud) <br>
+[🦆 Sites e cursos para aprender Azure](#-sites-e-cursos-para-aprender-azure) <br>
+[🦅 Sites e cursos para aprender Django](#-sites-e-cursos-para-aprender-django) <br>
+[🐏 Sites e cursos para aprender Gatsby](#-sites-e-cursos-para-aprender-gatsby) <br>
+[🐂 Sites e cursos para aprender ASP.net](#-sites-e-cursos-para-aprender-aspnet) <br>
+[🐖 Sites e cursos para aprender Inteligência Artificial](#-sites-e-cursos-para-aprender-inteligência-artificial) <br>
+[🦀 Sites e cursos para aprender Machine Learning](#-sites-e-cursos-para-aprender-machine-learning) <br>
+[🦑 Sites e cursos para aprender Data Science](#-sites-e-cursos-para-aprender-data-science) <br>
+[🐙 Sites e cursos para aprender NumPy](#-sites-e-cursos-para-aprender-numpy) <br>
+[🦃 Sites e cursos para aprender Pandas](#-sites-e-cursos-para-aprender-pandas) <br>
+[🐟 Sites e cursos para aprender XML](#-sites-e-cursos-para-aprender-xml) <br>
+[🦢 Sites e cursos para aprender Jenkins](#-sites-e-cursos-para-aprender-jenkins) <br>
+[🐩 Sites e cursos para aprender Xamarin](#sites-e-cursos-para-aprender-xamarin) <br>
+[🦁 Sites e cursos para aprender Matlab](#sites-e-cursos-para-aprender-matlab) <br>
+[🦨 Sites e cursos para aprender Julia](#sites-e-cursos-para-aprender-julia) <br>
+[🐨 Sites e cursos para aprender PowerShell](#-sites-e-cursos-para-aprender-powershell) <br>
+[🐥 Sites e cursos para aprender Flask](#-sites-e-cursos-para-aprender-flask) <br>
+[🐔 Sites e cursos para aprender Spring](#-sites-e-cursos-para-aprender-spring) <br>
+[🐗 Sites e cursos para aprender Tailwind CSS](#-sites-e-cursos-para-aprender-tailwind-css) <br>
+[🦐 Sites e cursos para aprender Styled Components](#-sites-e-cursos-para-aprender-styled-components) <br>
+[🐎 Sites e cursos para aprender Magento](#-sites-e-cursos-para-aprender-magento) <br>
+[🐜 Sites e cursos para aprender ArangoDB](#-sites-e-cursos-para-aprender-arangodb) <br>
+[📚 Sites e cursos para aprender Linha de comando](#-sites-e-cursos-para-aprender-linha-de-comando) <br>
+
+## 🔧 Ferramentas para tradução de conteúdo
+
+> Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do seu, desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de tecnologia independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
+
+- [Google Translate](https://translate.google.com.br/?hl=pt-BR)
+- [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
+- [DeepL](https://www.deepl.com/pt-BR/translator)
+- [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
+
+## 👨‍🏫 Sites para estudar programação
+
+- [Rocketseat](https://rocketseat.com.br/) - Cursos gratuitos sobre as tecnologias mais quentes do mercado
+- [Digital Innovation One](http://digitalinnovation.one/) - Plataforma de ensino gratuita que desenvolve e conecta talentos
+- [Torne-se um Programador](https://www.torneseumprogramador.com.br/cursos) - Dezenas de cursos gratuitos completos e avançados com aplicações reais de mercado.
+- [Curso em Vídeo](https://www.cursoemvideo.com/) - Cursos básicos gratuitos para iniciantes
+- [Origamid](https://www.origamid.com/) - Cursos gratuitos e pagos paras desenvolver suas habilidades na área de UX & UI Design e desenvolvimento front-end
+- [Udemy Development](https://www.udemy.com/courses/development/?price=price-free&sort=popularity) - +1.400 cursos de desenvolvimento gratuitos
+- [Udemy IT](https://www.udemy.com/courses/it-and-software/?price=price-free&lang=pt&sort=popularity) - +100 cursos de TI e softwares
+- [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. Com IDE integrada
+- [Hackereath](https://www.hackerearth.com/) - Site para desenvolver suas habilidades de código.
+- [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. Com IDE integrada
+- [Coderchef](https://www.codechef.com/) - Site para Estuda sobre programação, código e afins.
+- [W3Resources](https://w3resource.com) - Exercícios online para praticar de inúmeras linguagens
+- [Coursera](https://www.coursera.org/) - Cursos gratuitos com conteúdos conceituados
+- [Scrimba](https://scrimba.com/) - Cursos gratuitos e pagos para aprender as tecnologias mais demandadas do Front-end
+- [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
+- [Codementor](https://www.codementor.io/) - Site para praticar e aprender a desenvolver suas skills como desenvolvedor
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Aprenda como codificar gratuitamente e ganhe portfólio ajudando organizações sem fins lucrativos
+- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Plataforma para desenvolver suas habilidade em diversas áreas da programação
+- [W3Schools](https://www.w3schools.com) - Inúmeras documentações explicadas de forma intuitiva
+- [Khan Academy](https://pt.khanacademy.org/) - Plataforma de estudos conceituada sobre aprendizado gamificado
+- [Udacity](https://www.udacity.com/) - Aprendizado tecnológico com ps conteúdos mais quentes do mercado (IA, data science, cloud computing, etc)
+- [SoloLearn](https://www.sololearn.com/) - Aprenda a programar gratuitamente pelo celular ou web
+- [edX](https://www.edx.org/) - Aprenda com os melhores, cursos de ciência da computação e ciência de dados ministradas por docentes das maiores e melhores universidades de todo o mundo
+- [Treehouse](https://teamtreehouse.com/) - Cursos para desenvolvedores e aprimomaromento de portfólio
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plat - ormas de codificação online
+- [TheOdinProject](https://www.theodinproject.com/) - Site para aprender programação e desenvolvimento por meio de cursos
+- [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos
+- [Balta.io](https://balta.io) - Site para aprender programação e desenvolvimento por meio de cursos
+- [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos
+- [DataScienceAcademy](https://www.datascienceacademy.com.br/) - Site com diversos cursos gratuitos para inciar no mundo de Python & DataScience
+- [FIAPx](https://www.fiap.com.br/fiapx) - Site com diversos cursos gratuitos na área da tecnologia
+- [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades=251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site com diversos cursos gratuitos na área da tecnologia
+- [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN)
+- [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN)
+- [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN)
+- [4noobs](https://github.com/he4rt/4noobs) - Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes.
+
+## 🎨 Sites para desenvolvedor front-end
+
+- [Uiverse](https://uiverse.io/) - Rede social de elementos de interfaces.
+- [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
+- [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
+- [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
+- [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
+- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
+- [Meta Tags](https://metatags.io/) - Elementos de metadados HTML gerados automaticamente para melhor o SEO
+
+## 🎮 Sites para aprender a programar jogando
+
+- [Code Combat](https://br.codecombat.com) - Site para aprender conceitos e linguagens de programação enquanto joga
+- [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python.
+- [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
+- [Schemaverse](https://schemaverse.com) - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL.
+- [Code Monkey](https://codemonkey.com) - CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador.
+- [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada
+- [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
+- [Flexbox Zombie](https://mastery.games/flexboxzombies/) - Desafios com CSS Flexbox para se defender de zumbis
+- [Flexbox Defense](http://www.flexboxdefense.com) - Desafios com CSS Flexbox para impedir que inimigos ultrapassem suas defesas
+- [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack) - Ataque inimigos enquanto treina práticas de CSS, com uma narrativa mais profunda
+- [Code](https://code.org/minecraft) - Site para estudos de algoritmos com a temática do jogo Minecraft
+
+## ✨ Templates HTML gratuitos
+
+- [Bootstrap Made](https://bootstrapmade.com/) - Temas HTML5 + CSS3 gratuitos
+- [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos
+- [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos
+- [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+- [HTML5 UP](https://html5up.net/) - Temas HTML5 + CSS3 gratuitos
+
+## 🎯 Sites para aprender ou treinar CSS
+
+- [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
+- [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
+- [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
+- [100 Dias de CSS](https://100dayscss.com) - 100 Desafios de CSS
+- [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
+- [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
+- [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
+
+## ⏰ Geradores de CSS
+
+- [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
+- [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
+- [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS
+- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de botões do CSS
+- [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS
+- [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path
+- [Animista](https://animista.net) - Criador de animações
+
+## 🔎 Sites para buscar vagas remotas
+
+- [BairesDev](https://www.bairesdev.com)
+- [Bergamot](https://bergamot.io)
+- [Coodesh](https://coodesh.com)
+- [Há Vagas](https://havagas.pt)
+- [Hired](https://hired.com)
+- [JustRemote](https://justremote.co)
+- [Programathor](https://programathor.com.br/)
+- [Remotar](https://remotar.com.br)
+- [Remote OK](https://remoteok.io)
+- [Strider](https://www.onstrider.com/)
+- [Toptal](https://www.toptal.com)
+- [Turing](https://www.turing.com)
+- [Working Nomads](https://workingnomads.co)
+- [X-Team](https://x-team.com)
+
+## 🔧 Ferramentas de desenvolvimento:
+
+- [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe
+- [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido.
+- [Hokusai](https://hokusai.app/) - Conteúdo sobre NFT's
+- [Hidden Tools](https://hiddentools.dev) - Ampla coleção de ferramentas feitas pela comunidade disponiveís para uso
+- [Dev Hints](https://devhints.io) - Coleção de cheatsheets
+- [Bundlephobia](https://bundlephobia.com) - Descubra o custo de adicionar um pacote npm ao seu pacote
+- [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
+- [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.
+- [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
+- [HTML 5 Test](https://html5test.com/index.html) - Testa arquivos HTML5
+- [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
+- [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
+- [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
+- [4Devs](https://www.4devs.com.br/) - Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras
+- [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
+- [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
+- [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
+- [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
+- [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
+- [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
+- [CMDER](https://cmder.net/) - Linha de comando simples, consegue rodar comands bash e Shell, alternativa ao Hyper
+- [CodePen](https://codepen.io/) - Rede social de desenvolvedores front-end
+- [CodeSandbox](https://codesandbox.io/) - Caixa de área para desenvolvedores web
+- [Connection Strings](https://www.connectionstrings.com/) - Site com strings de conexão para diversas plataformas
+- [CSS Formatter](https://www.cleancss.com/css-beautify/) - Retire a minificação e formate o código CSS
+- [CSS Minifier](https://cssminifier.com/) - Conversor de código CSS para CSS minificado
+- [CSS W3.org](https://jigsaw.w3.org/css-validator/) - Validar CSS
+- [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE](https://www.debuggex.com) - Construa e teste expressões regulares
+- [docsify](https://docsify.js.org/#/) - Crie docs incríveis de projetos
+- [EasyForms](https://easyforms.vercel.app/) - API open source que permite criação formulários de contato com HTML puro
+- [Editor.md](https://pandao.github.io/editor.md/en.html) - Editor Markdown online e open source
+- [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript
+- [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google
+- [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome
+- [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
+- [Git Command Explorer](https://gitexplorer.com/) - Encontre os comandos certos que você precisa sem vasculhar a web
+- [GitHub Gist](https://gist.github.com/) - Faça pequenas anotações e pequenos códigos no GitHub Gist
+- [Google Transparency Report](https://transparencyreport.google.com/safe-browsing/search) - Verificar segurança de um site
+- [Grader](https://website.grader.com/) - Avaliação de site
+- [How to Center in CSS](http://howtocenterincss.com/) - Gerador de código para divs ou textos que necessitam de centralização
+- [Hyper](https://hyper.is/) - Linha de comando simples, útil e gratuito
+- [Joomla](https://www.joomla.org/) - CMS gratuita
+- [JS Bin](https://jsbin.com/) - Codifique e compartilhe projetos HTML, CSS e JS
+- [JSCompress](https://jscompress.com/) - Conversor de código JS para JS minificado
+- [JSON Editor Online](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
+- [JSFiddle](https://jsfiddle.net/) - Codifique projetos JS online
+- [JSONLint](https://jsonlint.com/) - Ferramenta para validar seu JSON
+- [JSON Generator](https://app.json-generator.com/) - Ferramenta para gerar JSON com base em template
+- [KeyCDN Tools](https://tools.keycdn.com/) - Faça uma análise das suas aplicações web
+- [Liveweave](https://liveweave.com/) - Codifique projetos HTML, CSS e JS
+- [Lorem Ipsum](https://br.lipsum.com/) - Gerador de texto fictício
+- [Mapbox](https://www.mapbox.com/) - Mapas e localização para desenvolvedores
+- [Memcached](https://memcached.org/) - Melhore o desempenho de seu website com cache
+- [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
+- [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
+- [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
+- [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
+- [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
+- [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
+- [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
+- [Readme.so](https://readme.so/pt) - Crie de maneira fácil o readme para seu projeto
+- [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
+- [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
+- [Responsively](https://responsively.app/) - Ferramenta para facilitar a responsividade do seu site
+- [Shields.io](https://shields.io/) - Gerador de badges para markdown
+- [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
+- [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
+- [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
+- [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
+- [Telegram](https://telegram.org/) - Mensageiro criptografado
+- [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
+- [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
+- [Creately](https://creately.com/) - Crie e altere lindos diagramas em tempo real com a sua equipe
+- [Carbon](https://carbon.now.sh/) - Crie Snippets de codigo clean e bonitos
+- [DbDiagram](https://dbdiagram.io/home) - Crie elegrantes diagramas de banco de dados e gere script ddl
+- [SqlDesigner](https://ondras.zarovi.cz/sql/demo/) - Crie Diagramas de banco de dados de maneira rapida e gere script ddl
+- [W3.org](https://validator.w3.org/) - Validar HTML
+- [WakaTime](https://wakatime.com/) - Gerencie seu tempo de desenvolvimento
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) - Extensão para Chrome com multi-funções
+- [Web.dev](https://web.dev/) - Testar website (criado pela Google)
+- [WebPageTest](https://www.webpagetest.org/) - Testar perfomance de site
+- [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
+- [WordPress](https://wordpress.org/) - Criação de blogs
+- [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
+- [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos
+- [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação
+
+## 🗂 Gerenciamento de projetos
+
+- [Asana](https://asana.com/pt) - Gerenciamento de trabalho
+- [Azure DevOps](https://azure.microsoft.com/services/devops/) - Gerenciamento de projetos focados em planejamento, colaboração e entregas
+- [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
+- [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
+- [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
+- [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
+- [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
+- [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
+- [Miro](https://miro.com/) - Quadro branco colaborativo em tempo real
+- [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
+- [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
+- [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
+- [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
+- [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros
+- [Taskade](https://www.taskade.com/) - Gerenciamento de projetos pessoais e de equipe com notas e mapas mentais integrados
+- [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
+- [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
+- [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+- [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
+
+## 📝 IDEs e editores de código
+
+- [Atom](https://atom.io/) - Editor de código do GitHub
+- [BBEdit](https://www.barebones.com/products/bbedit/) - Editor de código para Mac OS
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados
+- [Brackets](http://brackets.io/) - Editor de código da Adobe
+- [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
+- [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
+- [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
+- [Geany](https://geany.org/) - Editor de texto poderoso, estável e leve
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE da Jetbrains
+- [NeoVim](https://neovim.io/) - Editor de código via terminal
+- [LunarVim](https://www.lunarvim.org/#opinionated) - Editor de código via terminal baseado em NeoVim e Escrito em Lua
+- [NetBeans](https://netbeans.org/) - IDE gratuita da Apache
+- [Notepad++](https://notepad-plus-plus.org/) - Editor de código raíz
+- [Code with Mu](https://codewith.mu) - Um editor de código Python simples, para iniciantes
+- [PHPStorm](https://www.jetbrains.com/phpstorm/) - IDE específica para PHP
+- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE específica para Python
+- [RStudio](https://www.rstudio.com/products/rstudio/download/#download) - IDE específica para a Linguagem R e suas variantes
+- [StackEdit](https://stackedit.io/) - Editor de markdown online
+- [Sublime Text](https://www.sublimetext.com/) - Sua licença expirou
+- [Thonny](https://thonny.org) - IDE Python para iniciantes
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) - IDE da Microsoft
+- [Visual Studio Code](https://code.visualstudio.com/) - Editor de código da Microsoft
+
+## 🖌 Design Front-end
+
+- [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
+- [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
+- [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
+- [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
+- [Bulma CSS](https://bulma.io/) - Estrutura CSS gratuita baseada no Flexbox
+- [Canva](https://www.canva.com/) - Ferramenta de design online
+- [Chart.js](https://www.chartjs.org/) - Biblio
