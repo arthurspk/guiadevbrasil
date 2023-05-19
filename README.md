@@ -237,6 +237,7 @@
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN)
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN)
 - [4noobs](https://github.com/he4rt/4noobs) - Repositório desenvolvido para mostrar os conhecimentos básicos em diversas linguagens e ferramentas para desenvolvedores iniciantes.
+- [Scaler Topics](https://www.scaler.com/topics/) - Uma plataforma projetada para aprimorar suas habilidades de programação em diversas áreas.
 
 ## 🎨 Sites para desenvolvedor front-end
 
@@ -280,6 +281,7 @@
 - [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
 - [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
+- [Scaler TOpics](https://www.scaler.com/topics/css/) - Tutorial de CSS básico a avançado para programadores.
 
 ## ⏰ Geradores de CSS
 
@@ -1160,6 +1162,7 @@
 - [JavaScript Projects Playlist - Florin Pop](https://www.youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth)
 - [JavaScript Projects Playlist - Zlad Mohamed](https://www.youtube.com/playlist?list=PLJoT4UFj-n7nL9D2ZCBRismDxN_oHQBl8)
 - [JavaScript Projects Playlist - Code With Hossein](https://www.youtube.com/playlist?list=PL5a_Yttx9bWXapYCTkqh-jTOKuNkE20KZ)
+- [JavaScript Tutorial - Scaler Topics](https://www.scaler.com/topics/javascript/)
 
 ## 🐓 Sites e cursos para aprender HTML
 
@@ -1191,6 +1194,7 @@
 - [HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLDVUkWPClxtc-wxTPG02NrdA7RbBogjGW)
 - [HTML Complete Course - Beginner to Expert](https://www.youtube.com/playlist?list=PLJ9Lcll8xpWpBuUUc6ykHoCQpdDzauDCg)
 - [HTML Course - Zeytoon Tuts](https://www.youtube.com/playlist?list=PLDVUkWPClxtc-wxTPG02NrdA7RbBogjGW)
+- [HTML Tutorial for Programmers](https://www.scaler.com/topics/html/)
 
 ## 🦄 Sites e cursos para aprender CSS
 
@@ -1234,6 +1238,7 @@
 - [Programming HTML and CSS Projects](https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G)
 - [One Page Full Website Project For Practice | HTML & CSS Responsive Website](https://www.youtube.com/watch?v=ZFQkb26UD1Y)
 - [Learn CSS Position In 9 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=jx5jmI0UlXU&ab_channel=WebDevSimplified)
+- [CSS Tutorial](https://www.scaler.com/topics/css/)
 
 ## 🐍 Sites e cursos para aprender Python
 
@@ -1363,6 +1368,8 @@
 - [Hacking networks with Python and Scapy](https://www.youtube.com/playlist?list=PLhfrWIlLOoKOc3z424rgsej5P5AP8yNKR)
 - [Ethical Hacking With Python](https://www.youtube.com/playlist?list=PLHGPBKzD9DYU10VM6xcVoDSSVzt2MNdKf)
 - [Python hacking - Abdul Kamara](https://www.youtube.com/playlist?list=PLmrwFpxY0W1PPRPJrFAJInpOzuB3TLx0K)
+- [Python Tutorial - Scaler Topics](https://www.scaler.com/topics/python/)
+- [Python Certification Course - Scaler Topics](https://www.scaler.com/topics/course/python-for-beginners/)
 
 ## 🐘 Sites e cursos para aprender PHP
 
@@ -1508,6 +1515,7 @@
 - [C Programming - IntelliPaat](https://www.youtube.com/playlist?list=PLVHgQku8Z935hrZwx751XoyqDROH_tYMY)
 - [Learn C programming - edureka!](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFrNo8jK9Yb2g2eMHz7hTu9)
 - [C Programming Tutorials - Saurabh Shukla](https://www.youtube.com/playlist?list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF)
+- [C Tutorial](https://www.scaler.com/topics/c/)
 
 ## 🐸 Sites e cursos para aprender C++
 
@@ -1546,6 +1554,7 @@
 - [C++ Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpGDG3--IKMLPoYrgfuhaz_t)
 - [C / C++ - freeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m)
 - [C++ Modern Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
+- [C++ Tutorial](https://www.scaler.com/topics/cpp/)
 
 ## 🦉 Sites e cursos para aprender Camunda
 
@@ -3214,7 +3223,8 @@
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org)
 - [Best Machine Learning Courses on Coursera](https://www.youtube.com/watch?v=A4OVjWeVb10&ab_channel=AlexTheAnalyst)
 - [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&ab_channel=freeCodeCamp.org)
-
+- [Machine Learning – Full Paid Course](https://www.scaler.com/courses/machine-learning-course-training/)
+  
 ## 🦑 Sites e cursos para aprender Data Science
 
 > Cursos para aprender Data Science em Português
@@ -3247,6 +3257,7 @@
 - [Data Science In 5 Minutes | Data Science For Beginners | What Is Data Science? | Simplilearn](https://www.youtube.com/watch?v=X3paOmcrTjQ&ab_channel=Simplilearn)
 - [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM&ab_channel=freeCodeCamp.org)
 - [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI&ab_channel=freeCodeCamp.org)
+- [Learn Data Science by Scaler - Full Course](https://www.scaler.com/data-science-course/)
 
 ## 🐙 Sites e cursos para aprender NumPy
 
