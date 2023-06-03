@@ -23,7 +23,7 @@
 
 > Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
 
-- [Clique aqui para realizar realizar uma doação! 💓](https://beacons.ai/doacoesguiadev)
+- [Clique aqui para realizar uma doação! 💓](https://beacons.ai/doacoesguiadev)
 
 > Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência. Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
 
