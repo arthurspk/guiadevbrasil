@@ -917,6 +917,14 @@
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 - [TryHackMe](https://tryhackme.com/) - Plataforma com laboratórios para aprender sobre pentest de maneira prática e teórica
 - [Hack This Site](https://www.hackthissite.org/) - Site de desafios de hacking focado em web apps, irc, esteganografia, etc
+- [247CTF](https://247ctf.com/) - Plataforma com diversos desafios de pentest.
+- [Microcorruption](https://microcorruption.com/map) - Site para praticar análise de código Assembly com a temática de desbloquear dispositivos eletrônicos.
+- [Mindmap](https://www.amanhardikar.com/mindmaps/Practice.html) - Mapa mental divulgando as diferentes áreas de pentesting e lugares para praticar.
+- [TryToDecrypt](https://www.trytodecrypt.com/index.php) - Desafios voltados à criptografia.
+- [OverTheWire](https://overthewire.org/wargames/) - Site com desafios de pentesting que envolvem servidores mal configurados, criptografia, esteganografia, falhas de segurança comuns em sites, etc.
+- [Evilzone](https://evilzone.org/index.php) - Desafios de várias áreas de pentesting.
+- [CryptoHack](https://cryptohack.org/) - Plataforma que visa distribuir conteúdo didático sobre hacking e desafios de pentesting.
+- [W3Challs](https://w3challs.com/) - Comunidade de wargames.
 
 ## 🎙 Blogs e Podcasts
 
