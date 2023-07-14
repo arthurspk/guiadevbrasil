@@ -1007,6 +1007,9 @@
 - [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
 - [DevChallenges](https://devchallenges.io/) - Site com desafios de Front-end e Fullstack
 - [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end
+- [Frontend Practice](https://www.frontendpractice.com) - Treine suas habiliades de Front-end, recriando sites reais de empresas reais.
+- [FrontendPro](https://www.frontendpro.dev/) - Crie projetos front-end reais que vão do nível básico ao avançado.
+
 
 ## 📗 Sites para treinar projetos back-end
 
