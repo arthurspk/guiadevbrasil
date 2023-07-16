@@ -92,7 +92,7 @@
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
-[⚙️ 9 Ferramentas que todo DEV precisa conhecer](#-9-ferramentas-que-todo-dev-precisa-conhecer) <br>
+[⚙️ 10 Ferramentas que todo DEV precisa conhecer](#-10-ferramentas-que-todo-dev-precisa-conhecer) <br>
 [🎭 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
 [☁ Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
 [🌌 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
@@ -590,8 +590,9 @@
 - [First Timers Only](http://www.firsttimersonly.com/)
 - [Your First Pr](https://twitter.com/yourfirstpr)
 - [Github Explore](https://github.com/explore/)
+- [First Contributions](https://firstcontributions.github.io/)
 
-## 🐧 Melhores distros linux para programadores
+## 🐧 Melhores distros Linux para programadores
 
 - [Pop!\_Os](https://pop.system76.com/) - Distribuição Linux Pop!\_Os
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux
@@ -617,7 +618,7 @@
 - [Particles.js](https://vincentgarreau.com/particles.js/)
 - [ScrollMagic](https://scrollmagic.io/)
 
-## ⚙️ 9 Ferramentas que todo DEV precisa conhecer
+## ⚙️ 10 Ferramentas que todo DEV precisa conhecer
 
 - [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos.
 - [Figma](https://www.figma.com) - ferramenta para design de interfaces.
@@ -721,6 +722,7 @@
 - [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
 - [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 - [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas
+- [Rawpixel](https://www.rawpixel.com/)
 - [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
 - [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
 - [unDraw](https://undraw.co/) - Ilustrações livres para usar
@@ -773,6 +775,9 @@
 - [Color.lol](https://colors.lol/)
 - [ColorBox](https://colorbox.io/)
 - [ColorSpace](https://mycolor.space)
+- [Palette Maker](https://palettemaker.com/)
+- [Palettable](https://www.palettable.io/151616)
+- [Accessible Color Generator](https://www.learnui.design/tools/accessible-color-generator.html)
 
 ## 🎇 Lista de ilustrações
 
@@ -976,6 +981,7 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
+- [JSON Formatter](https://json-formatter.js.org/)
 
 ## 📚 Recomendação de livros
 
