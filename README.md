@@ -743,6 +743,7 @@
 - [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
 - [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
 - [OsProgramadores](https://t.me/osprogramadores) - Grupo para incentivar o aprendizado de programação.
+- [He4rt Developers](https://discord.gg/he4rt) - Comunidade para quem está iniciando na programação.
 
 ## 🎠 Sites para baixar e encontrar fontes
 
@@ -903,6 +904,7 @@
 - [Pisani da Arch](https://www.youtube.com/c/ArcHOfficeTech) - É um canal com conteúdos voltados para Arquitetura de Solução, onde o objetivo é ajudar a comunidade de Devs e Archs a projetarem soluções com os melhores padrões do mercado.
 - [Nick Chapsas](https://www.youtube.com/c/Elfocrash) - Canal de um engenheiro de software de Londres com tutoriais e dicas de ferramentas Microsoft (ASPNET Core, C#, etc)
 - [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar) - Canal de um desenvolvedor mobile com experiência em Android & IOS.
+- [Daniel He4rt](https://www.youtube.com/@DanielHe4rt/videos) - Canal de um desenvolvedor PHP sobre PHP e conteúdos relacionados.
 
 ## 🔓 Pentest
 
