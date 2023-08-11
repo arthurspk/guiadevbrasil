@@ -302,6 +302,7 @@
 - [Programathor](https://programathor.com.br/)
 - [Remotar](https://remotar.com.br)
 - [Remote OK](https://remoteok.io)
+- [Remote Salary](https://remotesalary.ai/board?remote=true&utm_campaign=guiadevbrazil)
 - [Strider](https://www.onstrider.com/)
 - [Toptal](https://www.toptal.com)
 - [Turing](https://www.turing.com)
