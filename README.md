@@ -280,6 +280,7 @@
 - [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
 - [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
+- [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure/play) - Jogo para aprender e treinar CSS Flexbox.
 
 ## ⏰ Geradores de CSS
 
