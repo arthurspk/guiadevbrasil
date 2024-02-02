@@ -299,6 +299,7 @@
 - [Há Vagas](https://havagas.pt)
 - [Hired](https://hired.com)
 - [JustRemote](https://justremote.co)
+- [OkJob](https://okjob.io/remote-4-day-work-week/)
 - [Programathor](https://programathor.com.br/)
 - [Remotar](https://remotar.com.br)
 - [Remote OK](https://remoteok.io)
