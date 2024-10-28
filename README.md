@@ -427,6 +427,7 @@
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Editor de código SQL e gerenciador de banco de dados
 - [Brackets](http://brackets.io/) - Editor de código da Adobe
 - [CodeBlocks](http://www.codeblocks.org/) - IDE para C e C++
+- [CodeLobster](https://codelobster.com/) - Editor de código/IDE
 - [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - IDE Dev C++ para liguagem C/C++
 - [Eclipse](https://www.eclipse.org/downloads/) - IDE software livre da IBM
 - [Geany](https://geany.org/) - Editor de texto poderoso, estável e leve
