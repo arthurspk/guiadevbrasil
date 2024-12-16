@@ -92,7 +92,7 @@
 [⚒️ Ferramentas para buscar projetos open source](#-ferramentas-para-buscar-projetos-open-source) <br>
 [🐧 Melhores distros linux para programadores](#-melhores-distros-linux-para-programadores) <br>
 [🔗 Bibliotecas JavaScript](#-bibliotecas-javascript) <br>
-[⚙️ 9 Ferramentas que todo DEV precisa conhecer](#-9-ferramentas-que-todo-dev-precisa-conhecer) <br>
+[⚙️ 9 Ferramentas que todo DEV precisa conhecer](#%EF%B8%8F-9-ferramentas-que-todo-dev-precisa-conhecer) <br>
 [🎭 Sites para praticar UI/UX](#-sites-para-praticar-uiux) <br>
 [☁ Ferramentas para hospedar seu site](#-ferramentas-para-hospedar-seu-site) <br>
 [🌌 Sites para inspirar o seu desenvolvimento](#-sites-para-inspirar-o-seu-desenvolvimento) <br>
