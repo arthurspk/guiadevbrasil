@@ -397,6 +397,7 @@
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 - [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos
 - [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação
+- [Free AI Diagram Generator](https://diagram-generator.com/) - uma plataforma gratuita com tecnologia de IA que ajuda você a criar vários tipos de diagramas com facilidade
 
 ## 🗂 Gerenciamento de projetos
 
