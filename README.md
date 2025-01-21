@@ -113,7 +113,7 @@
 [📘 Sites para treinar projetos front-end](#-sites-para-treinar-projetos-front-end) <br>
 [📗 Sites para treinar projetos back-end](#-sites-para-treinar-projetos-back-end) <br>
 [📙 Sites para treinar projetos mobile](#-sites-para-treinar-projetos-mobile) <br>
-[🗃️ Ideias para projeto](#-ideias-para-projeto) <br>
+[🗃️ Ideias para projeto](#%EF%B8%8F-ideias-para-projeto) <br>
 [🦓 Sites e cursos para aprender Java](#-sites-e-cursos-para-aprender-java) <br>
 [🐴 Sites e cursos para aprender JavaScript](#-sites-e-cursos-para-aprender-javascript) <br>
 [🐓 Sites e cursos para aprender HTML](#-sites-e-cursos-para-aprender-html) <br>
