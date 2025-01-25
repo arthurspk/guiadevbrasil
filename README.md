@@ -3596,6 +3596,27 @@
 - [Bash Scripting 3hrs course](https://www.youtube.com/playlist?list=PL2JwSAqE1httILs055eEgbnO9oTu1otIG)
 - [Bash Zero to Hero Series](https://www.youtube.com/playlist?list=PLP8aFdeDk9g5Pg7WHYfv6EsD1D8hrx5AJ)
 
+
+## 👾 Sites e cursos para aprender Haskell
+
+> Cursos para aprender Haskell em Português
+
+- [Programação Funcional em Haskell - Completo](https://www.youtube.com/watch?v=U7gdzYiFJKg&list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ)
+- [Curso de Haskell](https://www.youtube.com/watch?v=T2tCWtd1_vw&list=PLfdR3_dt2rbeTo6kFqKww_AXpjbn-VioQ)
+- [Programação Funcional em Haskell 2020](https://www.youtube.com/watch?v=tATHKJIbP6k&list=PLao0kJESf4S-cgKAFYoQ47QnGkof1DE-V)
+- [Introdução à Programação Funcional](https://www.youtube.com/watch?v=o1Z9QGmHGqQ&list=PLnreHJ8o9y0-dWK-Q-0-qCV2b-NqpdTrz)
+
+> Cursos para aprender Haskell em Inglês
+
+- [Haskell for imperative Programmers](https://www.youtube.com/watch?v=Vgu82wiiZ90&list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
+- [Haskell Programming Full Course 2024](https://www.youtube.com/watch?v=TklkNLihQ_A&t=90s&pp=ygURY291cnNlIG9mIGhhc2tlbGw%3D)
+- [Haskell for Beginners](https://www.youtube.com/watch?v=JjzBFVhkeMA&list=PLmTgnNwroyn8TnF26YRvW-hvQF1ypztzg)
+- [Introduction to Haskell](https://www.youtube.com/watch?v=3blAsQDT0u8&list=PLD8gywOEY4HauPWPfH0pJPIYUWqi0Gg10)
+- [Haskell Course](https://www.youtube.com/watch?v=H1vbUKMKvnM&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb)
+- [Haskell Projects](https://www.youtube.com/watch?v=qbDQdXfcaO8&list=PLyQXlWxYAh8_9_Q-XeyIF4CmQbE9b0Oc0)
+- [Learning Haskell by Building a Blog Generator](https://www.youtube.com/watch?v=ZL0qExCnO8g&list=PLxn_Aq3QlOQcXoHWdzxnnuGlGWNXJg43R)
+- [Project Euler in Haskell](https://www.youtube.com/watch?v=7df1WhvYG8k&list=PLfzJKXh_D71Rg8Cbl81sCzx59RloCspL-)
+
   <details>
     <summary>📝 Alguns comandos úteis (Linux, MacOs e Powershell/Windows)</summary>
 
