@@ -1443,6 +1443,7 @@
 - [Curso .NET Core C#](https://www.youtube.com/playlist?list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS)
 - [Curso de C# com Entity - CSharp com SQL](https://www.youtube.com/playlist?list=PLxNM4ef1BpxgIUUueLguueyhx0UuICC3-)
 - [Curso de C# com MVC e SQL](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxgilp2iFXI4i2if6Qtg6qFZ)
+- [C# WPF Tutorial](https://www.youtube.com/playlist?list=PLZyAyG4_KmYnvTqe5__NG3bXMrdjYV4Ci)
 
 > Cursos para aprender C# em Espanhol
 
@@ -1471,6 +1472,9 @@
 - [C# for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
 - [C# - Programming Language | Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpNIBTYHNDrhfE9C-imUXCmk)
 - [C#.NET Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+- [C# WPF Tutorial](https://www.youtube.com/playlist?list=PLih2KERbY1HHOOJ2C6FOrVXIwg4AZ-hk1)
+- [C# WPF Tutorial](https://www.youtube.com/playlist?list=PLJJcOjd3n1Zegr2CaA78RWF9IIgeyq0xh)
+- [C# WPF MVVM Tutorial](https://www.youtube.com/playlist?list=PLA8ZIAm2I03hS41Fy4vFpRw8AdYNBXmNm)
 
 ## 🦉 Sites e cursos para aprender C
 
