@@ -2154,6 +2154,7 @@
 - [Digital Ocean Basic MySQL Tutorial](https://www.digitalocean.com/community/tags/mysql)
 - [Journal to SQL Authority, Pinal Dave](https://blog.sqlauthority.com/)
 - [MySQL Tutorial, Learn MySQL Fast, Easy and Fun](https://www.mysqltutorial.org/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 > Cursos para aprender MySQL em Português
 
