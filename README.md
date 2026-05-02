@@ -455,6 +455,7 @@
 - [Canva](https://www.canva.com/) - Ferramenta de design online
 - [Chart.js](https://www.chartjs.org/) - Biblioteca JavaScript de criação de gráficos
 - [Colors and Fonts](https://www.colorsandfonts.com/) - Apresenta paletas de cores e tipografia
+- [FontsWiki](https://fontswiki.com/) - Catalogo pesquisavel de fontes, alternativas gratuitas, combinacoes e referencias de uso real
 - [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
 - [Colors lol](https://colors.lol) - Repositório de paletas de cores
 - [Cruip](https://cruip.com/) - Recursos de templates
