@@ -914,6 +914,7 @@
 - [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 - [NMap](https://nmap.org/) - Scanner de portas de rede
 - [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Pentester autônomo de código aberto (GPL-3.0) movido a IA; atua como host MCP para orquestrar ferramentas.
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 - [TryHackMe](https://tryhackme.com/) - Plataforma com laboratórios para aprender sobre pentest de maneira prática e teórica
 - [Hack This Site](https://www.hackthissite.org/) - Site de desafios de hacking focado em web apps, irc, esteganografia, etc
