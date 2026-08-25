@@ -368,6 +368,7 @@
 - [Mussum Ipsum](https://mussumipsum.com/) - Gerador de texto fictício
 - [NPM HTTP-Server](https://www.npmjs.com/package/http-server) - Rode um servidor local com um pacote npm
 - [Password Generator](https://danieldeev.github.io/password-generator/) - Um gerador de senhas simples com foco na segurança
+- [PortalToolsGO](https://portaltoolsgo.com.br/) - Ferramentas online gratuitas em português para devs (formatador de JSON, JWT, regex, cURL para código, YAML, Markdown e mais), sem cadastro e processando tudo no navegador
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
 - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
