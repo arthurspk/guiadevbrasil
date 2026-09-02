@@ -1,0 +1,6 @@
+# Configuração do verificador de links (https://github.com/lycheeverse/lychee)
+# Uso: lychee --no-progress './**/*.md'
+#
+# O LinkedIn responde HTTP 999 a qualquer verificador automatizado (bloqueio anti-bot),
+# mesmo com o perfil no ar. É o único domínio excluído da verificação.
+exclude = ["^https://www\\.linkedin\\.com/"]
