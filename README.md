@@ -31,7 +31,6 @@
 
 > Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
 
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
 
 ## ⚠️ Aviso importante
 
@@ -232,7 +231,6 @@
 - [FrontEndMaster](https://frontendmasters.com/) - Site para aprender programação e desenvolvimento por meio de cursos
 - [DataScienceAcademy](https://www.datascienceacademy.com.br/) - Site com diversos cursos gratuitos para inciar no mundo de Python & DataScience
 - [FIAPx](https://www.fiap.com.br/fiapx) - Site com diversos cursos gratuitos na área da tecnologia
-- [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades=251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site com diversos cursos gratuitos na área da tecnologia
 - [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN)
 - [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN)
 - [Complete Intro to Web Development](https://btholt.github.io/intro-to-web-dev-v2/) - Site com os principais conteúdos referentes a desenvolvimento web criado e mantido por um dos professores do site Frontend Masters (EN)
@@ -245,7 +243,6 @@
 - [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
 - [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
-- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
 - [Meta Tags](https://metatags.io/) - Elementos de metadados HTML gerados automaticamente para melhor o SEO
 
 ## 🎮 Sites para aprender a programar jogando
@@ -253,7 +250,6 @@
 - [Code Combat](https://br.codecombat.com) - Site para aprender conceitos e linguagens de programação enquanto joga
 - [CheckiO](https://checkio.org) - CheckiO é um site que tem como objetivo ensinar programação, mas todos os desafios de codificação devem ser concluídos em Python.
 - [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
-- [Schemaverse](https://schemaverse.com) - O Schemaverse é um jogo de estratégia baseado no espaço implementado inteiramente em um banco de dados PostgreSQL.
 - [Code Monkey](https://codemonkey.com) - CodeMonkey é um ambiente de codificação de computador educacional que permite que iniciantes aprendam conceitos e linguagens de programação de computador.
 - [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada
 - [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
@@ -285,7 +281,6 @@
 
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 - [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
-- [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS
 - [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de botões do CSS
 - [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS
 - [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path
@@ -312,17 +307,12 @@
 
 - [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe
 - [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido.
-- [Hokusai](https://hokusai.app/) - Conteúdo sobre NFT's
-- [Hidden Tools](https://hiddentools.dev) - Ampla coleção de ferramentas feitas pela comunidade disponiveís para uso
 - [Dev Hints](https://devhints.io) - Coleção de cheatsheets
 - [Bundlephobia](https://bundlephobia.com) - Descubra o custo de adicionar um pacote npm ao seu pacote
 - [Refactoring Guru](https://refactoring.guru/pt-br/design-patterns) - Padrões de projetos "Design patterns"
 - [DevDocs](https://devdocs.io/) - DevDocs combina várias documentações de API em uma interface rápida, organizada e pesquisável.
-- [HTML Validator](https://www.freeformatter.com/html-validator.html) - Validação de arquivo HTML
 - [HTML 5 Test](https://html5test.com/index.html) - Testa arquivos HTML5
-- [Image Slide Maker](https://imageslidermaker.com/v2) - Ferramenta de geração gratuita do Image Slider Maker
 - [.NET Fiddle](https://dotnetfiddle.net/) - Codifique e compartilhe projetos C# online
-- [1PageRank](http://www.1pagerank.com/) - Rankeie seu site nos mecanismos de buscas e aprenda com a concorrência
 - [4Devs](https://www.4devs.com.br/) - Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras
 - [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
 - [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
@@ -371,15 +361,13 @@
 - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) - Ferramenta para compilar C online
 - [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Ferramenta para debug do ReactJS
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
-- [Readme.so](https://readme.so/pt) - Crie de maneira fácil o readme para seu projeto
-- [RelaX](http://dbis-uibk.github.io/relax/index.htm) - Crie expressões algébricas relacionais de consultas
-- [Responsive](http://www.codeorama.com/responsive/) - Teste a responsividade do seu site
+- [Readme.so](https://readme.so/) - Crie de maneira fácil o readme para seu projeto
+- [RelaX](https://dbis-uibk.github.io/relax/) - Crie expressões algébricas relacionais de consultas
 - [Responsively](https://responsively.app/) - Ferramenta para facilitar a responsividade do seu site
 - [Shields.io](https://shields.io/) - Gerador de badges para markdown
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Testar SSL de sites
 - [StreamYard](https://streamyard.com/) - O StreamYard é um estúdio de transmissões ao vivo no seu navegador
 - [Swagger](https://swagger.io/) - Ferramenta para projetar, construir, documentar e usar serviços da Web RESTful
-- [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) - Tabela completa com caracteres ASCII
 - [Telegram](https://telegram.org/) - Mensageiro criptografado
 - [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 - [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
@@ -407,7 +395,7 @@
 - [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
 - [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
 - [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
-- [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
+- [lucidchart](https://lucid.co/lucidchart) - Documentação e gerenciamento de tarefas em equipe
 - [Miro](https://miro.com/) - Quadro branco colaborativo em tempo real
 - [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
 - [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
@@ -447,7 +435,6 @@
 
 ## 🖌 Design Front-end
 
-- [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos
 - [Awwwards](https://www.awwwards.com) - Inspiração para interfaces e templates com o que há de mais novo em questão de design de interfaces
 - [Bootstrap](https://www.getbootstrap.com/) - Framework CSS
 - [BuildBootstrap](https://buildbootstrap.com/) - Crie layout responsivo para o framework Bootstrap na versão 3 e 4
@@ -458,7 +445,6 @@
 - [Coolors](https://coolors.co/) - Palhetas de cores e monte a sua própria
 - [Colors lol](https://colors.lol) - Repositório de paletas de cores
 - [Cruip](https://cruip.com/) - Recursos de templates
-- [CSS Effects Snippets](https://emilkowalski.github.io/css-effects-snippets/) - Animações CSS prontas para usar
 - [CSS Layout](https://csslayout.io/) - Layouts e padrões populares feitos com CSS
 - [CSS Reference](https://cssreference.io/) - Guia visual para CSS com referencias de uso
 - [CSS Tricks](https://css-tricks.com/) - Blog com vários tutoriais frontend
@@ -475,20 +461,16 @@
 - [FreeFrontEnd](https://freefrontend.com/) - Exemplos de códigos, tutoriais e artigos de HTML, CSS, Javascript (Angular, JQuery, React, Vue)
 - [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
 - [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
-- [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
 - [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 - [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 - [Invision](https://www.invisionapp.com/) - Software de design para projetos
 - [Lottie](https://lottiefiles.com/) - Animações em after effects via json
-- [Luna](https://github.com/OfficialMarinho/luna) - Framework CSS brasileiro
 - [Material-UI](https://material-ui.com/) - Um framework de interface de usuário para React
-- [Mockup](https://mockup.io/about/) - Visualize e colabore no design de aplicativos para dispositivos móveis
 - [Nes.css](https://nostalgic-css.github.io/NES.css/) - Framework CSS estilo NES
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
 - [Normalize CSS](https://necolas.github.io/normalize.css/) - Normaliza estruturas entre navegadores
 - [Pixilart](https://www.pixilart.com/draw) - Desenhe pixel arts online
 - [Pixlr](https://pixlr.com/br/) - Conjunto de ferramentas e utilitários de edição de imagem baseado em nuvem
-- [PSD-To-CSS-Shadow](http://psd-to-css-shadows.com/) - Gera o script para uma sombra (box-shadow & text-shadow) no CSS baseado nas configurações de sombra no Photoshop
 - [Pure.css](https://purecss.io/) - Framework CSS responsivo
 - [Remove.bg](https://www.remove.bg/) - Remove fundos de imagens automaticamente
 - [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
@@ -549,7 +531,6 @@
 - [CoderByte](https://coderbyte.com/) - Desafios de Programação Back-end. IDE integrada
 - [CodeSignal](https://app.codesignal.com/) - Desafios de Programação Back-end. IDE integrada
 - [CodeWars](https://www.codewars.com/) - Desafios de Programação Back-end. IDE integrada
-- [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada
 - [Codility](https://app.codility.com/) - Desafios de Programação Back-end. IDE integrada
 - [Coding Games](https://www.codingame.com/) - Desafios Programação Back-end com foco em temática de jogos. IDE integrada
 - [CSES](https://cses.fi/problemset/) - Desafios de Programação Back-end. IDE integrada
@@ -559,7 +540,7 @@
 - [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
 - [DevChallenges.io](https://devchallenges.io/) - Site com projectos webs responsivos, front-end e full-stack
 - [Edabit](https://edabit.com/) - Desafios de Programação Back-end. IDE integrada
-- [Exercism.io](https://exercism.io/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
+- [Exercism.io](https://exercism.org/) - Desafios de Programação Back-end. Sem IDE integrada. Requer download de CLI.
 - [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
 - [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
 - [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end
@@ -568,12 +549,10 @@
 - [HackerRank](https://www.hackerrank.com/) - Desafios de Programação Back-end. IDE integrada
 - [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
 - [LeetCode](https://leetcode.com/) - Desafios de Programação Back-end. IDE integrada
-- [BinarySearch](https://binarysearch.com/) - Desafios de Programação Back-end. IDE integrada
 - [CodeAbbey](https://www.codeabbey.com/) - Desafios de Programação Back-end. IDE integrada
 - [ProjectEuler](https://projecteuler.net/) - Desafios de Programação Back-end focado em problemas matemáticos. IDE integrada
 - [Sphere Onlune Judge (SPOJ)](https://www.spoj.com/) - Desafios de Programação Back-end com a compilação e testes feito pela plataforma porém sem IDE integrada
 - [TopCoder](https://arena.topcoder.com/) - Desafios e Arena de Programação Back-end. IDE integrada
-- [URI/Beecrowd](https://www.beecrowd.com.br/) - Desafios Programação Back-end, matemáticos e SQL. IDE integrada
 - [OsProgramadores](https://osprogramadores.com/desafios/) - Desafios de Lógica de Programação do grupo Os Programadores.
 
 ## 🛠️ Ferramentas para desenvolvedores WEB
@@ -585,7 +564,6 @@
 ## ⚒ Ferramentas para buscar projetos open source
 
 - [Up for Grabs](http://up-for-grabs.net/)
-- [Isse Hub](http://issuehub.pro/)
 - [Code Triage](https://www.codetriage.com/)
 - [First Timers Only](http://www.firsttimersonly.com/)
 - [Your First Pr](https://twitter.com/yourfirstpr)
@@ -597,13 +575,13 @@
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux
 - [Debian](https://www.debian.org/) - Distribuição Linux Debian
 - [Ubuntu](https://ubuntu.com/) - Distribuição Linux Ubuntu
-- [Fedora](https://getfedora.org/pt_BR/) - Distribuição Linux Fedora
+- [Fedora](https://fedoraproject.org/pt/) - Distribuição Linux Fedora
 - [Linux Mint](https://linuxmint.com/) - Distribuição Linux Mint
 - [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE
 - [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux
-- [KDE Neon](https://www.neon.kde.org) - Distribuição Linux KDE Neon
+- [KDE Neon](https://neon.kde.org/) - Distribuição Linux KDE Neon
 - [Solus](https://www.getsol.us) - Distribuição Linux Solus
-- [Tails](https://www.tails.boum.org) - Distribuição Linux Tails
+- [Tails](https://tails.net/) - Distribuição Linux Tails
 - [Zorin OS](https://zorin.com/os/) - Distribuição Linux Zorin
 - [Kubuntu](https://kubuntu.org/) - Distribuição Linux Kubuntu
 
@@ -636,7 +614,6 @@
 - [Daily UI](https://www.dailyui.co/)
 - [UX Challenges](https://uxtools.co/challenges)
 - [Drawerrr](https://drawerrr.com/challenge)
-- [Uplabs](https://www.uplabs.com/challenges)
 
 ## ☁ Ferramentas para hospedar seu site
 
@@ -649,7 +626,7 @@
 - [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
 - [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
 - [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade
-- [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
+- [Embratel](https://www.embratel.com.br/) - Hospedagem de sites nacional
 - [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
 - [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
 - [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
@@ -694,21 +671,17 @@
 - [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
 - [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
 - [Banco De Imagens Com Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas
-- [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
+- [DrawKIT](https://www.drawkit.com/) - Ilustrações para qualquer um usar
 - [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
 - [Flickr](https://flickr.com/) - Rede social de fotógrafos
-- [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
-- [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
-- [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
+- [Freerange](https://freerangestock.com/) - Banco de imagens gratuitas
 - [Glaze](https://www.glazestock.com) - Banco de ilustrações, sem direitos autorais
 - [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas
 - [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
 - [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
 - [Imgur](https://imgur.com/) - Plataforma com milhões de imagens
-- [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos
 - [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
 - [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
-- [Lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
 - [Lukas Zadam](https://lukaszadam.com/illustrations) - Ilustrações SVG em diferentes tamanhos e estilos
 - [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores
 - [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
@@ -733,10 +706,8 @@
 
 - [Guia Dev Brasil](https://linktr.ee/guiadevbrasil) - Guia Dev Brasil
 - [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
-- [Comunidade CodigoPraTodos](https://comunidade.codigopratodos.com/) - Comunidade CodigoPraTodos no Discord e Forum
 - [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord
 - [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
-- [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
 - [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
 - [Dev.to](https://dev.to/) - Rede social para desenvolvedores
 - [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
@@ -750,7 +721,7 @@
 - [Google fonts](https://fonts.google.com/)
 - [Dafont](https://www.dafont.com/pt/)
 - [NetFontes](https://www.netfontes.com.br/)
-- [Urbanfonts](https://www.urbanfonts.com/pt/)
+- [Urbanfonts](https://urbanfonts.com/)
 - [Befonts](https://befonts.com/)
 - [Fonts space](https://www.fontspace.com/)
 - [1001 fonts](https://www.1001fonts.com/)
@@ -776,7 +747,7 @@
 
 ## 🎇 Lista de ilustrações
 
-- [DrawKIT](https://www.drawkit.io/)
+- [DrawKIT](https://www.drawkit.com/)
 - [Humaaans](https://www.humaaans.com/)
 - [Open Doodle](https://www.opendoodles.com/)
 - [Storyset](https://storyset.com/)
@@ -792,7 +763,7 @@
 
 ## 🎆 Sites de icones
 
-- [DrawKIT](https://drawkit.com/free-icons)
+- [DrawKIT](https://www.drawkit.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [Feather Icons](https://feathericons.com/)
 - [Font Awesome](https://fontawesome.com)
@@ -851,7 +822,7 @@
 - [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Canal sobre lógica por trás do desenvolvimento de inteligências artificiais
 - [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita/) - Canal com aulas de desenvolvimento android e técnicas de código limpo
 - [Zero Bugs](https://www.youtube.com/c/ZeroBugs) - Canal sobre desenvolvimento web com PHP e JavaScript
-- [Balta.io](https://youtube.com/c/baltaio) - Canal explicando uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito, - om mais de 80 cursos direcionados
+- [Balta.io](https://youtube.com/c/baltaio) - Canal explicando uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito, com mais de 80 cursos direcionados
 - [CodAffection](https://youtube.com/c/CodAffection) - Este canal tem como objetivo ensinar e inspirar desenvolvedores a criar aplicativos
 - [Codedamn](https://youtube.com/c/codedamn) - Canal sobre programação e tecnologia no geral
 - [EspecializaTi](https://youtube.com/c/EspecializatiBr) - Canal de cursos Online de Desenvolvimento Web
@@ -880,7 +851,6 @@
 - [Vida de Programador](https://www.youtube.com/c/ProgramadorREAL) - Conteúdo sobre tecnologia e programação
 - [ProfessorRamos](https://www.youtube.com/c/professorramos/) - Conteúdo de informática e afins
 - [Professor José de Assis](https://www.youtube.com/c/RoboticapraticaBr/) - Arduino com foco em robótica educacional, Programação Linguagem C, Java e desenvolvimento WEB, Linux com foco em servidores de rede
-- [zer01ti](https://www.youtube.com/c/zero1ti/) - Novidades da tecnológica
 - [Rafaella Ballerini](https://www.youtube.com/user/RafaellaBallerini/) - Experiência no mundo tech e dicas sobre como se encaixar na área.
 - [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw) - TechPrimers é um canal educacional para fornecer insights sobre implementações de tecnologia
 - [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g) - Tutoriais sobre programação, playlist, e conteúdo sobre a área de informática
@@ -894,7 +864,6 @@
 - [Beer and Code](https://www.youtube.com/c/BeerandCode/) - Faça seu futuro com as tecnologias mais utilizadas nas Startups de sucesso.
 - [Attekita Dev](https://www.youtube.com/c/AttekitaDev/) - Engenheira de software entusiasta em UX, com mais de mais de 20 aplicativos publicados na App Store
 - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) - Web Dev Simplified tem tudo a ver com o ensino de habilidades e técnicas de desenvolvimento web de maneira eficiente e prática
-- [Escola Front-end](https://www.youtube.com/c/EscolaFrontend/) - Conteúdo sobre Front-end
 - [Programe seu futuro](https://www.youtube.com/c/ProgrameseufuturoComWagnerGaspar) - Programação, Algoritmos e Lógica de Programação
 - [CFBCursos](https://www.youtube.com/c/cfbcursos) - Canal de cursos/aulas de informática que disponibiliza conteúdo de qualidade e gratuito
 - [Coding Snow](https://www.youtube.com/channel/UCNDmzGYwwT3rdY3xQuW8QOA) - Coding Snow é um canal para design e desenvolvimento criativo da Web, designs de front-end, designs de interface do usuário, Web design responsivo e designs de back-end usando HTML, CSS, Javascript / JQuery, PHP, MYSQL
@@ -909,29 +878,24 @@
 - [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 - [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros
 - [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal
-- [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem
+- [HStrike](https://hackersec.com/hstrike/) - Ferramentas de pentest em nuvem
 - [HTTRack](http://www.httrack.com/) - Browser utility
 - [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa
 - [NMap](https://nmap.org/) - Scanner de portas de rede
-- [picoCTF](https://picoctf.com/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
+- [picoCTF](https://picoctf.org/) - Jogo gratuito de segurança de computador voltado para alunos do ensino fundamental, médio e iniciantes
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 - [TryHackMe](https://tryhackme.com/) - Plataforma com laboratórios para aprender sobre pentest de maneira prática e teórica
 - [Hack This Site](https://www.hackthissite.org/) - Site de desafios de hacking focado em web apps, irc, esteganografia, etc
 
 ## 🎙 Blogs e Podcasts
 
-- [DevNaEstrada](https://devnaestrada.com.br/) - Desenvolvimento web em geral
 - [Dicas de programação](https://dicasdeprogramacao.com.br/): Dicas para
-- [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 - [Podcast OsProgramadores](https://osprogramadores.com/podcast) - Tudo que você sempre quis saber sobre Programação vida de programador, e também como chegar lá. Entrevistas com profissionais reconhecidos Nacional e Internacionalmente.
 - [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
-- [LinuxTips](https://www.linuxtips.io/podcast) - Linux, DevOps, Docker e T.I
-- [É tudo nuve](https://www.etudonuve.com.br/i/) - Pesquisa
+- [LinuxTips](https://linuxtips.io/) - Linux, DevOps, Docker e T.I
 - [Dev.to](https://dev.to/) - Rede social para desenvolvedores
 - [Playcode](https://playcode.com.br/) - Site com algumas dicas para programação
-- [Codenation](https://deploy.codenation.com.br/podcasts/home)
 - [Ambev Tech Talk](https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG): Podcast da Ambev sobre tecnologia e cerveja
-- [Coruja de TI](https://blog.corujadeti.com.br/) - Blog com várias dicas de TI no geral
 - [Cooperati](https://cooperati.com.br/) - Site com algumas informações sobre tecnologia
 - [Zup](https://www.zup.com.br/blog) - Blog com informação sobre tecnologia
 - [Boss Level](https://open.spotify.com/show/003zbichzSTjf3m7W2Sfvc) - O Boss Level é um Podcast sobre desenvolvimento, Frontend, Backend e DevOps
@@ -941,11 +905,9 @@
 - [DioCast](https://castbox.fm/app/castbox/player/id1323408) - Tecnologia geral do canal DioLinux
 - [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
 - [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/) - Ciência, pseudociências e tudo o mais, feito pelo IFUFGRS
-- [IT Visionaries (em inglês)](https://mission.org/itvisionaries/) - Tecnologias quentes e inovação
-- [Lambda3](https://www.lambda3.com.br/tag/podcast/) - Desenvolvimento de software e tecnologia em geral
+- [IT Visionaries (em inglês)](https://www.mission.org/) - Tecnologias quentes e inovação
 - [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 - [Pizza de dados](https://pizzadedados.com/) - Ciência de dados e conselhos de carreira
-- [PodProgramar](https://podprogramar.com.br/) - Focado em programação, notícias e histórias da área
 - [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral
 - [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia
 - [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech.
@@ -955,7 +917,6 @@
 
 - [BossaBox](https://bossabox.com/) - Rede de desenvolvedores, designers e gerentes
 - [CodeInterview](https://codeinterview.io/) - Realize entrevistas de emprego com codificação ao vivo
-- [Impulso](https://impulso.network/) - Uma rede gratuita para impulsionar o seu crescimento profissional
 - [Rocket.Chat](https://rocket.chat/) - Chat corporativo open-source e gratuito para equipes
 
 ## 🧭 Web Developer Roadmap
@@ -993,15 +954,13 @@
 - [SoloLearn](https://www.sololearn.com/home)
 - [Pydriod3 Android](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US)
 - [Mimo Android](https://play.google.com/store/apps/details?id=com.getmimo&hl=pt_BR&gl=US)
-- [Dcoder Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder&hl=pt_BR&gl=US)
+- [Dcoder Android](https://dcoder.tech/)
 - [Codecademy Android](https://play.google.com/store/apps/details?id=com.ryzac.codecademygo&hl=pt_BR&gl=US)
 - [Codecademy iOS](https://apps.apple.com/us/app/codecademy-go/id1376029326)
-- [GrassHopper Android](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=pt_BR&gl=US6)
 
 ## 📘 Sites para treinar projetos front-end
 
 - [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
-- [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada
 - [Code Well](https://codewell.cc/) - Treine suas habilidade de HTML e CSS com alguns templates
 - [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
 - [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
@@ -1137,8 +1096,6 @@
 - [JavaScript Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
 - [JavaScript Basics Course - freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 - [JavaScript for Beginners - Microsoft Developer](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-- [The Complete JavaScript Course 2022: From Zero to Expert - Euniqa](https://www.youtube.com/playlist?list=PLd7dW_Jxkr_Yw6apt7tpzDC6X2mP5UhtQ)
-- [The Complete JavaScript Course 2022: From Zero to Expert - zerefJS](https://www.youtube.com/playlist?list=PL0xIL4n2EucHKRzJJe5iqayDdQ3OtEOC9)
 - [JavaScript Tutorials - Programming with Mosh](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)
 - [JavaScript Programming Tutorial - Caleb Curry](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLVh9OdCBYFEql6esA6aRsi)
 - [Vanilla JavaScript - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
@@ -1249,7 +1206,6 @@
 - [Practice Python](https://www.practicepython.org/)
 - [The Python Guru](https://thepythonguru.com/)
 - [The Coder's Apprentice](https://www.spronck.net/pythonbook/)
-- [Python Principles](https://pythonprinciples.com/)
 - [Harvard's CS50 Python Video](https://pll.harvard.edu/course/cs50s-introduction-programming-python?delta=0)
 - [Cracking Codes With Python](https://inventwithpython.com/cracking/)
 - [Learn Python, Break Python](https://learnpythonbreakpython.com/)
@@ -1537,7 +1493,6 @@
 - [C++ Tutorial for Beginners - Complete Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org)
 - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4&ab_channel=CalebCurry)
 - [C++ Full Course 2022](https://www.youtube.com/watch?v=SYd5F4gIH90&ab_channel=Simplilearn)
-- [C++ Crash Course](https://www.youtube.com/watch?v=uhFpPlMsLzY&ab_channel=BroCode)
 - [C++ - The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 - [C++ Full Course | C++ Tutorial | Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [C++ Programming - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
@@ -1600,7 +1555,6 @@
 - [Learn Kotlin From Zero to Hero in 10 Hours](https://www.youtube.com/watch?v=cxm9AHNDMPI&ab_channel=MasterCoding)
 - [Android Development Course - Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04&ab_channel=freeCodeCamp.org)
 - [Android Programming Course - Kotlin, Jetpack Compose UI, Graph Data Structures & Algorithms](https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org)
-- [Kotlin Course for Beginners and Java Devs](https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2)
 - [The Kotlin Programming Language Course for Beginners](https://www.youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz)
 - [The Complete Kotlin Developer Course](https://www.youtube.com/playlist?list=PL6Q9UqV2Sf1h0Jox_BLZV3gqmMM1sWKUD)
 - [Kotlin Tutorial for Beginners: Basics and Fundamentals for beginners](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR)
@@ -1636,7 +1590,6 @@
 - [Swift Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q&ab_channel=freeCodeCamp.org)
 - [Learn Swift Fast (2020) - Full Course For Beginners](https://www.youtube.com/watch?v=FcsY1YPBwzQ&ab_channel=CodeWithChris)
 - [2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)](https://www.youtube.com/watch?v=F2ojC6TNwws&ab_channel=CodeWithChris)
-- [Swift Tutorial For Beginners [Full Course] Learn Swift For iOS Development](https://www.youtube.com/watch?v=mhE-Mp07RTo&ab_channel=Devslopes)
 - [Swift Programming Tutorial | FULL COURSE | Absolute Beginner](https://www.youtube.com/watch?v=CwA1VWP0Ldw&ab_channel=SeanAllen)
 - [Swift Programming Tutorial for Beginners (Full Tutorial)](https://www.youtube.com/watch?v=Ulp1Kimblg0&ab_channel=CodeWithChris)
 
@@ -1707,7 +1660,6 @@
 - [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org)
 - [Ruby on Rails Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=-AdqKjqHQIA&ab_channel=CodeGeek)
 - [Learn Ruby on Rails from Scratch](https://www.youtube.com/watch?v=2zZCzcupQao&ab_channel=ProgrammingKnowledge)
-- [The complete ruby on rails developer course](https://www.youtube.com/watch?v=y4pKYYMdAA0&ab_channel=FullCourse)
 - [Ruby on Rails for Beginners](https://www.youtube.com/playlist?list=PLm8ctt9NhMNV75T9WYIrA6m9I_uw7vS56)
 - [Ruby on Rails Full Course](https://www.youtube.com/playlist?list=PLsikuZM13-0zOytkeVGSKk4VTTgE8x1ns)
 - [Full Stack Ruby on Rails Development Bootcamp](https://www.youtube.com/playlist?list=PL6SEI86zExmsdxwsyEQcFpF9DWmvttPPu)
@@ -1721,7 +1673,6 @@
 > Cursos para aprender Elixir em Português
 
 - [Curso de Elixir básico - Adolfo Neto](https://www.youtube.com/watch?v=2weVIXHyIwI&list=PLF5ttO8F-IsT42x53iFxOhmY70AWf-nd6&index=53&ab_channel=AdolfoNeto)
-- [Curso de Elixir na prática - Elly Academy](https://www.youtube.com/watch?v=GXlyLSVDkhI&list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR&ab_channel=ELLYACADEMY)
 - [Curso - Aprenda com quem não sabe](https://www.youtube.com/playlist?list=PLr4c053wuXU-YY4GmqUM3y_uauspsmO0O)
 - [Alquimia Stone - Formação Gratuita em Elixir](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD)
 - [Repositórios Elixir4Noobs para iniciantes](https://github.com/aleDsz/elixir4noobs)
@@ -1818,7 +1769,6 @@
 - [Build App Clones with ReactJS](https://www.youtube.com/playlist?list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP)
 - [Real World React Project](https://www.youtube.com/playlist?list=PLOf4R-b03O-BRCXzW0Rw-jVaxZc_6vyK-)
 - [Playlist for React Projects with 11 vídeos](https://www.youtube.com/playlist?list=PL_pNGipveQXxpO0_h2sR28OlZvUVgf4oG)
-- [50 Days React Bootcamp: Build 50 Real World React Projects](https://www.youtube.com/playlist?list=PLllZK1evlMnbrMyrNQKYp1Gz5m0C3BOHk)
 - [Playlist for React Projects with 58 vídeos](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK)
 - [ReactJS Projects - Resume / Portfolio Projects](https://www.youtube.com/playlist?list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa)
 - [React Projects Tutorial](https://www.youtube.com/playlist?list=PLfhDYRr-FofnXgQ3ZDfepp1RsqkoqzByF)
@@ -2012,7 +1962,6 @@
 - [A Primeira Aula de Flutter Que Todo Mundo Deveria Ter](https://www.youtube.com/watch?v=J4BVaXkwmM8&ab_channel=FilipeDeschamps)
 - [Curso Flutter - Projeto COMPLETO Passo a Passo [Campo Minado]](https://www.youtube.com/watch?v=i3w3Wnouowo&ab_channel=Cod3rCursos)
 - [Education App UI Design in Flutter - Flutter UI Design Tutorial](https://www.youtube.com/watch?v=ucwBcTgxyME&ab_channel=DearProgrammer)
-- [Live Coding | Desenvolva um aplicativo em Flutter!](https://www.youtube.com/watch?v=j8Swzym_EEc&ab_channel=AluraCursosOnline)
 - [Flutter: Configurando cores dinâmicas | #AluraMais](https://www.youtube.com/watch?v=gI4-vj0WpKM&ab_channel=AluraCursosOnline)
 - [Curso de Flutter: Criando seu primeiro App grátis](https://www.youtube.com/playlist?list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ)
 - [Curso Flutter Avançado - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cufduUDgiZZqA_k5Q7UV_50)
@@ -2099,7 +2048,6 @@
 - [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI&ab_channel=developedbyed)
 - [Sass Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM&ab_channel=TraversyMedia)
 - [Sass in 100 Seconds](https://www.youtube.com/watch?v=akDIJa0AP5c&t=53s&ab_channel=Fireship)
-- [Sass Crash Course 2022](https://www.youtube.com/watch?v=BEdCOvJ5RY4&ab_channel=PixelRocket)
 - [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M&ab_channel=Fireship)
 
 ## 🐰 Sites e cursos para aprender Bootstrap
@@ -2139,15 +2087,10 @@
 - [SQLCourse](https://www.sqlcourse.com/)
 - [CodeQuizzes](https://www.codequizzes.com/apache-spark/spark/datasets-spark-sql)
 - [Planet MySQL](https://planet.mysql.com/pt/)
-- [MySQL Learn2torials](https://learn2torials.com/category/mysql)
-- [Learn MySQL, Memrise](https://app.memrise.com/course/700054/learn-mysql/)
 - [Tizag MySQL Tutorials](http://www.tizag.com/mysqlTutorial/)
 - [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
 - [SQL Basics Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
-- [Phptpoint MySQL Tutorial](https://www.phptpoint.com/mysql-tutorial/)
 - [RoseIndia MySQL Tutorials](https://www.roseindia.net/mysql/)
-- [MySQL on Linux Like Geeks](https://likegeeks.com/mysql-on-linux-beginners-tutorial/)
-- [Mastering MySQL by Mark Leith](http://www.markleith.co.uk/)
 - [Tutorials Point MySQL Tutorial](https://www.tutorialspoint.com/mysql/index.htm)
 - [KillerPHP MySQL Video Tutorials](https://www.killerphp.com/mysql/videos/)
 - [PYnative MySQL Database Tutorial](https://pynative.com/python/databases/)
@@ -2175,7 +2118,6 @@
 
 - [The New Boston MySQL Videos](https://www.youtube.com/playlist?list=PL32BC9C878BA72085)
 - [MySQL For Beginners, Programming With Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
-- [Complete MySQL Beginner to Expert](https://www.youtube.com/watch?v=en6YPAgc6WM&ab_channel=FullCourse)
 - [Full MySQL Course for Beginners](https://www.youtube.com/playlist?list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
 - [MySQL Complete Tutorial for Beginners 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E)
 - [SQL for Beginners (MySQL)](https://www.youtube.com/playlist?list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT)
@@ -2310,7 +2252,6 @@
 - [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI&ab_channel=freeCodeCamp.org)
 - [TypeScript - Zero to Hero | O que é TypeScript? #01](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H&ab_channel=GlauciaLemos)
 - [Curso de react: Aula 01 - Começando com ReactJS](https://www.youtube.com/watch?v=1bEbBkWc4-I&list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm&ab_channel=LucasSouzaDev)
-- [Curso TypeScript do Básico ao avançado - Tipagem de Dados #01](https://www.youtube.com/watch?v=Z0RlhHuw6hk&list=PL4iwH9RF8xHlxBrCZImFELtiew3TneihE&ab_channel=PogCast)
 - [Curso de Typescript - Aula 1: O que é o typescript?](https://www.youtube.com/watch?v=3LPWQtvxHOk&list=PLbV6TI03ZWYWwU5p9ZBH8oJTCjgneX53u&ab_channel=DanielBerg)
 - [API Rest, Node e Typescript: #00 - Apresentação do curso, tecnologias usadas e muito mais](https://www.youtube.com/watch?v=SVepTuBK4V0&list=PL29TaWXah3iaaXDFPgTHiFMBF6wQahurP&ab_channel=LucasSouzaDev)
 - [Curso de Node.js completo com Typescript, Jest, TDD, Github](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab)
@@ -2349,7 +2290,6 @@
 - [Curso de Node.JS - O que é Node.JS #01](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&ab_channel=VictorLima-GuiadoProgramador)
 - [Vamos aprender NodeJS? [Introdução, instalação, primeira aplicação NodeJS] - Curso de Node - Aula 01](https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE&ab_channel=CFBCursos)
 - [Curso de Node.js completo com Typescript, Jest, TDD, Github... [Código atualizado 2022]](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab)
-- [O que é Node.js? - Curso - Aula Grátis #01](https://www.youtube.com/watch?v=irrkH6VII78&list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V&ab_channel=LuizTools)
 - [Node.js #1 - O que é Node e como instalar o Node.js no Windows](https://www.youtube.com/watch?v=jqrKQEJ6DpY&list=PLmY5AEiqDWwBHJ3i_8MDSszXXRTcFdkSu&ab_channel=Celke)
 - [Curso Node JS Completo: Aula 01 - Introdução e Instalação](https://www.youtube.com/watch?v=zxziRBDFjGc&list=PL2Fdisxwzt_cQ7SMv8Drlg2TcrOS5LDZq&ab_channel=Programa%C3%A7%C3%A3oWeb)
 - [#01 Curso NodeJS com Typescript - Iniciando Ambiente](https://www.youtube.com/watch?v=GII-SyqjbqE&list=PLn3kOoc0oI2cQDdUEQxj75sxgRH53DmSc&ab_channel=AndrewRos%C3%A1rio)
@@ -2507,7 +2447,6 @@
 - [It's FOSS](https://itsfoss.com/)
 - [Linux Hint](https://linuxhint.com/)
 - [FOSS Linux](https://www.fosslinux.com/)
-- [LinuxOPsys](https://linuxopsys.com/)
 - [Linux Journey](https://linuxjourney.com/)
 - [Linux Command](https://linuxcommand.org/)
 - [Linux Academy](https://linuxacademy.org/)
@@ -2516,7 +2455,6 @@
 - [Ryan's Tutorials](https://ryanstutorials.net/)
 - [LinuxFoundationX](https://www.edx.org/school/linuxfoundationx)
 - [LabEx Linux For Noobs](https://labex.io/courses/linux-for-noobs)
-- [Conquering the Command Line](http://conqueringthecommandline.com/)
 - [Guru99 Linux Tutorial Summary](https://www.guru99.com/unix-linux-tutorial.html)
 - [Eduonix Learn Linux From Scratch](https://www.eduonix.com/courses/system-programming/learn-linux-from-scratch)
 - [TLDP Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -2573,7 +2511,6 @@
 
 - [Ionic - Dicionário do Programador](https://www.youtube.com/watch?v=5QqvO_9LPzQ&ab_channel=C%C3%B3digoFonteTV)
 - [Curso Ionic Completo 2022 [Iniciantes] + Desafios + Criando um Aplicativo!](https://www.youtube.com/watch?v=gEVYAdwDHwg&t=5894s&ab_channel=WhileTrue)
-- [Conhecendo o Ionic Framework](https://www.youtube.com/watch?v=HUBg2VTYRPo&list=PLuXkauUmG1ZH7iJfW5GpAKAQTo_NL5PZ7&ab_channel=RonanAdrielZenatti)
 - [Introdução ao Ionic](https://www.youtube.com/watch?v=qr9jS-ZrWpo&list=PLfhMD9jnhSMny0jU_azpnLhvsPWsvRv0q&ab_channel=JulianaCristinadosSantos)
 - [Curso de Ionic 6 - Aula 01 - Aplicativos Android e IOS](https://www.youtube.com/watch?v=mMQbYiHy59Q&list=PLxNM4ef1BpxgBAqQsMHhwBH6EmwQOD7Rq&ab_channel=PortalHugoCursos)
 - [Curso - Desenvolvimento de apps com Ionic | 01 - Apresentação](https://www.youtube.com/watch?v=xABQOK5vFZQ&list=PLVG76XkqmT1-a738T809H1xPMONh910Dl&ab_channel=JardelGarcia)
@@ -2596,9 +2533,7 @@
 - [Ionic 5 Tutorial #1 - Welcome to Ionic 5 For Beginners](https://www.youtube.com/watch?v=PExk4luoBiE&list=PLQfqQHJBFM18zcPVbRUIuJYCnytKG4oSn&ab_channel=ZinoTrustAcademy)
 - [Ionic Tutorial #1 - Overview, installation and creating the project](https://www.youtube.com/watch?v=5Gj4Y8zvl-s&list=PLlyAM-8-I7S9iNcZRfP4SQJhm4Mw5q5ku&ab_channel=ITwithPauloAlves)
 - [ionic 4+: Search Bar - Módulos - Filtros](https://www.youtube.com/watch?v=T5pdU0s4J6w&list=PLWmEuj970qeGbjM8NU0kdmU7Iydve81gC&ab_channel=FernandoHerrera)
-- [Ionic Framework Tutorial 1: Create Mobile Apps Using Ionic (Intro)](https://www.youtube.com/watch?v=0jamhGf-8ww&list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5&ab_channel=codedamn)
 - [Ionic 6+ ALL IN 1 DELIVERY APP UI | EPISODE 01 - HOME SCREEN](https://www.youtube.com/watch?v=FOnsC9pXbqc&list=PLixvNT19uDK7pO5KLKqTFf7QxY2lgqN2L&ab_channel=CodingTechnyks)
-- [#1: Introduction - Ionic 5 / React / Firebase](https://www.youtube.com/watch?v=BX9bSrfwy7Y&list=PLYxzS__5yYQkxcATbHyMA6wfEinKL6jPD&ab_channel=codedamn)
 - [This app is amazing | App Review | Ionic, ReactJS, Flutter](https://www.youtube.com/watch?v=J8mSfAQvzJc&list=PLNFwX8PVq5q5K_ztYB5umsEu9p6SOQQSb&ab_channel=SimonGrimm)
 
 ## 🦦 Sites e cursos para aprender Jira
@@ -2625,7 +2560,6 @@
 - [Introdução a linguagem Rustlang | Aprenda Rust | 01](https://www.youtube.com/watch?v=zWXloY0sslE&ab_channel=BrunoRocha-CodeShow)
 - [Rust Lang (A Linguagem Mais AMADA de Todas) // Dicionário do Programador](https://www.youtube.com/watch?v=gA-hmH83XHc&ab_channel=C%C3%B3digoFonteTV)
 - [Curso rust [ 01 ] - instalação do rustup](https://www.youtube.com/watch?v=K6L43dl9frY&list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE&ab_channel=LinguagemRust)
-- [bem vindo ao curso em rust](https://www.youtube.com/watch?v=Hizsjpi66D8&list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf&ab_channel=Lanby%CE%BB)
 
 > Cursos para aprender Rust em Inglês
 
@@ -2634,7 +2568,6 @@
 - [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M&ab_channel=freeCodeCamp.org)
 - [Rust Programming Tutorial #1 - Hello World | Getting Started with Rust](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&ab_channel=dcode)
 - [Chapter 1 - Intro - Rust Crash Course](https://www.youtube.com/watch?v=ZxozvCT0oZw&list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS&ab_channel=VandadNahavandipoor)
-- [Learning Rust From Zero to Hero! - Episode 1](https://www.youtube.com/watch?v=tuRQ1URwvhI&list=PLhaAGnuDAW8TrWfGhWL26XDuHDf_O5bWv&ab_channel=BendotCodes)
 - [Learning Rust Together! Going through the Rust Programming book live!](https://www.youtube.com/watch?v=5QsEuoIt7JQ&list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6&ab_channel=TomMcGurl)
 - [50 Rust Projects - New Playlist Announcement](https://www.youtube.com/watch?v=qru3L4BvrOU&list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO&ab_channel=AkhilSharma)
 - [Best FREE Rust Learning Resources](https://www.youtube.com/watch?v=T4E8LSCFHu8&ab_channel=Let%27sGetRusty)
@@ -2658,7 +2591,6 @@
 - [Apache Spark Tutorial | Spark Tutorial For Beginners | Spark Scala Full Course | Intellipaat](https://www.youtube.com/watch?v=r83NhShrNdw&ab_channel=Intellipaat)
 - [Scala Crash Course by a Scala Veteran (with some JavaScript flavor)](https://www.youtube.com/watch?v=-xRfJcwhy7A&ab_channel=DevInsideYou)
 - [Why Scala? | An introduction by Adam Warski](https://www.youtube.com/watch?v=t7SOXNJVbJo&ab_channel=SoftwareMill)
-- [Scala Tutorial 1 Why Scala ( हिन्दी)](https://www.youtube.com/watch?v=xw9N8CQo5JI&list=PLgPJX9sVy92wUdX7uVMgEzREgJrXiRdUC&ab_channel=CSGeeks)
 - [Scala Tutorial Full Course](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko)
 - [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas)
 - [Scala 3 & Functional Programming Essentials Course: An Overview of Scala](https://www.youtube.com/watch?v=Rp2b7pgXxFY&ab_channel=RocktheJVM)
@@ -2684,7 +2616,6 @@
 - [Nuxt 3 Crash Course #1 - What is Nuxt?](https://www.youtube.com/watch?v=GBdO5myZNsQ&ab_channel=TheNetNinja)
 - [Nuxt 3 full course build and deploy | #Nuxtjs #vue #nuxt3](https://www.youtube.com/watch?v=5dQMQ1BwUyc&ab_channel=Bitfumes)
 - [Next.js Tutorial - 1 - Introduction](https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&ab_channel=Codevolution)
-- [Mastering Nuxt JS Course](https://www.youtube.com/watch?v=sS9pkLlZ96E&ab_channel=AcademiaDigital)
 - [The Nuxt 3 Crash Course](https://www.youtube.com/watch?v=dZC4T4UiU1c&ab_channel=LaithAcademy)
 - [Nuxt JS For Beginners! - What is Nuxt and how to use it!?](https://www.youtube.com/watch?v=CBwq_TUL5Fg&ab_channel=TylerPotts)
 - [Next.js 13 Crash Course | Learn How To Build Full Stack Apps!](https://www.youtube.com/watch?v=T63nY70eZF0&ab_channel=developedbyed)
@@ -2695,10 +2626,8 @@
 > Cursos para aprender Gulp em Português
 
 - [Gulp - Dicionário do Programador](https://www.youtube.com/watch?v=H_jbU5ClRgc&ab_channel=C%C3%B3digoFonteTV)
-- [Curso de GulpJS - Módulo I - Plugin Gulp Sass](https://www.youtube.com/watch?v=TEoqa9VSoXA&ab_channel=ProfessorChoren)
 - [Como Usar o Gulp JS - Tutorial de gulp completo](https://www.youtube.com/watch?v=QobWkb20UEQ&ab_channel=FeatureCode)
 - [Aula 01 - Curso de Gulp - Introdução](https://www.youtube.com/watch?v=9pZOL5_bTw4&list=PLWhiA_CuQkbD8BiFB0aGkwpqpGjvNM3zC&ab_channel=FilipeMorelliDeveloper)
-- [Curso de GulpJS - O que é o Gulp? Por que eu deveria utilizá-lo?](https://www.youtube.com/watch?v=LDLPBuGYoqo&ab_channel=ProfessorChoren)
 - [Aula 01 - Curso de Gulp - Introdução](https://www.youtube.com/watch?v=9pZOL5_bTw4&ab_channel=FilipeMorelliDeveloper)
 - [Usando Gulp em Arquivos Javascript // Mão no Código #2](https://www.youtube.com/watch?v=jsF1PeCxXqM&ab_channel=C%C3%B3digoFonteTV)
 - [Trabalhando com GULP | Torne-se um Programador](https://www.youtube.com/watch?v=2kdR2D8EEho&ab_channel=DaniloAparecido-Torne-seumprogramador)
@@ -2708,9 +2637,7 @@
 
 - [Browsersync + Sass + Gulp in 15 minutes](https://www.youtube.com/watch?v=q0E1hbcj-NI&ab_channel=CoderCoder)
 - [Gulp JS Crash Course](https://www.youtube.com/watch?v=1rw9MfIleEg&ab_channel=TraversyMedia)
-- [Curso de GulpJS - Módulo I - Plugin Gulp Sass](https://www.youtube.com/watch?v=TEoqa9VSoXA&ab_channel=ProfessorChoren)
 - [Gulp 4 Crash Course for Beginners](https://www.youtube.com/watch?v=-lG0kDeuSJk&ab_channel=CoderCoder)
-- [Gulp.js Crash Course](https://www.youtube.com/watch?v=JDXmbcNYdoU&ab_channel=BalboaCodes)
 - [Gulp from scratch: Intro - What the hell is Gulp?](https://www.youtube.com/watch?v=oRoy1fJbMls&list=PLriKzYyLb28lp0z-OMB5EYh0OHaKe91RV&ab_channel=AlessandroCastellani)
 - [Gulp from scratch: Intro - What the hell is Gulp?](https://www.youtube.com/watch?v=oRoy1fJbMls&ab_channel=AlessandroCastellani)
 - [Full beginner Gulp setup for SCSS, minifying Javascript, and minifying/webp images](https://www.youtube.com/watch?v=ubHwScDfRQA&ab_channel=CodinginPublic)
@@ -2729,7 +2656,6 @@
 - [CRIE UMA API COM NODE.JS EXPRESS MONGODB E MONGOOSE - API RESTFUL](https://www.youtube.com/watch?v=anMK76I2dUA&ab_channel=MatheusBattisti-HoradeCodar)
 - [MongoDB (O Banco de Dados NoSQL mais Legal) - Dicionário do Programador](https://www.youtube.com/watch?v=4dTI1mVLX3I&ab_channel=C%C3%B3digoFonteTV)
 - [Curso de MongoDB para iniciantes](https://www.youtube.com/watch?v=u3sVM3viDtQ&list=PLxuFqIk29JL0DMM0Z-S9_XEHAexXvhYyb&ab_channel=NatanielPaivaOficial)
-- [O que é Node.js? - Curso - Aula Grátis #01](https://www.youtube.com/watch?v=irrkH6VII78&list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V&ab_channel=LuizTools)
 - [Mongodb - Introdução](https://www.youtube.com/watch?v=3z90A7VBF4Y&list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS&ab_channel=Zurubabel)
 - [Introdução NoSQL e MongoDB](https://www.youtube.com/watch?v=kedLyo95fGU&list=PLyqlZW5s3wkoMhARQKp3s4YtaeKucb0Xj&ab_channel=RicardoLeme)
 
@@ -2740,10 +2666,8 @@
 - [Complete MongoDB Tutorial #1 - What is MongoDB?](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&ab_channel=TheNetNinja)
 - [MongoDB course 2022 | MongoDB tutorial](https://www.youtube.com/watch?v=9cWm74DteMQ&ab_channel=Bitfumes)
 - [MongoDB Tutorial | MongoDB Full Course | MongoDB | MongoDB Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=lBBtq3Oawqw&ab_channel=Simplilearn)
-- [Course Structure and Projects](https://www.youtube.com/watch?v=VI9TP-_7X1E&list=PLx6gGOAOEqGHqDaIjFhwnojD4Lhf4kU_N&ab_channel=ITServices%26Consulting)
 - [How to install MongoDB 6.0.3 on Windows 11 | Install MongoDB 6.0.3 & Mongo Shell | MongoDB Tutorial](https://www.youtube.com/watch?v=1y5sAnn0ans&list=PLSDyGb_vtanyZbsI9coZHdBNoD1ZVJn7E&ab_channel=CSCORNERSunitaRai)
 - [Diagnostic Thinking Course - MongoDB University](https://www.youtube.com/watch?v=9D900FFuivw&list=PL4RCxklHWZ9tDjU4TEEGof955v8JS0oet&ab_channel=MongoDB)
-- [Introduction to MongoDB | Fundamentals of MongoDB | Complete MongoDB Course 2022](https://www.youtube.com/watch?v=l7Psw5frLwk&list=PL1BztTYDF-QM6KSVfrbSyJNTU9inyBqYF&ab_channel=procademy)
 - [Complete MongoDB Tutorial #25 - MongoDB Atlas](https://www.youtube.com/watch?v=084rmLU1UgA&ab_channel=TheNetNinja)
 - [MongoDB Tutorial For Beginners #1 - Introduction](https://www.youtube.com/watch?v=Ya0H-7A5cE4&list=PLp50dWW_m40UWFSV6PTgYzciZJIxgHy7Q&ab_channel=ARCTutorials)
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE&ab_channel=TraversyMedia)
@@ -2781,7 +2705,6 @@
 - [GraphQL & Apollo server full course](https://www.youtube.com/watch?v=VaN6_yDTcNs&ab_channel=Bitfumes)
 - [GraphQL Crash course | easy way](https://www.youtube.com/watch?v=_Zss2Mbz4Bs&ab_channel=HiteshChoudhary)
 - [Spring Boot GraphQL Tutorial #1 - Introduction, Dependencies, IDE Setup](https://www.youtube.com/watch?v=nju6jFW8CVw&list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-5Wi&ab_channel=PhilipStarritt)
-- [The BEST GraphQL Course on Planet! | GraphQL for Beginners](https://www.youtube.com/watch?v=YJMSlR9z5Zw&ab_channel=codedamn)
 - [GraphQL Crash Course](https://www.youtube.com/watch?v=CFrKTrMJIBY&ab_channel=LaithAcademy)
 - [React With GraphQL (Apollo Client) Crash Course](https://www.youtube.com/watch?v=gAbIQx26wSI&ab_channel=LaithAcademy)
 
@@ -2890,7 +2813,6 @@
 - [Cloudways Tutorial (Move to Cloudways in 19 Minutes!) Setup, Migration, Domain, SSL & Free SMTP](https://www.youtube.com/watch?v=N7C9RR28Ggg&list=PLSk3zfDlC1f-r0dWcZHsWccaJ3CUhhylZ&ab_channel=IdeaSpot)
 - [WordPress Full Course in ONE VIDEO | ZERO to HERO | STEP BY STEP](https://www.youtube.com/watch?v=DcbPVzq8lHY&ab_channel=AzharulRafy)
 - [What is WordPress & CMS (Content Management System) | WordPress Tutorial #1](https://www.youtube.com/watch?v=-6q3Rt1MTtk&list=PLjVLYmrlmjGcXDYZC67Us13PBD-3us9jB&ab_channel=WsCubeTech)
-- [Week 01 | Lec 01 | Mentor Muhammad Kashif | WordPress full course | Digiskills](https://www.youtube.com/watch?v=7h_ETVuiSdY&list=PLuqUq6yfXlCGVBWbU_WyMQiLD72buRUvF&ab_channel=MissSkillie)
 - [Build a Website from Start to Finish using WordPress [Full Course]](https://www.youtube.com/watch?v=IPo71JPKUmg&ab_channel=freeCodeCamp.org)
 - [Become a WordPress Developer: Unlocking Power with Code](https://www.youtube.com/watch?v=FVqzKAUsM68&ab_channel=LearnWebCode)
 - [How To Build A Website with Wordpress in 2023 (Full Tutorial)](https://www.youtube.com/watch?v=AABmCvjd_iU&ab_channel=CharlieChang)
@@ -2911,15 +2833,12 @@
 
 > Cursos para aprender Docker em Inglês
 
-- [Runnable, Slash Docker](https://runnable.com/docker/)
 - [Docker, Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
 - [Online IT Guru, Docker Tutorial](https://onlineitguru.com/docker-training)
 - [Tutorials Point, Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm)
 - [Andrew Odewahn, Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/)
-- [Romin Irani, Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023?gi=4504494d886a)
 - [LearnDocker Online](https://learndocker.online/)
 - [Noureddin Sadawi, Docker Training](https://www.youtube.com/playlist?list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt)
-- [Learn2torials, Latest Docker Tutorials](https://learn2torials.com/category/docker)
 - [Docker Curriculum, Docker For Beginners](https://docker-curriculum.com/)
 - [Jake Wright, Learn Docker In 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24&ab_channel=JakeWright)
 - [Digital Ocean, How To Install And Use Docker](https://www.digitalocean.com/community/tutorial_collections/how-to-install-and-use-docker)
@@ -2929,7 +2848,6 @@
 - [Collabnix, The #1 Docker Tutorials, Docker Labs](https://dockerlabs.collabnix.com/)
 - [Servers For Hackers, Getting Started With Docker](https://serversforhackers.com/c/getting-started-with-docker)
 - [Dive Into Docker, The Complete Course](https://diveintodocker.com/)
-- [Hashnode, Docker Tutorial For Beginners](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)
 - [Docker Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
 - [Docker Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 - [Docker Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI&ab_channel=ProgrammingwithMosh)
@@ -3019,7 +2937,6 @@
 - [Full Laravel Restaurant Reservation Website | Laravel 9 Tutorial](https://www.youtube.com/watch?v=8KaBeq9JzrQ&ab_channel=Laraveller)
 - [Laravel API Server Full Course - Beginner to Intermediate](https://www.youtube.com/watch?v=_zNi37BJVBk&ab_channel=Acadea.io)
 - [Build and Deploy Laravel 9 Portfolio - For Beginners](https://www.youtube.com/watch?v=JNhmEoBsZ48&ab_channel=TheCodeholic)
-- [Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)](https://www.youtube.com/watch?v=BXiHvgrJfkg&ab_channel=Bitfumes)
 - [Laravel Crash Course](https://www.youtube.com/watch?v=MFh0Fd7BsjE&ab_channel=TraversyMedia)
 - [Laravel 8 tutorial - what is laravel | Introduction](https://www.youtube.com/watch?v=0urHFBFHsLc&list=PL8p2I9GklV46dciS4GDzBFHBi0JVIbnzT&ab_channel=CodeStepByStep)
 - [Laravel 9 Tutorial for Beginners | How to Learn Laravel 9 | Complete Laravel 9 Tutorial in 2022](https://www.youtube.com/watch?v=2mqsVzgsV_c&ab_channel=CodeWithDary)
@@ -3074,7 +2991,6 @@
 - [Google Cloud Platform Tutorial | Google Cloud Platform Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=vACTtmLWiQY&ab_channel=Simplilearn)
 - [Google Cloud Training | Google Cloud Platform Course | Google Cloud for Beginners | Intellipaat](https://www.youtube.com/watch?v=gud65lqebrc&ab_channel=Intellipaat)
 - [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=UGRDM86MBIQ&ab_channel=freeCodeCamp.org)
-- [Google Cloud Professional Data Engineer Certification Course](https://www.youtube.com/watch?v=rxUlmJpKY4Y&ab_channel=AlphaTutorials-Cloud)
 - [Google Cloud Platform Course | GCP Course | GCP Tutorial | GCP Training | Intellipaat](https://www.youtube.com/watch?v=rYJmMmpGhdg&ab_channel=Intellipaat)
 
 ## 🦆 Sites e cursos para aprender Azure
@@ -3210,7 +3126,6 @@
 
 - [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44&ab_channel=SethBling)
 - [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc&ab_channel=freeCodeCamp.org)
-- [The Best (Free) Machine Learning Courses Online!](https://www.youtube.com/watch?v=7t5MJ38NZ8E&ab_channel=CharlesWeill)
 - [Machine Learning for Everybody – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org)
 - [Best Machine Learning Courses on Coursera](https://www.youtube.com/watch?v=A4OVjWeVb10&ab_channel=AlexTheAnalyst)
 - [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA&ab_channel=freeCodeCamp.org)
@@ -3481,7 +3396,6 @@
 > Cursos para aprender Tailwind CSS em Português
 
 - [Curso gratuito Tailwind CSS #1 - Introdução e instalação](https://www.youtube.com/watch?v=1eLaBow7Zbo&list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u&ab_channel=TiagoMatos)
-- [Tailwind CSS - Curso rápido](https://www.youtube.com/watch?v=1qH3wAtX4So&ab_channel=RicardoSanches)
 - [Tailwind CSS // Dicionário do Programador](https://www.youtube.com/watch?v=i_EKstz3x04&ab_channel=C%C3%B3digoFonteTV)
 - [Como começar no Tailwind CSS 3.0?](https://www.youtube.com/watch?v=mK_19iqznc8&ab_channel=EmersonBr%C3%B4ga)
 - [Aprenda Tailwind CSS recriando a interface do Insta!](https://www.youtube.com/watch?v=48TaQMfD8fo&ab_channel=C%C3%B3digoEscola)
@@ -3527,13 +3441,11 @@
 
 - [Curso de Magento - Aula 1 – Introdução e Download](https://www.youtube.com/watch?v=iDl0IiJt7mQ&list=PLpEvhvupz-uQiY_aD5GGCChNLJMdZF4hS&ab_channel=iConectado-CursosOnline)
 - [Como Instalar o Magento 2 (Tutorial em Português)](https://www.youtube.com/watch?v=8jcy4YxaI5s&list=PLDwV4OI4NbD1abkoGuLFScvGBvgbHwihR&ab_channel=MestreMagento)
-- [Aula 1 - Magento 2 Curso de Desenvolvimento de Módulo](https://www.youtube.com/watch?v=MHFz2t1aVug&list=PLAB1CVlnN7Lv2nxe3JkVaGfKFOUfqyuuN&ab_channel=AbraaoMarques)
 - [Aula 01 - Cadastro de Categorias Magento 2](https://www.youtube.com/watch?v=qCgpHmeXadM&list=PL1KgCGp7BEH6T_91GdpjmZeIHN_pdr_MM&ab_channel=ECOM-DPlataformaparaLojasVirtuais)
 - [Curso de Magento - Aula 01 - Introdução ao Curso de Magento](https://www.youtube.com/watch?v=kK9D2wvv9jE&list=PLxNM4ef1Bpxi7fkqIK0RfY3bj-sTEFsDZ&ab_channel=PortalHugoCursos)
 
 > Cursos para aprender Magento em Inglês
 
-- [The complete Magento2 course](https://www.youtube.com/watch?v=zsasXJTbG5k&ab_channel=TechReview)
 - [Magento 2 Beginner Class, Lesson #1: Introduction to Magento 2](https://www.youtube.com/watch?v=u81X-sjgmQ0&list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&ab_channel=OSTraining)
 - [How to Setup Magento on Your Computer 01/10 | Magento 2 Tutorials for Beginners (2019) | MageCafe](https://www.youtube.com/watch?v=XwXWg5fU7tY&list=PLeoWPZvrjokdF3KGMiEFuLXLIu1l2xlvd&ab_channel=Codilar%7CMagentoDevelopmentCompanyIndia)
 - [Magento 2 Project Overview for Beginner Developers](https://www.youtube.com/watch?v=yT6CGzt6eLM&ab_channel=MaxPronko)
@@ -3588,7 +3500,6 @@
 - [212 Bash Scripting Examples](https://www.youtube.com/watch?v=q2z-MRoNbgM&ab_channel=linuxhint)
 - [Linux Bash for beginners 2022](https://www.youtube.com/watch?v=qALScO3E61I&ab_channel=GPS)
 - [Bash scripting tutorial for beginners](https://www.youtube.com/watch?v=9T2nEXlLy9o&ab_channel=FortifySolutions)
-- [Linux CLI Crash Course - Fundamentals of Bash Shell](https://www.youtube.com/watch?v=S99sQLravYo&ab_channel=codedamn)
 - [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
 - [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
 - [Bash Scripting | Complete Course](https://www.youtube.com/playlist?list=PLgmzaUQcOhaqQjXaqz7Ky5a_xj_8OlCK4)
