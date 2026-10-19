@@ -326,6 +326,7 @@
 - [4Devs](https://www.4devs.com.br/) - Ferramentas online gratuitas, geradores de cpf, conta bancária, pessoas, cnpj, cep, rg, validadores, encoders e muitas outras
 - [Any API](https://any-api.com/) - Diretório gratuito com APIs públicas
 - [Autoprefixer CSS](http://autoprefixer.github.io/) - Transpile código CSS atual para código CSS com maior cobertura de navegadores antigos
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) - Compare estruturas JSON e identifique valores adicionados, removidos ou alterados pelo caminho no navegador
 - [Browser diet](https://browserdiet.com/pt/) - Guia de performance para desenvolvimento web
 - [Can I email...](https://www.caniemail.com/) - Descubra o que do HTML e CSS pode ser usado em estruturas de e-mail
 - [Can I use...](https://caniuse.com/) - Descubra se você pode usar determinadas tecnologias web
