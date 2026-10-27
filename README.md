@@ -476,6 +476,7 @@
 - [Gravit Designer](https://www.designer.io) - Ferramenta de design online com suporte a ilustração vetorial
 - [Grid Layoutit](https://grid.layoutit.com/) - Gerador de grid para código CSS
 - [HTML DOM](https://htmldom.dev/) - Gerenciar o DOM HTML com JavaScript vanilla
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Compressor e conversor de imagens no navegador (PNG/JPG/HEIC/WebP/AVIF); processamento local
 - [Interfacer](https://interfacer.xyz/) - Recursos para criação de interfaces
 - [Interfaces.pro](https://interfaces.pro/) - Inspiração para interfaces
 - [Invision](https://www.invisionapp.com/) - Software de design para projetos
