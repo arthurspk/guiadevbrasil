@@ -198,7 +198,7 @@
 - [Linguee](https://www.linguee.com.br/ingles-portugues/traducao/translate.html)
 - [DeepL](https://www.deepl.com/pt-BR/translator)
 - [Reverso](https://context.reverso.net/traducao/ingles-portugues/translate)
-- [HumanPen](https://humanpen.net/translate) - Tradu??o de documentos para portugu?s e outros idiomas; servi?o por cr?ditos.
+- [HumanPen](https://humanpen.net/translate) - Tradução de documentos para português e outros idiomas; serviço por créditos.
 
 ## 👨‍🏫 Sites para estudar programação
 
