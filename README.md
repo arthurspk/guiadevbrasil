@@ -397,6 +397,7 @@
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 - [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos
 - [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação
+- [SerialSpan](https://github.com/eleree/SerialSpan) - Ferramenta auto-hospedada no navegador para monitorar e compartilhar a porta serial de dispositivos embarcados entre computadores, com acesso remoto aprovado pelo host e retransmissão pelo servidor quando a conexão direta não está disponível. A interface está em inglês e chinês.
 
 ## 🗂 Gerenciamento de projetos
 
